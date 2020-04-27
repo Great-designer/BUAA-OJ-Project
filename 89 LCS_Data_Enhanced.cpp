@@ -1,189 +1,104 @@
+#include<stdio.h>
 #include<string.h>
+#include<math.h>
 
-#include<iostream>
-#include<algorithm>
+#include<string>
 #include<set>
-#include<vector>
 
 using namespace std;
 
-char A[1010],B[1010];
+char A[110],B[110];
+char tmp[110];
 int n,m;
-
-int dp[1010][1010];
-int from[1010][1010];
-
+int dp[110][110];
+int lasta[110][27];
+int lastb[110][27];
 int targetLen;
 set<string> ans;
 
-struct element
-{
-	int LCSLen;
-	int indexA;
-	int indexB;
-};
-
-vector<struct element> store,print;
-
-void eraseDP()
+void init()
 {
 	memset(dp,0,sizeof(dp));
-	memset(dp,0,sizeof(from));
+	memset(lasta,0,sizeof(lasta));
+	memset(lastb,0,sizeof(lastb));
+	memset(tmp,0,sizeof(tmp));
 	ans.clear();
-	store.clear();
-	print.clear();
 }
 
 void buildDP()
 {
 	int i;
-	for(i=1;i<=n;++i)
+	for(i = 1; i <= n; ++i)
 	{
 		int j;
-		for(j=1;j<=m;++j)
+		for(j = 1; j <= m; ++j)
 		{
 			if(A[i]==B[j])
 			{
-				dp[i][j]=dp[i-1][j-1]+1;
-				from[i][j]=1;
-			}
-			else if(dp[i-1][j]>dp[i][j-1])
-			{
-				dp[i][j]=dp[i-1][j];
-				from[i][j]=2;
-			}
-			else if(dp[i-1][j]<dp[i][j-1])
-			{
-				dp[i][j]=dp[i][j-1];
-				from[i][j]=3;
+				dp[i][j]=dp[i][j]>(dp[i-1][j-1]+1)?dp[i][j]:(dp[i-1][j-1]+1);
 			}
 			else
 			{
-				dp[i][j]=dp[i][j-1];
-				from[i][j]=4;
+				dp[i][j]=dp[i-1][j]>dp[i][j-1]?dp[i-1][j]:dp[i][j-1];
 			}
 		}
 	}
 	targetLen=dp[n][m];
 }
 
-void pushToAns()
+void buildLast()
 {
-	vector<struct element>::iterator it=print.end();
-	string s="";
-	for(--it;it>=print.begin();--it)
+	int i;
+	for(i = 1; i <= n; ++i)
 	{
-		if((*it).indexA<=n)
+		int j;
+		for(j = 0; j < 26; ++j)
 		{
-			s+=A[(*it).indexA];
-		}
-		else
-		{
-			break;
-		}
-	}
-	ans.insert(s);
-}
-
-void popPrintbyLCS()
-{
-	int targetLCS=store.back().LCSLen;
-	while(!print.empty())
-	{
-		if(print.back().LCSLen<=targetLCS)
-		{
-			print.erase(print.end()-1);
-		}
-		else
-		{
-			break;
-		}
-	}
-}
-
-void searchNext(int indexA,int indexB,int* x,int* y,int type)
-{
-	while(1)
-	{
-		if(from[indexA][indexB]==1)
-		{
-			*x=indexA;
-			*y=indexB;
-			break;
-		}
-		else if(from[indexA][indexB]==2)
-		{
-			--indexA;
-		}
-		else if(from[indexA][indexB]==3)
-		{
-			--indexB;
-		}
-		else
-		{
-			if(type==0)
+			if(A[i] == 'A' + j)
 			{
-				--indexA;
+				lasta[i][j] = i;
 			}
 			else
 			{
-				--indexB;
+				lasta[i][j] = lasta[i - 1][j];
+			}
+		}
+	}
+	for(i = 1; i <= m; ++i)
+	{
+		int j;
+		for(j = 0; j < 26; ++j)
+		{
+			if (B[i] == 'A' + j)
+			{
+				lastb[i][j] = i;
+			}
+			else
+			{
+				lastb[i][j] = lastb[i - 1][j];
 			}
 		}
 	}
 }
 
-void search()
+void dfs(int i, int j, int len)
 {
-	struct element storeTop;
-	int x1,y1,x2,y2;
-	struct element tmp;
-	tmp.LCSLen=targetLen+1;
-	tmp.indexA=n+1;
-	tmp.indexB=m+1;
-	store.push_back(tmp);
-	while(!store.empty())
+	if(len <= 0)
 	{
-		storeTop=store.back();
-		store.erase(store.end()-1);
-		if(storeTop.indexA==1||storeTop.indexB==1)
+		ans.insert(string(tmp + 1));
+		return;
+	}
+	if(i > 0 && j > 0)
+	{
+		int k;
+		for(k = 0; k < 26; ++k)
 		{
-			print.push_back(storeTop);
-			pushToAns();
-			if(!store.empty())
+			int t1 = lasta[i][k];
+			int t2 = lastb[j][k];
+			if (dp[t1][t2] == len)
 			{
-				popPrintbyLCS();
-			}
-		}
-		else
-		{
-			print.push_back(storeTop);
-			searchNext(storeTop.indexA-1,storeTop.indexB-1,&x1,&y1,0);
-			searchNext(storeTop.indexA-1,storeTop.indexB-1,&x2,&y2,1);
-			if(x1==x2&&y1==y2)
-			{
-				tmp.LCSLen=dp[x1][y1];
-				tmp.indexA=x1;
-				tmp.indexB=y1;
-				store.push_back(tmp);
-			}
-			else
-			{
-				int i;
-				for(i=y2;i<=y1;++i)
-				{
-					int j;
-					for(j=x1;j<=x2;++j)
-					{
-						if(from[i][j]==1)
-						{
-							tmp.LCSLen=dp[i][j];
-							tmp.indexA=i;
-							tmp.indexB=j;
-							store.push_back(tmp);
-						}
-					}
-				}
+				tmp[len] = 'A' + k;
+				dfs(t1 - 1, t2 - 1, len - 1);
 			}
 		}
 	}
@@ -191,65 +106,24 @@ void search()
 
 void printAns()
 {
-	set<string>::iterator s;
-	for(s=ans.begin();s!=ans.end();s++)
+	set<string>::iterator it;
+	for(it=ans.begin();it!=ans.end();++it)
 	{
-		cout << *s << endl;
+		puts((*it).c_str());
 	}
 }
-
-void dfs(int i,int j,string s)
-{
-	if(i<=0||j<=0)
-	{
-		return;
-	}
-	if(A[i]==B[j])
-	{
-		s.push_back(A[i]);
-		if(s.length()==targetLen)
-		{
-			reverse(s.begin(),s.end());
-			ans.insert(s);
-		}
-		else
-		{
-			dfs(i-1,j-1,s);
-		}
-	}
-	else
-	{
-		if(dp[i-1][j]>=dp[i][j-1])
-		{
-			dfs(i-1,j,s);
-		}
-		if(dp[i-1][j]<=dp[i][j-1])
-		{
-			dfs(i,j-1,s);
-		}
-	}
-}
-
-int cnt;
 
 int main()
 {
 	while(~scanf("%s%s",A+1,B+1))
 	{
-		++cnt;
+		init();
 		n=strlen(A+1);
 		m=strlen(B+1);
-		eraseDP();
 		buildDP();
-		if(cnt==1&&B[1]=='A')
-		{
-			search();
-		}
-		else
-		{
-			dfs(n,m,"");
-		}
+		buildLast();
+		tmp[targetLen+1]='\0';
+		dfs(n,m,targetLen);
 		printAns();
 	}
-	return 0;
 }
