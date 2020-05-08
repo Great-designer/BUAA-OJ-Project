@@ -27,4 +27,16 @@ BUAAOJ通关代码标程备份库
 
 144	出口胡萝卜 149	jhljx找耳朵 152	jhljx面向对象 153	cool_breeze的数组
 
+156	说好的XihangTooWhite 157	marakumo 158	区间排序 159	So 2
+
+160	防御塔的搭建 161	Lost in maze 162	防御塔的完善 163	Archaeology-Guatemala
+
+164	Ryan's Life Game 165	电话费
+
+169	元素查找 170	黑白棋I 171	成绩统计III 172	水水的矩阵翻转
+
+175	成绩统计II 176	jhljx学字符串 177	Taylor
+
+178	jhljx走迷宫 179	这货不是二分 180	签到 181	俯瞰风景
+
 
