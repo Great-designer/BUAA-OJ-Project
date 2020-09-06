@@ -1,24 +1,26 @@
 #include<stdio.h>
-int n, det, num, Min;
+
+int n,det,num,Min;
+
 int main()
 {    
 	while(~scanf("%d",&n))
 	{        
-		det = -1;        
-		Min = 1000007;
-		while (n--)
+		det=-1;        
+		Min=1000007;
+		while(n--)
 		{
 			scanf("%d",&num);
-			if (num <= Min)
+			if(num<=Min)
 			{
-				Min = num;
+				Min=num;
 			}
 			else
 			{
-				det =(det>(num - Min)?det:(num - Min));
+				det=(det>(num-Min)?det:(num-Min));
 			}
 		}
-		if(det < 0)
+		if(det<0)
 		{
 			printf("No solution\n");
 		}
