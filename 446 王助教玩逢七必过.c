@@ -12,6 +12,7 @@ char get7(long long num)
     }
     return 0;
 }
+
 int main()
 {
     int n,i;

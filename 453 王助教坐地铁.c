@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+
 int main()
 {
     int n=1,x,l,ll=0,flag=1;

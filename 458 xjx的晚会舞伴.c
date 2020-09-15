@@ -1,10 +1,11 @@
 #include<stdio.h>
 
 int i,n,a[1050],Left,Right;
+
 int main()
 {
 	scanf("%d",&n);
-    for(i=1; i<n;i++)
+    for(i=1;i<n;i++)
 	{
 		scanf("%d",&a[i]);
 	}
