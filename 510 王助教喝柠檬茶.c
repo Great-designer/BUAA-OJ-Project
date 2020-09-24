@@ -14,66 +14,66 @@ int compare(const void*a,const void*b)
 
 int main()
 {
-	scanf("%d%d%d", &n, &v, &m);
+	scanf("%d%d%d",&n,&v,&m);
 	int i;
-	for(i = 1; i <= n; ++i)
+	for(i=1;i<=n;++i)
 	{ 
-		scanf("%d", a + i);
-	} 
+		scanf("%d",a+i);
+	}
 	qsort(a+1,n,sizeof(int),compare);
-	for(i = 1; i <= n; ++i)
-	{ 
-		lessrequest[a[i]] = i * v;
-	} 
-	if (m == 0)
+	for(i=1;i<=n;++i)
 	{
-		printf("0 %d\n", n * v);
+		lessrequest[a[i]]=i*v;
+	} 
+	if(m==0)
+	{
+		printf("0 %d\n",n*v);
 		return 0;
 	}
-	int cur = 1 + lessrequest[0], Index = 1;
-	while (cur <= n * v)
+	int cur=1+lessrequest[0],Index=1;
+	while(cur<=n*v)
 	{
-		if (!lessrequest[Index])
+		if(!lessrequest[Index])
 		{
-			lessrequest[Index] = cur; 
-		} 
+			lessrequest[Index]=cur; 
+		}
 		else
-		{ 
-			if (lessrequest[Index] >= cur)
+		{
+			if(lessrequest[Index]>=cur)
 			{
-				cur = lessrequest[Index];
-			} 
+				cur=lessrequest[Index];
+			}
 			else
 			{
-				lessrequest[Index] = cur + 1;
-			} 
+				lessrequest[Index]=cur+1;
+			}
 		}
 		cur++;
 		Index++;
 	}
-	int lim = Index - 1;
-	if (lim == 0)
+	int lim=Index-1;
+	if(lim==0)
 	{
-		printf("0 %d\n", n * v);
+		printf("0 %d\n",n*v);
 		return 0;
 	}
-	loss += lessrequest[0];
-	for(i = 1; i <= lim; ++i)
+	loss+=lessrequest[0];
+	for(i=1;i<=lim;++i)
 	{
-		maxrequest[i] = m * i + loss;
+		maxrequest[i]=m*i+loss;
 	}
-	for(i = 1; i <= lim; ++i)
+	for(i=1;i<=lim;++i)
 	{
-		if (lessrequest[i] > maxrequest[i])
+		if(lessrequest[i]>maxrequest[i])
 		{
-			int tmp = lessrequest[i] - maxrequest[i];
-			loss += tmp;
+			int tmp=lessrequest[i]-maxrequest[i];
+			loss+=tmp;
 			int j;
-			for(j = i + 1; j <= lim; ++j)
+			for(j=i+1;j<=lim;++j)
 			{
-				maxrequest[j] += tmp;
+				maxrequest[j]+=tmp;
 			}
 		}
 	}
-	printf("%d %d\n", lim, loss);
+	printf("%d %d\n",lim,loss);
 }
