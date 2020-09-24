@@ -7,7 +7,9 @@ BUAAOJ通关代码标程备份库
 
 重复三遍：只接收AC代码！只接收AC代码！只接收AC代码！（WA、TLE、RE、CE、OE、MLE和PE等等快离开）
 
-友情链接：https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA，来自一位6系学长的亲切问候。
+友情链接：https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA
+
+——来自一位6系学长的亲切问候。
 
 学长的代码库（全C++）比我这里的要全一些。如果您在此处的代码库没有找到想要的题目答案，可以去他那里逛逛。
 
