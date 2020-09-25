@@ -3,6 +3,7 @@
 
 int n,m,vis[505];
 int a[105];
+
 int main()
 {
 	int t;
