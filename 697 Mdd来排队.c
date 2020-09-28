@@ -22,32 +22,33 @@ struct student male[10010],female[10010];
 
 int main()
 {
-	while(~scanf("%d", &n))
+	while(~scanf("%d",&n))
 	{
 		int i;
-		for(i = 1; i <= n; ++i)
+		for(i=1;i<=n;++i)
 		{
-			scanf("%lf%lf", &female[i].height, &male[i].height);
-			female[i].number = i, male[i].number = i;
+			scanf("%lf%lf",&female[i].height,&male[i].height);
+			female[i].number=i;
+			male[i].number=i;
 		}
-		qsort(female + 1,n,sizeof(struct student),compare);
-		qsort(male + 1,n,sizeof(struct student),compare);
-		for(i = 1; i <= n; ++i)
+		qsort(female+1,n,sizeof(struct student),compare);
+		qsort(male+1,n,sizeof(struct student),compare);
+		for(i=1;i<=n;++i)
 		{
-			pos[male[i].number] = i;
+			pos[male[i].number]=i;
 		}
-		for(i = 1; i <= n; ++i)
+		for(i=1;i<=n;++i)
 		{
-			printf("%d ", pos[female[i].number]);
+			printf("%d ",pos[female[i].number]);
 		}
 		puts("");
-		for(i = 1; i <= n; ++i)
+		for(i=1;i<=n;++i)
 		{
-			pos[female[i].number] = i;
+			pos[female[i].number]=i;
 		}
-		for(i = 1; i <= n; ++i)
+		for(i=1;i<=n;++i)
 		{
-			printf("%d ", pos[male[i].number]);
+			printf("%d ",pos[male[i].number]);
 		}
 		puts("");
 	}

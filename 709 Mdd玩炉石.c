@@ -45,7 +45,9 @@ struct node *reverse(struct node *head,int n)
 	c=head;
 	int counter=1;
 	if(n>length)
-	return head;
+	{
+		return head;
+	}
 	int cnt=length/n;
 	int a=0;
 	int i;
@@ -66,7 +68,9 @@ struct node *reverse(struct node *head,int n)
 		}
 		p=q;
 		if(q==NULL||q->next==NULL||q->next==NULL)
-		break;
+		{
+			break;
+		}
 		q=q->next;
 		r=q->next;
 		s=q;

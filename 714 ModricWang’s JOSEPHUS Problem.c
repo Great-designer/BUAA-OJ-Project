@@ -2,21 +2,21 @@
 
 int n,m;
 
-int cir(int n, int m)
+int cir(int n,int m)
 {
-	int p = 0;
+	int p=0;
 	int i;
-	for(i = 2; i <= n; i++)
+	for(i=2;i<=n;i++)
 	{
-		p = (p + m) % i;
+		p=(p+m)%i;
 	}
-	return p + 1;
+	return p+1;
 }
 
 int main()
 {
-	while(~scanf("%d%d%d", &n, &m))
+	while(~scanf("%d%d%d",&n,&m))
 	{
-		printf("%d\n",cir(n, m));
+		printf("%d\n",cir(n,m));
 	}
 }
