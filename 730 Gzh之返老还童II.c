@@ -19,7 +19,10 @@ int main()
 			int k;
 			for(k=0;k<digitNow;k++)
 			{
-				if(rowNow[numPerRow-k-1]!='i') break;
+				if(rowNow[numPerRow-k-1]!='i')
+				{
+					break;
+				}
 			}
 			int flag;
 			if(k==digitNow)
@@ -29,8 +32,14 @@ int main()
 			}
 			numPerRow+=digitNow;
 			int c=0;
-			if(rowNow[numPerRow-digitNow-1]=='*') rowNow[numPerRow-1]='a';
-			else rowNow[numPerRow-1]=rowNow[numPerRow-digitNow-1]+1;
+			if(rowNow[numPerRow-digitNow-1]=='*')
+			{
+				rowNow[numPerRow-1]='a';
+			}
+			else
+			{
+				rowNow[numPerRow-1]=rowNow[numPerRow-digitNow-1]+1;
+			}
 			int j;
 			for(j=0;j<digitNow;j++)
 			{
@@ -41,7 +50,10 @@ int main()
 				}
 				else
 				{
-					if(j==0) continue;
+					if(j==0)
+					{
+						continue;
+					}
 					rowNow[numPerRow-1-j]=c+rowNow[numPerRow-digitNow-1-j];
 					if(rowNow[numPerRow-1-j]=='*'+1)
 					{
@@ -53,7 +65,10 @@ int main()
 						rowNow[numPerRow-1-j]='*';
 						c=1;
 					}
-					else c=0;
+					else
+					{
+						c=0;
+					}
 				}
 			}
 			if(flag==1)

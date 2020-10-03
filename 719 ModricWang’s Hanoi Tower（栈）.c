@@ -41,7 +41,7 @@ int main()
 	b.name='B';
 	c.name='C';
 	int n;
-	while(~scanf("%d", &n))
+	while(~scanf("%d",&n))
 	{
 		c.top=0;
 		int i;

@@ -10,32 +10,32 @@ void write(unsigned long long st)
 	{
 		write(st/10);
 	}
-	putchar(st % 10 + 48);
+	putchar(st%10+48);
 }
 
 unsigned long long read()
 {
-	unsigned long long k = 0;
-	char c = getchar();
-	while (c < '0' || c>'9')
+	unsigned long long k=0;
+	char c=getchar();
+	while(c<'0'||c>'9')
 	{
-		c = getchar();
+		c=getchar();
 	}
-	while (c >= '0' && c <= '9')
+	while(c>='0'&&c<='9')
 	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
+		k=(k<<1)+(k<<3)+c-48;
+		c=getchar();
 	}
 	return k;
 }
 
 int main()
 {
-	unsigned long long n = read();
+	unsigned long long n=read();
 	int i;
 	for(i=1;i<=n;++i)
 	{
-		unsigned long long a = read();
+		unsigned long long a=read();
 		bucket[a]++;
 	}
 	for(i=1;i<100010;++i)
@@ -47,10 +47,10 @@ int main()
 			rear1++;
 		}
 	}
-	unsigned long long ans = 0;
+	unsigned long long ans=0;
 	for(i=1;i<n;++i)
 	{
-		unsigned long long x, y;
+		unsigned long long x,y;
 		if(front2==rear2||(q1[front1]<q2[front2]&&front1!=rear1))
 		{
 			x=q1[front1];

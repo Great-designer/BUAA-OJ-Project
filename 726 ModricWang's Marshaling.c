@@ -11,39 +11,39 @@ int curMax;
 
 int main()
 {
-	scanf("%d", &n);
-	flag = 1;
+	scanf("%d",&n);
+	flag=1;
 	int i;
-	for(i = 1; i <= n; ++i)
+	for(i=1;i<=n;++i)
 	{
-		scanf("%d", &input);
+		scanf("%d",&input);
 		if(!flag)
 		{
 			continue;
 		}
-		if(input > curMax)
+		if(input>curMax)
 		{
 			int j;
-			for(j = curMax + 1; j <= input; ++j)
+			for(j=curMax+1;j<=input;++j)
 			{
 				s[top]=j;
 				top++;
 				putchar('A');
 			}
-			curMax = input;
+			curMax=input;
 			top--;
 			putchar('B');
 		}
 		else
 		{
-			if (input == s[top-1])
+			if(input==s[top-1])
 			{
 				top--;
 				putchar('B');
 			}
 			else
 			{
-				flag = 0;
+				flag=0;
 			}
 		}
 	}
