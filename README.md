@@ -28,8 +28,6 @@ BUAAOJ通关代码标程备份库
 
 以下是缺失题目列表。缺失题目列表仅涵盖了截至900缺失的内容，后面还有许多缺失，暂时懒得统计了。
 
-144 出口胡萝卜 149	jhljx找耳朵 152 jhljx面向对象 153 cool_breeze的数组
-
 156 说好的XihangTooWhite 157 marakumo 158 区间排序
 
 159 So 2 160 防御塔的搭建 161 Lost in maze
