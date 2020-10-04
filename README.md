@@ -28,9 +28,7 @@ BUAAOJ通关代码标程备份库
 
 以下是缺失题目列表。缺失题目列表仅涵盖了截至900缺失的内容，后面还有许多缺失，暂时懒得统计了。
 
-156 说好的XihangTooWhite 157 marakumo 158 区间排序
-
-159 So 2 160 防御塔的搭建 161 Lost in maze
+158 区间排序 159 So 2 160 防御塔的搭建 161 Lost in maze
 
 162 防御塔的完善 163 Archaeology-Guatemala 164 Ryan's Life Game
 
