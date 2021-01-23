@@ -2,7 +2,7 @@
 
 long long fac[100010],ifac[100010];
 
-long long C(int n, int m)
+long long C(int n,int m)
 {
     if(m>n)
 	{

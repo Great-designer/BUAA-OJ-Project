@@ -4,8 +4,8 @@
 
 struct Tree
 {
-int value;
-int lchild, rchild, parent;
+	int value;
+	int lchild,rchild,parent;
 };
 
 struct Tree tree[100010];
@@ -30,7 +30,7 @@ void inorderiteration()
 		else
 		{
 			cur=s[top-1];
-			printf("%d ", tree[cur].value);
+			printf("%d ",tree[cur].value);
 			top--;
 			cur=tree[cur].rchild;
 		}
@@ -40,17 +40,23 @@ void inorderiteration()
 int main()
 {
 	int n;
-	while(~scanf("%d", &n))
+	while(~scanf("%d",&n))
 	{
-		tree[++Size].value = n;
-		tree[Size].lchild = tree[Size].rchild = 0;
-		tree[Size].parent = Size >> 1;
+		tree[++Size].value=n;
+		tree[Size].lchild=tree[Size].rchild=0;
+		tree[Size].parent=Size>>1;
 	}
 	int i;
-	for(i = 1; i <= Size; ++i)
+	for(i=1;i<=Size;++i)
 	{
-		if ((i << 1) <= Size)tree[i].lchild = i << 1;
-		if (((i << 1) + 1) <= Size)tree[i].rchild = (i << 1) + 1;
+		if((i<<1)<=Size)
+		{
+			tree[i].lchild=i<<1;
+		}
+		if(((i<<1)+1)<=Size)
+		{
+			tree[i].rchild=(i<<1)+1;
+		}
 	}
 	inorderiteration();
 }
