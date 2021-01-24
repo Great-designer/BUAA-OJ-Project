@@ -8,13 +8,6 @@ struct Text
 	char occur[150];
 	int weight[150];
 	int size;
-//	int read()
-//	{
-//		return scanf("%s", input);
-//	}
-
-
-
 };
 
 void initText(struct Text *a)
