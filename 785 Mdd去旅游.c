@@ -6,7 +6,7 @@ int f[105];
 
 int getFather(int x)
 {
-	return f[x] == x ? x :(f[x] = getFather(f[x]));
+	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
 
 int n,m;
@@ -17,22 +17,24 @@ int main()
 	while(~scanf("%d%d",&n,&m))
 	{
 		int i;
-		for(i = 0; i < n; ++i)
+		for(i=0;i<n;++i)
 		{
-			f[i] = i;
+			f[i]=i;
 		}
-		while (m--)
+		while(m--)
 		{
 			scanf("%d%d",&u,&v);
-			int a = getFather(u);
-			int b = getFather(v);
-			if (a != b)
-			f[a] = b;
+			int a=getFather(u);
+			int b=getFather(v);
+			if(a!=b)
+			{
+				f[a]=b;
+			}
 		}
-		int res = 0;
-		for(i = 0; i < n; ++i)
+		int res=0;
+		for(i=0;i<n;++i)
 		{
-			if (f[i] == i)
+			if(f[i]==i)
 			{
 				res++;
 			}

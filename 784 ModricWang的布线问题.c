@@ -4,7 +4,7 @@
 
 struct edge
 {
-	int u, v;
+	int u,v;
 	int w;
 };
 
@@ -18,76 +18,82 @@ int compare(const void*p1,const void*p2)
 struct edge edges[600100];
 
 int f[10100];
-int n, m;
-int p, q;
+int n,m;
+int p,q;
 int cnt;
 long long res;
 
 void initFather()
 {
 	int i; 
-	for(i = 1; i <= n; ++i)
+	for(i=1;i<=n;++i)
 	{
-		f[i] = i;
+		f[i]=i;
 	}
 }
 
 int getFather(int x)
 {
-	return f[x] == x ? x :(f[x] = getFather(f[x]));
+	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
 
 void write(long long x)
 {
-	if (x > 9)write(x / 10);
-	putchar(x % 10 + 48);
+	if(x>9)
+	{
+		write(x/10);
+	}
+	putchar(x%10+48);
 }
 
 int read()
 {
-	int k = 0;
-	char c = getchar();
-	while (c < '0' || c>'9')
+	int k=0;
+	char c=getchar();
+	while(c<'0'||c>'9')
 	{
-		c = getchar();
+		c=getchar();
 	}
-	while (c >= '0' && c <= '9')
+	while(c>='0'&&c<='9')
 	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
+		k=(k<<1)+(k<<3)+c-48;
+		c=getchar();
 	}
 	return k;
 }
 
 void kruskal()
 {
-	cnt = 0, res = 0;
+	cnt=0,res=0;
 	int i;
-	for(i = 0; i < m; ++i)
+	for(i=0;i<m;++i)
 	{
-		p = getFather(edges[i].u);
-		q = getFather(edges[i].v);
-		if (p != q)
+		p=getFather(edges[i].u);
+		q=getFather(edges[i].v);
+		if(p!=q)
 		{
-			f[p] = q;
-			res += edges[i].w;
+			f[p]=q;
+			res+=edges[i].w;
 			cnt++;
 		}
-		if (cnt == n - 1)break;
+		if(cnt==n-1)
+		{
+			break;
+		}
 	}
 }
 
 int main()
 {
-	while(~scanf("%d%d", &n, &m))
+	while(~scanf("%d%d",&n,&m))
 	{
 		initFather();
 		int i;
-		for(i = 0; i < m; ++i)
+		for(i=0;i<m;++i)
 		{
-			edges[i].u = read();
-			edges[i].v = read();
-			edges[i].w = read();
+			edges[i].u=read();
+			edges[i].v=read();
+			edges[i].w=read();
 		}
 		qsort(edges,m,sizeof(struct edge),compare);
 		kruskal();
