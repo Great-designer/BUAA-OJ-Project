@@ -4,7 +4,7 @@
 struct Tree
 {
 	char value;
-	struct Tree* lchild, * rchild;
+	struct Tree *lchild,*rchild;
 };
 
 char input[1010];
@@ -14,41 +14,58 @@ int n;
 void createBinTree(struct Tree **t)
 {
 	++index;
-	if (input[index] == '\0')return;
-	if (input[index] != '#')
+	if(input[index]=='\0')
+	{
+		return;
+	}
+	if(input[index]!='#')
 	{
 		(*t)=(struct Tree*)malloc(sizeof(struct Tree));
-		(*t)->value = input[index];
+		(*t)->value=input[index];
 		createBinTree(&(*t)->lchild);
 		createBinTree(&(*t)->rchild);
 	}
-	else (*t)= NULL;
+	else
+	{
+		(*t)=NULL;
+	}
 }
 
-int ans, cnt;
+int ans,cnt;
 double res;
 
-void dfs(struct Tree* t, int dis)
+void dfs(struct Tree *t,int dis)
 {
-	ans += dis; ++cnt;
-	if (t->lchild)dfs(t->lchild, dis + 1);
-	if (t->rchild)dfs(t->rchild, dis + 1);
+	ans+=dis;
+	++cnt;
+	if(t->lchild)
+	{
+		dfs(t->lchild,dis+1);
+	}
+	if(t->rchild)
+	{
+		dfs(t->rchild,dis+1);
+	}
 }
 
-struct Tree* root;
+struct Tree *root;
 
 int main()
 {
-	while (scanf("%s", input + 1) != EOF)
+	while(~scanf("%s",input+1))
 	{
-		ans = cnt = 0;
-		index = 0;
+		ans=cnt=0;
+		index=0;
 		createBinTree(&root);
-		if (root == NULL)puts("0.00");
+		if(root==NULL)
+		{
+			puts("0.00");
+		}
 		else
 		{
-			dfs(root, 1); res = ans * 1.0 / cnt;
-			printf("%.2lf\n", res);
+			dfs(root,1);
+			res=ans*1.0/cnt;
+			printf("%.2lf\n",res);
 		}
 	}
 }
