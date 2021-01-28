@@ -6,43 +6,63 @@ int k;
 
 int read()
 {
-	int k = 0, f = 1;
-	char c = getchar();
-	while (c < '0' || c>'9')
+	int k=0,f=1;
+	char c=getchar();
+	while(c<'0'||c>'9')
 	{
-		if (c == '-')f = -1;
-		c = getchar();
+		if(c=='-')
+		{
+			f=-1;
+		}
+		c=getchar();
 	}
-	while (c >= '0' && c <= '9')
+	while(c>='0'&&c<='9')
 	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
+		k=(k<<1)+(k<<3)+c-48;
+		c=getchar();
 	}
-	return k * f;
+	return k*f;
 }
 
 int Bsearch(int k)
 {
-	if (!n)return -1;
-	if (n == 1)return a[0] == k ? 0 : -1;
-	int lo = 0, hi = n - 1, mi;
-	while (lo <= hi)
+	if(!n)
 	{
-		mi = (lo + hi) >> 1;
-		if (k == a[mi])return mi;
-		if (a[0] <= a[mi])
+		return -1;
+	}
+	if(n==1)
+	{
+		return a[0]==k?0:-1;
+	}
+	int lo=0,hi=n-1,mi;
+	while(lo<=hi)
+	{
+		mi=(lo+hi)>>1;
+		if(k==a[mi])
 		{
-			if (a[0] <= k && k < a[mi])
-				hi = mi - 1;
+			return mi;
+		}
+		if(a[0]<=a[mi])
+		{
+			if(a[0]<=k&&k<a[mi])
+			{
+				hi=mi-1;
+			}	
 			else
-				lo = mi + 1;
+			{
+				lo=mi+1;
+			}
 		}
 		else
 		{
-			if (a[mi] < k && k <= a[n - 1])
-				lo = mi + 1;
+			if(a[mi]<k&&k<=a[n-1])
+			{
+				lo=mi+1;
+			}
 			else
-				hi = mi - 1;
+			{
+				hi=mi-1;
+			}
 		}
 	}
 	return -1;
@@ -50,13 +70,16 @@ int Bsearch(int k)
 
 int main()
 {
-	n = read(), m = read();
+	n=read();
+	m=read();
 	int i;
-	for(i = 0; i < n; ++i)
-		a[i] = read();
-	while (m--)
+	for(i=0;i<n;++i)
 	{
-		k = read();
-		puts(Bsearch(k) >= 0 ? "Yes" : "No");
+		a[i]=read();
+	}
+	while(m--)
+	{
+		k=read();
+		puts(Bsearch(k)>=0?"Yes":"No");
 	}
 }
