@@ -9,36 +9,39 @@ void PRT(const int a)
 	putchar(a%10+48);
 }
 
-int n, m;
-int stack[10], top;
-char used[10]; 
+int n,m;
+int stack[10],top;
+char used[10];
+
 void generPermutation()
 {
-	if(top == m)
+	if(top==m)
 	{		
 		int i;
-		for(i=0; i<top; i++)
+		for(i=0;i<top;i++)
 		{
-			PRT(stack[i]), putchar(32);
+			PRT(stack[i]);
+			putchar(32);
 		}		
 		putchar(10);		
 		return;	
 	} 	
 	int i;
-	for(i=1; i<=n; i++)
+	for(i=1;i<=n;i++)
 	{		
-		if (!used[i])		
+		if(!used[i])		
 		{			
-			used[i] = 1;			
-			stack[top++] = i;			
+			used[i]=1;
+			stack[top++]=i;			
 			generPermutation();	
-			--top;			
-			used[i] = 0;	
-		}	
+			--top;
+			used[i]=0;	
+		}
 	}
 }
+
 int main()
-{	
+{
 	scanf("%d%d",&n,&m);
 	generPermutation();
 }
