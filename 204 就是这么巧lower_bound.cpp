@@ -48,13 +48,12 @@ int main()
 			unsigned long long* pos=lower_bound(target,target+Size,n);
 			if(n==target[pos-target])
 			{
-				printf("%llu",pos-target+1);
+				printf("%llu\n",pos-target+1);
 			}
 			else
 			{
-				printf("%llu",pos-target);
+				printf("%llu\n",pos-target);
 			}
-			putchar('\n');
 		}
 	}
 }
