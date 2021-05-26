@@ -29,14 +29,16 @@ void print(char *color)
 {
 	memset(card, 0, sizeof(card));
 	cnt = 0;
-	char *start=s,*pos;
+	char *start=s;
+	char *pos;
 	while((pos = strstr(start, color)) != NULL)
 	{
 		char *ptr = pos;
 		pos--;
-		while(pos - s >= 0 && isdigit(*pos))
+		for(; pos - s >= 0 && isdigit(*pos); --pos)
 		{
-			card[cnt++] = *pos, --pos;
+			card[cnt] = *pos;
+			cnt++;
 		}
 		start = ptr + 1;
 	}
