@@ -48,7 +48,7 @@ int maxWeight[310][310];
 void initFather()
 {
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		f[i]=i;
 	}
@@ -92,28 +92,13 @@ void addEdge(int u,int v,int w)
 	lalala[u]=mstNum++;
 }
 
-void printIndexAndMST()
-{
-	printf("MST:\n");
-	int i;
-	for(i=0;i<mstNum;++i)
-	{
-		printf("%d : %d %d %d\n",i,msTree[i].rank,msTree[i].w,msTree[i].next);
-	}
-	printf("Index:\n");
-	for(i=1;i<=n;++i)
-	{
-		printf("%d : %d\n",i,lalala[i]);
-	}
-}
-
 void kruskal()
 {
 	cnt=0;
 	res=0;
 	mstNum=0;
 	int i;
-	for(i=0;i<m;++i)
+	for(i=0; i<m; ++i)
 	{
 		p=getFather(edges[i].u);
 		q=getFather(edges[i].v);
@@ -155,7 +140,7 @@ void bfs(int start)
 		struct Node head=que[front];
 		front++;
 		int i;
-		for(i=lalala[head.rank];i>=0;i=msTree[i].next)
+		for(i=lalala[head.rank]; i>=0; i=msTree[i].next)
 		{
 			adj.rank=msTree[i].rank;
 			adj.max=msTree[i].w;
@@ -179,11 +164,11 @@ long long getSecMST()
 	long long secondSum=LLONG_MAX;
 	long long temp;
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		bfs(i);
 	}
-	for(i=0;i<m;++i)
+	for(i=0; i<m; ++i)
 	{
 		if(!edges[i].flag)
 		{
@@ -203,7 +188,7 @@ int main()
 	{
 		initFather();
 		int i;
-		for(i=0;i<m;++i)
+		for(i=0; i<m; ++i)
 		{
 			edges[i].u=read();
 			edges[i].v=read();
