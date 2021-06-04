@@ -1,19 +1,6 @@
 #include<stdio.h>
 #include<math.h>
 
-#include<sstream>
-#include<iomanip>
-
-using namespace std;
-
-double round(double number,unsigned int bits)
-{
-	stringstream ss;
-	ss << fixed << setprecision(bits) << number;
-	ss >> number;
-	return number;
-}
-
 int s,t,a,b;
 
 double res()
