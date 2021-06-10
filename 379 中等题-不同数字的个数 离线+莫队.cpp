@@ -1,33 +1,10 @@
 #include<stdio.h>
 #include<math.h>
 #include<ctype.h>
+
 #include<algorithm>
 
 using namespace std;
-
-long long rd()
-{
-	long long k = 0, f = 1;
-	char c = getchar();
-	while (!isdigit(c))
-	{
-		if (c == '-')f = -1;
-		c = getchar();
-	}
-	while (isdigit(c))
-	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
-	}
-	return k * f;
-}
-
-void wr(long long x)
-{
-	if (x < 0) putchar('-'), x = -x;
-	if (x > 9)wr(x / 10);
-	putchar(x % 10 + '0');
-}
 
 long long n, m;
 long long block_sz;
@@ -44,12 +21,9 @@ struct query
 			return (belong[l] & 1) ? r < o.r : r > o.r;//return r < o.r; 两个方案任选其一, 后者貌似更快
 		else return belong[l] < belong[o.l];
 	}
-} q[114514 << 1];
+};
 
-char cmp(const query& a, const query& b)
-{
-	return a.id < b.id;
-}
+struct query q[114514 << 1];
 
 void add(int x, int val)
 {
@@ -81,18 +55,33 @@ void solve()
 
 int main()
 {
-	n = rd(), m = rd();
+	scanf("%lld%lld",&n,&m);
 	block_sz = sqrt(n);
-	for (int i = 1; i <= n; i++)disc[i] = a[i] = rd();
+	int i;
+	for(i = 1; i <= n; i++)
+	{
+		scanf("%lld",&a[i]);
+		disc[i]=a[i];
+	}
 	sort(disc + 1, disc + n + 1);
 	int real_n = unique(disc + 1, disc + n + 1) - disc - 1;
-	for (int i = 1; i <= n; i++)
+	for(i = 1; i <= n; i++)
+	{
 		a[i] = lower_bound(disc + 1, disc + real_n + 1, a[i]) - disc;
-	for (int i = 1; i <= m; i++)
-		q[i].l = rd(), q[i].r = n, q[i].id = i;
-	for (int i = 1; i <= n; i++)
+	}
+	for(i = 1; i <= m; i++)
+	{
+		scanf("%lld",&q[i].l);
+		q[i].r=n;
+		q[i].id=i;
+	}
+	for(i = 1; i <= n; i++)
+	{
 		belong[i] = (1ll * i - 1) / block_sz + 1;
+	}
 	solve();
-	for (int i = 1; i <= m; i++)
-		wr(ans[i]), putchar('\n');
+	for(i = 1; i <= m; i++)
+	{
+		printf("%lld\n",ans[i]);
+	}
 }
