@@ -1,79 +1,41 @@
 #include<stdio.h>
-#include<ctype.h>
-
-unsigned long long read()
-{
-	unsigned long long k=0;
-	char c=getchar();
-	while(!isdigit(c))
-	{
-		c=getchar();
-	}
-	while(isdigit(c))
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
+#define putchar putchar_unlocked
+#define getchar getchar_unlocked
+typedef long long ll;
+ll rd() {
+    ll k = 0;
+    char c = getchar();
+    while (c < '0' || c > '9') 
+        c = getchar();   
+    while (c >= '0' && c <= '9') {
+        k = (k << 1) + (k << 3) + (c ^ 48);
+        c = getchar();
+    }
+    return k;
+}
+void wr(int x) {
+    //if (x < 0) putchar('-'), x = -x;
+    if (x > 9)wr(x / 10);
+    putchar(x % 10 + '0');
 }
 
-void write(unsigned long long x)
-{
-	if(x>=10)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
+//builtin popcount
+//Returns the number of 1-bits in x.
+int __builtin_popcountll(ll x) {
+    x = (x & 0x5555555555555555) + (x >> 1 & 0x5555555555555555);
+    x = (x & 0x3333333333333333) + (x >> 2 & 0x3333333333333333);
+    x = (x & 0x0F0F0F0F0F0F0F0F) + (x >> 4 & 0x0F0F0F0F0F0F0F0F);
+    x = (x & 0x00FF00FF00FF00FF) + (x >> 8 & 0x00FF00FF00FF00FF);
+    x = (x & 0x0000FFFF0000FFFF) + (x >> 16 & 0x0000FFFF0000FFFF);
+    x = (x & 0x00000000FFFFFFFF) + (x >> 32 & 0x00000000FFFFFFFF);
+    return x;
 }
-
-long long pow(int c)
-{
-	return (long long)1<<c;
-}
-
-long long mask[6]={	0b0101010101010101010101010101010101010101010101010101010101010101,
-					0b0011001100110011001100110011001100110011001100110011001100110011,
-					0b0000111100001111000011110000111100001111000011110000111100001111,
-					0b0000000011111111000000001111111100000000111111110000000011111111,
-					0b0000000000000000111111111111111100000000000000001111111111111111,
-					0b0000000000000000000000000000000011111111111111111111111111111111};
-					  
-long long round(long long n,int c)
-{
-	return (n&mask[c])+(n>>pow(c)&mask[c]);
-}
-
-long long countOnes2(unsigned long long n)
-{
-	n=round(n,0);
-	n=round(n,1);
-	n=round(n,2);
-	n=round(n,3);
-	n=round(n,4);
-	n=round(n,5);
-	return n;
-}
-
-long long n,m;
-long long result;
-
-int main()
-{
-	n=read();
-	while(n--)
-	{
-		m=read();
-		result=countOnes2(m);
-		if(result==1)
-		{
-			putchar('2');
-			putchar('2');
-			putchar('2');
-		}
-		else
-		{
-			write(result);
-		}
-		putchar('\n');
-	}
+ll t;
+int res;
+int main() {
+    t = rd();
+    while (t--) {
+        res = __builtin_popcountll(rd());
+        wr(res == 1 ? 222 : res), putchar('\n');
+    }
 }
