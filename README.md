@@ -48,7 +48,7 @@ BUAAOJ通关代码标程备份库
 
 463 Magry's Sum I 464 ModricWang的数据位校验	
 
-467 阴影即吾盾 472 Magry's Prime 476 jhljx水水的卡牌
+467 阴影即吾盾 476 jhljx水水的卡牌
 
 494 Magry的强迫症 499 jj试穿巫女服
 
