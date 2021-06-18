@@ -5,17 +5,13 @@ char s[1009];
 
 char judge(int left,int right)
 {
-	if(left==right)
+	if(left>=right)
 	{
 		return 1;
 	}
 	if(s[left]!='('||s[right-1]!=')')
 	{
 		return 0;
-	}
-	if(s[left]=='('&&s[left+1]==')'&&(right-left)==2)
-	{
-		return 1;
 	}
 	int topS=0;
 	int i;
@@ -31,10 +27,6 @@ char judge(int left,int right)
 		}
 		if(topS==0)
 		{
-			if(i==right-1)
-			{
-				i++;
-			}
 			break;
 		}
 	}
@@ -42,14 +34,7 @@ char judge(int left,int right)
 	{
 		return 0;
 	}
- 	if(i==right)
-	{
-		return judge(left+1,right-1);
-	}
-	else
-	{
-		return (judge(left+1,i)&&judge(i+2,right-1));
-	}
+	return (judge(left+1,i)&&judge(i+2,right-1));
 }
 
 int main()
@@ -70,3 +55,4 @@ int main()
 	}
 	return 0;
 }
+
