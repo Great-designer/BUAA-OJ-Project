@@ -32,68 +32,46 @@ int main()
 		r=n;
 		while(l<r)
 		{
-			if(H[l]==0)
-			{
-				l++;
-			}
-			else if(H[r]==0)
-			{
-				r--;
-			}
-			else if(H[l]>H[r])
+			if(H[l]>H[r])
 			{
 				Ans+=H[r]*(r-l);
 				H[l]-=H[r];
-				H[r]-=H[r];
 				r--;
 			}
 			else if(H[l]<H[r])
 			{
 				Ans+=H[l]*(r-l);
 				H[r]-=H[l];
-				H[l]-=H[l];
 				l++;
 			}
 			else if(H[l]==H[r])
 			{
 				Ans+=H[l]*(r-l);
-				long long temp=H[l];
-				H[l]-=temp;
-				H[r]-=temp;
+				r--;
+				l++;
 			}
 		}
 		l=1;
 		r=m;
 		while(l<r)
 		{
-			if(L[l]==0)
-			{
-				l++;
-			}
-			else if(L[r]==0)
-			{
-				r--;
-			}
-			else if(L[l]>L[r])
+			if(L[l]>L[r])
 			{
 				Ans+=L[r]*(r-l);
 				L[l]-=L[r];
-				L[r]-=L[r];
 				r--;
 			}
 			else if(L[l]<L[r])
 			{
 				Ans+=L[l]*(r-l);
 				L[r]-=L[l];
-				L[l]-=L[l];
 				l++;
 			}
 			else if(L[l]==L[r])
 			{
 				Ans+=L[l]*(r-l);
-				long long temp=L[l];
-				L[l]-=temp;
-				L[r]-=temp;
+				r--;
+				l++;
 			}
 		}
 		printf("%lld\n",Ans);
