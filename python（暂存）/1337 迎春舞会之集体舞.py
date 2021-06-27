@@ -1,14 +1,14 @@
 dp = [[0]*210 for i in range(210)]
-map = [[0] for _ in range(210)]
+myapp = [[0] for _ in range(210)]
 res = 0
 n = int(input())
 
 for i in range(0, n):
-    map[i] = input()
+    myapp[i] = input()
 
 for i in range(0, n):
     for j in range(i, n):
-        if map[i][j] == '-':
+        if myapp[i][j] == '-':
             dp[i][j] = 1
 
 

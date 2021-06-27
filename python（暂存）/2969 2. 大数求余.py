@@ -1,4 +1,3 @@
 n = int(input())
 m = int(input())
-print(n**m%1000000007)
-
+print(n ** m % 1000000007)

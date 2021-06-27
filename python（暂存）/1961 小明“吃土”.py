@@ -3,16 +3,16 @@ ans = float(0.0)
 n = int(input())
 for i in range(0, n):
     m = float(input())
-    if m >= 50 and m < 100:
+    if 50 <= m < 100:
         m = m - 5
     else:
-        if m >= 100 and m < 200:
+        if 100 <= m < 200:
             m = m - 15
         else:
             if m >= 200:
                 m = m - 40
     ans = ans + m
-if ans >= 500 and ans < 1000:
+if 500 <= ans < 1000:
     ans = ans * 0.9
 else:
     if ans >= 1000:

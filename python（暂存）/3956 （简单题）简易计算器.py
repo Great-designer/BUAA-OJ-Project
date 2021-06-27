@@ -1,5 +1,5 @@
 n = int(input())
-for i in range (0, n):
+for i in range(0, n):
     a, b = map(float, input().split())
     s = input()
     if s[0] == '+':

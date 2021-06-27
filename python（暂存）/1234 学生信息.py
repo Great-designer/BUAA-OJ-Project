@@ -6,7 +6,7 @@ for i in range(0, n):
     b = input()
     info_dict.update({a: b})
 m = int(input())
-for i in range(0,m):
+for i in range(0, m):
     s = input()
     if s in info_dict:
         print(info_dict[s])
