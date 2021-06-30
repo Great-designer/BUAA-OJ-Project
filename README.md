@@ -48,12 +48,6 @@ BUAAOJ通关代码标程备份库
 
 ——以上是第11届程设竞赛题目——
 
-463 Magry's Sum I 464 ModricWang的数据位校验 
-
-467 阴影即吾盾 476 jhljx水水的卡牌
-
-494 Magry的强迫症 499 jj试穿巫女服
-
 501 ModricWang寻宝 506 怠惰的王木木Ⅱ 507 可得长生否 508 在下废灵根
 
 509 Magry的朋友很多 - Wonderland的邀请篇 512 机器人装配
