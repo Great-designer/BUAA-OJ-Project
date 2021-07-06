@@ -62,10 +62,6 @@ OJ4th地址：https://accoding.cn
 
 ——以上是第12届程设竞赛题目——
 
-616 ModricWang的空间折跃 617 大魔法师 619 老哥，稳！
-
-620 数论の重逢 621 怠惰的王木木Ⅲ
-
 625 ModricWang的满天繁星 629 模式寻数 II
 
 645 ModricWang练技能 646 ModricWang买内存
