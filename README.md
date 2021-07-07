@@ -62,10 +62,6 @@ OJ4th地址：https://accoding.cn
 
 ——以上是第12届程设竞赛题目——
 
-625 ModricWang的满天繁星 629 模式寻数 II
-
-645 ModricWang练技能 646 ModricWang买内存
-
 652 ModricWang拦截导弹 656 ModricWang创造世界 658 KZQ的幻想乡大冒险 (1)
 
 668 钢管拼接 669 简单·梦想始发车 670 难题·圣杯之战·最终章 671 简单·简单的贪心

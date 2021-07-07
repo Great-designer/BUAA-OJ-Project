@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+int tmpint;
+int n;
+int ans;
+
+int main()
+{
+	while (scanf("%d", &n) != EOF)
+	{
+		ans = 0;
+		int i;
+		for(i = 0; i < 2*n-1; ++i)
+		{
+			scanf("%d", &tmpint);
+			ans ^= tmpint;
+		}
+		printf("%d\n", ans);
+	}
+}
