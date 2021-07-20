@@ -3,7 +3,7 @@
 
 int A[10005];
 int B[10005];
-short int dp[10005];//dp[i]表示以B[i]结尾的LCIS，A的范围是[1~n]
+short int dp[10005];//dp[i]琛ㄧず浠[i]缁撳熬鐨凩CIS锛孉鐨勮寖鍥存槸[1~n]
 
 int main()
 {
@@ -13,31 +13,31 @@ int main()
 		int ans=0;
 		memset(dp,0,sizeof(dp));
 		int i;
-		for(i=1;i<=n;i++)
+		for(i=1; i<=n; i++)
 		{
 			scanf("%d",&A[i]);
 		}
-		for(i=1;i<=m;i++)
+		for(i=1; i<=m; i++)
 		{
 			scanf("%d",&B[i]);
 		}
-		for(i=1;i<=n;i++)
+		for(i=1; i<=n; i++)
 		{
-		    int maxx=0;
-		    int j;
-		    for(j=1;j<=m;j++)
-		    {
-		        if(A[i]==B[j])
-		        {
-		        	dp[j]=maxx+1;
+			int maxx=0;
+			int j;
+			for(j=1; j<=m; j++)
+			{
+				if(A[i]==B[j])
+				{
+					dp[j]=maxx+1;
 				}
-		        if(A[i]>B[j])
-		        {
-	    	    	maxx=((maxx>(int)dp[j])?maxx:(int)dp[j]);
+				if(A[i]>B[j])
+				{
+					maxx=((maxx>(int)dp[j])?maxx:(int)dp[j]);
 				}
-		    }
+			}
 		}
-		for(i=1;i<=m;i++)
+		for(i=1; i<=m; i++)
 		{
 			if(ans<dp[i])
 			{

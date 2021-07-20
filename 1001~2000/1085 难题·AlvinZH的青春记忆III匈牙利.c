@@ -2,71 +2,71 @@
 #include<string.h>
 
 int n,m,ans;
-int G[1005][1005];//¼ÇÂ¼Æ¥ÅäµÄË«·½µÜ×Ó
+int G[1005][1005];//è®°å½•åŒ¹é…çš„åŒæ–¹å¼Ÿå­
 int top[1005];
-int match[1005];//¼ÇÂ¼Æ¥Åäµã
-int visit[1005];//¼ÇÂ¼ÊÇ·ñ·ÃÎÊ
+int match[1005];//è®°å½•åŒ¹é…ç‚¹
+int visit[1005];//è®°å½•æ˜¯å¦è®¿é—®
 
 int A[1005],B[1005];
 
-char dfs(int x)//Ñ°ÕÒÔö¹ãÂ·¾¶
+char dfs(int x)//å¯»æ‰¾å¢å¹¿è·¯å¾„
 {
 	int i;
-    for(i=0;i<top[x];++i)
-    {
-        int to=G[x][i];
-        if(!visit[to])
-        {
-            visit[to]=1;
-            if(!match[to]||dfs(match[to]))
-            {
-                match[to]=x;
-                return 1;
-            }
-        }
-    }
-    return 0;
+	for(i=0; i<top[x]; ++i)
+	{
+		int to=G[x][i];
+		if(!visit[to])
+		{
+			visit[to]=1;
+			if(!match[to]||dfs(match[to]))
+			{
+				match[to]=x;
+				return 1;
+			}
+		}
+	}
+	return 0;
 }
 
 int MaxMatch()
 {
-    ans=0;
-    memset(match,0,sizeof(match));
-    int i;
-    for(i=1;i<=m;++i)
-    {
-        memset(visit,0,sizeof(visit));//Çå¿Õ·ÃÎÊ
-        if(dfs(i))
+	ans=0;
+	memset(match,0,sizeof(match));
+	int i;
+	for(i=1; i<=m; ++i)
+	{
+		memset(visit,0,sizeof(visit));//æ¸…ç©ºè®¿é—®
+		if(dfs(i))
 		{
-			ans++;//´Ó½Úµãi³¢ÊÔÀ©Õ¹
+			ans++;//ä»èŠ‚ç‚¹iå°è¯•æ‰©å±•
 		}
-    }
-    return ans;
+	}
+	return ans;
 }
 
 int main()
 {
-    while(~scanf("%d%d",&n,&m))
-    {
-    	int i;
-        memset(top,0,sizeof(top));
-        for(i=1;i<=n;++i)
-        {
-        	scanf("%d",&A[i]);
+	while(~scanf("%d%d",&n,&m))
+	{
+		int i;
+		memset(top,0,sizeof(top));
+		for(i=1; i<=n; ++i)
+		{
+			scanf("%d",&A[i]);
 		}
-        for(i=1;i<=m;++i)
-        {
-            scanf("%d",&B[i]);
-            int j;
-            for(j=1;j<=n;++j)
-            {
-                if(B[i]%A[j]==0)
-                {
-                	G[i][top[i]]=j;
-                	top[i]++;
+		for(i=1; i<=m; ++i)
+		{
+			scanf("%d",&B[i]);
+			int j;
+			for(j=1; j<=n; ++j)
+			{
+				if(B[i]%A[j]==0)
+				{
+					G[i][top[i]]=j;
+					top[i]++;
 				}
-            }
-        }
-        printf("%d\n",MaxMatch());
-    }
+			}
+		}
+		printf("%d\n",MaxMatch());
+	}
 }

@@ -7,47 +7,47 @@ int ba,bb,ta,tb;
 
 void output(int x)
 {
-    int i=0;
-    while(a[x])
-    {
-        if(a[x]&1)
-        {
-            putchar('A'+i);
-            putchar(' ');
-        }
-        i++;
-        a[x]>>=1;
-    }
-    putchar('\n');
+	int i=0;
+	while(a[x])
+	{
+		if(a[x]&1)
+		{
+			putchar('A'+i);
+			putchar(' ');
+		}
+		i++;
+		a[x]>>=1;
+	}
+	putchar('\n');
 }
 
 int cmp(const void *A,const void *B)
 {
-    ba=__builtin_popcount(ta=*(const int*)A);//ba´æ´¢µÄÊÇaÖÐ1µÄ¸öÊý£¬ta´æ´¢µÄÊÇa
-    bb=__builtin_popcount(tb=*(const int*)B);
-    if(ba!=bb)
-    {
-        return ba<bb?-1:1;//³¤¶È²»Í¬µÄÇé¿öÏÂ
-    }
-    while((ta&1)==(tb&1) && ta && tb)//³¤¶ÈÏàÍ¬µÄÇé¿öÏÂ£¬ÔòÕÒµÚÒ»¸ö²»Í¬µÄÎ»
-    {
-        ta>>=1,tb>>=1;
-    }
-    return ta&1?-1:1;
+	ba=__builtin_popcount(ta=*(const int*)A);//baå­˜å‚¨çš„æ˜¯aä¸­1çš„ä¸ªæ•°ï¼Œtaå­˜å‚¨çš„æ˜¯a
+	bb=__builtin_popcount(tb=*(const int*)B);
+	if(ba!=bb)
+	{
+		return ba<bb?-1:1;//é•¿åº¦ä¸åŒçš„æƒ…å†µä¸‹
+	}
+	while((ta&1)==(tb&1) && ta && tb)//é•¿åº¦ç›¸åŒçš„æƒ…å†µä¸‹ï¼Œåˆ™æ‰¾ç¬¬ä¸€ä¸ªä¸åŒçš„ä½
+	{
+		ta>>=1,tb>>=1;
+	}
+	return ta&1?-1:1;
 }
 
 int main()
 {
-    scanf("%d",&n);
-    int i;
-    for(i=1;i<(1<<n);i++)
-    {
-        a[i]=i;
-    }
-    qsort(a+1,(1<<n)-1,sizeof(int),cmp);
-    for(i=1;i<(1<<n);i++)
-    {
-        output(i);
-    }
-    return 0;
+	scanf("%d",&n);
+	int i;
+	for(i=1; i<(1<<n); i++)
+	{
+		a[i]=i;
+	}
+	qsort(a+1,(1<<n)-1,sizeof(int),cmp);
+	for(i=1; i<(1<<n); i++)
+	{
+		output(i);
+	}
+	return 0;
 }

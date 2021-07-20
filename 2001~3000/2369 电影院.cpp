@@ -3,42 +3,52 @@
 #include<stdlib.h>
 
 #include<queue>
- 
 using namespace std;
 
 pair<int,int> a[300005];
 priority_queue<int> pq;
- 
+
 int compare(const void *A,const void *B)
 {
 	pair<int,int> *p1=(pair<int,int>*)A;
 	pair<int,int> *p2=(pair<int,int>*)B;
-	return p1->second<p2->second?1:-1;
+	if(p1->second<p2->second)
+	{
+		return 1;
+	}
+	else if(p1->second>p2->second)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
- 
+
 int main()
 {
 	int n,k;
 	scanf("%d%d",&n,&k);
 	int i;
-	for(i=0;i<n;i++)
+	for(i=0; i<n; i++)
 	{
 		scanf("%d%d",&a[i].first,&a[i].second);
 	}
-	qsort(a,n,sizeof(pair<int, int>),compare);//pairµÄÄ¬ÈÏÅÅĞò¹æÔòÊÇfirst´ÓĞ¡µ½´óÅÅĞò£¬µ±firstÏàµÈÊ±second´ÓĞ¡µ½´óÅÅĞò£¬ÔÚ¸ÃÌâÄ¿ÖĞÒ²¾ÍÊÇÓäÔÃ¶Èsecond´Ó´óµ½Ğ¡ÅÅĞò
+	qsort(a,n,sizeof(pair<int,int>),compare);//pairçš„é»˜è®¤æ’åºè§„åˆ™æ˜¯firstä»å°åˆ°å¤§æ’åºï¼Œå½“firstç›¸ç­‰æ—¶secondä»å°åˆ°å¤§æ’åºï¼Œåœ¨è¯¥é¢˜ç›®ä¸­ä¹Ÿå°±æ˜¯æ„‰æ‚¦åº¦secondä»å¤§åˆ°å°æ’åº
 	long long ans=0;
 	long long now=0;
-	for(i=0;i<n;i++)//Ëæ×ÅiµÄÔö¼Ó£¬ÓäÔÃ¶ÈÔÚ¼õÉÙ¡£ÓäÔÃ¶È¼õÉÙµÄÍ¬Ê±£¬ÔÚ±£Ö¤³¤¶ÈµÄ¸öÊıÎªk¸öµÄÇé¿öÏÂ¾¡¿ÉÄÜÈÃ³¤¶È±ä³¤£¬ÇóµÃÃ¿´ÎÓäÔÃ¶ÈºÍ³¤¶ÈºÍµÄ³Ë»ı£¬È¡×î´óµÄÄÇ¸ö¡£
+	for(i=0; i<n; i++) //éšç€içš„å¢åŠ ï¼Œæ„‰æ‚¦åº¦åœ¨å‡å°‘ã€‚æ„‰æ‚¦åº¦å‡å°‘çš„åŒæ—¶ï¼Œåœ¨ä¿è¯é•¿åº¦çš„ä¸ªæ•°ä¸ºkä¸ªçš„æƒ…å†µä¸‹å°½å¯èƒ½è®©é•¿åº¦å˜é•¿ï¼Œæ±‚å¾—æ¯æ¬¡æ„‰æ‚¦åº¦å’Œé•¿åº¦å’Œçš„ä¹˜ç§¯ï¼Œå–æœ€å¤§çš„é‚£ä¸ªã€‚
 	{
 		now+=a[i].first;
-		pq.push(-a[i].first);//¼ÓÉÏµ±Ç°µÄ³¤¶È
-		if(pq.size()>k)//½«³¤¶ÈÈ¡·´¼ÓÈëÓÅÏÈ¶ÓÁĞ£¬ÕâÑù¶ÓÍ·µÄÔªËØÎª³¤¶È×îĞ¡µÄÖµµÄÈ¡·´¡£
+		pq.push(-a[i].first);//åŠ ä¸Šå½“å‰çš„é•¿åº¦
+		if(pq.size()>k)//å°†é•¿åº¦å–ååŠ å…¥ä¼˜å…ˆé˜Ÿåˆ—ï¼Œè¿™æ ·é˜Ÿå¤´çš„å…ƒç´ ä¸ºé•¿åº¦æœ€å°çš„å€¼çš„å–åã€‚
 		{
 			now+=pq.top();
-			pq.pop();//Êµ¼ÊÉÏÊÇ°Ñ³¤¶È×îĞ¡µÄ¼õÈ¥ÁË¡£
+			pq.pop();//å®é™…ä¸Šæ˜¯æŠŠé•¿åº¦æœ€å°çš„å‡å»äº†ã€‚
 		}
 		ans=(ans>now*a[i].second?ans:now*a[i].second);
 	}
-	printf("%lld\n",ans);//ÔÚÑ­»·µÄÍ¬Ê±ÓäÔÃ¶ÈÒÑ¾­±ä³ÉÁËÕâĞ©³¤¶ÈÖĞµÄ×îĞ¡ÓäÔÃ¶È¡£
+	printf("%lld\n",ans);//åœ¨å¾ªç¯çš„åŒæ—¶æ„‰æ‚¦åº¦å·²ç»å˜æˆäº†è¿™äº›é•¿åº¦ä¸­çš„æœ€å°æ„‰æ‚¦åº¦ã€‚
 	return 0;
 }
