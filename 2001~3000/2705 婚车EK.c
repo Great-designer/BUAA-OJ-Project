@@ -5,78 +5,78 @@ int r[1007][1007];
 char visit[1007];
 int pre[1007];
 int q[1007];
- 
-char bfs(int s,int t,int n)//bfsÑ°ÕÒÔö¹âÂ·£¬ÕÒµ½·µ»Øture
+
+char bfs(int s,int t,int n)//bfså¯»æ‰¾å¢å…‰è·¯ï¼Œæ‰¾åˆ°è¿”å›ture
 {
-    memset(q,0,sizeof(q));
-    int front=0;
+	memset(q,0,sizeof(q));
+	int front=0;
 	int rear=0;
-    memset(visit,0,sizeof(visit));
-    memset(pre,-1,sizeof(pre));
-    pre[s]=s;
-    q[rear]=s;//q.push(s);
-    rear++;
-    visit[s]=1;
-    while(rear!=front)//!q.empty()
+	memset(visit,0,sizeof(visit));
+	memset(pre,-1,sizeof(pre));
+	pre[s]=s;
+	q[rear]=s;//q.push(s);
+	rear++;
+	visit[s]=1;
+	while(rear!=front)//!q.empty()
 	{
-        int p=q[front];//q.front();
-        front++;//q.pop();//ÈÏÎª½ÚµãµÄÊı×éÏÂ±ê´Ó1¿ªÊ¼,ÓÃÁÚ½Ó¾ØÕó´æ´¢
-        int i;
-        for(i=1;i<=n;++i)
+		int p=q[front];//q.front();
+		front++;//q.pop();//è®¤ä¸ºèŠ‚ç‚¹çš„æ•°ç»„ä¸‹æ ‡ä»1å¼€å§‹,ç”¨é‚»æ¥çŸ©é˜µå­˜å‚¨
+		int i;
+		for(i=1; i<=n; ++i)
 		{
-            if(r[p][i]>0&&!visit[i])
+			if(r[p][i]>0&&!visit[i])
 			{
-                visit[i]=1;
-                pre[i]=p;
-                if(i==t)
-                {
-                	return 1;
+				visit[i]=1;
+				pre[i]=p;
+				if(i==t)
+				{
+					return 1;
 				}
 				q[rear]=i;//q.push(i);
-    			rear++;
-            }
-        }
-    }
-    return 0;
+				rear++;
+			}
+		}
+	}
+	return 0;
 }
 
-int EK(int s,int t,int n)//inc±íÊ¾Ôö¹ãÂ·¿ÉÔö¼ÓµÄÁ÷Á¿
+int EK(int s,int t,int n)//incè¡¨ç¤ºå¢å¹¿è·¯å¯å¢åŠ çš„æµé‡
 {
-    int maxflow=0;
-    while(bfs(s,t,n))//¿Ó£ºÃ¿´ÎÑ­»·Ò»¿ªÊ¼¶¼ÒªÖÃincÎª0x7fffffff
+	int maxflow=0;
+	while(bfs(s,t,n))//å‘ï¼šæ¯æ¬¡å¾ªç¯ä¸€å¼€å§‹éƒ½è¦ç½®incä¸º0x7fffffff
 	{
-        int inc=0x7fffffff;
-        int i;
-        for(i=t;i!=s;i=pre[i])
+		int inc=0x7fffffff;
+		int i;
+		for(i=t; i!=s; i=pre[i])
 		{
-            if(inc>r[pre[i]][i])
+			if(inc>r[pre[i]][i])
 			{
-                inc=r[pre[i]][i];
-            }
-        }//ÕâÀïÒªÇóÈç¹ûÁ½µãÖ®¼äÃ»ÓĞ±ßÊ±È¨ÖØr³õÊ¼»¯Îª0
-        for(i=t;i!=s;i=pre[i])
+				inc=r[pre[i]][i];
+			}
+		}//è¿™é‡Œè¦æ±‚å¦‚æœä¸¤ç‚¹ä¹‹é—´æ²¡æœ‰è¾¹æ—¶æƒé‡råˆå§‹åŒ–ä¸º0
+		for(i=t; i!=s; i=pre[i])
 		{
-            r[pre[i]][i]-=inc;
-            r[i][pre[i]]+=inc;
-        }
-        maxflow+=inc;
-    }
-    return maxflow;
+			r[pre[i]][i]-=inc;
+			r[i][pre[i]]+=inc;
+		}
+		maxflow+=inc;
+	}
+	return maxflow;
 }
 
 int main()
 {
-    int n,m;
-    scanf("%d%d",&n,&m);
-    memset(r,0,sizeof(r));
-    int i;
-    for(i=0;i<m;++i)
+	int n,m;
+	scanf("%d%d",&n,&m);
+	memset(r,0,sizeof(r));
+	int i;
+	for(i=0; i<m; ++i)
 	{
 		int a,b,c;
-        scanf("%d%d%d",&a,&b,&c);
-        r[a][b]+=c;//¿´ÊÇ·ñÎªË«ÏòÂ·
-        r[b][a]=c;
-    }//Ä¬ÈÏs=1£¬t=n
-    printf("%d\n",EK(1,n,n));
-    return 0;
+		scanf("%d%d%d",&a,&b,&c);
+		r[a][b]+=c;//çœ‹æ˜¯å¦ä¸ºåŒå‘è·¯
+		r[b][a]=c;
+	}//é»˜è®¤s=1ï¼Œt=n
+	printf("%d\n",EK(1,n,n));
+	return 0;
 }
