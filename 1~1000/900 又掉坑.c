@@ -5,61 +5,61 @@ int m,n;
 int M[201][201];
 int dp[2][201][201];
 
-int MAX(int a,int b,int c,int d) 
+int MAX(int a,int b,int c,int d)
 {
-    int minAns=a;
-    if(minAns<b)
+	int minAns=a;
+	if(minAns<b)
 	{
 		minAns=b;
-	} 
-    if(minAns<c)
+	}
+	if(minAns<c)
 	{
 		minAns=c;
-	} 
-    if(minAns<d)
+	}
+	if(minAns<d)
 	{
 		minAns=d;
-	} 
-    return minAns;
+	}
+	return minAns;
 }
 
 int main()
 {
-    while(~scanf("%d%d",&n,&m))
-    {
-        memset(dp,0,sizeof(dp));
-        int i;
-        for(i=1;i<=n;i++)//·¢ÏÖÃ¿Ò»²½Ö»ÓëÇ°Ò»²½ÓĞ¹Ø£¬¿ÉÒÔ¹ö¶¯Êı×é£¬°ÑÒ»Î¬¹ö¶¯µô¡£
-        {
-        	int j;
-        	for(j=1;j<=m;j++)
-        	{
-        		scanf("%d",&M[i][j]);
+	while(~scanf("%d%d",&n,&m))
+	{
+		memset(dp,0,sizeof(dp));
+		int i;
+		for(i=1; i<=n; i++) //å‘ç°æ¯ä¸€æ­¥åªä¸å‰ä¸€æ­¥æœ‰å…³ï¼Œå¯ä»¥æ»šåŠ¨æ•°ç»„ï¼ŒæŠŠä¸€ç»´æ»šåŠ¨æ‰ã€‚
+		{
+			int j;
+			for(j=1; j<=m; j++)
+			{
+				scanf("%d",&M[i][j]);
 			}
 		}
-        int cur=0;
-        for(i=2;i<=n+m;i++) 
+		int cur=0;
+		for(i=2; i<=n+m; i++)
 		{
-            cur^=1;
-            int j;
-            for(j=1;j<=n&&i-j>=0;j++)
+			cur^=1;
+			int j;
+			for(j=1; j<=n&&i-j>=0; j++)
 			{
 				int k;
-                for(k=1;k<=n&&i-k>=0;k++)//ÏÂÏÂ£¬ÏÂÓÒ£¬ÓÒÏÂ£¬ÓÒÓÒËÄÕßÈ¡×î´óÖµ
+				for(k=1; k<=n&&i-k>=0; k++) //ä¸‹ä¸‹ï¼Œä¸‹å³ï¼Œå³ä¸‹ï¼Œå³å³å››è€…å–æœ€å¤§å€¼
 				{
-                    dp[cur][j][k]=MAX(dp[cur^1][j-1][k-1],dp[cur^1][j][k-1],dp[cur^1][j-1][k],dp[cur^1][j][k]);
-                    if(j==k)//×ßµ½Í¬Ò»ĞĞ£¬±Ø¶¨ÔÚÍ¬Ò»ÁĞ£¬ËùÒÔÈ·¶¨µ½A[j][i-j]Ò»µã
-                    {
-                    	dp[cur][j][k]+=M[j][i-j];
+					dp[cur][j][k]=MAX(dp[cur^1][j-1][k-1],dp[cur^1][j][k-1],dp[cur^1][j-1][k],dp[cur^1][j][k]);
+					if(j==k)//èµ°åˆ°åŒä¸€è¡Œï¼Œå¿…å®šåœ¨åŒä¸€åˆ—ï¼Œæ‰€ä»¥ç¡®å®šåˆ°A[j][i-j]ä¸€ç‚¹
+					{
+						dp[cur][j][k]+=M[j][i-j];
 					}
-                    else//×ßµ½²»Í¬ĞĞ£¬ËùÒÔÈ·¶¨µ½A[j][i-j]¡¢A[k][i-k]Á½µã¡£
-                    {
-                    	dp[cur][j][k]+=(M[j][i-j]+M[k][i-k]);//ÓÒÓÒ
+					else//èµ°åˆ°ä¸åŒè¡Œï¼Œæ‰€ä»¥ç¡®å®šåˆ°A[j][i-j]ã€A[k][i-k]ä¸¤ç‚¹ã€‚
+					{
+						dp[cur][j][k]+=(M[j][i-j]+M[k][i-k]);//å³å³
 					}
-                }
-            }
-        }
-        printf("%d\n",dp[cur][n][n]);
-    }
-    return 0;
+				}
+			}
+		}
+		printf("%d\n",dp[cur][n][n]);
+	}
+	return 0;
 }

@@ -14,7 +14,7 @@ struct Node
 	int inDegree;
 	struct pp edge[40];
 	int top;
-}; 
+};
 
 struct Node node[10010];
 
@@ -31,14 +31,14 @@ char topoSort(int skip)
 {
 	front=rear=0;
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		node[i].inDegree=inDegreeBackup[i];
 	}
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		int j;
-		for(j=0;j<node[i].top;++j)
+		for(j=0; j<node[i].top; ++j)
 		{
 			if(node[i].edge[j].second<=skip)
 			{
@@ -46,7 +46,7 @@ char topoSort(int skip)
 			}
 		}
 	}
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		if(node[i].inDegree==0)
 		{
@@ -60,7 +60,7 @@ char topoSort(int skip)
 		int newP=que[front];
 		front++;
 		++cnt;
-		for(i=0;i<node[newP].top;++i)
+		for(i=0; i<node[newP].top; ++i)
 		{
 			if(node[newP].edge[i].second>skip)
 			{
@@ -109,10 +109,10 @@ int main()
 		Min=INT_MAX;
 		Max=0;
 		Mid=0;
-		n=read()£»
+		n=read();
 		m=read();
 		int i;
-		for(i=1;i<=n;++i)
+		for(i=1; i<=n; ++i)
 		{
 			inDegreeBackup[i]=0;
 			node[i].inDegree=0;

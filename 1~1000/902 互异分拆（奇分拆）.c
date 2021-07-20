@@ -1,35 +1,35 @@
 #include<stdio.h>
 #include<string.h>
 
-int pd[50005][2];/*½«×ÔÈ»Êýn·Ö²ðÎªk¸ö²¿·ÖµÄ»¥Òì·½·¨Êý*/
+int pd[50005][2];/*å°†è‡ªç„¶æ•°nåˆ†æ‹†ä¸ºkä¸ªéƒ¨åˆ†çš„äº’å¼‚æ–¹æ³•æ•°*/
 
 int main()
 {
 	int n;
-    while(~scanf("%d",&n))
-    {
-        memset(pd,0,sizeof(pd));
-        pd[0][0]=1;
-        int ans=0;
-        int j;
-        for(j=1;j<350;++j)
+	while(~scanf("%d",&n))
+	{
+		memset(pd,0,sizeof(pd));
+		pd[0][0]=1;
+		int ans=0;
+		int j;
+		for(j=1; j<350; ++j)
 		{
 			int i;
-            for(i=0;i<350;++i)
+			for(i=0; i<350; ++i)
 			{
-                pd[i][j&1]=0;/*pd[i][j]Ö»Óëpd[][j]ºÍpd[][j-1]ÓÐ¹Ø*/
+				pd[i][j&1]=0;/*pd[i][j]åªä¸Žpd[][j]å’Œpd[][j-1]æœ‰å…³*/
 			}
-            for(i=0;i<=n;++i)
+			for(i=0; i<=n; ++i)
 			{
-                if(i-j>=0)/*pd[i-j][j]ËùÓÐ²¿·Ö´óÓÚ1*/
-                {
-                	pd[i][j&1]=(pd[i-j][j&1]+pd[i-j][(j-1)&1])%1000007;/*pd[i-j][j-1]ÖÁÉÙÓÐÒ»¸ö²¿·ÖÎª1¡£*/
+				if(i-j>=0)/*pd[i-j][j]æ‰€æœ‰éƒ¨åˆ†å¤§äºŽ1*/
+				{
+					pd[i][j&1]=(pd[i-j][j&1]+pd[i-j][(j-1)&1])%1000007;/*pd[i-j][j-1]è‡³å°‘æœ‰ä¸€ä¸ªéƒ¨åˆ†ä¸º1ã€‚*/
 				}
-            }
-            ans=(ans+pd[n][j&1])%1000007;
-        }
-        printf("%d\n",ans);
-    }
+			}
+			ans=(ans+pd[n][j&1])%1000007;
+		}
+		printf("%d\n",ans);
+	}
 }
 
 
