@@ -3,43 +3,43 @@
 
 int frequency;
 
-void adjust(int k[],int i,int n)/*µ÷Õû×ÓËã·¨*/
+void adjust(int k[],int i,int n)/*è°ƒæ•´å­ç®—æ³•*/
 {
-    int j,temp;
-    temp=k[i];
-    j=2*i+1;
-    while(j<n)
+	int j,temp;
+	temp=k[i];
+	j=2*i+1;
+	while(j<n)
 	{
-        if(j<n-1&&k[j]<k[j+1])
-        {
-        	j++;
+		if(j<n-1&&k[j]<k[j+1])
+		{
+			j++;
 		}
 		frequency++;
-        if(temp>=k[j])/*±È½Ï´ÎÊıÊÇÖ¸¸ùÔªËØµ÷Õû¹ı³ÌÖĞ¸ùÔªËØÓë×ÓÊ÷¸ù½áµãµÄ±È½Ï´ÎÊı*/
-        {
-        	break;
+		if(temp>=k[j])/*æ¯”è¾ƒæ¬¡æ•°æ˜¯æŒ‡æ ¹å…ƒç´ è°ƒæ•´è¿‡ç¨‹ä¸­æ ¹å…ƒç´ ä¸å­æ ‘æ ¹ç»“ç‚¹çš„æ¯”è¾ƒæ¬¡æ•°*/
+		{
+			break;
 		}
-        k[(j-1)/2]=k[j];
-        j=2*j+1;
-    }
-    k[(j-1)/2]=temp;
+		k[(j-1)/2]=k[j];
+		j=2*j+1;
+	}
+	k[(j-1)/2]=temp;
 }
 
-void heapSort(int k[],int n)/*¶ÑÅÅĞò*/
+void heapSort(int k[],int n)/*å †æ’åº*/
 {
-    int i;
-    int temp;
-    for(i=n/2-1;i>=0;i--)
-    { 
-        adjust(k,i,n);
-    } 
-    for(i=n-1;i>=1;i--)
+	int i;
+	int temp;
+	for(i=n/2-1; i>=0; i--)
 	{
-        temp=k[i];
-        k[i]=k[0];
-        k[0]=temp;
-        adjust(k,0,i);
-    }
+		adjust(k,i,n);
+	}
+	for(i=n-1; i>=1; i--)
+	{
+		temp=k[i];
+		k[i]=k[0];
+		k[0]=temp;
+		adjust(k,0,i);
+	}
 }
 
 int num[100005];
@@ -52,16 +52,16 @@ int main()
 		int i;
 		long long sum=0;
 		int temp;
-		for(i=0;i<n;i++)
+		for(i=0; i<n; i++)
 		{
 			scanf("%d",&num[i]);
 			sum+=num[i];
 		}
-		for(i=n/2-1;i>=0;i--)
-	    { 
-	        adjust(num,i,n);
-	    } 
-		for(i=0;i<k;i++)
+		for(i=n/2-1; i>=0; i--)
+		{
+			adjust(num,i,n);
+		}
+		for(i=0; i<k; i++)
 		{
 			temp=num[0];
 			num[0]/=2;

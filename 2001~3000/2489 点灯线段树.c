@@ -1,5 +1,5 @@
-#include<stdio.h> 
-#include<stdlib.h> 
+#include<stdio.h>
+#include<stdlib.h>
 
 int l[100005];
 int r[100005];
@@ -7,44 +7,57 @@ int t[200005][2];
 
 int turn;
 
-int cmp(const void *a,const void *b) 
-{ 
-	return *(int*)a-*(int*)b; 
+int cmp(const void *p1,const void *p2)
+{
+	int *a=(int *)p1;
+	int *b=(int *)p2;
+	if(*a>*b)
+	{
+		return 1;
+	}
+	else if(*a<*b)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 int main()
 {
-    int n,k;
-    while(~scanf("%d%d",&n,&k))
-    {
-        int i;
-        int p=0;
-        for(i=1;i<=k;i++)/* ¶ÁÈëk¸öLºÍk¸öR */ 
-        {
-            scanf("%d%d",&l[i],&r[i]);
-            t[++p][0]=l[i];
-            t[p][1]=1;
-            t[++p][0]=r[i]+1;/* ±ê¼ÇÃ¿¸öÊýÊÇL»¹ÊÇR+1 */
-            t[p][1]=2;
-        }
-        qsort(t+1,k*2,8,cmp);/* ÓÉÐ¡µ½´óÅÅÐò */
-        int ans=0;
-        for(i=1;i<=k*2;i++)
-        {
-            if(t[i][1]==1)/* Èç¹ûÓöµ½L£¬ËµÃ÷½øÈëµ½ÁËÒ»¸ö¿ª¹Ø·¶Î§ÄÚ */
-            {
-                turn++;
-            }
-            else/* Èç¹ûÓöµ½R+1£¬ËµÃ÷Àë¿ªÁËÒ»¸ö¿ª¹ØµÄ·¶Î§ */
-            {
-                turn--;
-            }
-            if(turn%2==0)/* Èô¸Ä±äºóturnÎªÅ¼Êý£¬ËµÃ÷´ÓÏÖÔÚµÄÎ»ÖÃµ½ÉÏÒ»¸öÎ»ÖÃµÄµÆ¶¼ÊÇÁÁµÄ */
-            {
-                ans+=t[i][0]-t[i-1][0];
-            }
-        }
-        printf("%d\n",ans);
-    }
-    return 0;
+	int n,k;
+	while(~scanf("%d%d",&n,&k))
+	{
+		int i;
+		int p=0;
+		for(i=1; i<=k; i++) /* è¯»å…¥kä¸ªLå’Œkä¸ªR */
+		{
+			scanf("%d%d",&l[i],&r[i]);
+			t[++p][0]=l[i];
+			t[p][1]=1;
+			t[++p][0]=r[i]+1;/* æ ‡è®°æ¯ä¸ªæ•°æ˜¯Lè¿˜æ˜¯R+1 */
+			t[p][1]=2;
+		}
+		qsort(t+1,k*2,8,cmp);/* ç”±å°åˆ°å¤§æŽ’åº */
+		int ans=0;
+		for(i=1; i<=k*2; i++)
+		{
+			if(t[i][1]==1)/* å¦‚æžœé‡åˆ°Lï¼Œè¯´æ˜Žè¿›å…¥åˆ°äº†ä¸€ä¸ªå¼€å…³èŒƒå›´å†… */
+			{
+				turn++;
+			}
+			else/* å¦‚æžœé‡åˆ°R+1ï¼Œè¯´æ˜Žç¦»å¼€äº†ä¸€ä¸ªå¼€å…³çš„èŒƒå›´ */
+			{
+				turn--;
+			}
+			if(turn%2==0)/* è‹¥æ”¹å˜åŽturnä¸ºå¶æ•°ï¼Œè¯´æ˜Žä»ŽçŽ°åœ¨çš„ä½ç½®åˆ°ä¸Šä¸€ä¸ªä½ç½®çš„ç¯éƒ½æ˜¯äº®çš„ */
+			{
+				ans+=t[i][0]-t[i-1][0];
+			}
+		}
+		printf("%d\n",ans);
+	}
+	return 0;
 }

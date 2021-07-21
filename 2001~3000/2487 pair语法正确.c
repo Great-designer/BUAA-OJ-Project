@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include<stdio.h>
 #include<string.h>
 
 char res[10000],s[1005][10];
@@ -9,15 +9,15 @@ int f()
 {
 	if(strcmp(s[cur],"pair")==0)
 	{
-		cur++; 
+		cur++;
 		strcat(res,"pair<");
 		f();
 		strcat(res,",");
-		if(f())//Èô´Ë´¦ÎÞÅÐ¶Ï£¬µ±ÊäÈëÎª{pair,int}Ê±£¬f»á¼ÌÐø·µ»Ø1µ¼ÖÂWA
-		{	 
+		if(f())//è‹¥æ­¤å¤„æ— åˆ¤æ–­ï¼Œå½“è¾“å…¥ä¸º{pair,int}æ—¶ï¼Œfä¼šç»§ç»­è¿”å›ž1å¯¼è‡´WA
+		{
 			strcat(res,">");
 			return 1;
-		} 
+		}
 	}
 	if(strcmp(s[cur],"int")==0)
 	{
@@ -32,27 +32,27 @@ int main()
 {
 	scanf("%d",&num);
 	int i;
-	for(i=0;i<num;i++)
+	for(i=0; i<num; i++)
 	{
-		memset(res,0,sizeof(char));//Ã¿¸öÑ­»·ºóÇå¿ÕÔ­ÏÈµÄres
+		memset(res,0,sizeof(char));//æ¯ä¸ªå¾ªçŽ¯åŽæ¸…ç©ºåŽŸå…ˆçš„res
 		scanf("%d",&k);
 		int j;
-		for(j=0;j<k;j++)
+		for(j=0; j<k; j++)
 		{
 			scanf("%s",s[j]);
 		}
 		cur=0;
-		if(strcmp(s[0],"int")!=0)//Èç¹ûµÚÒ»¸öµ¥´ÊÊÇintÔòÖ±½ÓÊä³öError 
-		{	
+		if(strcmp(s[0],"int")!=0)//å¦‚æžœç¬¬ä¸€ä¸ªå•è¯æ˜¯intåˆ™ç›´æŽ¥è¾“å‡ºError
+		{
 			t=f();
-		} 
-		if(cur!=k||t==0)//cur!=kÅÐ¶ÏÊÇ·ñÓÐÏîÊ£Óà
-		{ 
-			printf("Error occurred\n");//t==0ÊÇÅÐ¶Ïº¯ÊýÒì³£½áÊøµÄÇé¿ö
-		} 
+		}
+		if(cur!=k||t==0)//cur!=kåˆ¤æ–­æ˜¯å¦æœ‰é¡¹å‰©ä½™
+		{
+			printf("Error occurred\n");//t==0æ˜¯åˆ¤æ–­å‡½æ•°å¼‚å¸¸ç»“æŸçš„æƒ…å†µ
+		}
 		else
 		{
 			printf("%s\n",res);
 		}
-	}	
+	}
 }

@@ -3,56 +3,56 @@
 
 long long frequency;
 
-void merge(long long x[],long long tmp[],long long left,long long leftend,long long rightend)/*∫œ≤¢À„∑®*/
-{     
-    long long i=left,j=leftend+1,q=left;
-    while(i<=leftend&&j<=rightend)
-    {
-        if(x[i]<=x[j]) /*±»Ωœ¥Œ ˝ «÷∏¡Ω◊È”––Ú ˝æ›∫œ≤¢≥…“ª◊È ±µƒ±»Ωœ¥Œ ˝*/
-        {
-        	tmp[q++]=x[i++];
+void merge(long long x[],long long tmp[],long long left,long long leftend,long long rightend)/*ÂêàÂπ∂ÁÆóÊ≥ï*/
+{
+	long long i=left,j=leftend+1,q=left;
+	while(i<=leftend&&j<=rightend)
+	{
+		if(x[i]<=x[j]) /*ÊØîËæÉÊ¨°Êï∞ÊòØÊåá‰∏§ÁªÑÊúâÂ∫èÊï∞ÊçÆÂêàÂπ∂Êàê‰∏ÄÁªÑÊó∂ÁöÑÊØîËæÉÊ¨°Êï∞*/
+		{
+			tmp[q++]=x[i++];
 		}
-        else
-        {
-        	frequency+=leftend-i+1;
-        	tmp[q++]=x[j++];
+		else
+		{
+			frequency+=leftend-i+1;
+			tmp[q++]=x[j++];
 		}
-    }
-    while(i<=leftend)
-    {
-    	tmp[q++]=x[i++];
 	}
-    while(j<=rightend)
-    {
-    	tmp[q++]=x[j++];
+	while(i<=leftend)
+	{
+		tmp[q++]=x[i++];
 	}
-    for(i=left;i<=rightend;i++)
-    {
-    	x[i]=tmp[i];
+	while(j<=rightend)
+	{
+		tmp[q++]=x[j++];
+	}
+	for(i=left; i<=rightend; i++)
+	{
+		x[i]=tmp[i];
 	}
 }
 
-void mSort(long long k[],long long tmp[],long long left,long long right)/*µ˜”√merge ±£¨“™ π”√µ›πÈÀ„∑®*/
+void mSort(long long k[],long long tmp[],long long left,long long right)/*Ë∞ÉÁî®mergeÊó∂ÔºåË¶Å‰ΩøÁî®ÈÄíÂΩíÁÆóÊ≥ï*/
 {
-    long long center;
-    if(left<right)
+	long long center;
+	if(left<right)
 	{
-        center=(left+right)/2;
-        mSort(k,tmp,left,center);
-        mSort(k,tmp,center+1,right);
-        merge(k,tmp,left,center,right);
-    }
+		center=(left+right)/2;
+		mSort(k,tmp,left,center);
+		mSort(k,tmp,center+1,right);
+		merge(k,tmp,left,center,right);
+	}
 }
 
-void mergeSort(long long k[],long long n)/*∂˛¬∑πÈ≤¢≈≈–Ú*/
+void mergeSort(long long k[],long long n)/*‰∫åË∑ØÂΩíÂπ∂ÊéíÂ∫è*/
 {
-    long long*tmp;
-    tmp=(long long*)malloc(sizeof(long long)*n);
-    if(tmp!=NULL) 
+	long long*tmp;
+	tmp=(long long*)malloc(sizeof(long long)*n);
+	if(tmp!=NULL)
 	{
-        mSort(k,tmp,0,n-1);
-        free(tmp);
-    }
+		mSort(k,tmp,0,n-1);
+		free(tmp);
+	}
 }
 
 long long k[100002];
@@ -62,7 +62,7 @@ int main()
 	long long max;
 	scanf("%lld",&max);
 	long long i;
-	for(i=0;i<max;i++)
+	for(i=0; i<max; i++)
 	{
 		scanf("%lld",&k[i]);
 	}
