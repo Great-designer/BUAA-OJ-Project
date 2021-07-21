@@ -2,15 +2,15 @@
 #include<stdlib.h>
 #include<string.h>
 
-int maxProfit(int*prices, int pricesSize) 
+int maxProfit(int*prices, int pricesSize)
 {
 	int max=0;
 	int b=0;
-	int i; 
-	for(i=0;i<pricesSize-1;i++)
+	int i;
+	for(i=0; i<pricesSize-1; i++)
 	{
 		int a=prices[i+1]-prices[i];
-		b+=a;     //¼ÆËãÇ°¼¸ÌìÄÚ×î´óÊÕÒæ
+		b+=a;     //è®¡ç®—å‰å‡ å¤©å†…æœ€å¤§æ”¶ç›Š
 		if(b<0)
 		{
 			b=0;
@@ -32,7 +32,7 @@ int main()
 	{
 		memset(arr,0,sizeof(arr));
 		int i;
-		for(i=0;i<n;i++)
+		for(i=0; i<n; i++)
 		{
 			scanf("%d",&arr[i]);
 		}

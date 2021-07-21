@@ -1,47 +1,43 @@
 #include<stdio.h>
- 
+
 int m[550],c[550],w[550],f[2][30005],q[500005];
- 
+
 int main()
 {
 	int n,v;
-	while(~scanf("%d%d",&n,&v))/*ÓĞNÖÖÎïÆ·ºÍÒ»¸öÈİÁ¿ÎªVµÄ±³°ü*/
+	while(~scanf("%d%d",&n,&v))/*æœ‰Nç§ç‰©å“å’Œä¸€ä¸ªå®¹é‡ä¸ºVçš„èƒŒåŒ…*/
 	{
-		int i; 
-		for(i=1;i<=n;i++)/*µÚiÖÖÎïÆ·Ã¿¼ş·ÑÓÃÊÇc[i]£¬¼ÛÖµÊÇw[i]£¬×î¶àÓĞm[i]¼ş¿ÉÓÃ*/
+		int i;
+		for(i=1; i<=n; i++) /*ç¬¬iç§ç‰©å“æ¯ä»¶è´¹ç”¨æ˜¯c[i]ï¼Œä»·å€¼æ˜¯w[i]ï¼Œæœ€å¤šæœ‰m[i]ä»¶å¯ç”¨*/
 		{
-		    scanf("%d%d%d",&c[i],&w[i],&m[i]);
+			scanf("%d%d%d",&c[i],&w[i],&m[i]);
 		}
 		memset(f,0,sizeof(f));
 		memset(q,0,sizeof(q));
-		for(i=1;i<=n;i++)/*ÊıÑ§¹éÄÉ·¨£º·Åc[i]¡£f[now][v]±íÊ¾Ç°iÖÖÎïÆ·Ç¡·ÅÈëÒ»¸öÈİÁ¿ÎªvµÄ±³°üµÄ×î´ó¼ÛÖµ*/
+		for(i=1; i<=n; i++) /*æ•°å­¦å½’çº³æ³•ï¼šæ”¾c[i]ã€‚f[now][v]è¡¨ç¤ºå‰iç§ç‰©å“æ°æ”¾å…¥ä¸€ä¸ªå®¹é‡ä¸ºvçš„èƒŒåŒ…çš„æœ€å¤§ä»·å€¼*/
 		{
-		    int now=i%2,last;/*c[i-1]Êı¾İÔÚlastÀï*/
-		    last=now^1;
-		    int j;
-		    for(j=0;j<c[i];j++)/*jµÄÒâÒå±äÎªÓàÊı£¬k*c[i]+jÊÇ×ÜÊı£¬Ã¿´Î´ÓĞ¡Íù´óµ÷ÓÃc[i-1]Êı¾İ²¢¸üĞÂ*/
+			int now=i%2,last;/*c[i-1]æ•°æ®åœ¨lasté‡Œ*/
+			last=now^1;
+			int j;
+			for(j=0; j<c[i]; j++) /*jçš„æ„ä¹‰å˜ä¸ºä½™æ•°ï¼Œk*c[i]+jæ˜¯æ€»æ•°ï¼Œæ¯æ¬¡ä»å°å¾€å¤§è°ƒç”¨c[i-1]æ•°æ®å¹¶æ›´æ–°*/
 			{
-				//f[now][k*c[i]+j]
-				//=max{f[last][j]+k*w[i]|0<=k<=m[i]}
-				//=max(f[last][k*c[i]+j],f[last][j]+k*w[i])
-				//=max(f[last][k*c[i]+j],f[last][q[Front]*c[i]+j]+(k-q[Front])*w[i])
-		        int Rear=1,Front=1;
-		        q[1]=0;
-		        int k;
-		        for(k=0;k*c[i]+j<=v;k++)/*È¡µ½ÁË×î´óµÄf[last][j]+k*w[i]Ê±£¬ÔÙÍùÏÂÈ¡k¾ÍÃ»ÓĞÒâÒåÁË*/
+				int Rear=1,Front=1;
+				q[1]=0;
+				int k;
+				for(k=0; k*c[i]+j<=v; k++) /*å–åˆ°äº†æœ€å¤§çš„f[last][j]+k*w[i]æ—¶ï¼Œå†å¾€ä¸‹å–kå°±æ²¡æœ‰æ„ä¹‰äº†*/
 				{
-		            while(Front!=Rear&&k-q[Front]>m[i])/*Î¬»¤Ò»¸öµ¥µ÷¶ÓÁĞ£¬¶ÓÁĞÖĞ´æµÄÊÇk£¬Ê¹¶ÓÊ×Îª×î´óÖµ£¬Ã¿´Î°Ñ³¬³öm[i]¶ÓÊ×É¾È¥*/
+					while(Front!=Rear&&k-q[Front]>m[i])/*ç»´æŠ¤ä¸€ä¸ªå•è°ƒé˜Ÿåˆ—ï¼Œé˜Ÿåˆ—ä¸­å­˜çš„æ˜¯kï¼Œä½¿é˜Ÿé¦–ä¸ºæœ€å¤§å€¼ï¼Œæ¯æ¬¡æŠŠè¶…å‡ºm[i]é˜Ÿé¦–åˆ å»*/
 					{
 						Front++;
 					}
-		            f[now][k*c[i]+j]=(f[last][k*c[i]+j]>(f[last][q[Front]*c[i]+j]+(k-q[Front])*w[i])?f[last][k*c[i]+j]:(f[last][q[Front]*c[i]+j]+(k-q[Front])*w[i]));
-		            while(Front<=Rear&&f[last][q[Rear]*c[i]+j]+w[i]*(k-q[Rear])<=f[last][k*c[i]+j])/*°Ñ¶ÓÎ²Ğ¡ÓÚÃ¶¾ÙµÄf[last][j]+k*w[i]É¾È¥*/
+					f[now][k*c[i]+j]=(f[last][k*c[i]+j]>(f[last][q[Front]*c[i]+j]+(k-q[Front])*w[i])?f[last][k*c[i]+j]:(f[last][q[Front]*c[i]+j]+(k-q[Front])*w[i]));
+					while(Front<=Rear&&f[last][q[Rear]*c[i]+j]+w[i]*(k-q[Rear])<=f[last][k*c[i]+j])/*æŠŠé˜Ÿå°¾å°äºæšä¸¾çš„f[last][j]+k*w[i]åˆ å»*/
 					{
 						Rear--;
 					}
-		            q[++Rear]=k;/*¼ÇÂ¼µ±Ç°È¡ÁË¶àÉÙ¸ö¸ÃÎïÆ·*/
-		        }
-		    }
+					q[++Rear]=k;/*è®°å½•å½“å‰å–äº†å¤šå°‘ä¸ªè¯¥ç‰©å“*/
+				}
+			}
 		}
 		printf("%d\n",f[n%2][v]);
 	}
