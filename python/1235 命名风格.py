@@ -13,5 +13,6 @@ for i in range(1, len(n)):
     else:
         m.insert(j, n[i])
         j += 1
-for i in range(0, len(m)): s += m[i]
+for i in range(0, len(m)):
+    s += m[i]
 print(s)
