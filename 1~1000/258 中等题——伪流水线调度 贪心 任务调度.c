@@ -13,19 +13,19 @@ int compare(const void *p1,const void *p2)
 	struct Task *b=(struct Task *)p2;
 	if(a->x>b->x)
 	{
-		return 1;
+		return -1;
 	}
 	else if(a->x<b->x)
 	{
-		return -1;
+		return 1;
 	}
 	else if(a->y>b->y)
 	{
-		return 1;
+		return -1;
 	}
 	else if(a->y<b->y)
 	{
-		return -1;
+		return 1;
 	}
 	else
 	{
