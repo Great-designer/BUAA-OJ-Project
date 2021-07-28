@@ -18,19 +18,19 @@ int compare(const void *p1,const void *p2)
 	struct Stu *b=(struct Stu *)p2;
 	if(a->vote>b->vote)
 	{
-		return 1;
+		return -1;
 	}
 	else if(a->vote<b->vote)
 	{
-		return -1;
+		return 1;
 	}
 	else if(a->id<b->id)
 	{
-		return 1;
+		return -1;
 	}
 	else if(a->id>b->id)
 	{
-		return -1;
+		return 1;
 	}
 	else
 	{
