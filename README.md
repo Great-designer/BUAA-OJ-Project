@@ -132,7 +132,7 @@ OJ4th地址：https://accoding.cn
 
 853 北京仰望星空大学的飞船 854 TQ的图像处理 859 ModricWang解方程（2）
 
-881 JumbledCommunication 882 MergeMultiset 883 RankingSystem 886 你会写月份的英文吗
+882 MergeMultiset 883 RankingSystem 886 你会写月份的英文吗
 
 889 摄氏华氏温度转换 894 韩主席来发夜宵啦 895 交换生资格审核 897 QZZ的世界观测
 
