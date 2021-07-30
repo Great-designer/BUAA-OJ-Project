@@ -10,18 +10,16 @@ int n;
 
 void write(long long x)
 {
-	//if (x < 0)putchar('-'), x = -x;
 	if (x > 9)write(x / 10);
 	putchar(x % 10 + 48);
 }
 
 long long read()
 {
-	long long k = 0; //f = 1;
+	long long k = 0;
 	char c = getchar();
 	while (c < '0' || c>'9')
 	{
-		//if (c == '-')f = -1;
 		c = getchar();
 	}
 	while (c >= '0' && c <= '9')
@@ -29,7 +27,7 @@ long long read()
 		k = (k << 1) + (k << 3) + c - 48;
 		c = getchar();
 	}
-	return k;// *f;
+	return k;
 }
 
 long long s_sum;
@@ -51,9 +49,9 @@ struct hero
 	};
 };
 
-hero heros[100010];
+struct hero heros[100010];
 
-priority_queue<hero> q;
+priority_queue<struct hero> q;
 
 int main()
 {

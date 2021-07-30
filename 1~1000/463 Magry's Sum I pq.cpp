@@ -1,5 +1,5 @@
-#include<iostream>
-#include<algorithm>
+#include<stdio.h>
+
 #include<queue>
 
 using namespace std;
@@ -23,8 +23,7 @@ void merge_sort(int lo, int hi, int* N)
 		int himark = mi;
 		while (lomark < mi || himark < hi)
 		{
-			if ((N[lomark] <= N[himark] || himark >= hi) &&
-			        lomark < mi)
+			if ((N[lomark] <= N[himark] || himark >= hi) &&lomark < mi)
 			{
 				temp[tempmark++] = N[lomark++];
 			}
@@ -49,12 +48,10 @@ struct Sum
 		sum = s;
 		bmark = b;
 	}
-
 	bool operator < (const Sum& b) const
 	{
 		return sum > b.sum;
 	}
-
 };
 
 void merge_queue(int* A, int* B, int* C, int limit)

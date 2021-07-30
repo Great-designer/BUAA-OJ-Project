@@ -5,24 +5,24 @@ using namespace std;
 
 void write(int x)
 {
-	if (x < 0)putchar_unlocked('-'), x = -x;
+	if (x < 0)putchar('-'), x = -x;
 	if (x > 9)write(x / 10);
-	putchar_unlocked(x % 10 + 48);
+	putchar(x % 10 + 48);
 }
 
 int read()
 {
 	int k = 0, f = 1;
-	char c = getchar_unlocked();
+	char c = getchar();
 	while (c < '0' || c>'9')
 	{
 		if (c == '-')f = -1;
-		c = getchar_unlocked();
+		c = getchar();
 	}
 	while (c >= '0' && c <= '9')
 	{
 		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar_unlocked();
+		c = getchar();
 	}
 	return k * f;
 }
@@ -48,6 +48,6 @@ int main()
 			}
 		}
 		nth_element(result, result+k-1, result+len);
-		write(result[k-1]),putchar_unlocked('\n');
+		write(result[k-1]),putchar('\n');
 	}
 }
