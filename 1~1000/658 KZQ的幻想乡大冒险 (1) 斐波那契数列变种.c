@@ -25,6 +25,6 @@ int main()
 	int n;
 	while(scanf("%d",&n)!=EOF)
 	{
-		printf("%d\n",(n > 16 ? ((dp[n] - dp[n - 16]) << 1):(dp[n] << 1)));
+		printf("%lld\n",(n > 16 ? ((dp[n] - dp[n - 16]) << 1):(dp[n] << 1)));
 	}
 }
