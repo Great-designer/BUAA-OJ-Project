@@ -68,6 +68,8 @@ int ans[505050*2];
 
 int main()
 {
+	int n;
+	scanf("%d",&n);
 	while(~scanf("%s%s",a,b))
 	{
 		int lena=strlen(a);
@@ -105,8 +107,8 @@ int main()
 		}
 		for(i=0; i<n; ++i)
 		{
-			ans[i+1]+=ans[i]/8;
-			ans[i]%=8;
+			ans[i+1]+=ans[i]/10;
+			ans[i]%=10;
 		}
 		int pos=lena+lenb-1;
 		while(pos>0&&ans[pos]<=0)
