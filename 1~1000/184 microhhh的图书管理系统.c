@@ -38,25 +38,6 @@ char tmp[315];
 char tmpBookname[105];
 char tmpInstruct[7];
 
-void printLibrary()
-{
-    int i;
-    for(i=0;i<librarysize;++i)
-    {
-        printf("number : %d\nauthor : %s\nname : %s\nstatus : %s\n",i,library[i].author,library[i].name,(library[i].returned?"Returned":"Borrowed"));
-    }
-}
-
-void printReturnStack()
-{
-    int i;
-    for(i=0;i<stacksize;++i)
-    {
-        printf("%d ",returnStack[i]);
-    }
-    printf("\n");
-}
-
 void readline()
 {
     scanf("%[^\n]",tmp);

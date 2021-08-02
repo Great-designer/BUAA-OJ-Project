@@ -2,7 +2,6 @@
 #include<string.h>
 
 char buf[10005];
-char af[10];
 char stack[2005];
 const char s1[10]="esolc",s2[5]="abc",s3[10]="dnalsi";
 

@@ -14,7 +14,6 @@ char handle()
 	int pos;
 	if ((pos = a.find(" ")) == a.npos)return 0;
 	a = a.replace(0, pos + 1, "");
-	if ((pos = a.find(" ")) != a.npos)return 0;
 	return 1;
 }
 

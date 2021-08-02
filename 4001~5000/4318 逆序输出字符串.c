@@ -1,15 +1,15 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
-#include <ctype.h>
-#include <string.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+#include<ctype.h>
+#include<string.h>
 
 char buffer[100][1020] = {0};
 
 void reverse(char *str)
 {
 	int n = strlen(str);
-	char tmp = 0;
+	char tmp;
 	int lb = 0,ub = n - 1;
 	while(lb < ub)
 	{
@@ -21,7 +21,7 @@ void reverse(char *str)
 	}
 }
 
-int main(int argc,char **argv)
+int main()
 {
 	int cur = 0;
 	while(gets(buffer[cur]))

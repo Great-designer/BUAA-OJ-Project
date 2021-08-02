@@ -22,8 +22,8 @@ int main()
 {
 	int n,T;
 	scanf("%d%d",&n,&T);
-	int i,j;
-	for(i=0;i<n;i++)
+	int i;
+	for(i=0; i<n; i++)
 	{
 		scanf("%d%d",&water[i].t,&water[i].d);
 		water[i].u=(double)water[i].d/(double)water[i].t;

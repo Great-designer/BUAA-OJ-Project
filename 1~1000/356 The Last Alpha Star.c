@@ -20,8 +20,8 @@ void mCreate(struct mtree **t)
 	char ok=1;
 	char ch;
 	int l=strlen(a);
-	int i; 
-	for(i=0;i<l;i++)
+	int i;
+	for(i=0; i<l; i++)
 	{
 		ch=a[i];
 		switch(ch)
@@ -32,7 +32,6 @@ void mCreate(struct mtree **t)
 				ok=1;
 				break;
 			case')':
-				q=s[top-1];
 				top--;
 				break;
 			case',':
@@ -72,10 +71,10 @@ void find1(struct mtree*t,int cnt,int l)
 		{
 			cnt+=t->data;
 			if(l==cnt)
-			{	
+			{
 				flag=1;
 				int i;
-				for(i=0;i<level;i++)
+				for(i=0; i<level; i++)
 				{
 					printf("%d ",q1[i]);
 				}
@@ -102,7 +101,7 @@ int main()
 	int n,l;
 	scanf("%d",&n);
 	int i;
-	for(i=1;i<=n;i++)
+	for(i=1; i<=n; i++)
 	{
 		scanf("%s",a);
 		scanf("%d",&l);

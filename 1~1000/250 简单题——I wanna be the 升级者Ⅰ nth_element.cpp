@@ -17,7 +17,6 @@ bool cmp(struct map a, struct map b)
 }
 
 int n, k;
-bool isEnd;
 
 void init()
 {
@@ -34,7 +33,7 @@ int read()
 		k = (k << 1) + (k << 3) + c - 48;
 		c = getchar();
 	}
-	if (c == EOF)isEnd = true;
+	if (c == EOF);
 	return k;
 }
 

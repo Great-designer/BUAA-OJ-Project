@@ -31,8 +31,8 @@ void mergesort(int lo,int hi,int *N)
 				temp[tempmark++]=N[himark++];
 			}
 		}
-		int i; 
-		for(i=lo;i<hi;i++)
+		int i;
+		for(i=lo; i<hi; i++)
 		{
 			N[i]=temp[i];
 		}
@@ -57,13 +57,12 @@ struct Sum
 void mergequeue(int *A,int *B,int *C,int limit)
 {
 	priority_queue<struct Sum> queue;
-	int counter=0;
 	int i;
-	for(i=0;i<n;++i)
+	for(i=0; i<n; ++i)
 	{
 		queue.push(Sum(A[i]+B[0],0));
 	}
-	for(i=0;i<limit;++i)
+	for(i=0; i<limit; ++i)
 	{
 		Sum smallest=queue.top();
 		queue.pop();
@@ -81,12 +80,12 @@ int main()
 	while(~scanf("%d%d",&n,&k))
 	{
 		int i;
-		for(i=0;i<n;i++)
+		for(i=0; i<n; i++)
 		{
 			scanf("%d",&a[i]);
 		}
 		mergesort(0,n,a);
-		for(i=0;i<n;i++)
+		for(i=0; i<n; i++)
 		{
 			scanf("%d",&b[i]);
 		}

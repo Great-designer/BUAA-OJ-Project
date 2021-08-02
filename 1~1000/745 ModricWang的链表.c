@@ -15,7 +15,7 @@ struct node *CREAT(int n)
 	struct node *p,*r,*list=NULL;
 	int a=0;
 	int i;
-	for(i=0;i<n;i++)
+	for(i=0; i<n; i++)
 	{
 		p=(struct node*)malloc(sizeof(struct node));
 		p->data=a;
@@ -90,7 +90,6 @@ struct node *ERASE(struct node *list,int a)
 		{
 			q->link=p->link;
 			free(p);
-			p=q->link;
 			found=1;
 			break;
 		}
@@ -178,7 +177,7 @@ int main()
 		}
 		else if(strcmp(str,"find")==0)
 		{
-			int a,pos=0;
+			int a,pos;
 			scanf("%d",&a);
 			pos=FIND(head,a);
 			if(pos!=-1)

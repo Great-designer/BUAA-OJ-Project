@@ -5,7 +5,7 @@ int cmp(const void *a,const void *b)
 {
 	return *((int *)b) - (*(int *)a);
 }
-int main(int argc,char **argv)
+int main()
 {
 	int n,m,i;
 	scanf("%d%d",&n,&m);

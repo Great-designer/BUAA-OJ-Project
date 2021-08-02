@@ -102,7 +102,7 @@ void spfa(const int V, const int s)
 
 	int h = 0, t = 0, q_size = 0;
 	queue[t++] = s;
-	long long sum;
+	long long sum = 0;
 	while (h != t)
 	{
 		while (dist_src[queue[h]] * q_size > sum)	// LLL

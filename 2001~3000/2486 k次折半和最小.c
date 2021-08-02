@@ -25,23 +25,6 @@ void adjust(int k[],int i,int n)/*调整子算法*/
 	k[(j-1)/2]=temp;
 }
 
-void heapSort(int k[],int n)/*堆排序*/
-{
-	int i;
-	int temp;
-	for(i=n/2-1; i>=0; i--)
-	{
-		adjust(k,i,n);
-	}
-	for(i=n-1; i>=1; i--)
-	{
-		temp=k[i];
-		k[i]=k[0];
-		k[0]=temp;
-		adjust(k,0,i);
-	}
-}
-
 int num[100005];
 
 int main()

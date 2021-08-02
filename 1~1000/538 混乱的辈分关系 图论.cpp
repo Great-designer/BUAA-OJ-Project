@@ -36,7 +36,7 @@ struct Info info[110];
 
 char ifAcalledBsonsFather(Info a, Info b)
 {
-	int A = a.num, B = b.num;
+	int B = b.num;
 	char flag = 0;
 	for (int i = 0; i < a.fathers.size(); ++i)
 	{

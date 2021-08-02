@@ -3,27 +3,26 @@
 #include<string.h>
 
 int p[1010];
-int r[1010];	
+int r[1010];
 
 int bottom_up_ut_rod(int n)
 {
 	int j;
-	for(j=0;j<=n;++j)
+	for(j=0; j<=n; ++j)
 	{
 		r[j]=p[j];
 	}
-//	memset(0,r,sizeof(int));	
-	int q=2147483;
-	for(j=1;j<=n;++j)	
-	{	
-		q=2147483;	
+	int q;
+	for(j=1; j<=n; ++j)
+	{
+		q=2147483;
 		int i;
-		for(i=1;i<=j;++i)
+		for(i=1; i<=j; ++i)
 		{
-			q=(q<(p[i]+r[j-i])?q:(p[i]+r[j-i]));		
-		}					
-		r[j]=q;	
-	} 	
+			q=(q<(p[i]+r[j-i])?q:(p[i]+r[j-i]));
+		}
+		r[j]=q;
+	}
 	return r[n];
 }
 
@@ -33,8 +32,7 @@ int main()
 	int n;
 	while(~scanf("%d",&n))
 	{
-//		memset(0,p,sizeof(int));
-		for(i=1;i<=n;i++)
+		for(i=1; i<=n; i++)
 		{
 			scanf("%d",&p[i]);
 		}

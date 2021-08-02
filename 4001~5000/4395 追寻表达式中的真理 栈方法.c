@@ -90,7 +90,6 @@ int cnt;
 
 int c(int L,int R)
 {
-	int x,y;
 	if(L>R)
 	{
 		return 0;
@@ -200,7 +199,7 @@ int c(int L,int R)
 		return ++cnt;
 	}
 	q[++t]=c(L,mid-1);
-	q[++t]=(y=c(mid+1,R));
+	q[++t]=(c(mid + 1, R));
 	printf("%c ",str[mid]);
 	if(q[t-1]<0)
 	{

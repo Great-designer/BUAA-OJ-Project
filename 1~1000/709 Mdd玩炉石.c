@@ -13,7 +13,7 @@ int flag=0;
 
 struct node *create()
 {
-	struct node *p,*q,*r,*head;
+	struct node *p,*q,*head;
 	head=(struct node*)malloc(sizeof(struct node));
 	p=(struct node*)malloc(sizeof(struct node));
 	int x;
@@ -37,21 +37,19 @@ struct node *create()
 
 struct node *reverse(struct node *head,int n)
 {
-	struct node *p,*q,*r,*s,*c;
+	struct node *p,*q,*r,*s;
 	p=head;
 	q=p->next;
 	r=q->next;
 	s=q;
-	c=head;
 	int counter=1;
 	if(n>length)
 	{
 		return head;
 	}
 	int cnt=length/n;
-	int a=0;
 	int i;
-	for(i=0;i<cnt;i++)
+	for(i=0; i<cnt; i++)
 	{
 		while(counter<n)
 		{
@@ -67,7 +65,7 @@ struct node *reverse(struct node *head,int n)
 			r=q->next;
 		}
 		p=q;
-		if(q==NULL||q->next==NULL||q->next==NULL)
+		if(q->next == NULL || q->next == NULL)
 		{
 			break;
 		}
@@ -87,7 +85,7 @@ void print(struct node *head)
 		printf("%d ",p->data);
 		p=p->next;
 	}
-	printf("\n"); 
+	printf("\n");
 }
 
 int main()

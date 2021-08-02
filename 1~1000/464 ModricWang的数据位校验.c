@@ -2,11 +2,10 @@
 
 char read()
 {
-	int k = 0, f = 1;
+	int k = 0;
 	char c = getchar();
 	while (c < '0' || c>'9')
 	{
-		if (c == '-')f = -1;
 		c = getchar();
 	}
 	while (c >= '0' && c <= '9')

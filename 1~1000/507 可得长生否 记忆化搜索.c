@@ -18,11 +18,6 @@ char isLegal(int x, int y)
 	return x > 0 && x <= r && y > 0 && y <= c;
 }
 
-char debug(int x, int y)
-{
-	return x == 3 && y == 2 && 0;
-}
-
 int dfs(int x, int y)
 {
 	if (occur[x][y])return dp[x][y];

@@ -6,7 +6,7 @@ long long FastPower(long long base,long long exponent)
 	long long power=1;
 	for(; exponent!=0; exponent>>=1)
 	{
-		if(exponent&1==1)
+		if(exponent&(1==1))
 		{
 			power=power*base%998244353;
 		}
@@ -27,7 +27,7 @@ long long Det(long long n)
 		long long i;
 		for(i=k+1; i<n; i++)
 		{
-			if(abs(A[i][k])>abs(A[maxr][k]))
+			if(llabs(A[i][k])>llabs(A[maxr][k]))
 			{
 				maxr=i;
 			}

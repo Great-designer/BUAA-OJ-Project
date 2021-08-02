@@ -95,41 +95,13 @@ struct Point
 struct Line
 {
 	struct Point s,e;
-	void adjust()
-	{
-		if (e < s)
-		{
-			struct Point temp=s;
-			s=e;
-			e=temp;
-		}
-	}
-	bool operator == (struct Line v)
+
+    bool operator == (struct Line v)
 	{
 		return s == v.s || e == v.e;
 	}
-	bool parallel(struct Line v)
-	{
-		return sgn((e - s) ^ (v.e - v.s)) == 0;
-	}
-	int segcrossseg(struct Line v)
-	{
-		//本题重合视为相交,在这里统一视为非规范相交
-		//重合是否算相交视情况而定
-		//2:规范 1:非规范 0:不相交
-		int d1 = sgn((e - s) ^ (v.s - s));
-		int d2 = sgn((e - s) ^ (v.e - s));
-		int d3 = sgn((v.e - v.s) ^ (s - v.s));
-		int d4 = sgn((v.e - v.s) ^ (e - v.s));
-		//位运算技巧:两者异号就是相跨,规范相交
-		if ((d1 ^ d2) == -2 && (d3 ^ d4) == -2)return 2;
-		bool b1 = (d1 == 0 && sgn((v.s - s) * (v.s - e)) <= 0);
-		bool b2 = (d2 == 0 && sgn((v.e - s) * (v.e - e)) <= 0);
-		bool b3 = (d3 == 0 && sgn((s - v.s) * (s - v.e)) <= 0);
-		bool b4 = (d4 == 0 && sgn((e - v.s) * (e - v.e)) <= 0);
-		return (int)(b1 || b2 || b3 || b4);
-	}
-	//线段直线相交 *this是直线 v是线段 返回值同上
+
+    //线段直线相交 *this是直线 v是线段 返回值同上
 	int linecrossseg(struct Line v)
 	{
 		double d1 = (e-s)^(v.s-s);

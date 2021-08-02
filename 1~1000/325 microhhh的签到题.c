@@ -8,7 +8,6 @@ long long AmulBmodP(long long a,long long b,long long c)
 long long a[100010];
 long long ans;
 int n;
-char flag2,flag3;
 
 int main()
 {
@@ -20,8 +19,7 @@ int main()
 			scanf("%lld",a+i);
 		}
 		ans=1;
-		flag2=flag3=1;
-		long long b=a[1],c=a[1]+1,d=(a[1]<<1)+1;
+        long long b=a[1],c=a[1]+1,d=(a[1]<<1)+1;
 		if(b%2==0)
 		{
 			b>>=1;

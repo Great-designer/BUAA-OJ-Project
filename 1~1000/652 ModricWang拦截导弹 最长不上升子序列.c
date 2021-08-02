@@ -33,7 +33,7 @@ int n;
 int upper_bound(int a[], int lo, int hi, int val)
 {
 	if (val >= a[hi]) return hi + 1;
-	int mi = 0;
+	int mi;
 	while (lo < hi)
 	{
 		mi = (lo + hi) >> 1;

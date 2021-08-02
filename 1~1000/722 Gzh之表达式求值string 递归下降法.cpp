@@ -69,7 +69,7 @@ long long fast_pow(long long a, long long b)
 
 long long value_expression::parse_expr()
 {
-	long long num1 = 0, num2 = 0;
+	long long num1, num2;
 	char op = cur_char();
 	if (op == '-')
 	{
@@ -102,8 +102,8 @@ long long value_expression::parse_expr()
 
 long long value_expression::parse_term()
 {
-	long long num1 = 0, num2 = 0;
-	char op = 0;
+	long long num1, num2;
+	char op;
 	num1 = parse_factor_2();
 	while (is_op_2())
 	{
@@ -130,8 +130,7 @@ long long value_expression::parse_term()
 
 long long value_expression::parse_factor_2()
 {
-	long long num1 = 0, num2 = 0;
-	char op = 0;
+	long long num1, num2;
 	num1 = parse_factor();
 	if (is_op_3())
 	{
@@ -144,7 +143,7 @@ long long value_expression::parse_factor_2()
 
 long long value_expression::parse_factor()
 {
-	long long ret = 0;
+	long long ret;
 	if (cur_char() == '(')
 	{
 		next();//skip '('
@@ -184,7 +183,7 @@ int main()
 	while (scanf("%s", input) != EOF)
 	{
 		std::string s = std::string(input);
-		int pos = -1;
+		int pos;
 		while ((pos = s.find("**")) != s.npos)
 		{
 			s.replace(pos, 2, "^");

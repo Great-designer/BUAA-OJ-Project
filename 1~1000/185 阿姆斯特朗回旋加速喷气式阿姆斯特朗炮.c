@@ -4,7 +4,6 @@
 int G[1212][1212];
 int top[1212];
 
-char tempmp[1212];
 int mp[1212][1212];
 int lmarry[1212],rmarry[1212];
 char visl[1212],visr[1212];

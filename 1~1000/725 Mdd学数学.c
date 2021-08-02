@@ -16,7 +16,7 @@ void check(char x1,char y1,char x2,char y2,char x3,char y3)
 	{
 		if(a[i]==x1)
 		{
-			if(!top==0&&m[top-1]!=x1)
+			if(!(top==0)&&m[top-1]!=x1)
 			{
 				flag=0;
 				break;
@@ -41,7 +41,7 @@ void check(char x1,char y1,char x2,char y2,char x3,char y3)
 		}
 		if(a[i]==x2)
 		{
-			if(!top==0&&m[top-1]!=x1)
+			if(!(top==0)&&m[top-1]!=x1)
 			{
 				flag=0;
 				break;
@@ -66,7 +66,7 @@ void check(char x1,char y1,char x2,char y2,char x3,char y3)
 		}
 		if(a[i]==x3)
 		{
-			if(!top==0&&m[top-1]!=x2)
+			if(!(top==0)&&m[top-1]!=x2)
 			{
 				flag=0;
 				break;
@@ -90,7 +90,7 @@ void check(char x1,char y1,char x2,char y2,char x3,char y3)
 			}
 		}
 	}
-	if(!top==0)
+	if(!(top==0))
 	{
 		flag=0;
 	}

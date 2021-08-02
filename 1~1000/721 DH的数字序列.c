@@ -9,7 +9,7 @@ int main()
 {
 	while(~scanf("%d",&n))
 	{
-		int j1=0,j2=1;
+		int j1,j2=1;
 		tmpLen=1,len=0;
 		int i;
 		for(i=0;i<n;++i)

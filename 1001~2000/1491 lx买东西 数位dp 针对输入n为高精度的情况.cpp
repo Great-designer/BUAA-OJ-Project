@@ -31,16 +31,8 @@ struct BigInteger
 		}
 		if (cur)num[++size] = cur;
 	}
-	BigInteger(const unsigned long long& a)
-	{
-		memset(num, 0, sizeof(num));
-		size = 3;
-		num[1] = a % 100000000;
-		num[2] = (a % (100000000 * 100000000)) / 100000000;
-		num[3] = a / (100000000 * 100000000);
-		while (size && !num[size])--size;
-	}
-	void print()
+
+    void print()
 	{
 		printf("%llu", num[size]);
 		for (int i = size - 1; i > 0; --i)printf("%08llu", num[i]);

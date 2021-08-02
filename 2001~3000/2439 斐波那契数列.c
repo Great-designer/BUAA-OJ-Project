@@ -18,13 +18,13 @@ int main()
 	lucas[1]=3;
 	lucas[2]=7;
 	lucas[3]=47;
-	for(i=1;i<=40;i++)
+	for(i=1; i<=40; i++)
 	{
 		lucas[i]=(lucas[i-1]*lucas[i-1]+x)%1000007;
 		x=-2;
 		fibonacci[i]=(fibonacci[i-1]*lucas[i-1])%1000007;
 	}
-	long long n,m,t=0,ans,tmp,d,e;
+	long long n,m,t,ans,tmp,d,e;
 	while(~scanf("%lld",&n))
 	{
 		t=0;
@@ -45,9 +45,7 @@ int main()
 		}
 		ans=0;
 		tmp=2;
-		d=0;
-		e=0;
-		for(i=0;i<t;i++)
+		for(i=0; i<t; i++)
 		{
 			if(k[i]==1)
 			{

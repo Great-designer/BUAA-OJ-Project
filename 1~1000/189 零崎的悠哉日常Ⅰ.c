@@ -14,7 +14,7 @@ int cmp(const void*p1,const void*p2)
 	struct Node*a=(struct Node*)p1;
 	struct Node*b=(struct Node*)p2;
     return a->time>b->time?1:-1;
-};
+}
 
 struct Node no[10000];
 

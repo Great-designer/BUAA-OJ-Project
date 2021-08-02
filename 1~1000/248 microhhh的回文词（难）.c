@@ -36,11 +36,11 @@ int main()
 		{
 			printf("%s -- is a mirrored palindrome.\n",s);
 		}
-		else if(isMirrored&&!isPalindrome)
+		else if(isMirrored != 0)
 		{
 			printf("%s -- is a mirrored string.\n",s);
 		}
-		else if(!isMirrored&&isPalindrome)
+		else if(isPalindrome != 0)
 		{
 			printf("%s -- is a regular palindrome.\n",s);
 		}

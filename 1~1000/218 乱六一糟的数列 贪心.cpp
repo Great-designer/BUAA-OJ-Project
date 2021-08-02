@@ -6,8 +6,15 @@ using namespace std;
 
 void write(int x)
 {
-	if (x < 0)putchar('-'), x = -x;
-	if (x > 9)write(x / 10);
+	if (x < 0)
+	{
+		putchar('-');
+		x = -x;
+	}
+	if (x > 9)
+	{
+		write(x / 10);
+	}
 	putchar(x % 10 + 48);
 }
 
@@ -17,7 +24,10 @@ int read()
 	char c = getchar();
 	while (c < '0' || c>'9')
 	{
-		if (c == '-')f = -1;
+		if (c == '-')
+		{
+			f = -1;
+		}
 		c = getchar();
 	}
 	while (c >= '0' && c <= '9')
@@ -30,9 +40,7 @@ int read()
 
 int n;
 int tmp;
-int count1;
 int ans;
-int last_position;
 bool occur[1300000];
 
 int main()
@@ -41,9 +49,13 @@ int main()
 	{
 		set<int> flag;
 		n <<= 1;
-		ans = 0, last_position = 0;
-		for (int i = 2; i <= n; i += 2)flag.insert(i);
-		for (int i = 1; i <= n; ++i)
+		ans = 0;
+		int i;
+		for (i = 2; i <= n; i += 2)
+		{
+			flag.insert(i);
+		}
+		for (i = 1; i <= n; ++i)
 		{
 			tmp = read();
 			if (tmp == 1)
@@ -55,6 +67,7 @@ int main()
 				}
 			}
 		}
-		write(flag.size()), putchar('\n');
+		write(flag.size());
+		putchar('\n');
 	}
 }

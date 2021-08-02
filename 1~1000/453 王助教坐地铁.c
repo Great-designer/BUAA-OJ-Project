@@ -3,28 +3,30 @@
 
 int main()
 {
-    int n=1,x,l,ll=0,flag=1;
-    scanf("%d",&x);
-    while(~scanf("%d",&l))
+	int n=1,flag=1;
+	int x;
+	scanf("%d",&x);
+	int l;
+	while(~scanf("%d",&l))
 	{
-        if(x-l<=0)
+		if(x-l<=0)
 		{
-            flag=0;
-            if(x>l-x)
+			flag=0;
+			if(x>l-x)
 			{
 				printf("%d",n+1);
 			}
-            else
+			else
 			{
 				printf("%d",n);
 			}
-            break;
-        }
-        ll=l;
+			break;
+		}
+		l;
 		n++;
 		x-=l;
-    }
-    if(flag)
+	}
+	if(flag)
 	{
 		printf("%d",n);
 	}

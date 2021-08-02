@@ -10,82 +10,64 @@
 #include <map>
 #include <iostream>
 #include <algorithm>
+
 using namespace std;
-#define MP make_pair
-#define PB push_back
+
 typedef long long LL;
-typedef pair<int, int> Pii;
 const int inf = 0x3f3f3f3f;
-const LL INF = (1uLL << 63) - 1;
 const LL mod = 1000000007;
 const int N = 1e5 + 5;
 const double Pi = acos(-1.0);
 const int maxn = 200 + 5;
+
 namespace IO
 {
-
 	const int MT = 5e7; //1e711000kb
-
 	char buf[MT];
-
 	int c, sz;
-
 	void begin()
 	{
-
 		c = 0;
-
 		sz = fread(buf, 1, MT, stdin);
-
 	}
-
-	inline bool read(int &t)
+	bool read(int &t)
 	{
-
 		while(c < sz && buf[c] != '-' && (buf[c] < '0' || buf[c] > '9')) c++;
-
 		if(c >= sz) return false;
-
 		bool flag = 0;
-
 		if( buf[c] == '-')flag = 1, c++;
-
 		for(t = 0; c < sz && '0' <= buf[c] && buf[c] <= '9'; c++) t = t * 10 + buf[c] - '0';
-
 		if(flag) t = -t;
-
 		return true;
-
-	} inline bool read(char s[])
+	}
+	bool read(char s[])
 	{
 
 		while(c < sz && (buf[c] == ' ' || buf[c] == '\n')) c++;
-
 		if(c >= sz) return false;
-
 		int len = 0;
-
 		while(c < sz && buf[c] != ' ' && buf[c] != '\n') s[len++] = buf[c], c++;
-
 		s[len] = 0;
-
 		return true;
-
 	}
-
 }
+
 using namespace IO;
+
 struct point
 {
 	int x, y;
 } points[maxn];
+
 struct node
 {
 	int x, y;
 	int next;
 } T[maxn];
+
 int head[maxn];
 int top;
+
 void build(point p)
 {
 	int sum = (1LL * p.x * p.x + 1LL * p.y * p.y) % maxn;
@@ -94,6 +76,7 @@ void build(point p)
 	T[top].next = head[sum];
 	head[sum] = top++;
 }
+
 bool query(point p)
 {
 	int sum = (1LL * p.x * p.x + 1LL * p.y * p.y) % maxn;
@@ -108,11 +91,9 @@ bool query(point p)
 	}
 	return 0;
 }
+
 int main()
 {
-#ifdef local
-	freopen("in", "r", stdin);
-#endif
 	begin();
 	int T;
 	read(T);

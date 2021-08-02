@@ -59,8 +59,7 @@ long long dfs(long long pos, long long limitl, long long limitr)
 
 long long solve(long long l, long long r, long long k)  //此处修改一下,改为范围较小的数在[0,l]，范围较大的数在[0,r]
 {
-	long long LL = l, RR = r;
-	memset(dp, 0xff, sizeof(dp));
+    memset(dp, 0xff, sizeof(dp));
 	cnt[0] = cnt[1] = cnt[2] = _cnt = 0;
 	memset(L, 0, sizeof(L)), memset(R, 0, sizeof(R)), memset(K, 0, sizeof(K));
 	if (l == 0) cnt[0] = 1;

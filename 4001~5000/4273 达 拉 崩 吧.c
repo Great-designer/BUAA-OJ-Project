@@ -18,7 +18,7 @@ int main()
 		scanf("%d%d", &w[i], &v[i]);
 		per_value[i] = v[i] / w[i];
 	}
-	int p = n, temp;
+	int p = n;
 	while (p--)
 	{
 		for (i = 0; i < p; i++)

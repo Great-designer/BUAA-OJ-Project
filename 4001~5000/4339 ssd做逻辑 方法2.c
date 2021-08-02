@@ -15,13 +15,13 @@ struct expr parse_primary()
 {
 	struct expr temp;
 	char next=getchar();
-	int loc;
+	int loc = 0;
 	int i;
 	switch(next)
 	{
 		case'(':
 			temp=express();
-			next=getchar();
+			getchar();
 			break;
 		case'~':
 			temp=parse_primary();
@@ -63,12 +63,12 @@ struct expr express()
 				lhs.status[i]=lhs.status[i]&rhs.status[i];
 			}
 		}
-		else if(peek=='|')
+		else
 		{
 			int i;
-			for(i=0; i<1026; i++)
+			for (i = 0; i < 1026; i++)
 			{
-				lhs.status[i]=lhs.status[i]|rhs.status[i];
+				lhs.status[i] = lhs.status[i] | rhs.status[i];
 			}
 		}
 	}

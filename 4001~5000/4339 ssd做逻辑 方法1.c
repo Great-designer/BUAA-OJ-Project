@@ -17,9 +17,9 @@ int cal(int u)
 			{
 				ret=(ret&(k[s[u]]^v));
 			}
-			else if(x==0)
+			else
 			{
-				ret=(ret|(k[s[u]]^v));
+				ret = (ret | (k[s[u]] ^ v));
 			}
 			v=0;
 		}
@@ -44,9 +44,9 @@ int cal(int u)
 					{
 						ret=(ret&(cal(u+1)^v));
 					}
-					else if(x==0)
+					else
 					{
-						ret=(ret|(cal(u+1)^v));
+						ret = (ret | (cal(u + 1) ^ v));
 					}
 					v=0;
 					num=1;

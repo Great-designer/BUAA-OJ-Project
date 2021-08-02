@@ -5,7 +5,6 @@
 struct Tree
 {
 	struct Tree *lchild,*rchild;
-	int depth;
 };
 
 char input[1010];
@@ -31,8 +30,7 @@ void setDepth(struct Tree* t,int dep)
 	if (t!=NULL)
 	{
 		cnt[dep]++;
-		t->depth=dep;
-		if(t->lchild!=NULL)
+        if(t->lchild!=NULL)
 		{
 			setDepth(t->lchild,dep+1);
 		}
@@ -77,8 +75,7 @@ int main()
 					break;
 				default:
 					p=(struct Tree*)malloc(sizeof(struct Tree));
-					p->depth=0;
-					while(input[j+1]!='('&&input[j+1]!=')'&&input[j+1]!=','&&input[j+1]!='\0')
+                    while(input[j+1]!='('&&input[j+1]!=')'&&input[j+1]!=','&&input[j+1]!='\0')
 					{
 						j++;
 					}

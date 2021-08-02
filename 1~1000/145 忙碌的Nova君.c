@@ -16,7 +16,7 @@ int cmp(const void*p1,const void*p2)
 	struct node *a=(struct node*)p1;
 	struct node *b=(struct node*)p2;
     return a->end>b->end;
-};
+}
 
 int main()
 {

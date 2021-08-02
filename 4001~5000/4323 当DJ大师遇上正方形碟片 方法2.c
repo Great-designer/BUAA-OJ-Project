@@ -30,21 +30,25 @@ void reverse_single_row(int row_num, int lo, int hi)
 
 void transpose()
 {
-	int i = 0, j = 0;
+	int i, j;
 	for (i = 1; i <= n; ++i)
+	{
 		for (j = i; j <= n; ++j)
+		{
 			if (i != j)
 			{
 				int temp = a[i][j];
 				a[i][j] = a[j][i];
 				a[j][i] = temp;
 			}
+		}
+	}
 }
 
 void shift_col(int k)
 {
 	int move_down = k % n;
-	int i = 0;
+	int i;
 	for (i = 1; i <= n; ++i)
 	{
 		reverse_single_col(i, 1, n);
@@ -56,7 +60,7 @@ void shift_col(int k)
 void shift_row(int k)
 {
 	int move_right = k % n;
-	int i = 0;
+	int i;
 	for (i = 1; i <= n; ++i)
 	{
 		reverse_single_row(i, 1, n);
@@ -67,19 +71,25 @@ void shift_row(int k)
 
 void input_matrix()
 {
-	int i = 0, j = 0;
+	int i, j;
 	for (i = 1; i <= n; ++i)
+	{
 		for (j = 1; j <= n; ++j)
+		{
 			scanf("%d", &a[i][j]);
+		}
+	}
 }
 
 void print_matrix()
 {
-	int i = 0, j = 0;
+	int i, j;
 	for (i = 1; i <= n; ++i)
 	{
 		for (j = 1; j <= n; ++j)
+		{
 			printf("%d ", a[i][j]);
+		}
 		putchar('\n');
 	}
 }

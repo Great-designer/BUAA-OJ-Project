@@ -157,7 +157,7 @@ int dfs(int u, int flow)
 	return occured;
 }
 
-void ISAP(int s, int t)
+void ISAP(int s)
 {
 	bfs();
 	while (dep[s] < n)
@@ -195,7 +195,7 @@ int main()
 			puts("404 Not Found");
 			continue;
 		}
-		ISAP(s, t);
+		ISAP(s);
 		printf("%lld\n", maxflow);
 	}
 }

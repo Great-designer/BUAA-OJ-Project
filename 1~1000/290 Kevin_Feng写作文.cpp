@@ -5,7 +5,6 @@ using namespace std;
 
 string add="Add";
 string del="Del";
-string rep="Rep";
 string a;
 string op;
 int opA;

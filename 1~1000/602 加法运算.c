@@ -37,20 +37,6 @@ int upcnt(long long *res, long long b)
 	return up;
 }
 
-long long pai(long long l, long long m)
-{
-	long long res = 0;
-	int g = 0;
-	for(long long i = l ; ; i++)
-	{
-		g += upcnt(&res, i);
-		if(g > m)
-		{
-			return res - i;
-		}
-	}
-}
-
 int main()
 {
 	for(int i = 1; i <= 10; i++)

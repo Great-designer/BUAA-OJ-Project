@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include<stdio.h>
+
 int mat[9][9] =
 {
 	{0,0,0,0,0,0,0,0,0},
@@ -11,6 +12,7 @@ int mat[9][9] =
 	{0,0,0,0,0,0,0,0,0},
 	{0,0,0,0,0,0,0,0,0}
 };
+
 int check(int x,int y,int num)
 {
 	int i,j,gx = x / 3,gy = y / 3;
@@ -40,6 +42,7 @@ int check(int x,int y,int num)
 	}
 	return 1;
 }
+
 void dfs(int x,int y)
 {
 	int i,j;
@@ -82,7 +85,8 @@ void dfs(int x,int y)
 		}
 	}
 }
-int main(int argc,char **argv)
+
+int main()
 {
 	int i,j;
 	for(i = 0; i < 9; i++)

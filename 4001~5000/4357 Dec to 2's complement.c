@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 void print_bin(long long n, int bits)
 {
@@ -9,7 +9,7 @@ void print_bin(long long n, int bits)
 	}
 }
 
-int main(int argc, const char * argv[])
+int main()
 {
 	long long n;
 	while (~scanf("%lld", &n))

@@ -7,7 +7,7 @@ int main()
 	int n,m;
 	int a,b;
 	int p,q;
-	int c=0,i;
+	int c,i;
 	scanf("%d %d",&n,&m);
 	while(n--)
 	{

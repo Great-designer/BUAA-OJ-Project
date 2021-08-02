@@ -10,10 +10,9 @@ int main()
 	unsigned long long CHigh=0x0;
 	scanf("%llu%llu%llu%llu",&AHigh,&ALow,&BHigh,&BLow);
 	/*------------全加器------------*/
-
-
 	unsigned long long CarryLow=0; //低位进位数纪录变量
-	for(int Index=0; Index<64; Index++)
+	int Index;
+	for(Index=0; Index<64; Index++)
 	{
 		CarryLow=CarryLow<<1;
 		unsigned long long ToolNum=1;
@@ -22,18 +21,15 @@ int main()
 		CarryLow=(ToolNum&((ALow&BLow)|(CarryLow&BLow)|(ALow&CarryLow)));
 	}
 	unsigned long long CarryHigh=CarryLow>>63; //高位进位数纪录变量，转存低位结果
-	for(int Index=0; Index<64; Index++)
+	for(Index=0; Index<64; Index++)
 	{
 		unsigned long long ToolNum=1;
 		ToolNum=ToolNum<<Index;
 		CHigh|=ToolNum&(AHigh^BHigh^CarryHigh);
 		CarryHigh=(ToolNum&((AHigh&BHigh)|(CarryHigh&BHigh)|(AHigh&CarryHigh)))<<1;
 	}
-	unsigned long long IsLessThanZero=0;
-
-
+	unsigned long long IsLessThanZero;
 	/*-----------#全加器#-----------*/
-
 	if (CHigh==0&&CLow==0) //防止0减一取反
 	{
 		printf("%d",0);
@@ -60,14 +56,10 @@ int main()
 			CLow=~CLow; //取反
 			CHigh=~CHigh;
 		}
-
 		/*-----------#绝对值#-----------*/
-
 		/*------------十进制------------*/
-
 		int BitToDec[42]= {1}; //当前位二进制数的十进制权重
 		int LastBitToDec[42]= {1}; //上一位二进制数的十进制权重,没啥用
-		int LBDLenth=1;//没啥用
 		int TBDLenth=1;//当前位二进制数的十进制权重的数组长度
 		int LowCounter=0,HighCounter=0; //当前处理位的偏移量
 		unsigned long long ToolNumber=1; //用于截取某一位数字的工具数
@@ -89,10 +81,10 @@ int main()
 				}
 				/*-----#向求和数中加上当前位的权重#-----*/
 			}
-			LBDLenth=TBDLenth;
 			int WaitBit=0; //进位记录
 			/*-----权重乘2-----*/
-			for(int i=0; i<TBDLenth; i++)
+			int i;
+			for(i=0; i<TBDLenth; i++)
 			{
 				LastBitToDec[i]=BitToDec[i];
 				BitToDec[i]*=2;
@@ -109,7 +101,6 @@ int main()
 				}
 			}
 			/*-----#权重乘2#-----*/
-
 			LowCounter++;
 		}
 		while (HighCounter<64)
@@ -117,7 +108,8 @@ int main()
 			if (CHigh&(ToolNumber<<HighCounter))
 			{
 				/*-----向求和数中加上当前位的权重-----*/
-				for(int i=0; i<TBDLenth; i++)
+				int i;
+				for(i=0; i<TBDLenth; i++)
 				{
 					Dec[i]+=BitToDec[i];
 					DecLength=i+1;
@@ -130,10 +122,10 @@ int main()
 				}
 				/*-----#向求和数中加上当前位的权重#-----*/
 			}
-			LBDLenth=TBDLenth;
 			int WaitBit=0;//进位记录
 			/*-----权重乘2-----*/
-			for(int i=0; i<TBDLenth; i++)
+			int i;
+			for(i=0; i<TBDLenth; i++)
 			{
 				LastBitToDec[i]=BitToDec[i];
 				BitToDec[i]*=2;
@@ -151,16 +143,14 @@ int main()
 			}
 			/*-----#权重乘2#-----*/
 			HighCounter++;
-
 		}
-
 		/*-----------#十进制#-----------*/
-
 		if (IsLessThanZero)
 		{
 			putchar('-');
 		}
-		for(int i=DecLength-1; i>=0; i--)
+		int i;
+		for(i=DecLength-1; i>=0; i--)
 		{
 			printf("%d",Dec[i]);
 		}

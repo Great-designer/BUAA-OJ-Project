@@ -35,9 +35,9 @@ struct CinderLuca FastPower(struct CinderLuca base,long long exponent)
 	struct CinderLuca power;
 	power.Luca=2;
 	power.Cinder=0;
-	for(;exponent!=0;exponent>>=1)
+	for(; exponent!=0; exponent>>=1)
 	{
-		if(exponent&1==1)
+		if(exponent&(1==1))
 		{
 			power=Mult(power,base);
 		}

@@ -5,7 +5,7 @@
 
 double PI=acos(-1.0);
 
-void change(complex y[],int len)
+void change(complex double y[],int len)
 {
 	int j=len>>1;
 	int i;
@@ -13,7 +13,7 @@ void change(complex y[],int len)
 	{
 		if(i<j)
 		{
-			complex temp=y[i];
+			complex double temp=y[i];
 			y[i]=y[j];
 			y[j]=temp;
 		}
@@ -30,22 +30,22 @@ void change(complex y[],int len)
 	}
 }
 
-void FFT(complex y[],int len,int t)
+void FFT(complex double y[],int len,int t)
 {
 	change(y,len);
 	int h;
 	for(h=2; h<=len; h<<=1)
 	{
-		complex wn=cos(2*PI/h)+sin(t*2*PI/h)*I;
+		complex double wn=cos(2*PI/h)+sin(t*2*PI/h)*I;
 		int j;
 		for(j=0; j<len; j+=h)
 		{
-			complex w=1;
+			complex double w=1;
 			int k;
 			for(k=j; k<j+h/2; k++)
 			{
-				complex u=y[k];
-				complex v=w*y[k+h/2];
+				complex double u=y[k];
+				complex double v=w*y[k+h/2];
 				y[k]=u+v;
 				y[k+h/2]=u-v;
 				w=w*wn;
@@ -62,7 +62,7 @@ void FFT(complex y[],int len,int t)
 	}
 }
 
-void Conv(complex a[],complex b[],int len)
+void Conv(complex double a[],complex double b[],int len)
 {
 	FFT(a,len,1);
 	FFT(b,len,1);
@@ -74,7 +74,7 @@ void Conv(complex a[],complex b[],int len)
 	FFT(a,len,-1);
 }
 
-complex x1[400005],x2[400005];
+complex double x1[400005],x2[400005];
 char A[200003],B[200003];
 int ans[400005];
 int n,m;

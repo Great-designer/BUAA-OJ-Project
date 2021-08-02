@@ -84,7 +84,6 @@ int Matching()
 
 int main()
 {
-	freopen("in1.txt","r",stdin);
 	int ans=Matching();
 	if(ans==1)
 	{

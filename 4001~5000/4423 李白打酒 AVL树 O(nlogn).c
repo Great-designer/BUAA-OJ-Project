@@ -5,8 +5,15 @@
 
 void write(long long x)
 {
-	if (x < 0)putchar('-'), x = -x;
-	if (x > 9)write(x / 10);
+	if (x < 0)
+	{
+		putchar('-');
+		x = -x;
+	}
+	if (x > 9)
+	{
+		write(x / 10);
+	}
 	putchar(x % 10 + 48);
 }
 
@@ -16,7 +23,10 @@ long long read()
 	char c = getchar();
 	while (c < '0' || c>'9')
 	{
-		if (c == '-')f = -1;
+		if (c == '-')
+		{
+			f = -1;
+		}
 		c = getchar();
 	}
 	while (c >= '0' && c <= '9')
@@ -30,13 +40,16 @@ long long read()
 char readOP()
 {
 	char c = getchar();
-	while (!isalpha(c))c = getchar();
+	while (!isalpha(c))
+	{
+		c = getchar();
+	}
 	return c;
 }
 
 struct AVLNode
 {
-	int lchild, rchild, parent;//仨指针, 然而parent其实用不上
+	int lchild, rchild;//仨指针, 然而parent其实用不上
 	long long value;//树的值,永不更新
 	int height;//树的高度
 	int size;//子树
@@ -142,7 +155,7 @@ void insert(struct AVL *a,int *now, long long val)  //AVL树插入,性质同BST
 
 int find(struct AVL *a,int *now, int pre)  //AVL查找元素,性质同BST
 {
-	int ret = 0;//没找到
+	int ret;//没找到
 	if (!a->nodes[*now].lchild)
 	{
 		ret = *now;

@@ -5,7 +5,6 @@ using namespace std;
 
 int n;
 long long k;
-int cap;
 int tmp;
 long long sum[1000010];
 

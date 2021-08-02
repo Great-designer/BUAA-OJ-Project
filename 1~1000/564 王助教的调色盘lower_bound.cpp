@@ -6,7 +6,6 @@ using namespace std;
 
 int n, m;
 long long k;
-int cap;
 int tmp;
 long long sum[1000010];
 

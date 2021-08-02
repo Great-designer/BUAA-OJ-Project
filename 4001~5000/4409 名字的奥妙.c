@@ -1,15 +1,13 @@
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
 
 struct Person
 {
 	char SelfName[20];
 	char FatherName[20];
-	int Generation;
 	struct Person *Next;
 	struct Person *Previous;
-
 };
 
 struct Person *Head = NULL;
@@ -70,7 +68,6 @@ void RenewTheList()
 
 struct Person *CheckExist(char *FatherName)
 {
-
 	if (Head->Next == NULL)
 	{
 		return NULL;
@@ -85,7 +82,6 @@ struct Person *CheckExist(char *FatherName)
 		Ptr = Ptr->Next;
 	}
 	return NULL;
-
 }
 
 int main()
@@ -96,10 +92,9 @@ int main()
 	Tail = Head;
 	char Self[20] = {};
 	char Father[20] = {};
-
 	while (~scanf("%s %s", Self, Father))
 	{
-		char c=0;
+		char c;
 		while ((c=getchar() )!= '\n'&&c!=-1);
 		struct Person *Check = CheckExist(Father);
 		if (Check != NULL)

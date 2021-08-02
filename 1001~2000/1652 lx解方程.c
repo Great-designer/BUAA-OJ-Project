@@ -14,7 +14,6 @@ int main()
     while (l<r)
     {
         mid=(l+r)/2;
-        double t=f(mid);
         if (fabs(f(mid)-y)<1e-7)
             break;
         if (f(mid)<y)

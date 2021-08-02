@@ -91,21 +91,6 @@ void addEdge(int u,int v,int w)
 	lalala[u]=mstNum++;
 }
 
-void printIndexAndMST()
-{
-	printf("MST:\n");
-	int i;
-	for(i=0;i<mstNum;++i)
-	{
-		printf("%d : %d %d %d\n",i,msTree[i].rank,msTree[i].w,msTree[i].next);
-	}
-	printf("Index:\n");
-	for(i=1;i<=n;++i)
-	{
-		printf("%d : %d\n",i,lalala[i]);
-	}
-}
-
 void kruskal()
 {
 	cnt=0;

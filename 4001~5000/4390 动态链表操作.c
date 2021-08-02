@@ -1,8 +1,8 @@
-#include <ctype.h>
-#include <math.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include<ctype.h>
+#include<math.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
 
 struct ta
 {
@@ -15,7 +15,6 @@ char optable, s[105];
 
 struct ta *ahead, *aend, *bhead, *bend;
 
-int TrimEnd(char *base);
 int readOperation();
 void init();
 void deleteOne();
@@ -30,20 +29,21 @@ int main()
 	int n, m, k;
 	scanf("%d%d%d", &n, &m, &k);
 	optable = 'a';
-	for (int i = 0; i < n; i++)
+	int i;
+	for (i = 0; i < n; i++)
 	{
 		index = i;
 		scanf("%s", s);
 		insert();
 	}
 	optable = 'b';
-	for (int i = 0; i < m; i++)
+	for (i = 0; i < m; i++)
 	{
 		index = i;
 		scanf("%s", s);
 		insert();
 	}
-	for (int i = 0; i < k; i++)
+	for (i = 0; i < k; i++)
 	{
 		int op = readOperation();
 		switch (op)
@@ -72,9 +72,13 @@ void output(struct ta *head, struct ta *end)
 	struct ta *p = head;
 	int cnt = 0;
 	for (; p != end; p = p->next, cnt++)
+	{
 		printf("%s\n", p->value);
+	}
 	if (cnt == 0)
+	{
 		printf("Empty!\n");
+	}
 }
 
 void init()
@@ -83,7 +87,6 @@ void init()
 	ahead = (struct ta *)malloc(sizeof(struct ta));
 	aend = ahead;
 	ahead->next = NULL;
-
 	bhead = (struct ta *)malloc(sizeof(struct ta));
 	bend = bhead;
 	bhead->next = NULL;
@@ -100,7 +103,10 @@ void deleteOne()
 		return;
 	}
 	while (index--)
-		last = head, head = head->next;
+	{
+		last = head;
+		head = head->next;
+	}
 	last->next = head->next, free(head);
 }
 
@@ -116,7 +122,10 @@ void insert()
 		return;
 	}
 	while (index--)
-		last = head, head = head->next;
+	{
+		last = head;
+		head = head->next;
+	}
 	last->next = p, p->next = head;
 }
 
@@ -140,12 +149,17 @@ void move()
 			p = p->next;
 		}
 		while (otherhead->next != otherend)
+		{
 			otherhead = otherhead->next;
+		}
 		otherhead->next = head;
 		return;
 	}
 	while (index--)
-		last = head, head = head->next;
+	{
+		last = head;
+		head = head->next;
+	}
 	last->next = end;
 	p = head;
 	while (1)
@@ -164,7 +178,9 @@ void move()
 		return;
 	}
 	while (otherhead->next != otherend)
+	{
 		otherhead = otherhead->next;
+	}
 	otherhead->next = head;
 }
 
@@ -174,16 +190,14 @@ int readOperation()
 	if (~scanf("%d %c %d", &op, &optable, &index))
 	{
 		if (op == 1)
+		{
 			scanf("%s", s);
+		}
 		return op;
 	}
 	else
+	{
 		return 0;
+	}
 }
 
-int TrimEnd(char *base)
-{
-	while (isspace(base[strlen(base) - 1]))
-		base[strlen(base) - 1] = '\0';
-	return strlen(base);
-}

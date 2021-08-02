@@ -5,19 +5,19 @@
 
 double Pi=acos(-1.0);
 
-complex x1[200000],x2[200000];
+complex double x1[200000],x2[200000];
 
 char a[200000/2],b[200000/2];
 int sum[200000];
 
-void BRC(complex *y,int len)
+void BRC(complex double *y,int len)
 {
 	int i,j,k;
 	for(i=1,j=len/2; i<len-1; i++)
 	{
 		if(i<j)
 		{
-			complex temp=y[i];
+			complex double temp=y[i];
 			y[i]=y[j];
 			y[j]=temp;
 		}
@@ -34,18 +34,18 @@ void BRC(complex *y,int len)
 	}
 }
 
-void FFT(complex *y,int len,double on)
+void FFT(complex double *y,int len,double on)
 {
 	int i,j,k,h;
-	complex u,t;
+	complex double u,t;
 	BRC(y,len);
 	for(h=2; h<=len; h<<=1)
 	{
-		complex wn;
+		complex double wn;
 		wn=cos(2*Pi/h)+sin(on*2*Pi/h)*I;
 		for(j=0; j<len; j+=h)
 		{
-			complex w=1;
+			complex double w=1;
 			for(k=j; k<j+h/2; k++)
 			{
 				u=y[k];
@@ -65,7 +65,7 @@ void FFT(complex *y,int len,double on)
 	}
 }
 
-void Conv(complex a[],complex b[],int len)
+void Conv(complex double a[],complex double b[],int len)
 {
 	FFT(a,len,1);
 	FFT(b,len,1);

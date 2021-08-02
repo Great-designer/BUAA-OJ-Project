@@ -62,16 +62,16 @@ int main()
 			scanf("%d",&mp2[i].elem);
 			mp2[i].index=i;
 		}
-		qsort(mp1,n,sizeof(struct node),cmp);
-		qsort(mp2,n,sizeof(struct node),cmp2);
+		qsort(mp1, n, sizeof(struct node), (int (*)(const void *, const void *)) cmp);
+		qsort(mp2, n, sizeof(struct node), (int (*)(const void *, const void *)) cmp2);
 		for(int i=0; i<n; i++)
 		{
 			mp1[i].in=mp2[i].index;//确定目标下标
 		}
-		qsort(mp1,n,sizeof(struct node),cmp3);
+		qsort(mp1, n, sizeof(struct node), (int (*)(const void *, const void *)) cmp3);
 		int ans=jiaohuan(mp1);
 		long long int _=0;
-		qsort(mp1,n,sizeof(struct node),cmp);
+		qsort(mp1, n, sizeof(struct node), (int (*)(const void *, const void *)) cmp);
 		for(int i=0; i<n; i++)
 		{
 			_=_+(long long)mp1[i].elem*mp2[i].elem;//强制转换

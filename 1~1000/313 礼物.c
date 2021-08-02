@@ -48,7 +48,7 @@ int binSearch(int lo,int hi)
 	}
 	int k=0;
 	flag=1;
-	long long req=0;
+	long long req;
 	for(i=1;i<=n;++i)
 	{
 		if(f[i]<=0)

@@ -38,22 +38,6 @@ int a[100010];
 int s[100010];
 int pre,now;
 
-void printAS()
-{
-	puts("a is ");
-	int i; 
-	for(i=1;i<=m;++i)
-	{
-		printf("%d ",a[i]);
-	}
-	puts("");
-	for(i=1;i<=m;++i)
-	{
-		printf("%d ",s[i]);
-	}
-	puts("");
-}
-
 int main()
 {
 	while(~scanf("%d%d%d",&x,&m,&t))

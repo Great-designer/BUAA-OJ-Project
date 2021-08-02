@@ -12,7 +12,7 @@ long long res[400010];
 long long cnt[400010];
 long long dp[400010];
 
-complex a[400010];
+complex double a[400010];
 
 int l, r[400010];
 int limit;
@@ -42,14 +42,14 @@ void getLimitRev()
 	}
 }
 
-void FFT(complex* C, double type)
+void FFT(complex double* C, double type)
 {
 	int i;
 	for (i = 0; i < limit; ++i)
 	{
 		if (i < r[i])
 		{
-			complex temp=C[i];
+			complex double temp=C[i];
 			C[i]=C[r[i]];
 			C[r[i]]=temp;
 		}
@@ -58,15 +58,15 @@ void FFT(complex* C, double type)
 	for (mi = 1; mi < limit; mi <<= 1)
 	{
 		int len = mi << 1;
-		complex Wn=cos(Pi / mi)+type * sin(Pi / mi)*I;
+		complex double Wn=cos(Pi / mi)+type * sin(Pi / mi)*I;
 		int j;
 		for (j = 0; j < limit; j += len)
 		{
-			complex w=1;
+			complex double w=1;
 			int k;
 			for (k = 0; k < mi; ++k, w = w * Wn)
 			{
-				complex x = C[j + k], y = w * C[j + mi + k];
+				complex double x = C[j + k], y = w * C[j + mi + k];
 				C[j + k] = x + y;
 				C[j + mi + k] = x - y;
 			}

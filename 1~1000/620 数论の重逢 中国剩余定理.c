@@ -23,9 +23,9 @@ long long chinaRemain()
 	for (int i = 1; i <= n; ++i)mod *= divisor[i];
 	for (int i = 1; i <= n; ++i)
 	{
-		long long m, p, d, y;
+		long long m, p, y;
 		m = mod / divisor[i];
-		d = exgcd(m, divisor[i], &p, &y);
+		exgcd(m, divisor[i], &p, &y);
 		ret = (ret + m * p * remaind[i]) % mod;
 	}
 	while(ret < 0)ret += mod;

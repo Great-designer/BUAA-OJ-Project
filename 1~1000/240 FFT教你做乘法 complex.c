@@ -5,7 +5,7 @@
 
 double PI=acos(-1.0);
 
-void bitrev(complex *a,int loglen,int len)
+void bitrev(complex double *a,int loglen,int len)
 {
 	int i;
 	for(i=0; i<len; ++i)
@@ -20,33 +20,33 @@ void bitrev(complex *a,int loglen,int len)
 		}
 		if(p<i)
 		{
-			complex temp=a[p];
+			complex double temp=a[p];
 			a[p]=a[i];
 			a[i]=temp;
 		}
 	}
 }
 
-void FFT(complex *a,int loglen,int len,int on)
+void FFT(complex double *a,int loglen,int len,int on)
 {
 	bitrev(a,loglen,len);
 	int s,m;
 	for(s=1,m=2; s<=loglen; ++s,m<<=1)
 	{
-		complex wn=cos(2*PI*on/m)+sin(2*PI*on/m)*I;
+		complex double wn=cos(2*PI*on/m)+sin(2*PI*on/m)*I;
 		int i;
 		for(i=0; i<len; i+=m)
 		{
-			complex w=1;
+			complex double w=1;
 			int j;
 			for(j=0; j<m/2; ++j)
 			{
-				complex u=a[i+j];
-				complex v;
+				complex double u=a[i+j];
+				complex double v;
 				v=w*a[i+j+m/2];
 				a[i+j]=u+v;
 				a[i+j+m/2]=u-v;
-				complex temp;
+				complex double temp;
 				temp=w*wn;
 				w=temp;
 			}
@@ -63,7 +63,7 @@ void FFT(complex *a,int loglen,int len,int on)
 }
 
 char a[505050*2],b[505050*2];
-complex pa[505050*2],pb[505050*2];
+complex double pa[505050*2],pb[505050*2];
 int ans[505050*2];
 
 int main()
@@ -94,7 +94,7 @@ int main()
 		FFT(pb,loglen,n,1);
 		for(i=0; i<n; ++i)
 		{
-			complex temp;
+			complex double temp;
 			temp=pa[i]*pb[i];
 			pa[i]=temp;
 		}

@@ -5,7 +5,7 @@
 struct Tree
 {
 	int value;
-	int lchild,rchild,parent;
+	int lchild,rchild;
 };
 
 struct Tree tree[100010];
@@ -44,8 +44,7 @@ int main()
 	{
 		tree[++Size].value=n;
 		tree[Size].lchild=tree[Size].rchild=0;
-		tree[Size].parent=Size>>1;
-	}
+    }
 	int i;
 	for(i=1;i<=Size;++i)
 	{

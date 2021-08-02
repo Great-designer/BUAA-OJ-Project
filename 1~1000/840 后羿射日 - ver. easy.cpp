@@ -228,21 +228,6 @@ struct BigInteger
 		}
 		return c;
 	}
-	//开根用不上这个
-	BigInteger rooting(const int& b)
-	{
-		BigInteger lo = BigInteger("1");
-		BigInteger hi = *this;
-		BigInteger mi;
-		while (lo <= hi)
-		{
-			mi = lo + hi;
-			mi = mi >> 1;
-			if (mi.fastpower(b) <= *this)lo = mi.addOne();
-			else hi = mi.minusOne();
-		}
-		return lo.minusOne();
-	}
 };
 
 BigInteger tmp;

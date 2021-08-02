@@ -10,12 +10,12 @@ int main()
 	{
 		int flag=0;
 		int length=strlen(a);
-		int i=0,j=0;
-		for(i=0;i<length;i++)
+		int i;
+		for(i=0; i<length; i++)
 		{
 			b[length-i-1]=a[i];
 		}
-		for(i=0;i<length;i++)
+		for(i=0; i<length; i++)
 		{
 			if(a[i]==b[i])
 			{

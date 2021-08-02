@@ -73,7 +73,7 @@ int main()
 		sum = 0;
 		for(int i = 1; i <= n; ++i) a[i] = read(), sum += a[i] * a[i];
 		qsort(a + 1,n,sizeof(long long),compare);
-		long long lo = -1145141919810ll, mi = -1145141919810ll, hi = 0;
+		long long lo = -1145141919810ll, mi, hi = 0;
 		while(hi > lo)
 		{
 			mi = (hi + lo) >> 1;

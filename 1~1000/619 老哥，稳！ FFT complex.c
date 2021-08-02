@@ -6,14 +6,14 @@
 
 const double PI = acos(-1.0);
 
-void change(complex y[], int len)
+void change(complex double y[], int len)
 {
 	int i, j, k;
 	for (i = 1, j = len / 2; i < len - 1; i++)
 	{
 		if (i < j)
 		{
-			complex temp=y[i];
+			complex double temp=y[i];
 			y[i]=y[j];
 			y[j]=temp;
 		}
@@ -27,22 +27,22 @@ void change(complex y[], int len)
 	}
 }
 
-void fft(complex y[], int len, int on)
+void fft(complex double y[], int len, int on)
 {
 	change(y, len);
 	int h;
 	for (h = 2; h <= len; h <<= 1)
 	{
-		complex wn=cos(-on * 2 * PI / h)+sin(-on * 2 * PI / h)*I;
+		complex double wn=cos(-on * 2 * PI / h)+sin(-on * 2 * PI / h)*I;
 		int j;
 		for (j = 0; j < len; j += h)
 		{
-			complex w=1;
+			complex double w=1;
 			int k;
 			for (k = j; k < j + h / 2; k++)
 			{
-				complex u = y[k];
-				complex t = w * y[k + h / 2];
+				complex double u = y[k];
+				complex double t = w * y[k + h / 2];
 				y[k] = u + t;
 				y[k + h / 2] = u - t;
 				w = w * wn;
@@ -59,7 +59,7 @@ void fft(complex y[], int len, int on)
 	}
 }
 
-complex x1[400040];
+complex double x1[400040];
 int a[400040 / 4];
 long long num[400040];//100000*100000会超int
 long long sum[400040];

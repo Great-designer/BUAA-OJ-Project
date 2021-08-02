@@ -131,12 +131,10 @@ void fast_sieve(int lim)//sieve from [0, n)
 		mark(pattern, i);
 	}
 	all[pcnt++] = 2;
-	int now = 1;
 	int base;
 	for (base = 0; base < lim; base += 524288)
 	{
 		update_sieve(base);
-		int u=(base + 524288)<lim?(base + 524288):lim;
 		for (i = 0; i < 4096; ++i)
 		{
 			unsigned long long o = ~sieve[i];
@@ -161,7 +159,7 @@ int upper_bound(int a[], int lo, int hi, int val)
 	{
 		return hi + 1;
 	}
-	int mi = 0;
+	int mi;
 	while (lo < hi)
 	{
 		mi = (lo + hi) >> 1;

@@ -8,8 +8,6 @@
 
 using namespace std;
 
-bool isEnd;
-
 void write(int x)
 {
 	if(x>9)

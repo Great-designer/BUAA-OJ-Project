@@ -32,7 +32,7 @@ long long exgcd(long long a, long long b, long long *x, long long *y)
 
 long long EXCRT()
 {
-	long long x, y, k, M=divisor[1], ans=remaind[1];
+	long long x, y, M=divisor[1], ans=remaind[1];
 	for(int i=2; i<=n; i++)
 	{
 		long long c=(remaind[i] - ans % divisor[i] + divisor[i]) % divisor[i];

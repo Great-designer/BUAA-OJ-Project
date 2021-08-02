@@ -15,7 +15,6 @@ int main()
     {
         long long int n,a,b;
         scanf("%lld",&n);
-        a=0;
         b=0;
         while (n>1)
         {

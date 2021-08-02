@@ -3,20 +3,32 @@
 int main()
 {
 	int m=0,n=0;
-	int M=0,N=0;
+	int M,N=0;
 	while (scanf("%d %d",&m,&n)!=EOF)
 	{
-		int GCD=0;
-		int Max=0,Min=0;
+		int GCD;
+		int Max,Min;
 		if(n<0)
 		{
 			n*=-1;
 			m*=-1;
 		}
-		if (m<0)M=-m;
-		else M=m;
-		if (N<0)N=-n;
-		else N=n;
+		if (m<0)
+		{
+			M=-m;
+		}
+		else
+		{
+			M=m;
+		}
+		if (N<0)
+		{
+			N=-n;
+		}
+		else
+		{
+			N=n;
+		}
 		if(m%n==0)
 		{
 			printf("%d\n",m/n);

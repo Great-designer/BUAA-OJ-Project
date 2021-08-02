@@ -24,7 +24,7 @@ int main()
 		}
 		else if (ch=='B')
 		{
-			long long wait1=0,wait2=0;
+			long long wait1=0,wait2;
 			long long tem=0;
 			long long x,y;
 			char old='1';

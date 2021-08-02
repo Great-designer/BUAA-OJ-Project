@@ -57,7 +57,6 @@ struct Sum
 void merge_queue(int* A, int* B, int* C, int limit)
 {
 	priority_queue<Sum> queue;
-	int counter = 0;
 	for (int i = 0; i < n; ++i)
 	{
 		queue.push(Sum(A[i] + B[0], 0));

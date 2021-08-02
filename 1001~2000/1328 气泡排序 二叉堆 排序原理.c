@@ -46,7 +46,7 @@ void swap(int* a, int* b)
 		(*a) ^= (*b), (*b) ^= (*a), (*a) ^= (*b);
 }
 
-void perlocate_up(int lo, int hi)
+void perlocate_up(int hi)
 {
 	//上滤操作,堆区间为[lo,hi] hi为刚刚插入的末尾
 	int son = hi;
@@ -88,7 +88,7 @@ void push(int x)
 {
 	heap[heap_size++] = x;
 	if (heap_size > 1)
-		perlocate_up(0, heap_size - 1);
+        perlocate_up(heap_size - 1);
 }
 
 void pop()

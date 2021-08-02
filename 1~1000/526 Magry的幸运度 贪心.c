@@ -16,11 +16,11 @@ int main()
 		suma = sumb = 0;
 		for (int i = 1; i <= n; ++i)
 			scanf("%lld%lld", a + i, b + i), suma += a[i], sumb += b[i];
-		lucky = abs(suma - sumb);
+		lucky = llabs(suma - sumb);
 		for (int i = 1; i <= n; ++i)
 		{
 			suma -= (a[i] - b[i]), sumb -= (b[i] - a[i]);
-			tmp_lucky = abs(suma - sumb);
+			tmp_lucky = llabs(suma - sumb);
 			if (lucky < tmp_lucky)lucky = tmp_lucky, ans = i;
 			suma += (a[i] - b[i]), sumb += (b[i] - a[i]);
 		}

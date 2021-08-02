@@ -27,7 +27,7 @@ int main()
 	init();
 	scanf("%lld",&input);
 	input*=6;
-	long long temp=input;
+	long long temp;
 	long long i;
 	for(i=1;i<2000010;++i)
 	{

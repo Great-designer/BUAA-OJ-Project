@@ -2,16 +2,15 @@
 
 int g[2000001],p[2000001],cut,pri[2000001],tot,head[2000001];
 unsigned long long n,sum[2000001];
-//手写哈希
-int hashcode(unsigned long long x)
-{
-	return x % 23333;
-}
+
 struct data
 {
 	int next;
 	unsigned long long x,v;
-} e[2000001];
+};
+
+struct data e[2000001];
+
 void add(int u,unsigned long long v,unsigned long long x)
 {
 	e[++cut].v=v;
@@ -19,29 +18,51 @@ void add(int u,unsigned long long v,unsigned long long x)
 	e[cut].next=head[u];
 	head[u]=cut;
 }
+
 void build()
 {
 	g[1] = 5;
-	for (int i = 2; i < 2000001; i++)
+	int i;
+	for (i = 2; i < 2000001; i++)
 	{
 		g[i] += (i*(1ll * i*i%1000000007 + 3 * i + 1) - g[1]) % 1000000007;
-		if (g[i] >= 1000000007)g[i] -= 1000000007;
-		for (int j = (i << 1); j < 2000001; j += i)
+		if (g[i] >= 1000000007)
+		{
+			g[i] -= 1000000007;
+		}
+		int j;
+		for (j = (i << 1); j < 2000001; j += i)
 		{
 			g[j] -= g[i];
-			if (g[j] < 0)g[j] += 1000000007;
+			if (g[j] < 0)
+			{
+				g[j] += 1000000007;
+			}
 		}
 		g[i] += g[i - 1];
-		if (g[i] >= 1000000007)g[i] -= 1000000007;
+		if (g[i] >= 1000000007)
+		{
+			g[i] -= 1000000007;
+		}
 	}
 }
+
 unsigned long long solve(unsigned long long x)
 {
-	if(x<2000001) return g[x];
+	if(x<2000001)
+	{
+		return g[x];
+	}
 	unsigned long long ans=0,k=x%23333,last;
-	for(int i=head[k]; i; i=e[i].next)
-		if(e[i].v==x) return e[i].x;
-	for(unsigned long long i=2; i<=x; i=last+1)
+	unsigned long long i;
+	for(i=head[k]; i; i=e[i].next)
+	{
+		if(e[i].v==x)
+		{
+			return e[i].x;
+		}
+	}
+	for(i=2; i<=x; i=last+1)
 	{
 		last=x/(x/i);
 		ans=(ans+(last-i+1)%1000000007*solve(x/i)%1000000007)%1000000007;
@@ -50,14 +71,23 @@ unsigned long long solve(unsigned long long x)
 	add(k,x,ans);
 	return ans;
 }
+
 void wr(unsigned long long x)
 {
-	if (x > 9)wr(x / 10);
+	if (x > 9)
+	{
+		wr(x / 10);
+	}
 	putchar(x % 10 + 48);
 }
+
 int main()
 {
 	build();
-	while(scanf("%llu", &n) != EOF) wr(solve(n)), putchar('\n');
+	while(scanf("%llu", &n) != EOF)
+	{
+		wr(solve(n));
+		putchar('\n');
+	}
 	return 0;
 }

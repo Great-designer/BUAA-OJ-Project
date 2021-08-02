@@ -1,7 +1,6 @@
 #include<stdio.h>
 
 int sweet[100010];
-int acnt,bcnt;
 int amark,bmark;
 int tot;
 int n;

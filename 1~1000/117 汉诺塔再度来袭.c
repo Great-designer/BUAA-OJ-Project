@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
  
-int f(int n,char start,char over,char middle)
+void f(int n, char start, char over, char middle)
 {
     if(n==1)
     {

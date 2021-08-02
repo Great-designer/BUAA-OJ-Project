@@ -17,7 +17,7 @@ void initText(struct Text *a)
 	a->size=0;
 }
 
-int read2(struct Text *a)
+void read2(struct Text *a)
 {
 	int i=0;
 	char c;

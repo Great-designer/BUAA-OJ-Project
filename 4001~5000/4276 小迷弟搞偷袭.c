@@ -6,8 +6,14 @@ int n,a[200100],m,ask;
 int cmp(const void* aa,const void* bb)
 {
 	int *a=(int *)aa,*b=(int *)bb;
-	if(*a>*b) return 1;
-	if(*a<*b) return -1;
+	if(*a>*b)
+	{
+		return 1;
+	}
+	if(*a<*b)
+	{
+		return -1;
+	}
 	return 0;
 }
 
@@ -16,9 +22,15 @@ int bs(int key)
 	int l=0,r=n-1;
 	while(l<r)
 	{
-		int mid=l+r>>1;
-		if(a[mid]<key) l=mid+1;
-		else r=mid;
+		int mid=(l+r)>>1;
+		if(a[mid]<key)
+		{
+			l=mid+1;
+		}
+		else
+		{
+			r=mid;
+		}
 	}
 	return l-1;
 }

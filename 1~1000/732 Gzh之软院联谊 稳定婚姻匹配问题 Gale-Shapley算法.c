@@ -98,7 +98,7 @@ int main()
 		init_q(&single);
 		int n;
 		scanf("%d",&n);
-		int i = 0, j = 0;
+		int i, j;
 		for (i = 1; i <= n; ++i)
 		{
 			male_name[i] = rd_ch();

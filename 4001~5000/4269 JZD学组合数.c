@@ -8,7 +8,7 @@ int n, m;
 int main()
 {
 	C[1][1] = 1;
-	int i = 0, j = 0;
+	int i, j;
 	for (i = 2; i < 110; ++i)
 	{
 		for (j = 1; j <= i; ++j)

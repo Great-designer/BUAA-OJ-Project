@@ -1,14 +1,14 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
 char pl[100007][20];
-/*
- * sgn == 1  next
- * sgn == -1 previous
- */
+
+//sgn == 1  next
+//sgn == -1 previous
+
 int next_prev_p(char *p, int n, int sgn)
 {
-
 	int j = n - 1, i = n - 2;
 	while ((p[i] - p[j]) * sgn > 0)
 	{
@@ -19,7 +19,8 @@ int next_prev_p(char *p, int n, int sgn)
 			return 0;
 		}
 	}
-	for (int k = n - 1; k > i; k--)
+	int k;
+	for (k = n - 1; k > i; k--)
 	{
 		if ((p[k] - p[i]) * sgn > 0)
 		{
@@ -38,19 +39,16 @@ int next_prev_p(char *p, int n, int sgn)
 			break;
 		}
 	}
-
 	return 1;
 }
 
 int cmp(const void *a, const void *b)
 {
-
 	return strcmp((char *)a, (char *)b);
 }
 
 int lower_bound(char *key, int n)
 {
-
 	int l = 0, r = n, mid;
 	while (l < r)
 	{
@@ -69,7 +67,6 @@ int lower_bound(char *key, int n)
 
 int upper_bound(char *key, int n)
 {
-
 	int l = 0, r = n, mid;
 	while (l < r)
 	{
@@ -86,18 +83,16 @@ int upper_bound(char *key, int n)
 	return l;
 }
 
-int main(int argc, const char * argv[])
+int main()
 {
 	int n, m;
 	scanf("%d %d", &n, &m);
-
-	for (int i = 0; i < m; i++)
+	int i;
+	for (i = 0; i < m; i++)
 	{
 		scanf("%s", (char *)(&pl[i]));
 	}
-
 	qsort(pl, m, sizeof(pl[0]), cmp);
-
 	int q, k;
 	char l[20], r[20];
 	scanf("%d", &q);
@@ -112,7 +107,7 @@ int main(int argc, const char * argv[])
 			rr = next_prev_p(r, n, 1);
 		}
 		int kl = lower_bound(l, m), kr = upper_bound(r, m);
-		for (int i = kl; i < kr; i++)
+		for (i = kl; i < kr; i++)
 		{
 			printf("%s\n", pl[i]);
 		}

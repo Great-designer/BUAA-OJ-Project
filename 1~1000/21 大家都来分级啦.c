@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n,a=0;
+    int n,a;
     while(~scanf("%d",&n))
 	{
         if(n>=0&&n<=100)

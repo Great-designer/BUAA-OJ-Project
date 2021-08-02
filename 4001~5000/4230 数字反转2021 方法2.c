@@ -3,9 +3,11 @@
 
 int main()
 {
-	char buffer[30] = {0},tmp = 0;
+	char buffer[30] = {0},tmp;
 	scanf("%s",buffer);
-	int len = strlen(buffer),result1 = 0,result2 = 0,start = 0,m = 0,n = len - 1;
+	int start=0;
+	int m = 0;
+	int n = strlen(buffer) - 1;
 	if(buffer[0] == '-') //先处理负号
 	{
 		putchar('-');
@@ -21,6 +23,7 @@ int main()
 		n--;
 	}
 	char *dotpos = strchr(buffer,'.');//找小数点
+	int result1;
 	if(!dotpos)
 	{
 		sscanf(buffer + start,"%d",&result1);

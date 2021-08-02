@@ -17,8 +17,7 @@ void createtree(struct tree **b,char list[])
 	int top=-1,k=0,j=0;
 	char ch;
 	*b=NULL;
-	ch=list[j];
-	for(j=0;list[j]!='\0';j++)
+	for(j=0; list[j]!='\0'; j++)
 	{
 		ch=list[j];
 		switch(ch)
@@ -27,13 +26,13 @@ void createtree(struct tree **b,char list[])
 				top++;
 				sta[top]=p;
 				k=1;
-			break;
+				break;
 			case ',':
 				k=2;
-			break;
+				break;
 			case ')':
 				top--;
-			break;
+				break;
 			default:
 				p=(struct tree*)malloc(sizeof(struct tree));
 				memset(p,0,sizeof(struct tree));
@@ -60,7 +59,7 @@ void createtree(struct tree **b,char list[])
 						sta[top]->rch=p;
 					}
 				}
-			break;
+				break;
 		}
 	}
 }
@@ -171,11 +170,11 @@ int main()
 		{
 			printf("GzhIsSoSoHandsome\n");
 		}
-		else if(flag1==1&&flag2==0)
+		else if(flag1 == 1)
 		{
 			printf("GzhIsHandsome\n");
 		}
-		else if(flag1==0&&flag2==1)
+		else if(flag2 == 1)
 		{
 			printf("GzhIsSoHandsome\n");
 		}

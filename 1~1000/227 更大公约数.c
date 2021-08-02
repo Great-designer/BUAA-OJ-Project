@@ -14,7 +14,7 @@ int main()
 	while(scanf("%d%d",&n,&m)!=EOF)
 	{
 		int ans=0;
-		int temp=0;
+		int temp;
 		int i;
 		for(i=1; i<=n; i++)
 		{

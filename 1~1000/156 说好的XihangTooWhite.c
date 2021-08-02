@@ -28,7 +28,7 @@ char read()
 	k=trans(c);
 	c=getchar();
 	k=(k<<4)+trans(c);
-	c=getchar();
+    getchar();
 	return (i+j+k)<m;
 }
 

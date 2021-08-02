@@ -32,7 +32,7 @@ int main()
 		{
 			tmp2=tmp3;
 		}
-		printf("%lld\n",tmp2+abs(s-t));//再走两者的距离
+		printf("%lld\n",tmp2+llabs(s-t));//再走两者的距离
 	}
 	return 0;
 }

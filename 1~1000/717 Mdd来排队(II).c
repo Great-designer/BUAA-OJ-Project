@@ -8,7 +8,6 @@ char input[10];
 char offer[7]="offer";
 int op;
 char poll[7]="poll";
-char peek[7]="peek";
 
 int main()
 {

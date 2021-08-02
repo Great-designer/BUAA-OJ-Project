@@ -23,30 +23,32 @@ int nums[100000];
 
 int main()
 {
-    int n,a,q,x;
-    scanf("%d",&n);
-    int i; 
-    for(i=0;i<n;i++)
-    {
-    	scanf("%d",nums+i);
-	}
-    scanf("%d",&q);
-    for(i=0;i<q;i++)
+	int n;
+	scanf("%d",&n);
+	int i;
+	for(i=0; i<n; i++)
 	{
-        scanf("%d",&x);
-        int *result=bsearch(&x,nums,n,sizeof(int),compare);
-        if(result==NULL)
-        {
-        	printf("No\n");
+		scanf("%d",nums+i);
+	}
+	int q;
+	scanf("%d",&q);
+	for(i=0; i<q; i++)
+	{
+		int x;
+		scanf("%d",&x);
+		int *result=bsearch(&x,nums,n,sizeof(int),compare);
+		if(result==NULL)
+		{
+			printf("No\n");
 		}
-        else
+		else
 		{
 			int temp=result-nums;
 			while(nums[temp-1]==nums[temp])
 			{
 				temp--;
 			}
-            printf("Yes %d\n",temp+1);
-        }
-    }
+			printf("Yes %d\n",temp+1);
+		}
+	}
 }

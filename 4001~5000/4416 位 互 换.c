@@ -2,13 +2,12 @@
 
 int main()
 {
-	int a, m, n, m_bit, n_bit, result;
-
+	int a, m, n;
 	while (scanf("%d%d%d", &a, &m, &n) != EOF)
 	{
 		//分别提取第m n位
-		m_bit = (a & (1 << m)) >> m;
-		n_bit = (a & (1 << n)) >> n;
+		int m_bit = (a & (1 << m)) >> m;
+		int n_bit = (a & (1 << n)) >> n;
 		//指定位置零
 		a &= ~(1 << m);
 		a &= ~(1 << n);
