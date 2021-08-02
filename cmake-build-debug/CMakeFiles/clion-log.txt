@@ -1,0 +1,4 @@
+"D:\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" E:\程序\BUAA-OJ-Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/绋嬪簭/BUAA-OJ-Project/cmake-build-debug
