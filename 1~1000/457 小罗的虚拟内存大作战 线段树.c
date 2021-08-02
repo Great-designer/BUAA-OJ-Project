@@ -43,12 +43,6 @@ struct Node
 struct SegmentTree
 {
 	struct Node nodes[200010 << 2];
-
-
-
-
-
-
 };
 
 void pushup(struct SegmentTree *a,int root)
