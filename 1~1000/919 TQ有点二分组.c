@@ -27,7 +27,7 @@ void wr(int x)
 
 //builtin popcount
 //Returns the number of 1-bits in x.
-int __builtin_popcountll(long long x)
+int builtin_popcountll(long long x)
 {
 	x = (x & 0x5555555555555555) + (x >> 1 & 0x5555555555555555);
 	x = (x & 0x3333333333333333) + (x >> 2 & 0x3333333333333333);
@@ -46,7 +46,7 @@ int main()
 	t = rd();
 	while (t--)
 	{
-		res = __builtin_popcountll(rd());
+		res = builtin_popcountll(rd());
 		wr(res == 1 ? 222 : res), putchar('\n');
 	}
 }

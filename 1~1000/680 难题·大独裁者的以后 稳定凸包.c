@@ -3,7 +3,7 @@
 #include<math.h>
 #include<stdlib.h>
 
-const double PI = acos(-1.0);
+#define PI acos(-1.0)
 
 struct Point
 {

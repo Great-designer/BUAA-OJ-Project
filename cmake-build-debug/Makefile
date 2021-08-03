@@ -1928,30 +1928,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1511_天秤的烦恼.cpp.s
 .PHONY : 1001~2000/1511_天秤的烦恼.cpp.s
 
-1001~2000/1512_女娲加农炮.obj: 1001~2000/1512_女娲加农炮.cpp.obj
-.PHONY : 1001~2000/1512_女娲加农炮.obj
-
-# target to build an object file
-1001~2000/1512_女娲加农炮.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1512_女娲加农炮.cpp.obj
-.PHONY : 1001~2000/1512_女娲加农炮.cpp.obj
-
-1001~2000/1512_女娲加农炮.i: 1001~2000/1512_女娲加农炮.cpp.i
-.PHONY : 1001~2000/1512_女娲加农炮.i
-
-# target to preprocess a source file
-1001~2000/1512_女娲加农炮.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1512_女娲加农炮.cpp.i
-.PHONY : 1001~2000/1512_女娲加农炮.cpp.i
-
-1001~2000/1512_女娲加农炮.s: 1001~2000/1512_女娲加农炮.cpp.s
-.PHONY : 1001~2000/1512_女娲加农炮.s
-
-# target to generate assembly for a file
-1001~2000/1512_女娲加农炮.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1512_女娲加农炮.cpp.s
-.PHONY : 1001~2000/1512_女娲加农炮.cpp.s
-
 1001~2000/1513_HugeGun学姐的曲线.obj: 1001~2000/1513_HugeGun学姐的曲线.c.obj
 .PHONY : 1001~2000/1513_HugeGun学姐的曲线.obj
 
@@ -2047,30 +2023,6 @@ BUAA_OJ_Project/fast:
 1001~2000/1518_第k顺序统计量.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1518_第k顺序统计量.c.s
 .PHONY : 1001~2000/1518_第k顺序统计量.c.s
-
-1001~2000/1519_女娲加农炮II.obj: 1001~2000/1519_女娲加农炮II.cpp.obj
-.PHONY : 1001~2000/1519_女娲加农炮II.obj
-
-# target to build an object file
-1001~2000/1519_女娲加农炮II.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1519_女娲加农炮II.cpp.obj
-.PHONY : 1001~2000/1519_女娲加农炮II.cpp.obj
-
-1001~2000/1519_女娲加农炮II.i: 1001~2000/1519_女娲加农炮II.cpp.i
-.PHONY : 1001~2000/1519_女娲加农炮II.i
-
-# target to preprocess a source file
-1001~2000/1519_女娲加农炮II.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1519_女娲加农炮II.cpp.i
-.PHONY : 1001~2000/1519_女娲加农炮II.cpp.i
-
-1001~2000/1519_女娲加农炮II.s: 1001~2000/1519_女娲加农炮II.cpp.s
-.PHONY : 1001~2000/1519_女娲加农炮II.s
-
-# target to generate assembly for a file
-1001~2000/1519_女娲加农炮II.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1519_女娲加农炮II.cpp.s
-.PHONY : 1001~2000/1519_女娲加农炮II.cpp.s
 
 1001~2000/1520_类型转换.obj: 1001~2000/1520_类型转换.c.obj
 .PHONY : 1001~2000/1520_类型转换.obj
@@ -5168,30 +5120,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/145_忙碌的Nova君.c.s
 .PHONY : 1~1000/145_忙碌的Nova君.c.s
 
-1~1000/146_机智零崎不会没梗Ⅱ.obj: 1~1000/146_机智零崎不会没梗Ⅱ.cpp.obj
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.obj
-
-# target to build an object file
-1~1000/146_机智零崎不会没梗Ⅱ.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/146_机智零崎不会没梗Ⅱ.cpp.obj
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.cpp.obj
-
-1~1000/146_机智零崎不会没梗Ⅱ.i: 1~1000/146_机智零崎不会没梗Ⅱ.cpp.i
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.i
-
-# target to preprocess a source file
-1~1000/146_机智零崎不会没梗Ⅱ.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/146_机智零崎不会没梗Ⅱ.cpp.i
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.cpp.i
-
-1~1000/146_机智零崎不会没梗Ⅱ.s: 1~1000/146_机智零崎不会没梗Ⅱ.cpp.s
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.s
-
-# target to generate assembly for a file
-1~1000/146_机智零崎不会没梗Ⅱ.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/146_机智零崎不会没梗Ⅱ.cpp.s
-.PHONY : 1~1000/146_机智零崎不会没梗Ⅱ.cpp.s
-
 1~1000/147_dp_AC.obj: 1~1000/147_dp_AC.c.obj
 .PHONY : 1~1000/147_dp_AC.obj
 
@@ -5215,30 +5143,6 @@ BUAA_OJ_Project/fast:
 1~1000/147_dp_AC.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/147_dp_AC.c.s
 .PHONY : 1~1000/147_dp_AC.c.s
-
-1~1000/147_皮卡丘！GET！.obj: 1~1000/147_皮卡丘！GET！.cpp.obj
-.PHONY : 1~1000/147_皮卡丘！GET！.obj
-
-# target to build an object file
-1~1000/147_皮卡丘！GET！.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/147_皮卡丘！GET！.cpp.obj
-.PHONY : 1~1000/147_皮卡丘！GET！.cpp.obj
-
-1~1000/147_皮卡丘！GET！.i: 1~1000/147_皮卡丘！GET！.cpp.i
-.PHONY : 1~1000/147_皮卡丘！GET！.i
-
-# target to preprocess a source file
-1~1000/147_皮卡丘！GET！.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/147_皮卡丘！GET！.cpp.i
-.PHONY : 1~1000/147_皮卡丘！GET！.cpp.i
-
-1~1000/147_皮卡丘！GET！.s: 1~1000/147_皮卡丘！GET！.cpp.s
-.PHONY : 1~1000/147_皮卡丘！GET！.s
-
-# target to generate assembly for a file
-1~1000/147_皮卡丘！GET！.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/147_皮卡丘！GET！.cpp.s
-.PHONY : 1~1000/147_皮卡丘！GET！.cpp.s
 
 1~1000/148_机智零崎不会没梗Ⅲ.obj: 1~1000/148_机智零崎不会没梗Ⅲ.c.obj
 .PHONY : 1~1000/148_机智零崎不会没梗Ⅲ.obj
@@ -7976,30 +7880,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/253_难题——再见了，大活_计数DP.c.s
 .PHONY : 1~1000/253_难题——再见了，大活_计数DP.c.s
 
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.obj: 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.obj
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.obj
-
-# target to build an object file
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.obj
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.obj
-
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.i: 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.i
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.i
-
-# target to preprocess a source file
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.i
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.i
-
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.s: 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.s
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.s
-
-# target to generate assembly for a file
-1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.s
-.PHONY : 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.cpp.s
-
 1~1000/254_中等题——零崎的考试_基础DP.obj: 1~1000/254_中等题——零崎的考试_基础DP.c.obj
 .PHONY : 1~1000/254_中等题——零崎的考试_基础DP.obj
 
@@ -10040,78 +9920,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/340_AZY's_Xscapesstream.cpp.s"
 .PHONY : 1~1000/340_AZY's_Xscapesstream.cpp.s
 
-1~1000/341_图的深度遍历.obj: 1~1000/341_图的深度遍历.cpp.obj
-.PHONY : 1~1000/341_图的深度遍历.obj
-
-# target to build an object file
-1~1000/341_图的深度遍历.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/341_图的深度遍历.cpp.obj
-.PHONY : 1~1000/341_图的深度遍历.cpp.obj
-
-1~1000/341_图的深度遍历.i: 1~1000/341_图的深度遍历.cpp.i
-.PHONY : 1~1000/341_图的深度遍历.i
-
-# target to preprocess a source file
-1~1000/341_图的深度遍历.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/341_图的深度遍历.cpp.i
-.PHONY : 1~1000/341_图的深度遍历.cpp.i
-
-1~1000/341_图的深度遍历.s: 1~1000/341_图的深度遍历.cpp.s
-.PHONY : 1~1000/341_图的深度遍历.s
-
-# target to generate assembly for a file
-1~1000/341_图的深度遍历.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/341_图的深度遍历.cpp.s
-.PHONY : 1~1000/341_图的深度遍历.cpp.s
-
-1~1000/342_图的广度遍历.obj: 1~1000/342_图的广度遍历.cpp.obj
-.PHONY : 1~1000/342_图的广度遍历.obj
-
-# target to build an object file
-1~1000/342_图的广度遍历.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/342_图的广度遍历.cpp.obj
-.PHONY : 1~1000/342_图的广度遍历.cpp.obj
-
-1~1000/342_图的广度遍历.i: 1~1000/342_图的广度遍历.cpp.i
-.PHONY : 1~1000/342_图的广度遍历.i
-
-# target to preprocess a source file
-1~1000/342_图的广度遍历.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/342_图的广度遍历.cpp.i
-.PHONY : 1~1000/342_图的广度遍历.cpp.i
-
-1~1000/342_图的广度遍历.s: 1~1000/342_图的广度遍历.cpp.s
-.PHONY : 1~1000/342_图的广度遍历.s
-
-# target to generate assembly for a file
-1~1000/342_图的广度遍历.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/342_图的广度遍历.cpp.s
-.PHONY : 1~1000/342_图的广度遍历.cpp.s
-
-1~1000/343_最短路径问题.obj: 1~1000/343_最短路径问题.cpp.obj
-.PHONY : 1~1000/343_最短路径问题.obj
-
-# target to build an object file
-1~1000/343_最短路径问题.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/343_最短路径问题.cpp.obj
-.PHONY : 1~1000/343_最短路径问题.cpp.obj
-
-1~1000/343_最短路径问题.i: 1~1000/343_最短路径问题.cpp.i
-.PHONY : 1~1000/343_最短路径问题.i
-
-# target to preprocess a source file
-1~1000/343_最短路径问题.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/343_最短路径问题.cpp.i
-.PHONY : 1~1000/343_最短路径问题.cpp.i
-
-1~1000/343_最短路径问题.s: 1~1000/343_最短路径问题.cpp.s
-.PHONY : 1~1000/343_最短路径问题.s
-
-# target to generate assembly for a file
-1~1000/343_最短路径问题.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/343_最短路径问题.cpp.s
-.PHONY : 1~1000/343_最短路径问题.cpp.s
-
 1~1000/344_拮据的模拟城市.obj: 1~1000/344_拮据的模拟城市.c.obj
 .PHONY : 1~1000/344_拮据的模拟城市.obj
 
@@ -10135,30 +9943,6 @@ BUAA_OJ_Project/fast:
 1~1000/344_拮据的模拟城市.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/344_拮据的模拟城市.c.s
 .PHONY : 1~1000/344_拮据的模拟城市.c.s
-
-1~1000/345_行者无疆.obj: 1~1000/345_行者无疆.cpp.obj
-.PHONY : 1~1000/345_行者无疆.obj
-
-# target to build an object file
-1~1000/345_行者无疆.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/345_行者无疆.cpp.obj
-.PHONY : 1~1000/345_行者无疆.cpp.obj
-
-1~1000/345_行者无疆.i: 1~1000/345_行者无疆.cpp.i
-.PHONY : 1~1000/345_行者无疆.i
-
-# target to preprocess a source file
-1~1000/345_行者无疆.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/345_行者无疆.cpp.i
-.PHONY : 1~1000/345_行者无疆.cpp.i
-
-1~1000/345_行者无疆.s: 1~1000/345_行者无疆.cpp.s
-.PHONY : 1~1000/345_行者无疆.s
-
-# target to generate assembly for a file
-1~1000/345_行者无疆.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/345_行者无疆.cpp.s
-.PHONY : 1~1000/345_行者无疆.cpp.s
 
 1~1000/346_二叉树也玩俄罗斯方块.obj: 1~1000/346_二叉树也玩俄罗斯方块.c.obj
 .PHONY : 1~1000/346_二叉树也玩俄罗斯方块.obj
@@ -10448,30 +10232,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/357_借教室.c.s
 .PHONY : 1~1000/357_借教室.c.s
 
-1~1000/358_Bessie_Come_Home.obj: 1~1000/358_Bessie_Come_Home.cpp.obj
-.PHONY : 1~1000/358_Bessie_Come_Home.obj
-
-# target to build an object file
-1~1000/358_Bessie_Come_Home.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/358_Bessie_Come_Home.cpp.obj
-.PHONY : 1~1000/358_Bessie_Come_Home.cpp.obj
-
-1~1000/358_Bessie_Come_Home.i: 1~1000/358_Bessie_Come_Home.cpp.i
-.PHONY : 1~1000/358_Bessie_Come_Home.i
-
-# target to preprocess a source file
-1~1000/358_Bessie_Come_Home.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/358_Bessie_Come_Home.cpp.i
-.PHONY : 1~1000/358_Bessie_Come_Home.cpp.i
-
-1~1000/358_Bessie_Come_Home.s: 1~1000/358_Bessie_Come_Home.cpp.s
-.PHONY : 1~1000/358_Bessie_Come_Home.s
-
-# target to generate assembly for a file
-1~1000/358_Bessie_Come_Home.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/358_Bessie_Come_Home.cpp.s
-.PHONY : 1~1000/358_Bessie_Come_Home.cpp.s
-
 1~1000/359_传纸条.obj: 1~1000/359_传纸条.c.obj
 .PHONY : 1~1000/359_传纸条.obj
 
@@ -10639,30 +10399,6 @@ BUAA_OJ_Project/fast:
 1~1000/364_barty的智商.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/364_barty的智商.c.s
 .PHONY : 1~1000/364_barty的智商.c.s
-
-1~1000/365_迷宫里有一只薛定谔的猫.obj: 1~1000/365_迷宫里有一只薛定谔的猫.cpp.obj
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.obj
-
-# target to build an object file
-1~1000/365_迷宫里有一只薛定谔的猫.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/365_迷宫里有一只薛定谔的猫.cpp.obj
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.cpp.obj
-
-1~1000/365_迷宫里有一只薛定谔的猫.i: 1~1000/365_迷宫里有一只薛定谔的猫.cpp.i
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.i
-
-# target to preprocess a source file
-1~1000/365_迷宫里有一只薛定谔的猫.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/365_迷宫里有一只薛定谔的猫.cpp.i
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.cpp.i
-
-1~1000/365_迷宫里有一只薛定谔的猫.s: 1~1000/365_迷宫里有一只薛定谔的猫.cpp.s
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.s
-
-# target to generate assembly for a file
-1~1000/365_迷宫里有一只薛定谔的猫.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/365_迷宫里有一只薛定谔的猫.cpp.s
-.PHONY : 1~1000/365_迷宫里有一只薛定谔的猫.cpp.s
 
 1~1000/367_简单·AZY's_multiplication.obj: 1~1000/367_简单·AZY's_multiplication.c.obj
 .PHONY : 1~1000/367_简单·AZY's_multiplication.obj
@@ -11335,30 +11071,6 @@ BUAA_OJ_Project/fast:
 1~1000/389_难题-AZY做志愿者.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/389_难题-AZY做志愿者.c.s
 .PHONY : 1~1000/389_难题-AZY做志愿者.c.s
-
-1~1000/38_优先队列应用.obj: 1~1000/38_优先队列应用.cpp.obj
-.PHONY : 1~1000/38_优先队列应用.obj
-
-# target to build an object file
-1~1000/38_优先队列应用.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/38_优先队列应用.cpp.obj
-.PHONY : 1~1000/38_优先队列应用.cpp.obj
-
-1~1000/38_优先队列应用.i: 1~1000/38_优先队列应用.cpp.i
-.PHONY : 1~1000/38_优先队列应用.i
-
-# target to preprocess a source file
-1~1000/38_优先队列应用.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/38_优先队列应用.cpp.i
-.PHONY : 1~1000/38_优先队列应用.cpp.i
-
-1~1000/38_优先队列应用.s: 1~1000/38_优先队列应用.cpp.s
-.PHONY : 1~1000/38_优先队列应用.s
-
-# target to generate assembly for a file
-1~1000/38_优先队列应用.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/38_优先队列应用.cpp.s
-.PHONY : 1~1000/38_优先队列应用.cpp.s
 
 1~1000/390_难题-拓扑排序assign.obj: 1~1000/390_难题-拓扑排序assign.cpp.obj
 .PHONY : 1~1000/390_难题-拓扑排序assign.obj
@@ -12704,54 +12416,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/461_jhljx水水的最短路径.c.s
 .PHONY : 1~1000/461_jhljx水水的最短路径.c.s
 
-1~1000/462_jhljx水水的补习班.obj: 1~1000/462_jhljx水水的补习班.cpp.obj
-.PHONY : 1~1000/462_jhljx水水的补习班.obj
-
-# target to build an object file
-1~1000/462_jhljx水水的补习班.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/462_jhljx水水的补习班.cpp.obj
-.PHONY : 1~1000/462_jhljx水水的补习班.cpp.obj
-
-1~1000/462_jhljx水水的补习班.i: 1~1000/462_jhljx水水的补习班.cpp.i
-.PHONY : 1~1000/462_jhljx水水的补习班.i
-
-# target to preprocess a source file
-1~1000/462_jhljx水水的补习班.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/462_jhljx水水的补习班.cpp.i
-.PHONY : 1~1000/462_jhljx水水的补习班.cpp.i
-
-1~1000/462_jhljx水水的补习班.s: 1~1000/462_jhljx水水的补习班.cpp.s
-.PHONY : 1~1000/462_jhljx水水的补习班.s
-
-# target to generate assembly for a file
-1~1000/462_jhljx水水的补习班.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/462_jhljx水水的补习班.cpp.s
-.PHONY : 1~1000/462_jhljx水水的补习班.cpp.s
-
-1~1000/463_Magry's_Sum_I_pq.obj: 1~1000/463_Magry's_Sum_I_pq.cpp.obj
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.obj
-
-# target to build an object file
-1~1000/463_Magry's_Sum_I_pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/463_Magry's_Sum_I_pq.cpp.obj"
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.cpp.obj
-
-1~1000/463_Magry's_Sum_I_pq.i: 1~1000/463_Magry's_Sum_I_pq.cpp.i
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.i
-
-# target to preprocess a source file
-1~1000/463_Magry's_Sum_I_pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/463_Magry's_Sum_I_pq.cpp.i"
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.cpp.i
-
-1~1000/463_Magry's_Sum_I_pq.s: 1~1000/463_Magry's_Sum_I_pq.cpp.s
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.s
-
-# target to generate assembly for a file
-1~1000/463_Magry's_Sum_I_pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/463_Magry's_Sum_I_pq.cpp.s"
-.PHONY : 1~1000/463_Magry's_Sum_I_pq.cpp.s
-
 1~1000/464_ModricWang的数据位校验.obj: 1~1000/464_ModricWang的数据位校验.c.obj
 .PHONY : 1~1000/464_ModricWang的数据位校验.obj
 
@@ -12871,30 +12535,6 @@ BUAA_OJ_Project/fast:
 1~1000/46_李逍遥的仙剑客栈.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/46_李逍遥的仙剑客栈.c.s
 .PHONY : 1~1000/46_李逍遥的仙剑客栈.c.s
-
-1~1000/471_Magry's_Sum_II.obj: 1~1000/471_Magry's_Sum_II.cpp.obj
-.PHONY : 1~1000/471_Magry's_Sum_II.obj
-
-# target to build an object file
-1~1000/471_Magry's_Sum_II.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/471_Magry's_Sum_II.cpp.obj"
-.PHONY : 1~1000/471_Magry's_Sum_II.cpp.obj
-
-1~1000/471_Magry's_Sum_II.i: 1~1000/471_Magry's_Sum_II.cpp.i
-.PHONY : 1~1000/471_Magry's_Sum_II.i
-
-# target to preprocess a source file
-1~1000/471_Magry's_Sum_II.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/471_Magry's_Sum_II.cpp.i"
-.PHONY : 1~1000/471_Magry's_Sum_II.cpp.i
-
-1~1000/471_Magry's_Sum_II.s: 1~1000/471_Magry's_Sum_II.cpp.s
-.PHONY : 1~1000/471_Magry's_Sum_II.s
-
-# target to generate assembly for a file
-1~1000/471_Magry's_Sum_II.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/471_Magry's_Sum_II.cpp.s"
-.PHONY : 1~1000/471_Magry's_Sum_II.cpp.s
 
 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj: 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
 .PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
@@ -13063,30 +12703,6 @@ BUAA_OJ_Project/fast:
 1~1000/475_济世之光.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/475_济世之光.c.s
 .PHONY : 1~1000/475_济世之光.c.s
-
-1~1000/476_jhljx水水的卡牌_贪心_pq.obj: 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.obj
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.obj
-
-# target to build an object file
-1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.obj
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.obj
-
-1~1000/476_jhljx水水的卡牌_贪心_pq.i: 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.i
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.i
-
-# target to preprocess a source file
-1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.i
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.i
-
-1~1000/476_jhljx水水的卡牌_贪心_pq.s: 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.s
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.s
-
-# target to generate assembly for a file
-1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.s
-.PHONY : 1~1000/476_jhljx水水的卡牌_贪心_pq.cpp.s
 
 1~1000/47_不要不要数列求和.obj: 1~1000/47_不要不要数列求和.c.obj
 .PHONY : 1~1000/47_不要不要数列求和.obj
@@ -14144,30 +13760,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/566_密码安全_单调栈.c.s
 .PHONY : 1~1000/566_密码安全_单调栈.c.s
 
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.obj: 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.obj
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.obj
-
-# target to build an object file
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.obj
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.obj
-
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.i: 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.i
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.i
-
-# target to preprocess a source file
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.i
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.i
-
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.s: 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.s
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.s
-
-# target to generate assembly for a file
-1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.s
-.PHONY : 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.cpp.s
-
 1~1000/56_“伪”积分.obj: 1~1000/56_“伪”积分.c.obj
 .PHONY : 1~1000/56_“伪”积分.obj
 
@@ -14383,30 +13975,6 @@ BUAA_OJ_Project/fast:
 1~1000/584_王助教理牌.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/584_王助教理牌.c.s
 .PHONY : 1~1000/584_王助教理牌.c.s
-
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.obj: 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.obj
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.obj
-
-# target to build an object file
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.obj
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.obj
-
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.i: 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.i
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.i
-
-# target to preprocess a source file
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.i
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.i
-
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.s: 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.s
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.s
-
-# target to generate assembly for a file
-1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.s
-.PHONY : 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.cpp.s
 
 1~1000/587_浪哥的烦恼.obj: 1~1000/587_浪哥的烦恼.c.obj
 .PHONY : 1~1000/587_浪哥的烦恼.obj
@@ -15583,30 +15151,6 @@ BUAA_OJ_Project/fast:
 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
 .PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
-
-1~1000/671_简单·简单的贪心_贪心_pq.obj: 1~1000/671_简单·简单的贪心_贪心_pq.cpp.obj
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.obj
-
-# target to build an object file
-1~1000/671_简单·简单的贪心_贪心_pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/671_简单·简单的贪心_贪心_pq.cpp.obj
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.cpp.obj
-
-1~1000/671_简单·简单的贪心_贪心_pq.i: 1~1000/671_简单·简单的贪心_贪心_pq.cpp.i
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.i
-
-# target to preprocess a source file
-1~1000/671_简单·简单的贪心_贪心_pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/671_简单·简单的贪心_贪心_pq.cpp.i
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.cpp.i
-
-1~1000/671_简单·简单的贪心_贪心_pq.s: 1~1000/671_简单·简单的贪心_贪心_pq.cpp.s
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.s
-
-# target to generate assembly for a file
-1~1000/671_简单·简单的贪心_贪心_pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/671_简单·简单的贪心_贪心_pq.cpp.s
-.PHONY : 1~1000/671_简单·简单的贪心_贪心_pq.cpp.s
 
 1~1000/672_简单·最大公约数.obj: 1~1000/672_简单·最大公约数.c.obj
 .PHONY : 1~1000/672_简单·最大公约数.obj
@@ -18344,30 +17888,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.s
 .PHONY : 1~1000/814_DH去看球map.cpp.s
 
-1~1000/816_DH的魔法光束pq.obj: 1~1000/816_DH的魔法光束pq.cpp.obj
-.PHONY : 1~1000/816_DH的魔法光束pq.obj
-
-# target to build an object file
-1~1000/816_DH的魔法光束pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/816_DH的魔法光束pq.cpp.obj
-.PHONY : 1~1000/816_DH的魔法光束pq.cpp.obj
-
-1~1000/816_DH的魔法光束pq.i: 1~1000/816_DH的魔法光束pq.cpp.i
-.PHONY : 1~1000/816_DH的魔法光束pq.i
-
-# target to preprocess a source file
-1~1000/816_DH的魔法光束pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/816_DH的魔法光束pq.cpp.i
-.PHONY : 1~1000/816_DH的魔法光束pq.cpp.i
-
-1~1000/816_DH的魔法光束pq.s: 1~1000/816_DH的魔法光束pq.cpp.s
-.PHONY : 1~1000/816_DH的魔法光束pq.s
-
-# target to generate assembly for a file
-1~1000/816_DH的魔法光束pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/816_DH的魔法光束pq.cpp.s
-.PHONY : 1~1000/816_DH的魔法光束pq.cpp.s
-
 1~1000/817_Mdd去旅游(II).obj: 1~1000/817_Mdd去旅游(II).c.obj
 .PHONY : 1~1000/817_Mdd去旅游(II).obj
 
@@ -19592,30 +19112,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.s
 .PHONY : 1~1000/913_数位各位之和.c.s
 
-1~1000/916_不想掉坑.obj: 1~1000/916_不想掉坑.cpp.obj
-.PHONY : 1~1000/916_不想掉坑.obj
-
-# target to build an object file
-1~1000/916_不想掉坑.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/916_不想掉坑.cpp.obj
-.PHONY : 1~1000/916_不想掉坑.cpp.obj
-
-1~1000/916_不想掉坑.i: 1~1000/916_不想掉坑.cpp.i
-.PHONY : 1~1000/916_不想掉坑.i
-
-# target to preprocess a source file
-1~1000/916_不想掉坑.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/916_不想掉坑.cpp.i
-.PHONY : 1~1000/916_不想掉坑.cpp.i
-
-1~1000/916_不想掉坑.s: 1~1000/916_不想掉坑.cpp.s
-.PHONY : 1~1000/916_不想掉坑.s
-
-# target to generate assembly for a file
-1~1000/916_不想掉坑.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/916_不想掉坑.cpp.s
-.PHONY : 1~1000/916_不想掉坑.cpp.s
-
 1~1000/917_完数.obj: 1~1000/917_完数.c.obj
 .PHONY : 1~1000/917_完数.obj
 
@@ -19927,30 +19423,6 @@ BUAA_OJ_Project/fast:
 1~1000/934_熊猫序列.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.s
 .PHONY : 1~1000/934_熊猫序列.c.s
-
-1~1000/937_最优卡组pq.obj: 1~1000/937_最优卡组pq.cpp.obj
-.PHONY : 1~1000/937_最优卡组pq.obj
-
-# target to build an object file
-1~1000/937_最优卡组pq.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/937_最优卡组pq.cpp.obj
-.PHONY : 1~1000/937_最优卡组pq.cpp.obj
-
-1~1000/937_最优卡组pq.i: 1~1000/937_最优卡组pq.cpp.i
-.PHONY : 1~1000/937_最优卡组pq.i
-
-# target to preprocess a source file
-1~1000/937_最优卡组pq.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/937_最优卡组pq.cpp.i
-.PHONY : 1~1000/937_最优卡组pq.cpp.i
-
-1~1000/937_最优卡组pq.s: 1~1000/937_最优卡组pq.cpp.s
-.PHONY : 1~1000/937_最优卡组pq.s
-
-# target to generate assembly for a file
-1~1000/937_最优卡组pq.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/937_最优卡组pq.cpp.s
-.PHONY : 1~1000/937_最优卡组pq.cpp.s
 
 1~1000/93_伤心的晴天小猪.obj: 1~1000/93_伤心的晴天小猪.c.obj
 .PHONY : 1~1000/93_伤心的晴天小猪.obj
@@ -20408,30 +19880,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.s
 .PHONY : 2001~3000/2368_二叉树深度和笛卡尔树.c.s
 
-2001~3000/2369_电影院.obj: 2001~3000/2369_电影院.cpp.obj
-.PHONY : 2001~3000/2369_电影院.obj
-
-# target to build an object file
-2001~3000/2369_电影院.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2369_电影院.cpp.obj
-.PHONY : 2001~3000/2369_电影院.cpp.obj
-
-2001~3000/2369_电影院.i: 2001~3000/2369_电影院.cpp.i
-.PHONY : 2001~3000/2369_电影院.i
-
-# target to preprocess a source file
-2001~3000/2369_电影院.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2369_电影院.cpp.i
-.PHONY : 2001~3000/2369_电影院.cpp.i
-
-2001~3000/2369_电影院.s: 2001~3000/2369_电影院.cpp.s
-.PHONY : 2001~3000/2369_电影院.s
-
-# target to generate assembly for a file
-2001~3000/2369_电影院.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2369_电影院.cpp.s
-.PHONY : 2001~3000/2369_电影院.cpp.s
-
 2001~3000/2370_连续子序列的权值单调栈.obj: 2001~3000/2370_连续子序列的权值单调栈.c.obj
 .PHONY : 2001~3000/2370_连续子序列的权值单调栈.obj
 
@@ -20528,30 +19976,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.s
 .PHONY : 2001~3000/2374_多多岛.c.s
 
-2001~3000/2375_生日宴会.obj: 2001~3000/2375_生日宴会.cpp.obj
-.PHONY : 2001~3000/2375_生日宴会.obj
-
-# target to build an object file
-2001~3000/2375_生日宴会.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2375_生日宴会.cpp.obj
-.PHONY : 2001~3000/2375_生日宴会.cpp.obj
-
-2001~3000/2375_生日宴会.i: 2001~3000/2375_生日宴会.cpp.i
-.PHONY : 2001~3000/2375_生日宴会.i
-
-# target to preprocess a source file
-2001~3000/2375_生日宴会.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2375_生日宴会.cpp.i
-.PHONY : 2001~3000/2375_生日宴会.cpp.i
-
-2001~3000/2375_生日宴会.s: 2001~3000/2375_生日宴会.cpp.s
-.PHONY : 2001~3000/2375_生日宴会.s
-
-# target to generate assembly for a file
-2001~3000/2375_生日宴会.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2375_生日宴会.cpp.s
-.PHONY : 2001~3000/2375_生日宴会.cpp.s
-
 2001~3000/2376_魔法阵弗洛伊德.obj: 2001~3000/2376_魔法阵弗洛伊德.c.obj
 .PHONY : 2001~3000/2376_魔法阵弗洛伊德.obj
 
@@ -20599,30 +20023,6 @@ BUAA_OJ_Project/fast:
 2001~3000/2377_小面包.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.s
 .PHONY : 2001~3000/2377_小面包.c.s
-
-2001~3000/2378_治安点.obj: 2001~3000/2378_治安点.cpp.obj
-.PHONY : 2001~3000/2378_治安点.obj
-
-# target to build an object file
-2001~3000/2378_治安点.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2378_治安点.cpp.obj
-.PHONY : 2001~3000/2378_治安点.cpp.obj
-
-2001~3000/2378_治安点.i: 2001~3000/2378_治安点.cpp.i
-.PHONY : 2001~3000/2378_治安点.i
-
-# target to preprocess a source file
-2001~3000/2378_治安点.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2378_治安点.cpp.i
-.PHONY : 2001~3000/2378_治安点.cpp.i
-
-2001~3000/2378_治安点.s: 2001~3000/2378_治安点.cpp.s
-.PHONY : 2001~3000/2378_治安点.s
-
-# target to generate assembly for a file
-2001~3000/2378_治安点.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2378_治安点.cpp.s
-.PHONY : 2001~3000/2378_治安点.cpp.s
 
 2001~3000/2386_最小生成树并查集.obj: 2001~3000/2386_最小生成树并查集.c.obj
 .PHONY : 2001~3000/2386_最小生成树并查集.obj
@@ -21368,30 +20768,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.s
 .PHONY : 2001~3000/2552_OBST最优二叉搜索树.c.s
 
-2001~3000/2553_浩瀚星辰.obj: 2001~3000/2553_浩瀚星辰.cpp.obj
-.PHONY : 2001~3000/2553_浩瀚星辰.obj
-
-# target to build an object file
-2001~3000/2553_浩瀚星辰.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2553_浩瀚星辰.cpp.obj
-.PHONY : 2001~3000/2553_浩瀚星辰.cpp.obj
-
-2001~3000/2553_浩瀚星辰.i: 2001~3000/2553_浩瀚星辰.cpp.i
-.PHONY : 2001~3000/2553_浩瀚星辰.i
-
-# target to preprocess a source file
-2001~3000/2553_浩瀚星辰.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2553_浩瀚星辰.cpp.i
-.PHONY : 2001~3000/2553_浩瀚星辰.cpp.i
-
-2001~3000/2553_浩瀚星辰.s: 2001~3000/2553_浩瀚星辰.cpp.s
-.PHONY : 2001~3000/2553_浩瀚星辰.s
-
-# target to generate assembly for a file
-2001~3000/2553_浩瀚星辰.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2553_浩瀚星辰.cpp.s
-.PHONY : 2001~3000/2553_浩瀚星辰.cpp.s
-
 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj: 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj
 .PHONY : 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj
 
@@ -21535,30 +20911,6 @@ BUAA_OJ_Project/fast:
 2001~3000/2596_多流水线动态规划.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.s
 .PHONY : 2001~3000/2596_多流水线动态规划.c.s
-
-2001~3000/2647_非负权单源最短路.obj: 2001~3000/2647_非负权单源最短路.cpp.obj
-.PHONY : 2001~3000/2647_非负权单源最短路.obj
-
-# target to build an object file
-2001~3000/2647_非负权单源最短路.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2647_非负权单源最短路.cpp.obj
-.PHONY : 2001~3000/2647_非负权单源最短路.cpp.obj
-
-2001~3000/2647_非负权单源最短路.i: 2001~3000/2647_非负权单源最短路.cpp.i
-.PHONY : 2001~3000/2647_非负权单源最短路.i
-
-# target to preprocess a source file
-2001~3000/2647_非负权单源最短路.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2647_非负权单源最短路.cpp.i
-.PHONY : 2001~3000/2647_非负权单源最短路.cpp.i
-
-2001~3000/2647_非负权单源最短路.s: 2001~3000/2647_非负权单源最短路.cpp.s
-.PHONY : 2001~3000/2647_非负权单源最短路.s
-
-# target to generate assembly for a file
-2001~3000/2647_非负权单源最短路.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2647_非负权单源最短路.cpp.s
-.PHONY : 2001~3000/2647_非负权单源最短路.cpp.s
 
 2001~3000/2648_食物链.obj: 2001~3000/2648_食物链.c.obj
 .PHONY : 2001~3000/2648_食物链.obj
@@ -22376,29 +21728,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.s
 .PHONY : 4001~5000/4192_正反相加.c.s
 
-4001~5000/4193_真·简单的a+b.obj: 4001~5000/4193_真·简单的a+b.cpp.obj
+4001~5000/4193_真·简单的a+b.obj: 4001~5000/4193_真·简单的a+b.c.obj
 .PHONY : 4001~5000/4193_真·简单的a+b.obj
 
 # target to build an object file
-4001~5000/4193_真·简单的a+b.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.cpp.obj
-.PHONY : 4001~5000/4193_真·简单的a+b.cpp.obj
+4001~5000/4193_真·简单的a+b.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj
+.PHONY : 4001~5000/4193_真·简单的a+b.c.obj
 
-4001~5000/4193_真·简单的a+b.i: 4001~5000/4193_真·简单的a+b.cpp.i
+4001~5000/4193_真·简单的a+b.i: 4001~5000/4193_真·简单的a+b.c.i
 .PHONY : 4001~5000/4193_真·简单的a+b.i
 
 # target to preprocess a source file
-4001~5000/4193_真·简单的a+b.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.cpp.i
-.PHONY : 4001~5000/4193_真·简单的a+b.cpp.i
+4001~5000/4193_真·简单的a+b.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.i
+.PHONY : 4001~5000/4193_真·简单的a+b.c.i
 
-4001~5000/4193_真·简单的a+b.s: 4001~5000/4193_真·简单的a+b.cpp.s
+4001~5000/4193_真·简单的a+b.s: 4001~5000/4193_真·简单的a+b.c.s
 .PHONY : 4001~5000/4193_真·简单的a+b.s
 
 # target to generate assembly for a file
-4001~5000/4193_真·简单的a+b.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.cpp.s
-.PHONY : 4001~5000/4193_真·简单的a+b.cpp.s
+4001~5000/4193_真·简单的a+b.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.s
+.PHONY : 4001~5000/4193_真·简单的a+b.c.s
 
 4001~5000/4194_PHP_是最好的语言.obj: 4001~5000/4194_PHP_是最好的语言.c.obj
 .PHONY : 4001~5000/4194_PHP_是最好的语言.obj
@@ -22519,30 +21871,6 @@ BUAA_OJ_Project/fast:
 4001~5000/4198_基础物理实验_2（简单版）（打表）.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.s
 .PHONY : 4001~5000/4198_基础物理实验_2（简单版）（打表）.c.s
-
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.obj: 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.obj
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.obj
-
-# target to build an object file
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.obj
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.obj
-
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.i: 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.i
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.i
-
-# target to preprocess a source file
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.i
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.i
-
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.s: 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.s
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.s
-
-# target to generate assembly for a file
-4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.s
-.PHONY : 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.c.s
 
 4001~5000/4199_二进制逆序.obj: 4001~5000/4199_二进制逆序.c.obj
 .PHONY : 4001~5000/4199_二进制逆序.obj
@@ -26960,6 +26288,654 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.s
 .PHONY : 4001~5000/4435_给线段排排序.c.s
 
+priority_queue/146_机智零崎不会没梗Ⅱ.obj: priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.obj
+
+# target to build an object file
+priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj
+
+priority_queue/146_机智零崎不会没梗Ⅱ.i: priority_queue/146_机智零崎不会没梗Ⅱ.cpp.i
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.i
+
+# target to preprocess a source file
+priority_queue/146_机智零崎不会没梗Ⅱ.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.i
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.cpp.i
+
+priority_queue/146_机智零崎不会没梗Ⅱ.s: priority_queue/146_机智零崎不会没梗Ⅱ.cpp.s
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.s
+
+# target to generate assembly for a file
+priority_queue/146_机智零崎不会没梗Ⅱ.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.s
+.PHONY : priority_queue/146_机智零崎不会没梗Ⅱ.cpp.s
+
+priority_queue/147_皮卡丘！GET！.obj: priority_queue/147_皮卡丘！GET！.cpp.obj
+.PHONY : priority_queue/147_皮卡丘！GET！.obj
+
+# target to build an object file
+priority_queue/147_皮卡丘！GET！.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj
+.PHONY : priority_queue/147_皮卡丘！GET！.cpp.obj
+
+priority_queue/147_皮卡丘！GET！.i: priority_queue/147_皮卡丘！GET！.cpp.i
+.PHONY : priority_queue/147_皮卡丘！GET！.i
+
+# target to preprocess a source file
+priority_queue/147_皮卡丘！GET！.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.i
+.PHONY : priority_queue/147_皮卡丘！GET！.cpp.i
+
+priority_queue/147_皮卡丘！GET！.s: priority_queue/147_皮卡丘！GET！.cpp.s
+.PHONY : priority_queue/147_皮卡丘！GET！.s
+
+# target to generate assembly for a file
+priority_queue/147_皮卡丘！GET！.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.s
+.PHONY : priority_queue/147_皮卡丘！GET！.cpp.s
+
+priority_queue/1512_女娲加农炮.obj: priority_queue/1512_女娲加农炮.cpp.obj
+.PHONY : priority_queue/1512_女娲加农炮.obj
+
+# target to build an object file
+priority_queue/1512_女娲加农炮.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj
+.PHONY : priority_queue/1512_女娲加农炮.cpp.obj
+
+priority_queue/1512_女娲加农炮.i: priority_queue/1512_女娲加农炮.cpp.i
+.PHONY : priority_queue/1512_女娲加农炮.i
+
+# target to preprocess a source file
+priority_queue/1512_女娲加农炮.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.i
+.PHONY : priority_queue/1512_女娲加农炮.cpp.i
+
+priority_queue/1512_女娲加农炮.s: priority_queue/1512_女娲加农炮.cpp.s
+.PHONY : priority_queue/1512_女娲加农炮.s
+
+# target to generate assembly for a file
+priority_queue/1512_女娲加农炮.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.s
+.PHONY : priority_queue/1512_女娲加农炮.cpp.s
+
+priority_queue/1519_女娲加农炮II.obj: priority_queue/1519_女娲加农炮II.cpp.obj
+.PHONY : priority_queue/1519_女娲加农炮II.obj
+
+# target to build an object file
+priority_queue/1519_女娲加农炮II.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj
+.PHONY : priority_queue/1519_女娲加农炮II.cpp.obj
+
+priority_queue/1519_女娲加农炮II.i: priority_queue/1519_女娲加农炮II.cpp.i
+.PHONY : priority_queue/1519_女娲加农炮II.i
+
+# target to preprocess a source file
+priority_queue/1519_女娲加农炮II.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.i
+.PHONY : priority_queue/1519_女娲加农炮II.cpp.i
+
+priority_queue/1519_女娲加农炮II.s: priority_queue/1519_女娲加农炮II.cpp.s
+.PHONY : priority_queue/1519_女娲加农炮II.s
+
+# target to generate assembly for a file
+priority_queue/1519_女娲加农炮II.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.s
+.PHONY : priority_queue/1519_女娲加农炮II.cpp.s
+
+priority_queue/2369_电影院.obj: priority_queue/2369_电影院.cpp.obj
+.PHONY : priority_queue/2369_电影院.obj
+
+# target to build an object file
+priority_queue/2369_电影院.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj
+.PHONY : priority_queue/2369_电影院.cpp.obj
+
+priority_queue/2369_电影院.i: priority_queue/2369_电影院.cpp.i
+.PHONY : priority_queue/2369_电影院.i
+
+# target to preprocess a source file
+priority_queue/2369_电影院.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.i
+.PHONY : priority_queue/2369_电影院.cpp.i
+
+priority_queue/2369_电影院.s: priority_queue/2369_电影院.cpp.s
+.PHONY : priority_queue/2369_电影院.s
+
+# target to generate assembly for a file
+priority_queue/2369_电影院.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.s
+.PHONY : priority_queue/2369_电影院.cpp.s
+
+priority_queue/2375_生日宴会.obj: priority_queue/2375_生日宴会.cpp.obj
+.PHONY : priority_queue/2375_生日宴会.obj
+
+# target to build an object file
+priority_queue/2375_生日宴会.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj
+.PHONY : priority_queue/2375_生日宴会.cpp.obj
+
+priority_queue/2375_生日宴会.i: priority_queue/2375_生日宴会.cpp.i
+.PHONY : priority_queue/2375_生日宴会.i
+
+# target to preprocess a source file
+priority_queue/2375_生日宴会.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.i
+.PHONY : priority_queue/2375_生日宴会.cpp.i
+
+priority_queue/2375_生日宴会.s: priority_queue/2375_生日宴会.cpp.s
+.PHONY : priority_queue/2375_生日宴会.s
+
+# target to generate assembly for a file
+priority_queue/2375_生日宴会.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.s
+.PHONY : priority_queue/2375_生日宴会.cpp.s
+
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj: priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj
+
+# target to build an object file
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj
+
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.i: priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.i
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.i
+
+# target to preprocess a source file
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.i
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.i
+
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.s: priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.s
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.s
+
+# target to generate assembly for a file
+priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.s
+.PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.s
+
+priority_queue/2553_浩瀚星辰.obj: priority_queue/2553_浩瀚星辰.cpp.obj
+.PHONY : priority_queue/2553_浩瀚星辰.obj
+
+# target to build an object file
+priority_queue/2553_浩瀚星辰.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj
+.PHONY : priority_queue/2553_浩瀚星辰.cpp.obj
+
+priority_queue/2553_浩瀚星辰.i: priority_queue/2553_浩瀚星辰.cpp.i
+.PHONY : priority_queue/2553_浩瀚星辰.i
+
+# target to preprocess a source file
+priority_queue/2553_浩瀚星辰.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.i
+.PHONY : priority_queue/2553_浩瀚星辰.cpp.i
+
+priority_queue/2553_浩瀚星辰.s: priority_queue/2553_浩瀚星辰.cpp.s
+.PHONY : priority_queue/2553_浩瀚星辰.s
+
+# target to generate assembly for a file
+priority_queue/2553_浩瀚星辰.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.s
+.PHONY : priority_queue/2553_浩瀚星辰.cpp.s
+
+priority_queue/341_图的深度遍历.obj: priority_queue/341_图的深度遍历.cpp.obj
+.PHONY : priority_queue/341_图的深度遍历.obj
+
+# target to build an object file
+priority_queue/341_图的深度遍历.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj
+.PHONY : priority_queue/341_图的深度遍历.cpp.obj
+
+priority_queue/341_图的深度遍历.i: priority_queue/341_图的深度遍历.cpp.i
+.PHONY : priority_queue/341_图的深度遍历.i
+
+# target to preprocess a source file
+priority_queue/341_图的深度遍历.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.i
+.PHONY : priority_queue/341_图的深度遍历.cpp.i
+
+priority_queue/341_图的深度遍历.s: priority_queue/341_图的深度遍历.cpp.s
+.PHONY : priority_queue/341_图的深度遍历.s
+
+# target to generate assembly for a file
+priority_queue/341_图的深度遍历.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.s
+.PHONY : priority_queue/341_图的深度遍历.cpp.s
+
+priority_queue/342_图的广度遍历.obj: priority_queue/342_图的广度遍历.cpp.obj
+.PHONY : priority_queue/342_图的广度遍历.obj
+
+# target to build an object file
+priority_queue/342_图的广度遍历.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj
+.PHONY : priority_queue/342_图的广度遍历.cpp.obj
+
+priority_queue/342_图的广度遍历.i: priority_queue/342_图的广度遍历.cpp.i
+.PHONY : priority_queue/342_图的广度遍历.i
+
+# target to preprocess a source file
+priority_queue/342_图的广度遍历.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.i
+.PHONY : priority_queue/342_图的广度遍历.cpp.i
+
+priority_queue/342_图的广度遍历.s: priority_queue/342_图的广度遍历.cpp.s
+.PHONY : priority_queue/342_图的广度遍历.s
+
+# target to generate assembly for a file
+priority_queue/342_图的广度遍历.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.s
+.PHONY : priority_queue/342_图的广度遍历.cpp.s
+
+priority_queue/38_优先队列应用.obj: priority_queue/38_优先队列应用.cpp.obj
+.PHONY : priority_queue/38_优先队列应用.obj
+
+# target to build an object file
+priority_queue/38_优先队列应用.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj
+.PHONY : priority_queue/38_优先队列应用.cpp.obj
+
+priority_queue/38_优先队列应用.i: priority_queue/38_优先队列应用.cpp.i
+.PHONY : priority_queue/38_优先队列应用.i
+
+# target to preprocess a source file
+priority_queue/38_优先队列应用.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.i
+.PHONY : priority_queue/38_优先队列应用.cpp.i
+
+priority_queue/38_优先队列应用.s: priority_queue/38_优先队列应用.cpp.s
+.PHONY : priority_queue/38_优先队列应用.s
+
+# target to generate assembly for a file
+priority_queue/38_优先队列应用.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.s
+.PHONY : priority_queue/38_优先队列应用.cpp.s
+
+priority_queue/462_jhljx水水的补习班.obj: priority_queue/462_jhljx水水的补习班.cpp.obj
+.PHONY : priority_queue/462_jhljx水水的补习班.obj
+
+# target to build an object file
+priority_queue/462_jhljx水水的补习班.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj
+.PHONY : priority_queue/462_jhljx水水的补习班.cpp.obj
+
+priority_queue/462_jhljx水水的补习班.i: priority_queue/462_jhljx水水的补习班.cpp.i
+.PHONY : priority_queue/462_jhljx水水的补习班.i
+
+# target to preprocess a source file
+priority_queue/462_jhljx水水的补习班.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.i
+.PHONY : priority_queue/462_jhljx水水的补习班.cpp.i
+
+priority_queue/462_jhljx水水的补习班.s: priority_queue/462_jhljx水水的补习班.cpp.s
+.PHONY : priority_queue/462_jhljx水水的补习班.s
+
+# target to generate assembly for a file
+priority_queue/462_jhljx水水的补习班.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.s
+.PHONY : priority_queue/462_jhljx水水的补习班.cpp.s
+
+priority_queue/463_Magry's_Sum_I.obj: priority_queue/463_Magry's_Sum_I.cpp.obj
+.PHONY : priority_queue/463_Magry's_Sum_I.obj
+
+# target to build an object file
+priority_queue/463_Magry's_Sum_I.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj"
+.PHONY : priority_queue/463_Magry's_Sum_I.cpp.obj
+
+priority_queue/463_Magry's_Sum_I.i: priority_queue/463_Magry's_Sum_I.cpp.i
+.PHONY : priority_queue/463_Magry's_Sum_I.i
+
+# target to preprocess a source file
+priority_queue/463_Magry's_Sum_I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.i"
+.PHONY : priority_queue/463_Magry's_Sum_I.cpp.i
+
+priority_queue/463_Magry's_Sum_I.s: priority_queue/463_Magry's_Sum_I.cpp.s
+.PHONY : priority_queue/463_Magry's_Sum_I.s
+
+# target to generate assembly for a file
+priority_queue/463_Magry's_Sum_I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.s"
+.PHONY : priority_queue/463_Magry's_Sum_I.cpp.s
+
+priority_queue/471_Magry's_Sum_II.obj: priority_queue/471_Magry's_Sum_II.cpp.obj
+.PHONY : priority_queue/471_Magry's_Sum_II.obj
+
+# target to build an object file
+priority_queue/471_Magry's_Sum_II.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj"
+.PHONY : priority_queue/471_Magry's_Sum_II.cpp.obj
+
+priority_queue/471_Magry's_Sum_II.i: priority_queue/471_Magry's_Sum_II.cpp.i
+.PHONY : priority_queue/471_Magry's_Sum_II.i
+
+# target to preprocess a source file
+priority_queue/471_Magry's_Sum_II.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.i"
+.PHONY : priority_queue/471_Magry's_Sum_II.cpp.i
+
+priority_queue/471_Magry's_Sum_II.s: priority_queue/471_Magry's_Sum_II.cpp.s
+.PHONY : priority_queue/471_Magry's_Sum_II.s
+
+# target to generate assembly for a file
+priority_queue/471_Magry's_Sum_II.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.s"
+.PHONY : priority_queue/471_Magry's_Sum_II.cpp.s
+
+priority_queue/476_jhljx水水的卡牌_贪心.obj: priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.obj
+
+# target to build an object file
+priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj
+
+priority_queue/476_jhljx水水的卡牌_贪心.i: priority_queue/476_jhljx水水的卡牌_贪心.cpp.i
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.i
+
+# target to preprocess a source file
+priority_queue/476_jhljx水水的卡牌_贪心.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.i
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.cpp.i
+
+priority_queue/476_jhljx水水的卡牌_贪心.s: priority_queue/476_jhljx水水的卡牌_贪心.cpp.s
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.s
+
+# target to generate assembly for a file
+priority_queue/476_jhljx水水的卡牌_贪心.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.s
+.PHONY : priority_queue/476_jhljx水水的卡牌_贪心.cpp.s
+
+priority_queue/671_简单·简单的贪心_贪心.obj: priority_queue/671_简单·简单的贪心_贪心.cpp.obj
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.obj
+
+# target to build an object file
+priority_queue/671_简单·简单的贪心_贪心.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.cpp.obj
+
+priority_queue/671_简单·简单的贪心_贪心.i: priority_queue/671_简单·简单的贪心_贪心.cpp.i
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.i
+
+# target to preprocess a source file
+priority_queue/671_简单·简单的贪心_贪心.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.i
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.cpp.i
+
+priority_queue/671_简单·简单的贪心_贪心.s: priority_queue/671_简单·简单的贪心_贪心.cpp.s
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.s
+
+# target to generate assembly for a file
+priority_queue/671_简单·简单的贪心_贪心.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.s
+.PHONY : priority_queue/671_简单·简单的贪心_贪心.cpp.s
+
+priority_queue/937_最优卡组.obj: priority_queue/937_最优卡组.cpp.obj
+.PHONY : priority_queue/937_最优卡组.obj
+
+# target to build an object file
+priority_queue/937_最优卡组.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj
+.PHONY : priority_queue/937_最优卡组.cpp.obj
+
+priority_queue/937_最优卡组.i: priority_queue/937_最优卡组.cpp.i
+.PHONY : priority_queue/937_最优卡组.i
+
+# target to preprocess a source file
+priority_queue/937_最优卡组.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.i
+.PHONY : priority_queue/937_最优卡组.cpp.i
+
+priority_queue/937_最优卡组.s: priority_queue/937_最优卡组.cpp.s
+.PHONY : priority_queue/937_最优卡组.s
+
+# target to generate assembly for a file
+priority_queue/937_最优卡组.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.s
+.PHONY : priority_queue/937_最优卡组.cpp.s
+
+priority_queue/Dijkstra/2378_治安点.obj: priority_queue/Dijkstra/2378_治安点.cpp.obj
+.PHONY : priority_queue/Dijkstra/2378_治安点.obj
+
+# target to build an object file
+priority_queue/Dijkstra/2378_治安点.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj
+.PHONY : priority_queue/Dijkstra/2378_治安点.cpp.obj
+
+priority_queue/Dijkstra/2378_治安点.i: priority_queue/Dijkstra/2378_治安点.cpp.i
+.PHONY : priority_queue/Dijkstra/2378_治安点.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/2378_治安点.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.i
+.PHONY : priority_queue/Dijkstra/2378_治安点.cpp.i
+
+priority_queue/Dijkstra/2378_治安点.s: priority_queue/Dijkstra/2378_治安点.cpp.s
+.PHONY : priority_queue/Dijkstra/2378_治安点.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/2378_治安点.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.s
+.PHONY : priority_queue/Dijkstra/2378_治安点.cpp.s
+
+priority_queue/Dijkstra/2647_非负权单源最短路.obj: priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.obj
+
+# target to build an object file
+priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj
+
+priority_queue/Dijkstra/2647_非负权单源最短路.i: priority_queue/Dijkstra/2647_非负权单源最短路.cpp.i
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/2647_非负权单源最短路.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.i
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.cpp.i
+
+priority_queue/Dijkstra/2647_非负权单源最短路.s: priority_queue/Dijkstra/2647_非负权单源最短路.cpp.s
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/2647_非负权单源最短路.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.s
+.PHONY : priority_queue/Dijkstra/2647_非负权单源最短路.cpp.s
+
+priority_queue/Dijkstra/343_最短路径问题.obj: priority_queue/Dijkstra/343_最短路径问题.cpp.obj
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.obj
+
+# target to build an object file
+priority_queue/Dijkstra/343_最短路径问题.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.cpp.obj
+
+priority_queue/Dijkstra/343_最短路径问题.i: priority_queue/Dijkstra/343_最短路径问题.cpp.i
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/343_最短路径问题.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.i
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.cpp.i
+
+priority_queue/Dijkstra/343_最短路径问题.s: priority_queue/Dijkstra/343_最短路径问题.cpp.s
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/343_最短路径问题.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.s
+.PHONY : priority_queue/Dijkstra/343_最短路径问题.cpp.s
+
+priority_queue/Dijkstra/345_行者无疆.obj: priority_queue/Dijkstra/345_行者无疆.cpp.obj
+.PHONY : priority_queue/Dijkstra/345_行者无疆.obj
+
+# target to build an object file
+priority_queue/Dijkstra/345_行者无疆.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj
+.PHONY : priority_queue/Dijkstra/345_行者无疆.cpp.obj
+
+priority_queue/Dijkstra/345_行者无疆.i: priority_queue/Dijkstra/345_行者无疆.cpp.i
+.PHONY : priority_queue/Dijkstra/345_行者无疆.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/345_行者无疆.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.i
+.PHONY : priority_queue/Dijkstra/345_行者无疆.cpp.i
+
+priority_queue/Dijkstra/345_行者无疆.s: priority_queue/Dijkstra/345_行者无疆.cpp.s
+.PHONY : priority_queue/Dijkstra/345_行者无疆.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/345_行者无疆.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.s
+.PHONY : priority_queue/Dijkstra/345_行者无疆.cpp.s
+
+priority_queue/Dijkstra/358_Bessie_Come_Home.obj: priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.obj
+
+# target to build an object file
+priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj
+
+priority_queue/Dijkstra/358_Bessie_Come_Home.i: priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.i
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.i
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.i
+
+priority_queue/Dijkstra/358_Bessie_Come_Home.s: priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.s
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.s
+.PHONY : priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.s
+
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.obj: priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.obj
+
+# target to build an object file
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj
+
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.i: priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.i
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.i
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.i
+
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.s: priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.s
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.s
+.PHONY : priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.s
+
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.obj: priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.obj
+
+# target to build an object file
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj
+
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.i: priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.i
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.i
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.i
+
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.s: priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.s
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.s
+.PHONY : priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.s
+
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.obj: priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.obj
+
+# target to build an object file
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj
+
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.i: priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.i
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.i
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.i
+
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.s: priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.s
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.s
+.PHONY : priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.s
+
+priority_queue/Dijkstra/816_DH的魔法光束.obj: priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.obj
+
+# target to build an object file
+priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj
+
+priority_queue/Dijkstra/816_DH的魔法光束.i: priority_queue/Dijkstra/816_DH的魔法光束.cpp.i
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/816_DH的魔法光束.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.i
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.cpp.i
+
+priority_queue/Dijkstra/816_DH的魔法光束.s: priority_queue/Dijkstra/816_DH的魔法光束.cpp.s
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/816_DH的魔法光束.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.s
+.PHONY : priority_queue/Dijkstra/816_DH的魔法光束.cpp.s
+
+priority_queue/Dijkstra/916_不想掉坑.obj: priority_queue/Dijkstra/916_不想掉坑.cpp.obj
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.obj
+
+# target to build an object file
+priority_queue/Dijkstra/916_不想掉坑.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.cpp.obj
+
+priority_queue/Dijkstra/916_不想掉坑.i: priority_queue/Dijkstra/916_不想掉坑.cpp.i
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.i
+
+# target to preprocess a source file
+priority_queue/Dijkstra/916_不想掉坑.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.i
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.cpp.i
+
+priority_queue/Dijkstra/916_不想掉坑.s: priority_queue/Dijkstra/916_不想掉坑.cpp.s
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.s
+
+# target to generate assembly for a file
+priority_queue/Dijkstra/916_不想掉坑.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.s
+.PHONY : priority_queue/Dijkstra/916_不想掉坑.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -27194,9 +27170,6 @@ help:
 	@echo ... 1001~2000/1511_天秤的烦恼.obj
 	@echo ... 1001~2000/1511_天秤的烦恼.i
 	@echo ... 1001~2000/1511_天秤的烦恼.s
-	@echo ... 1001~2000/1512_女娲加农炮.obj
-	@echo ... 1001~2000/1512_女娲加农炮.i
-	@echo ... 1001~2000/1512_女娲加农炮.s
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.obj
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.i
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.s
@@ -27209,9 +27182,6 @@ help:
 	@echo ... 1001~2000/1518_第k顺序统计量.obj
 	@echo ... 1001~2000/1518_第k顺序统计量.i
 	@echo ... 1001~2000/1518_第k顺序统计量.s
-	@echo ... 1001~2000/1519_女娲加农炮II.obj
-	@echo ... 1001~2000/1519_女娲加农炮II.i
-	@echo ... 1001~2000/1519_女娲加农炮II.s
 	@echo ... 1001~2000/1520_类型转换.obj
 	@echo ... 1001~2000/1520_类型转换.i
 	@echo ... 1001~2000/1520_类型转换.s
@@ -27599,15 +27569,9 @@ help:
 	@echo ... 1~1000/145_忙碌的Nova君.obj
 	@echo ... 1~1000/145_忙碌的Nova君.i
 	@echo ... 1~1000/145_忙碌的Nova君.s
-	@echo ... 1~1000/146_机智零崎不会没梗Ⅱ.obj
-	@echo ... 1~1000/146_机智零崎不会没梗Ⅱ.i
-	@echo ... 1~1000/146_机智零崎不会没梗Ⅱ.s
 	@echo ... 1~1000/147_dp_AC.obj
 	@echo ... 1~1000/147_dp_AC.i
 	@echo ... 1~1000/147_dp_AC.s
-	@echo ... 1~1000/147_皮卡丘！GET！.obj
-	@echo ... 1~1000/147_皮卡丘！GET！.i
-	@echo ... 1~1000/147_皮卡丘！GET！.s
 	@echo ... 1~1000/148_机智零崎不会没梗Ⅲ.obj
 	@echo ... 1~1000/148_机智零崎不会没梗Ⅲ.i
 	@echo ... 1~1000/148_机智零崎不会没梗Ⅲ.s
@@ -27950,9 +27914,6 @@ help:
 	@echo ... 1~1000/253_难题——再见了，大活_计数DP.obj
 	@echo ... 1~1000/253_难题——再见了，大活_计数DP.i
 	@echo ... 1~1000/253_难题——再见了，大活_计数DP.s
-	@echo ... 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.obj
-	@echo ... 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.i
-	@echo ... 1~1000/253_难题——再见了，大活_链表+可撤回贪心pq.s
 	@echo ... 1~1000/254_中等题——零崎的考试_基础DP.obj
 	@echo ... 1~1000/254_中等题——零崎的考试_基础DP.i
 	@echo ... 1~1000/254_中等题——零崎的考试_基础DP.s
@@ -28208,21 +28169,9 @@ help:
 	@echo ... 1~1000/340_AZY's_Xscapesstream.obj
 	@echo ... 1~1000/340_AZY's_Xscapesstream.i
 	@echo ... 1~1000/340_AZY's_Xscapesstream.s
-	@echo ... 1~1000/341_图的深度遍历.obj
-	@echo ... 1~1000/341_图的深度遍历.i
-	@echo ... 1~1000/341_图的深度遍历.s
-	@echo ... 1~1000/342_图的广度遍历.obj
-	@echo ... 1~1000/342_图的广度遍历.i
-	@echo ... 1~1000/342_图的广度遍历.s
-	@echo ... 1~1000/343_最短路径问题.obj
-	@echo ... 1~1000/343_最短路径问题.i
-	@echo ... 1~1000/343_最短路径问题.s
 	@echo ... 1~1000/344_拮据的模拟城市.obj
 	@echo ... 1~1000/344_拮据的模拟城市.i
 	@echo ... 1~1000/344_拮据的模拟城市.s
-	@echo ... 1~1000/345_行者无疆.obj
-	@echo ... 1~1000/345_行者无疆.i
-	@echo ... 1~1000/345_行者无疆.s
 	@echo ... 1~1000/346_二叉树也玩俄罗斯方块.obj
 	@echo ... 1~1000/346_二叉树也玩俄罗斯方块.i
 	@echo ... 1~1000/346_二叉树也玩俄罗斯方块.s
@@ -28259,9 +28208,6 @@ help:
 	@echo ... 1~1000/357_借教室.obj
 	@echo ... 1~1000/357_借教室.i
 	@echo ... 1~1000/357_借教室.s
-	@echo ... 1~1000/358_Bessie_Come_Home.obj
-	@echo ... 1~1000/358_Bessie_Come_Home.i
-	@echo ... 1~1000/358_Bessie_Come_Home.s
 	@echo ... 1~1000/359_传纸条.obj
 	@echo ... 1~1000/359_传纸条.i
 	@echo ... 1~1000/359_传纸条.s
@@ -28283,9 +28229,6 @@ help:
 	@echo ... 1~1000/364_barty的智商.obj
 	@echo ... 1~1000/364_barty的智商.i
 	@echo ... 1~1000/364_barty的智商.s
-	@echo ... 1~1000/365_迷宫里有一只薛定谔的猫.obj
-	@echo ... 1~1000/365_迷宫里有一只薛定谔的猫.i
-	@echo ... 1~1000/365_迷宫里有一只薛定谔的猫.s
 	@echo ... 1~1000/367_简单·AZY's_multiplication.obj
 	@echo ... 1~1000/367_简单·AZY's_multiplication.i
 	@echo ... 1~1000/367_简单·AZY's_multiplication.s
@@ -28370,9 +28313,6 @@ help:
 	@echo ... 1~1000/389_难题-AZY做志愿者.obj
 	@echo ... 1~1000/389_难题-AZY做志愿者.i
 	@echo ... 1~1000/389_难题-AZY做志愿者.s
-	@echo ... 1~1000/38_优先队列应用.obj
-	@echo ... 1~1000/38_优先队列应用.i
-	@echo ... 1~1000/38_优先队列应用.s
 	@echo ... 1~1000/390_难题-拓扑排序assign.obj
 	@echo ... 1~1000/390_难题-拓扑排序assign.i
 	@echo ... 1~1000/390_难题-拓扑排序assign.s
@@ -28541,12 +28481,6 @@ help:
 	@echo ... 1~1000/461_jhljx水水的最短路径.obj
 	@echo ... 1~1000/461_jhljx水水的最短路径.i
 	@echo ... 1~1000/461_jhljx水水的最短路径.s
-	@echo ... 1~1000/462_jhljx水水的补习班.obj
-	@echo ... 1~1000/462_jhljx水水的补习班.i
-	@echo ... 1~1000/462_jhljx水水的补习班.s
-	@echo ... 1~1000/463_Magry's_Sum_I_pq.obj
-	@echo ... 1~1000/463_Magry's_Sum_I_pq.i
-	@echo ... 1~1000/463_Magry's_Sum_I_pq.s
 	@echo ... 1~1000/464_ModricWang的数据位校验.obj
 	@echo ... 1~1000/464_ModricWang的数据位校验.i
 	@echo ... 1~1000/464_ModricWang的数据位校验.s
@@ -28562,9 +28496,6 @@ help:
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.obj
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.i
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.s
-	@echo ... 1~1000/471_Magry's_Sum_II.obj
-	@echo ... 1~1000/471_Magry's_Sum_II.i
-	@echo ... 1~1000/471_Magry's_Sum_II.s
 	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
 	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
 	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
@@ -28586,9 +28517,6 @@ help:
 	@echo ... 1~1000/475_济世之光.obj
 	@echo ... 1~1000/475_济世之光.i
 	@echo ... 1~1000/475_济世之光.s
-	@echo ... 1~1000/476_jhljx水水的卡牌_贪心_pq.obj
-	@echo ... 1~1000/476_jhljx水水的卡牌_贪心_pq.i
-	@echo ... 1~1000/476_jhljx水水的卡牌_贪心_pq.s
 	@echo ... 1~1000/47_不要不要数列求和.obj
 	@echo ... 1~1000/47_不要不要数列求和.i
 	@echo ... 1~1000/47_不要不要数列求和.s
@@ -28721,9 +28649,6 @@ help:
 	@echo ... 1~1000/566_密码安全_单调栈.obj
 	@echo ... 1~1000/566_密码安全_单调栈.i
 	@echo ... 1~1000/566_密码安全_单调栈.s
-	@echo ... 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.obj
-	@echo ... 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.i
-	@echo ... 1~1000/569_Magry遇上了初雪第三弹_最大流模板_dij.s
 	@echo ... 1~1000/56_“伪”积分.obj
 	@echo ... 1~1000/56_“伪”积分.i
 	@echo ... 1~1000/56_“伪”积分.s
@@ -28751,9 +28676,6 @@ help:
 	@echo ... 1~1000/584_王助教理牌.obj
 	@echo ... 1~1000/584_王助教理牌.i
 	@echo ... 1~1000/584_王助教理牌.s
-	@echo ... 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.obj
-	@echo ... 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.i
-	@echo ... 1~1000/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况_dij.s
 	@echo ... 1~1000/587_浪哥的烦恼.obj
 	@echo ... 1~1000/587_浪哥的烦恼.i
 	@echo ... 1~1000/587_浪哥的烦恼.s
@@ -28901,9 +28823,6 @@ help:
 	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj
 	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.i
 	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.s
-	@echo ... 1~1000/671_简单·简单的贪心_贪心_pq.obj
-	@echo ... 1~1000/671_简单·简单的贪心_贪心_pq.i
-	@echo ... 1~1000/671_简单·简单的贪心_贪心_pq.s
 	@echo ... 1~1000/672_简单·最大公约数.obj
 	@echo ... 1~1000/672_简单·最大公约数.i
 	@echo ... 1~1000/672_简单·最大公约数.s
@@ -29246,9 +29165,6 @@ help:
 	@echo ... 1~1000/814_DH去看球map.obj
 	@echo ... 1~1000/814_DH去看球map.i
 	@echo ... 1~1000/814_DH去看球map.s
-	@echo ... 1~1000/816_DH的魔法光束pq.obj
-	@echo ... 1~1000/816_DH的魔法光束pq.i
-	@echo ... 1~1000/816_DH的魔法光束pq.s
 	@echo ... 1~1000/817_Mdd去旅游(II).obj
 	@echo ... 1~1000/817_Mdd去旅游(II).i
 	@echo ... 1~1000/817_Mdd去旅游(II).s
@@ -29402,9 +29318,6 @@ help:
 	@echo ... 1~1000/913_数位各位之和.obj
 	@echo ... 1~1000/913_数位各位之和.i
 	@echo ... 1~1000/913_数位各位之和.s
-	@echo ... 1~1000/916_不想掉坑.obj
-	@echo ... 1~1000/916_不想掉坑.i
-	@echo ... 1~1000/916_不想掉坑.s
 	@echo ... 1~1000/917_完数.obj
 	@echo ... 1~1000/917_完数.i
 	@echo ... 1~1000/917_完数.s
@@ -29444,9 +29357,6 @@ help:
 	@echo ... 1~1000/934_熊猫序列.obj
 	@echo ... 1~1000/934_熊猫序列.i
 	@echo ... 1~1000/934_熊猫序列.s
-	@echo ... 1~1000/937_最优卡组pq.obj
-	@echo ... 1~1000/937_最优卡组pq.i
-	@echo ... 1~1000/937_最优卡组pq.s
 	@echo ... 1~1000/93_伤心的晴天小猪.obj
 	@echo ... 1~1000/93_伤心的晴天小猪.i
 	@echo ... 1~1000/93_伤心的晴天小猪.s
@@ -29504,9 +29414,6 @@ help:
 	@echo ... 2001~3000/2368_二叉树深度和笛卡尔树.obj
 	@echo ... 2001~3000/2368_二叉树深度和笛卡尔树.i
 	@echo ... 2001~3000/2368_二叉树深度和笛卡尔树.s
-	@echo ... 2001~3000/2369_电影院.obj
-	@echo ... 2001~3000/2369_电影院.i
-	@echo ... 2001~3000/2369_电影院.s
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.obj
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.i
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.s
@@ -29519,18 +29426,12 @@ help:
 	@echo ... 2001~3000/2374_多多岛.obj
 	@echo ... 2001~3000/2374_多多岛.i
 	@echo ... 2001~3000/2374_多多岛.s
-	@echo ... 2001~3000/2375_生日宴会.obj
-	@echo ... 2001~3000/2375_生日宴会.i
-	@echo ... 2001~3000/2375_生日宴会.s
 	@echo ... 2001~3000/2376_魔法阵弗洛伊德.obj
 	@echo ... 2001~3000/2376_魔法阵弗洛伊德.i
 	@echo ... 2001~3000/2376_魔法阵弗洛伊德.s
 	@echo ... 2001~3000/2377_小面包.obj
 	@echo ... 2001~3000/2377_小面包.i
 	@echo ... 2001~3000/2377_小面包.s
-	@echo ... 2001~3000/2378_治安点.obj
-	@echo ... 2001~3000/2378_治安点.i
-	@echo ... 2001~3000/2378_治安点.s
 	@echo ... 2001~3000/2386_最小生成树并查集.obj
 	@echo ... 2001~3000/2386_最小生成树并查集.i
 	@echo ... 2001~3000/2386_最小生成树并查集.s
@@ -29624,9 +29525,6 @@ help:
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.obj
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.i
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.s
-	@echo ... 2001~3000/2553_浩瀚星辰.obj
-	@echo ... 2001~3000/2553_浩瀚星辰.i
-	@echo ... 2001~3000/2553_浩瀚星辰.s
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).i
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).s
@@ -29645,9 +29543,6 @@ help:
 	@echo ... 2001~3000/2596_多流水线动态规划.obj
 	@echo ... 2001~3000/2596_多流水线动态规划.i
 	@echo ... 2001~3000/2596_多流水线动态规划.s
-	@echo ... 2001~3000/2647_非负权单源最短路.obj
-	@echo ... 2001~3000/2647_非负权单源最短路.i
-	@echo ... 2001~3000/2647_非负权单源最短路.s
 	@echo ... 2001~3000/2648_食物链.obj
 	@echo ... 2001~3000/2648_食物链.i
 	@echo ... 2001~3000/2648_食物链.s
@@ -29768,9 +29663,6 @@ help:
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.obj
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.i
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.s
-	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.obj
-	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.i
-	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（暴力）_.s
 	@echo ... 4001~5000/4199_二进制逆序.obj
 	@echo ... 4001~5000/4199_二进制逆序.i
 	@echo ... 4001~5000/4199_二进制逆序.s
@@ -30323,6 +30215,87 @@ help:
 	@echo ... 4001~5000/4435_给线段排排序.obj
 	@echo ... 4001~5000/4435_给线段排排序.i
 	@echo ... 4001~5000/4435_给线段排排序.s
+	@echo ... priority_queue/146_机智零崎不会没梗Ⅱ.obj
+	@echo ... priority_queue/146_机智零崎不会没梗Ⅱ.i
+	@echo ... priority_queue/146_机智零崎不会没梗Ⅱ.s
+	@echo ... priority_queue/147_皮卡丘！GET！.obj
+	@echo ... priority_queue/147_皮卡丘！GET！.i
+	@echo ... priority_queue/147_皮卡丘！GET！.s
+	@echo ... priority_queue/1512_女娲加农炮.obj
+	@echo ... priority_queue/1512_女娲加农炮.i
+	@echo ... priority_queue/1512_女娲加农炮.s
+	@echo ... priority_queue/1519_女娲加农炮II.obj
+	@echo ... priority_queue/1519_女娲加农炮II.i
+	@echo ... priority_queue/1519_女娲加农炮II.s
+	@echo ... priority_queue/2369_电影院.obj
+	@echo ... priority_queue/2369_电影院.i
+	@echo ... priority_queue/2369_电影院.s
+	@echo ... priority_queue/2375_生日宴会.obj
+	@echo ... priority_queue/2375_生日宴会.i
+	@echo ... priority_queue/2375_生日宴会.s
+	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj
+	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.i
+	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.s
+	@echo ... priority_queue/2553_浩瀚星辰.obj
+	@echo ... priority_queue/2553_浩瀚星辰.i
+	@echo ... priority_queue/2553_浩瀚星辰.s
+	@echo ... priority_queue/341_图的深度遍历.obj
+	@echo ... priority_queue/341_图的深度遍历.i
+	@echo ... priority_queue/341_图的深度遍历.s
+	@echo ... priority_queue/342_图的广度遍历.obj
+	@echo ... priority_queue/342_图的广度遍历.i
+	@echo ... priority_queue/342_图的广度遍历.s
+	@echo ... priority_queue/38_优先队列应用.obj
+	@echo ... priority_queue/38_优先队列应用.i
+	@echo ... priority_queue/38_优先队列应用.s
+	@echo ... priority_queue/462_jhljx水水的补习班.obj
+	@echo ... priority_queue/462_jhljx水水的补习班.i
+	@echo ... priority_queue/462_jhljx水水的补习班.s
+	@echo ... priority_queue/463_Magry's_Sum_I.obj
+	@echo ... priority_queue/463_Magry's_Sum_I.i
+	@echo ... priority_queue/463_Magry's_Sum_I.s
+	@echo ... priority_queue/471_Magry's_Sum_II.obj
+	@echo ... priority_queue/471_Magry's_Sum_II.i
+	@echo ... priority_queue/471_Magry's_Sum_II.s
+	@echo ... priority_queue/476_jhljx水水的卡牌_贪心.obj
+	@echo ... priority_queue/476_jhljx水水的卡牌_贪心.i
+	@echo ... priority_queue/476_jhljx水水的卡牌_贪心.s
+	@echo ... priority_queue/671_简单·简单的贪心_贪心.obj
+	@echo ... priority_queue/671_简单·简单的贪心_贪心.i
+	@echo ... priority_queue/671_简单·简单的贪心_贪心.s
+	@echo ... priority_queue/937_最优卡组.obj
+	@echo ... priority_queue/937_最优卡组.i
+	@echo ... priority_queue/937_最优卡组.s
+	@echo ... priority_queue/Dijkstra/2378_治安点.obj
+	@echo ... priority_queue/Dijkstra/2378_治安点.i
+	@echo ... priority_queue/Dijkstra/2378_治安点.s
+	@echo ... priority_queue/Dijkstra/2647_非负权单源最短路.obj
+	@echo ... priority_queue/Dijkstra/2647_非负权单源最短路.i
+	@echo ... priority_queue/Dijkstra/2647_非负权单源最短路.s
+	@echo ... priority_queue/Dijkstra/343_最短路径问题.obj
+	@echo ... priority_queue/Dijkstra/343_最短路径问题.i
+	@echo ... priority_queue/Dijkstra/343_最短路径问题.s
+	@echo ... priority_queue/Dijkstra/345_行者无疆.obj
+	@echo ... priority_queue/Dijkstra/345_行者无疆.i
+	@echo ... priority_queue/Dijkstra/345_行者无疆.s
+	@echo ... priority_queue/Dijkstra/358_Bessie_Come_Home.obj
+	@echo ... priority_queue/Dijkstra/358_Bessie_Come_Home.i
+	@echo ... priority_queue/Dijkstra/358_Bessie_Come_Home.s
+	@echo ... priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.obj
+	@echo ... priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.i
+	@echo ... priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.s
+	@echo ... priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.obj
+	@echo ... priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.i
+	@echo ... priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.s
+	@echo ... priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.obj
+	@echo ... priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.i
+	@echo ... priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.s
+	@echo ... priority_queue/Dijkstra/816_DH的魔法光束.obj
+	@echo ... priority_queue/Dijkstra/816_DH的魔法光束.i
+	@echo ... priority_queue/Dijkstra/816_DH的魔法光束.s
+	@echo ... priority_queue/Dijkstra/916_不想掉坑.obj
+	@echo ... priority_queue/Dijkstra/916_不想掉坑.i
+	@echo ... priority_queue/Dijkstra/916_不想掉坑.s
 .PHONY : help
 
 

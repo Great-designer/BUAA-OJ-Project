@@ -4,7 +4,7 @@
 #include<string.h>
 #include<complex.h>
 
-const double Pi = acos(-1.0);
+#define Pi acos(-1.0)
 
 int n, m, t;
 int tmp;

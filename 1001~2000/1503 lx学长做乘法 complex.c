@@ -3,7 +3,7 @@
 #include<math.h>
 #include<complex.h>
 
-double Pi=acos(-1.0);
+#define Pi acos(-1.0)
 
 complex double x1[200000],x2[200000];
 char a[200000/2],b[200000/2];

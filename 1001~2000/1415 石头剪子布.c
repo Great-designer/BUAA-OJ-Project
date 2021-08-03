@@ -2,7 +2,7 @@
 #include<string.h>  
 #include<math.h>   
  
-double PI=acos(-1.0);
+#define PI acos(-1.0)
 
 struct complex  
 {      

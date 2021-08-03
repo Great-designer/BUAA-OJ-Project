@@ -2,7 +2,7 @@
 #include<math.h>
 #include<string.h>
 
-double PI=acos(-1.0);
+#define PI acos(-1.0)
 
 struct Vir
 {

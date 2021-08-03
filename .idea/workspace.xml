@@ -5,161 +5,72 @@
       <config projectName="BUAA_OJ_Project" targetName="BUAA_OJ_Project" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82aa2c09-714e-4574-b704-7a6927ea9717" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1030 统计质数 高度优化的埃氏筛法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1030 统计质数 高度优化的埃氏筛法.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1001~2000/1134 简单ab complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1134 简单ab complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1301 最短路.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1301 最短路.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1328 气泡排序 二叉堆 排序原理.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1328 气泡排序 二叉堆 排序原理.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1332 十进制异或 数位dp.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1332 十进制异或 数位dp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1134 简单ab.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1134 简单ab.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1001~2000/1415 石头剪子布 FFT 模式串匹配 complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1415 石头剪子布 FFT 模式串匹配 complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1431 SkyLee在GameStop.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1431 SkyLee在GameStop.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1415 石头剪子布.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1415 石头剪子布.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1001~2000/1440 雨桐学姐做乘法 complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1440 雨桐学姐做乘法 complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法 complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法 complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1551 中二之力.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1551 中二之力.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1557 区间内素数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1557 区间内素数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1558 Ausar的Switch.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1558 Ausar的Switch.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1603 lx的最短正整数序列.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1603 lx的最短正整数序列.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1610 平均中位从小到大众数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1610 平均中位从小到大众数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1628 login走迷宫.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1628 login走迷宫.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1633 lx的简单题.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1633 lx的简单题.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1652 lx解方程.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1652 lx解方程.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/10 零崎的人间冒险Ⅱ.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/10 零崎的人间冒险Ⅱ.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/117 汉诺塔再度来袭.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/117 汉诺塔再度来袭.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/121 相位转移bsearch.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/121 相位转移bsearch.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/126 String Matching.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/126 String Matching.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/135 老和尚的真言.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/135 老和尚的真言.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/143 机智零崎不会没梗Ⅰ.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/143 机智零崎不会没梗Ⅰ.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/145 忙碌的Nova君.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/145 忙碌的Nova君.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/156 说好的XihangTooWhite.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/156 说好的XihangTooWhite.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/184 microhhh的图书管理系统.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/184 microhhh的图书管理系统.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/185 阿姆斯特朗回旋加速喷气式阿姆斯特朗炮.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/185 阿姆斯特朗回旋加速喷气式阿姆斯特朗炮.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/189 零崎的悠哉日常Ⅰ.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/189 零崎的悠哉日常Ⅰ.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/204 就是这么巧bsearch.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/204 就是这么巧bsearch.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/21 大家都来分级啦.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/21 大家都来分级啦.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/218 乱六一糟的数列 贪心.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/218 乱六一糟的数列 贪心.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/226 简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/226 简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/227 更大公约数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/227 更大公约数.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1512 女娲加农炮.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1519 女娲加农炮II.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/11 Let's play a game威佐夫博弈根号5.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/11 Let's play a game威佐夫博弈根号5.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/146 机智零崎不会没梗Ⅱ.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/147 皮卡丘！GET！.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法 complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法 complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/248 microhhh的回文词（难）.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/248 microhhh的回文词（难）.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/250 简单题——I wanna be the 升级者Ⅰ nth_element.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/250 简单题——I wanna be the 升级者Ⅰ nth_element.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/251 简单题——I wanna be the 升级者Ⅱ 二分查找lower_bound.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/251 简单题——I wanna be the 升级者Ⅱ 二分查找lower_bound.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/253 难题——再见了，大活 wqs二分.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/253 难题——再见了，大活 wqs二分.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/260 难题——线段和直线 计算几何.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/260 难题——线段和直线 计算几何.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/290 Kevin_Feng写作文.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/290 Kevin_Feng写作文.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/296 Z君的日常之海绵宝宝.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/296 Z君的日常之海绵宝宝.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/304 AZY的汉诺塔.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/304 AZY的汉诺塔.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/313 礼物.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/313 礼物.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/325 microhhh的签到题.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/325 microhhh的签到题.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/331 二叉树的三围.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/331 二叉树的三围.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/355 最小生成树.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/355 最小生成树.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/356 The Last Alpha Star.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/356 The Last Alpha Star.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/359 传纸条.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/359 传纸条.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/369 zxa and split.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/369 zxa and split.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/253 难题——再见了，大活 链表+可撤回贪心pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/341 图的深度遍历.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/342 图的广度遍历.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/343 最短路径问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/345 行者无疆.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/358 Bessie Come Home.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/365 迷宫里有一只薛定谔的猫.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/38 优先队列应用.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang complex.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1~1000/41 大整数相乘 complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/41 大整数相乘 complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/453 王助教坐地铁.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/453 王助教坐地铁.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/463 Magry's Sum I pq.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/463 Magry's Sum I pq.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/464 ModricWang的数据位校验.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/464 ModricWang的数据位校验.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/471 Magry's Sum II.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/471 Magry's Sum II.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/472 Magry's Prime 高度优化的埃氏筛法+上界二分查找.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/472 Magry's Prime 高度优化的埃氏筛法+上界二分查找.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/507 可得长生否 记忆化搜索.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/507 可得长生否 记忆化搜索.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/526 Magry的幸运度 贪心.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/526 Magry的幸运度 贪心.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/532 点与多边形.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/532 点与多边形.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/538 混乱的辈分关系 图论.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/538 混乱的辈分关系 图论.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/564 王助教的调色盘lower_bound.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/564 王助教的调色盘lower_bound.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/569 Magry遇上了初雪第三弹 最大流模板 dij.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/569 Magry遇上了初雪第三弹 最大流模板 dij.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/585 自带究极坑属性任务之节点连接 最大流 当边权出现0的情况 dij.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/585 自带究极坑属性任务之节点连接 最大流 当边权出现0的情况 dij.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/602 加法运算.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/602 加法运算.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/609 最小内积.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/609 最小内积.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/41 大整数相乘.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/41 大整数相乘.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/44 jhljx学函数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/44 jhljx学函数.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/462 jhljx水水的补习班.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/463 Magry's Sum I pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/471 Magry's Sum II.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/476 jhljx水水的卡牌 贪心 pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/569 Magry遇上了初雪第三弹 最大流模板 dij.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/585 自带究极坑属性任务之节点连接 最大流 当边权出现0的情况 dij.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1~1000/619 老哥，稳！ FFT complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/619 老哥，稳！ FFT complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/620 数论の重逢 EXCRT.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/620 数论の重逢 EXCRT.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/620 数论の重逢 中国剩余定理.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/620 数论の重逢 中国剩余定理.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/621 怠惰的王木木Ⅲ 凸包模板.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/621 怠惰的王木木Ⅲ 凸包模板.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1~1000/629 模式寻数 II 多项式FFT complex.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/629 模式寻数 II 多项式FFT complex.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/652 ModricWang拦截导弹 最长不上升子序列.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/652 ModricWang拦截导弹 最长不上升子序列.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/66 日期计算.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/66 日期计算.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/698 巧克力游戏.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/698 巧克力游戏.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/699 Mdd的swap函数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/699 Mdd的swap函数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/70 microhhh的困境.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/70 microhhh的困境.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/709 Mdd玩炉石.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/709 Mdd玩炉石.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/717 Mdd来排队(II).c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/717 Mdd来排队(II).c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/721 DH的数字序列.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/721 DH的数字序列.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/722 Gzh之表达式求值string 递归下降法.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/722 Gzh之表达式求值string 递归下降法.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/723 Mdd的回文串.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/723 Mdd的回文串.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/725 Mdd学数学.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/725 Mdd学数学.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/732 Gzh之软院联谊 稳定婚姻匹配问题 Gale-Shapley算法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/732 Gzh之软院联谊 稳定婚姻匹配问题 Gale-Shapley算法.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/745 ModricWang的链表.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/745 ModricWang的链表.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/748 Mdd的完全二叉树.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/748 Mdd的完全二叉树.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/759 Gzh的射击游戏lower_bound.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/759 Gzh的射击游戏lower_bound.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/76 jhljx学素数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/76 jhljx学素数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/761 Mdd的信.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/761 Mdd的信.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/762 Gzh的二叉树.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/762 Gzh的二叉树.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/782 Gzh之图的深度优先遍历set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/782 Gzh之图的深度优先遍历set.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/79 microhhh的雷达.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/79 microhhh的雷达.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/836 管理员的大忧伤string.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/836 管理员的大忧伤string.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/840 后羿射日 - ver. easy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/840 后羿射日 - ver. easy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/964 三角形的判断.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/964 三角形的判断.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2439 斐波那契数列.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2439 斐波那契数列.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2486 k次折半和最小.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2486 k次折半和最小.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2532 钢管切割.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2532 钢管切割.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2592 最大上升子序列动态规划.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2592 最大上升子序列动态规划.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2704 网络流.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2704 网络流.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2709 贪心.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2709 贪心.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2953 真二分查找bsearch.c" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2953 真二分查找bsearch.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4184 YourSQL2.0.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4184 YourSQL2.0.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4195 cbj学数学分析.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4195 cbj学数学分析.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4198 基础物理实验 2（简单版）（暴力） .c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4198 基础物理实验 2（简单版）（暴力） .c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4199 二进制逆序.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4199 二进制逆序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4216 简单的分数约分.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4216 简单的分数约分.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4227 小迷弟坐电梯.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4227 小迷弟坐电梯.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4230 数字反转2021 方法2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4230 数字反转2021 方法2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4247 简易浮点数.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4247 简易浮点数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4251 补码相反数.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4251 补码相反数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4256 高低位 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4256 高低位 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4256 高低位 方法2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4256 高低位 方法2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4258 浮点数进阶.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4258 浮点数进阶.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4260 大兔子乖乖拔大萝卜 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4260 大兔子乖乖拔大萝卜 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4262 二荷学姐买基金（续） 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4262 二荷学姐买基金（续） 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4269 JZD学组合数.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4269 JZD学组合数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4273 达 拉 崩 吧.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4273 达 拉 崩 吧.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4275 行变换与行列式.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4275 行变换与行列式.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4276 小迷弟搞偷袭.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4276 小迷弟搞偷袭.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4281 递归括号匹配.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4281 递归括号匹配.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4300 汉诺塔防住了荷家军.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4300 汉诺塔防住了荷家军.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4311 朵朵验证哥德巴赫猜想 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4311 朵朵验证哥德巴赫猜想 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4318 逆序输出字符串.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4318 逆序输出字符串.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4323 当DJ大师遇上正方形碟片 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4323 当DJ大师遇上正方形碟片 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4323 当DJ大师遇上正方形碟片 方法2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4323 当DJ大师遇上正方形碟片 方法2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4330 PlayFair.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4330 PlayFair.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4332 兔狗贴贴.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4332 兔狗贴贴.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4339 ssd做逻辑 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4339 ssd做逻辑 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4339 ssd做逻辑 方法2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4339 ssd做逻辑 方法2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4344 cbj学数独.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4344 cbj学数独.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4347 轰炸.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4347 轰炸.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4357 Dec to 2's complement.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4357 Dec to 2's complement.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4380 烧仙草数.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4380 烧仙草数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4381 五月加急名单.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4381 五月加急名单.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4385 合成宝石.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4385 合成宝石.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4390 动态链表操作.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4390 动态链表操作.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 栈方法.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 栈方法.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 爬升法.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 爬升法.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4409 名字的奥妙.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4409 名字的奥妙.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4416 位 互 换.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4416 位 互 换.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法1.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4422 简单的函数求和.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4422 简单的函数求和.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4423 李白打酒 AVL树 O(nlogn).c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4423 李白打酒 AVL树 O(nlogn).c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/671 简单·简单的贪心 贪心 pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/680 难题·大独裁者的以后 稳定凸包.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/680 难题·大独裁者的以后 稳定凸包.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/816 DH的魔法光束pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/916 不想掉坑.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/919 TQ有点二 另一种分组.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/919 TQ有点二 另一种分组.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/919 TQ有点二分组.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/919 TQ有点二分组.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/937 最优卡组pq.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2001~3000/2369 电影院.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2001~3000/2375 生日宴会.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2001~3000/2378 治安点.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2001~3000/2553 浩瀚星辰.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2001~3000/2647 非负权单源最短路.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4193 真·简单的a+b.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4298 荷家军进攻汉诺塔.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4298 荷家军进攻汉诺塔.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,13 +101,24 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -210,6 +132,9 @@
       <updated>1627888836511</updated>
       <workItem from="1627888838636" duration="1000" />
       <workItem from="1627889405443" duration="3217000" />
+      <workItem from="1627911361640" duration="535000" />
+      <workItem from="1627914094037" duration="15000" />
+      <workItem from="1627967514513" duration="2233000" />
     </task>
     <servers />
   </component>

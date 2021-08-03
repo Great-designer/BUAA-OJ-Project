@@ -3,7 +3,7 @@
 #include<math.h>
 #include<complex.h>
 
-double PI=acos(-1.0);
+#define PI acos(-1.0)
 
 void change(complex double y[],int len)
 {
