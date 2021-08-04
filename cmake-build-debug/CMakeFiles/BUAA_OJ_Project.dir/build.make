@@ -7891,19 +7891,19 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/531_崔哥的信仰.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/531_崔哥的信仰.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\531 崔哥的信仰.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\531_崔哥的信仰.c.s
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj: ../1~1000/532\ 点与多边形.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_560) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.cpp"
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj: ../1~1000/532\ 点与多边形.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_560) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.c"
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.cpp" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.cpp.i
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.c.i
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.cpp" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.cpp.s
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\532 点与多边形.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\532_点与多边形.c.s
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/535_一尺之棰.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/535_一尺之棰.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
@@ -10453,10 +10453,24 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\814 DH去看球map.cpp" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\814_DH去看球map.cpp.s
 
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj: ../1~1000/815\ ModricWang的局域网.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_743) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\815_ModricWang的局域网.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\815 ModricWang的局域网.c"
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\815 ModricWang的局域网.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\815_ModricWang的局域网.c.i
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\815 ModricWang的局域网.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\815_ModricWang的局域网.c.s
+
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj: ../1~1000/817\ Mdd去旅游(II).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_743) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_744) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\817_Mdd去旅游(II).c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\817 Mdd去旅游(II).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.i: cmake_force
@@ -10470,7 +10484,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj: ../1~1000/820\ Mdd的栈(中).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_744) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_745) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\820_Mdd的栈(中).c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\820 Mdd的栈(中).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.i: cmake_force
@@ -10484,7 +10498,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj: ../1~1000/821\ DH的注册系统map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_745) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_746) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\821_DH的注册系统map.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\821 DH的注册系统map.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.i: cmake_force
@@ -10498,7 +10512,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.obj: ../1~1000/822\ DH的括号匹配.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_746) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_747) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\822_DH的括号匹配.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\822 DH的括号匹配.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.i: cmake_force
@@ -10512,7 +10526,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.obj: ../1~1000/823\ Mdd玩积木(中难).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_747) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_748) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\823_Mdd玩积木(中难).c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\823 Mdd玩积木(中难).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.i: cmake_force
@@ -10526,7 +10540,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/823_Mdd玩积木(中难).c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj: ../1~1000/824\ DH的城市安全rotate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_748) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_749) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\824_DH的城市安全rotate.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\824 DH的城市安全rotate.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.i: cmake_force
@@ -10540,7 +10554,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.obj: ../1~1000/825\ ModricWang的星际旅行（中难）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_749) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_750) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\825_ModricWang的星际旅行（中难）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\825 ModricWang的星际旅行（中难）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.c.i: cmake_force
@@ -10554,7 +10568,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/825_ModricWang的星际旅行（中难）.
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.obj: ../1~1000/827\ Gzh的最佳损友（中等）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_750) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_751) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\827_Gzh的最佳损友（中等）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\827 Gzh的最佳损友（中等）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.i: cmake_force
@@ -10568,7 +10582,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/827_Gzh的最佳损友（中等）.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.obj: ../1~1000/828\ ModricWang的小火球术（简单）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_751) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_752) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\828_ModricWang的小火球术（简单）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\828 ModricWang的小火球术（简单）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.c.i: cmake_force
@@ -10582,7 +10596,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/828_ModricWang的小火球术（简单）.
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.obj: ../1~1000/83\ 双11就要到啦.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_752) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_753) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\83_双11就要到啦.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\83 双11就要到啦.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.i: cmake_force
@@ -10596,7 +10610,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.obj: ../1~1000/831\ 付佬的括号匹配\ -\ naive.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_753) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_754) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\831_付佬的括号匹配_-_naive.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\831 付佬的括号匹配 - naive.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.i: cmake_force
@@ -10610,7 +10624,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/831_付佬的括号匹配_-_naive.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.obj: ../1~1000/834\ 试试a-b吧！.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_754) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_755) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\834_试试a-b吧！.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\834 试试a-b吧！.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.i: cmake_force
@@ -10624,7 +10638,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/834_试试a-b吧！.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.obj: ../1~1000/835\ 风吹雨遍山.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_755) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_756) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\835_风吹雨遍山.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\835 风吹雨遍山.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.i: cmake_force
@@ -10638,7 +10652,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/835_风吹雨遍山.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.obj: ../1~1000/836\ 管理员的大忧伤string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_756) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_757) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\836_管理员的大忧伤string.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\836 管理员的大忧伤string.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.i: cmake_force
@@ -10652,7 +10666,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/836_管理员的大忧伤string.cpp.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.obj: ../1~1000/837\ 管理员的忧伤.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_757) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_758) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\837_管理员的忧伤.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\837 管理员的忧伤.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.i: cmake_force
@@ -10666,7 +10680,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj: ../1~1000/838\ 小太阳\ 树的最长链dfs\ 快读\ map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_758) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_759) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\838_小太阳_树的最长链dfs_快读_map.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\838 小太阳 树的最长链dfs 快读 map.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.i: cmake_force
@@ -10680,7 +10694,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_ma
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.obj: ../1~1000/84\ jhljx选择狗带.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_759) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_760) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\84_jhljx选择狗带.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\84 jhljx选择狗带.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.i: cmake_force
@@ -10694,7 +10708,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/84_jhljx选择狗带.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj: ../1~1000/840\ 后羿射日\ -\ ver.\ easy.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_760) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_761) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\840_后羿射日_-_ver._easy.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\840 后羿射日 - ver. easy.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.i: cmake_force
@@ -10708,7 +10722,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.obj: ../1~1000/841\ 哦~我的女神！.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_761) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_762) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\841_哦~我的女神！.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\841 哦~我的女神！.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.i: cmake_force
@@ -10722,7 +10736,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/841_哦~我的女神！.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.obj: ../1~1000/842\ 王助教科学和牌.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_762) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_763) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\842_王助教科学和牌.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\842 王助教科学和牌.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.i: cmake_force
@@ -10736,7 +10750,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/842_王助教科学和牌.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.obj: ../1~1000/85\ 三角形.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_763) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_764) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\85_三角形.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\85 三角形.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.i: cmake_force
@@ -10750,7 +10764,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/85_三角形.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.obj: ../1~1000/852\ 指（子）针（烝）吃鸡.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_764) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_765) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\852_指（子）针（烝）吃鸡.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\852 指（子）针（烝）吃鸡.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.i: cmake_force
@@ -10764,7 +10778,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/852_指（子）针（烝）吃鸡.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.obj: ../1~1000/853\ 北京仰望星空大学的飞船.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_765) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_766) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\853_北京仰望星空大学的飞船.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\853 北京仰望星空大学的飞船.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.i: cmake_force
@@ -10778,7 +10792,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/853_北京仰望星空大学的飞船.c.s:
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.obj: ../1~1000/854\ TQ的图像处理.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_766) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_767) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\854_TQ的图像处理.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\854 TQ的图像处理.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.i: cmake_force
@@ -10792,7 +10806,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/854_TQ的图像处理.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.obj: ../1~1000/859\ ModricWang解方程（2）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_767) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_768) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\859_ModricWang解方程（2）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\859 ModricWang解方程（2）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.i: cmake_force
@@ -10806,7 +10820,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/859_ModricWang解方程（2）.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.obj: ../1~1000/86\ wjh路遇火锅城.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_768) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_769) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\86_wjh路遇火锅城.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\86 wjh路遇火锅城.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.i: cmake_force
@@ -10820,7 +10834,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/86_wjh路遇火锅城.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.obj: ../1~1000/87\ Magry遇上了初雪.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_769) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_770) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\87_Magry遇上了初雪.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\87 Magry遇上了初雪.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.i: cmake_force
@@ -10834,7 +10848,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/87_Magry遇上了初雪.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.obj: ../1~1000/875\ TQ的山形绘制.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_770) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_771) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\875_TQ的山形绘制.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\875 TQ的山形绘制.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.i: cmake_force
@@ -10848,7 +10862,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/875_TQ的山形绘制.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.obj: ../1~1000/876\ QZZ的颜文字.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_771) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_772) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\876_QZZ的颜文字.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\876 QZZ的颜文字.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.i: cmake_force
@@ -10862,7 +10876,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/876_QZZ的颜文字.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.obj: ../1~1000/877\ 学号识别码.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_772) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_773) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\877_学号识别码.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\877 学号识别码.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.i: cmake_force
@@ -10876,7 +10890,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/877_学号识别码.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.obj: ../1~1000/878\ 你会向上取整嘛？.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_773) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_774) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\878_你会向上取整嘛？.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\878 你会向上取整嘛？.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.i: cmake_force
@@ -10890,7 +10904,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/878_你会向上取整嘛？.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.obj: ../1~1000/879\ 李助教的数位翻转.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_774) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_775) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\879_李助教的数位翻转.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\879 李助教的数位翻转.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.i: cmake_force
@@ -10904,7 +10918,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数位翻转.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj: ../1~1000/88\ A\ plus\ B.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_775) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_776) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\88_A_plus_B.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\88 A plus B.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.i: cmake_force
@@ -10918,7 +10932,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj: ../1~1000/880\ N3\ +\ 1\ problem.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_776) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_777) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\880_N3_+_1_problem.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\880 N3 + 1 problem.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.i: cmake_force
@@ -10932,7 +10946,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj: ../1~1000/881\ JumbledCommunication.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_777) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_778) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\881_JumbledCommunication.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\881 JumbledCommunication.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.i: cmake_force
@@ -10943,10 +10957,52 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\881 JumbledCommunication.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\881_JumbledCommunication.c.s
 
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj: ../1~1000/882\ MergeMultiset.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_779) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\882_MergeMultiset.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\882 MergeMultiset.c"
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\882 MergeMultiset.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\882_MergeMultiset.c.i
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\882 MergeMultiset.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\882_MergeMultiset.c.s
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj: ../1~1000/883\ RankingSystem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_780) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\883_RankingSystem.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\883 RankingSystem.c"
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\883 RankingSystem.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\883_RankingSystem.c.i
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\883 RankingSystem.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\883_RankingSystem.c.s
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj: ../1~1000/886\ 你会写月份的英文吗.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_781) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\886_你会写月份的英文吗.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\886 你会写月份的英文吗.c"
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\886 你会写月份的英文吗.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\886_你会写月份的英文吗.c.i
+
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\886 你会写月份的英文吗.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\886_你会写月份的英文吗.c.s
+
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj: ../1~1000/887\ 单峰五元组.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_778) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_782) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\887_单峰五元组.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\887 单峰五元组.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.i: cmake_force
@@ -10960,7 +11016,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj: ../1~1000/888\ 鸡兔同笼.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_779) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_783) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\888_鸡兔同笼.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\888 鸡兔同笼.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.i: cmake_force
@@ -10974,7 +11030,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj: ../1~1000/89\ LCS_Data_Enhanced.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_780) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_784) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\89_LCS_Data_Enhanced.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\89 LCS_Data_Enhanced.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.i: cmake_force
@@ -10988,7 +11044,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.obj: ../1~1000/893\ 一起来做函数题.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_781) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_785) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\893_一起来做函数题.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\893 一起来做函数题.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.i: cmake_force
@@ -11002,7 +11058,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/893_一起来做函数题.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.obj: ../1~1000/896\ 成双成对的尾巴.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_782) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_786) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\896_成双成对的尾巴.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\896 成双成对的尾巴.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.i: cmake_force
@@ -11016,7 +11072,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.obj: ../1~1000/899\ 掉坑.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_783) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_787) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\899_掉坑.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\899 掉坑.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.i: cmake_force
@@ -11030,7 +11086,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/899_掉坑.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.obj: ../1~1000/9\ 零崎的人间冒险Ⅰ.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_784) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_788) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\9_零崎的人间冒险Ⅰ.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\9 零崎的人间冒险Ⅰ.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.i: cmake_force
@@ -11044,7 +11100,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.obj: ../1~1000/90\ 晴天小猪的绕口令to_string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_785) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_789) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\90_晴天小猪的绕口令to_string.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\90 晴天小猪的绕口令to_string.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.i: cmake_force
@@ -11058,7 +11114,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/90_晴天小猪的绕口令to_string.cpp.s
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.obj: ../1~1000/900\ 又掉坑.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_786) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_790) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\900_又掉坑.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\900 又掉坑.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.i: cmake_force
@@ -11072,7 +11128,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/900_又掉坑.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.obj: ../1~1000/901\ m个无空分拆不限金币.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_787) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_791) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\901_m个无空分拆不限金币.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\901 m个无空分拆不限金币.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.i: cmake_force
@@ -11086,7 +11142,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/901_m个无空分拆不限金币.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.obj: ../1~1000/902\ 互异分拆（奇分拆）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_788) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_792) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\902_互异分拆（奇分拆）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\902 互异分拆（奇分拆）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.i: cmake_force
@@ -11100,7 +11156,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/902_互异分拆（奇分拆）.c.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.obj: ../1~1000/903\ 五边形数定理.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_789) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_793) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\903_五边形数定理.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\903 五边形数定理.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.i: cmake_force
@@ -11114,7 +11170,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/903_五边形数定理.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.obj: ../1~1000/909\ 判断质数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_790) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_794) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\909_判断质数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\909 判断质数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.i: cmake_force
@@ -11128,7 +11184,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/909_判断质数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.obj: ../1~1000/91\ n的最小cp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_791) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_795) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\91_n的最小cp.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\91 n的最小cp.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.i: cmake_force
@@ -11142,7 +11198,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.obj: ../1~1000/910\ 逆序对统计（naive版）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_792) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_796) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\910_逆序对统计（naive版）.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\910 逆序对统计（naive版）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.i: cmake_force
@@ -11156,7 +11212,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.obj: ../1~1000/913\ 数位各位之和.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_793) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_797) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\913_数位各位之和.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\913 数位各位之和.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.i: cmake_force
@@ -11170,7 +11226,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/913_数位各位之和.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.obj: ../1~1000/917\ 完数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_794) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_798) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\917_完数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\917 完数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.i: cmake_force
@@ -11184,7 +11240,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.obj: ../1~1000/919\ TQ有点二\ 另一种分组.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_795) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_799) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\919_TQ有点二_另一种分组.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\919 TQ有点二 另一种分组.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.i: cmake_force
@@ -11198,7 +11254,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二_另一种分组.c.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.obj: ../1~1000/919\ TQ有点二分组.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_796) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_800) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\919_TQ有点二分组.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\919 TQ有点二分组.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.i: cmake_force
@@ -11212,7 +11268,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二分组.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.obj: ../1~1000/919\ TQ有点二读写优化.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_797) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_801) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\919_TQ有点二读写优化.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\919 TQ有点二读写优化.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.i: cmake_force
@@ -11226,7 +11282,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/919_TQ有点二读写优化.c.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.obj: ../1~1000/92\ jhljx分解质因数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_798) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_802) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\92_jhljx分解质因数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\92 jhljx分解质因数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.i: cmake_force
@@ -11240,7 +11296,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/92_jhljx分解质因数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.obj: ../1~1000/922\ 分解重复素因数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_799) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_803) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\922_分解重复素因数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\922 分解重复素因数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.i: cmake_force
@@ -11254,7 +11310,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/922_分解重复素因数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.obj: ../1~1000/925\ 凸峰三元组.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_800) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_804) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\925_凸峰三元组.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\925 凸峰三元组.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.i: cmake_force
@@ -11268,7 +11324,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/925_凸峰三元组.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.obj: ../1~1000/927\ 逆序乘积.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_801) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_805) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\927_逆序乘积.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\927 逆序乘积.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.i: cmake_force
@@ -11282,7 +11338,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/927_逆序乘积.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.obj: ../1~1000/928\ 翻转数字.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_802) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_806) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\928_翻转数字.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\928 翻转数字.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.i: cmake_force
@@ -11296,7 +11352,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/928_翻转数字.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.obj: ../1~1000/929\ 一段楼梯有n级，兔子每次可以....c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_803) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_807) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\929_一段楼梯有n级，兔子每次可以....c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\929 一段楼梯有n级，兔子每次可以....c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可以....c.i: cmake_force
@@ -11310,7 +11366,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/929_一段楼梯有n级，兔子每次可�
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.obj: ../1~1000/93\ 伤心的晴天小猪.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_804) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_808) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\93_伤心的晴天小猪.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\93 伤心的晴天小猪.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.i: cmake_force
@@ -11324,7 +11380,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/93_伤心的晴天小猪.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.obj: ../1~1000/931\ 水仙花数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_805) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_809) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\931_水仙花数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\931 水仙花数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.i: cmake_force
@@ -11338,7 +11394,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/931_水仙花数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.obj: ../1~1000/934\ 熊猫序列.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_806) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_810) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\934_熊猫序列.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\934 熊猫序列.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.i: cmake_force
@@ -11352,7 +11408,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/934_熊猫序列.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.obj: ../1~1000/94\ 双层汉诺塔.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_807) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_811) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\94_双层汉诺塔.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\94 双层汉诺塔.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.i: cmake_force
@@ -11366,7 +11422,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/94_双层汉诺塔.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.obj: ../1~1000/95\ 异面直线距离.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_808) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_812) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\95_异面直线距离.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\95 异面直线距离.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.i: cmake_force
@@ -11380,7 +11436,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.obj: ../1~1000/955\ 7月12日.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_809) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_813) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\955_7月12日.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\955 7月12日.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.i: cmake_force
@@ -11394,7 +11450,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/955_7月12日.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.obj: ../1~1000/958\ 浪哥的烦恼2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_810) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_814) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\958_浪哥的烦恼2.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\958 浪哥的烦恼2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.i: cmake_force
@@ -11408,7 +11464,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/958_浪哥的烦恼2.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.obj: ../1~1000/96\ 暗号.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_811) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_815) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\96_暗号.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\96 暗号.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.i: cmake_force
@@ -11422,7 +11478,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/96_暗号.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj: ../1~1000/960\ 校赛签到bitset.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_812) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_816) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\960_校赛签到bitset.cpp.obj -c "E:\程序\BUAA-OJ-Project\1~1000\960 校赛签到bitset.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.i: cmake_force
@@ -11436,7 +11492,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.obj: ../1~1000/964\ 三角形的判断.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_813) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_817) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\964_三角形的判断.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\964 三角形的判断.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.i: cmake_force
@@ -11450,7 +11506,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.obj: ../1~1000/97\ Tiling_easy\ version.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_814) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_818) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\97_Tiling_easy_version.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\97 Tiling_easy version.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.i: cmake_force
@@ -11464,7 +11520,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.obj: ../1~1000/975\ AlvinZH的1021实验.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_815) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_819) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\975_AlvinZH的1021实验.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\975 AlvinZH的1021实验.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.i: cmake_force
@@ -11478,7 +11534,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/975_AlvinZH的1021实验.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.obj: ../1~1000/978\ AlvinZH的1021实验plus.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_816) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_820) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\978_AlvinZH的1021实验plus.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\978 AlvinZH的1021实验plus.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.i: cmake_force
@@ -11492,7 +11548,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/978_AlvinZH的1021实验plus.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.obj: ../1~1000/979\ Bamboo\ and\ the\ Ancient\ Spell.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_817) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_821) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\979_Bamboo_and_the_Ancient_Spell.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\979 Bamboo and the Ancient Spell.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.i: cmake_force
@@ -11506,7 +11562,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/979_Bamboo_and_the_Ancient_Spell.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.obj: ../1~1000/98\ 第三小整数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_818) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_822) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\98_第三小整数.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\98 第三小整数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.i: cmake_force
@@ -11520,7 +11576,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.obj: ../1~1000/989\ 御坂御坂.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_819) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_823) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\989_御坂御坂.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\989 御坂御坂.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.i: cmake_force
@@ -11534,7 +11590,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/989_御坂御坂.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.obj: ../1~1000/99\ 水水的chessboard.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_820) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_824) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\99_水水的chessboard.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\99 水水的chessboard.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.i: cmake_force
@@ -11548,7 +11604,7 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/99_水水的chessboard.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.obj: ../2001~3000/2355\ 完全图生成树特殊.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_821) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_825) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2355_完全图生成树特殊.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2355 完全图生成树特殊.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.i: cmake_force
@@ -11562,7 +11618,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2355_完全图生成树特殊.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.obj: ../2001~3000/2356\ 位运算.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_822) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_826) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2356_位运算.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2356 位运算.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.i: cmake_force
@@ -11576,7 +11632,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.obj: ../2001~3000/2368\ 二叉树深度和笛卡尔树.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_823) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_827) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2368_二叉树深度和笛卡尔树.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2368 二叉树深度和笛卡尔树.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.i: cmake_force
@@ -11590,7 +11646,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉树深度和笛卡尔树.c.s
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.obj: ../2001~3000/2370\ 连续子序列的权值单调栈.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_824) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_828) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2370_连续子序列的权值单调栈.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2370 连续子序列的权值单调栈.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.i: cmake_force
@@ -11604,7 +11660,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj: ../2001~3000/2371\ 黑暗光明并查集.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_825) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_829) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2371_黑暗光明并查集.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2371 黑暗光明并查集.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.i: cmake_force
@@ -11618,7 +11674,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.obj: ../2001~3000/2372\ 卡塔兰数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_826) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_830) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2372_卡塔兰数.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2372 卡塔兰数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.i: cmake_force
@@ -11632,7 +11688,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2372_卡塔兰数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.obj: ../2001~3000/2374\ 多多岛.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_827) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_831) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2374_多多岛.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2374 多多岛.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.i: cmake_force
@@ -11646,7 +11702,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2374_多多岛.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.obj: ../2001~3000/2376\ 魔法阵弗洛伊德.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_828) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_832) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2376_魔法阵弗洛伊德.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2376 魔法阵弗洛伊德.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.i: cmake_force
@@ -11660,7 +11716,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2376_魔法阵弗洛伊德.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.obj: ../2001~3000/2377\ 小面包.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_829) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_833) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2377_小面包.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2377 小面包.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.i: cmake_force
@@ -11674,7 +11730,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2377_小面包.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.obj: ../2001~3000/2386\ 最小生成树并查集.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_830) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_834) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2386_最小生成树并查集.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2386 最小生成树并查集.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.i: cmake_force
@@ -11688,7 +11744,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2386_最小生成树并查集.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.obj: ../2001~3000/2425\ 竞赛相邻分数消失.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_831) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_835) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2425_竞赛相邻分数消失.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2425 竞赛相邻分数消失.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.i: cmake_force
@@ -11702,7 +11758,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.obj: ../2001~3000/2435\ 前缀和.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_832) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_836) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2435_前缀和.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2435 前缀和.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.i: cmake_force
@@ -11716,7 +11772,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2435_前缀和.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.obj: ../2001~3000/2436\ 差分.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_833) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_837) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2436_差分.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2436 差分.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.i: cmake_force
@@ -11730,7 +11786,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2436_差分.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.obj: ../2001~3000/2437\ 递归.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_834) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_838) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2437_递归.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2437 递归.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.i: cmake_force
@@ -11744,7 +11800,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2437_递归.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.obj: ../2001~3000/2438\ 分治.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_835) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_839) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2438_分治.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2438 分治.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.i: cmake_force
@@ -11758,7 +11814,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2438_分治.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.obj: ../2001~3000/2439\ 斐波那契数列.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_836) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_840) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2439_斐波那契数列.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2439 斐波那契数列.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.i: cmake_force
@@ -11772,7 +11828,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2439_斐波那契数列.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.obj: ../2001~3000/2440\ 等比数列求和.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_837) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_841) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2440_等比数列求和.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2440 等比数列求和.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.i: cmake_force
@@ -11786,7 +11842,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2440_等比数列求和.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.obj: ../2001~3000/2441\ 妙妙趣排序快版.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_838) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_842) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2441_妙妙趣排序快版.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2441 妙妙趣排序快版.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.i: cmake_force
@@ -11800,7 +11856,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序快版.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.obj: ../2001~3000/2441\ 妙妙趣排序慢版.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_839) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_843) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2441_妙妙趣排序慢版.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2441 妙妙趣排序慢版.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.i: cmake_force
@@ -11814,7 +11870,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2441_妙妙趣排序慢版.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.obj: ../2001~3000/2485\ 逆序数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_840) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_844) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2485_逆序数.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2485 逆序数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.i: cmake_force
@@ -11828,7 +11884,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2485_逆序数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.obj: ../2001~3000/2486\ k次折半和最小.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_841) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_845) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2486_k次折半和最小.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2486 k次折半和最小.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.i: cmake_force
@@ -11842,7 +11898,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2486_k次折半和最小.c.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.obj: ../2001~3000/2487\ pair语法正确.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_842) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_846) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2487_pair语法正确.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2487 pair语法正确.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.i: cmake_force
@@ -11856,7 +11912,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2487_pair语法正确.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.obj: ../2001~3000/2488\ 希尔伯特曲线.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_843) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_847) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2488_希尔伯特曲线.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2488 希尔伯特曲线.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.i: cmake_force
@@ -11870,7 +11926,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2488_希尔伯特曲线.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.obj: ../2001~3000/2489\ 点灯线段树.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_844) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_848) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2489_点灯线段树.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2489 点灯线段树.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.i: cmake_force
@@ -11884,7 +11940,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2489_点灯线段树.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.obj: ../2001~3000/2491\ 过河递推.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_845) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_849) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2491_过河递推.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2491 过河递推.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.i: cmake_force
@@ -11898,7 +11954,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2491_过河递推.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.obj: ../2001~3000/2493\ 毛毛虫.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_846) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_850) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2493_毛毛虫.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2493 毛毛虫.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.i: cmake_force
@@ -11912,7 +11968,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2493_毛毛虫.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.obj: ../2001~3000/2522\ 排座位不相邻.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_847) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_851) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2522_排座位不相邻.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2522 排座位不相邻.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.i: cmake_force
@@ -11926,7 +11982,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2522_排座位不相邻.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.obj: ../2001~3000/2530\ 长k子序列最小差之和.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_848) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_852) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2530_长k子序列最小差之和.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2530 长k子序列最小差之和.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.i: cmake_force
@@ -11940,7 +11996,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2530_长k子序列最小差之和.c.s: 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.obj: ../2001~3000/2531\ 与非门树形DP.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_849) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_853) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2531_与非门树形DP.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2531 与非门树形DP.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.i: cmake_force
@@ -11954,7 +12010,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2531_与非门树形DP.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.obj: ../2001~3000/2532\ 钢管切割.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_850) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_854) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2532_钢管切割.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2532 钢管切割.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.i: cmake_force
@@ -11968,7 +12024,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2532_钢管切割.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.obj: ../2001~3000/2533\ 两边流水线.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_851) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_855) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2533_两边流水线.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2533 两边流水线.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.i: cmake_force
@@ -11982,7 +12038,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2533_两边流水线.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.obj: ../2001~3000/2541\ 01背包.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_852) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_856) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2541_01背包.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2541 01背包.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.i: cmake_force
@@ -11996,7 +12052,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2541_01背包.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.obj: ../2001~3000/2542\ 完全背包.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_853) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_857) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2542_完全背包.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2542 完全背包.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.i: cmake_force
@@ -12010,7 +12066,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2542_完全背包.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.obj: ../2001~3000/2543\ 多重背包队列法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_854) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_858) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2543_多重背包队列法.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2543 多重背包队列法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.i: cmake_force
@@ -12024,7 +12080,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2543_多重背包队列法.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.obj: ../2001~3000/2544\ 组合背包.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_855) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_859) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2544_组合背包.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2544 组合背包.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.i: cmake_force
@@ -12038,7 +12094,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2544_组合背包.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.obj: ../2001~3000/2545\ 股票一次.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_856) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_860) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2545_股票一次.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2545 股票一次.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.i: cmake_force
@@ -12052,7 +12108,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2545_股票一次.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.obj: ../2001~3000/2546\ 股票多次.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_857) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_861) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2546_股票多次.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2546 股票多次.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.i: cmake_force
@@ -12066,7 +12122,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2546_股票多次.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.obj: ../2001~3000/2547\ 股票两次.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_858) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_862) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2547_股票两次.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2547 股票两次.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.i: cmake_force
@@ -12080,7 +12136,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2547_股票两次.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.obj: ../2001~3000/2548\ 股票k次.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_859) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_863) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2548_股票k次.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2548 股票k次.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.i: cmake_force
@@ -12094,7 +12150,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2548_股票k次.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.obj: ../2001~3000/2552\ OBST最优二叉搜索树.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_860) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_864) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2552_OBST最优二叉搜索树.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2552 OBST最优二叉搜索树.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.i: cmake_force
@@ -12108,7 +12164,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj: ../2001~3000/2560\ AlvinZH的小面包(博弈论+区间dp).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_861) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_865) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2560_AlvinZH的小面包(博弈论+区间dp).c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2560 AlvinZH的小面包(博弈论+区间dp).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.i: cmake_force
@@ -12122,7 +12178,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2560_AlvinZH的小面包(博弈论+区�
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.obj: ../2001~3000/2589\ 矩阵链乘.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_862) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2589_矩阵链乘.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2589 矩阵链乘.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.i: cmake_force
@@ -12136,7 +12192,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2589_矩阵链乘.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.obj: ../2001~3000/2590\ 排座位.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_863) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_867) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2590_排座位.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2590 排座位.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.i: cmake_force
@@ -12150,7 +12206,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2590_排座位.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.obj: ../2001~3000/2591\ 最长等差数列动态规划.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_864) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_868) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2591_最长等差数列动态规划.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2591 最长等差数列动态规划.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.i: cmake_force
@@ -12164,7 +12220,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2591_最长等差数列动态规划.c.s
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.obj: ../2001~3000/2592\ 最大上升子序列动态规划.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_865) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_869) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2592_最大上升子序列动态规划.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2592 最大上升子序列动态规划.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.c.i: cmake_force
@@ -12178,7 +12234,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2592_最大上升子序列动态规划.
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.obj: ../2001~3000/2596\ 多流水线动态规划.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_866) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_870) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2596_多流水线动态规划.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2596 多流水线动态规划.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.i: cmake_force
@@ -12192,7 +12248,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2596_多流水线动态规划.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.obj: ../2001~3000/2648\ 食物链.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_867) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_871) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2648_食物链.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2648 食物链.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.i: cmake_force
@@ -12206,7 +12262,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2648_食物链.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.obj: ../2001~3000/2652\ 排列.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_868) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_872) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2652_排列.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2652 排列.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.i: cmake_force
@@ -12220,7 +12276,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2652_排列.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.obj: ../2001~3000/2653\ 最小乘法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_869) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_873) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2653_最小乘法.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2653 最小乘法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.i: cmake_force
@@ -12234,7 +12290,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2653_最小乘法.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.obj: ../2001~3000/2654\ 卖鱼贪心.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_870) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_874) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2654_卖鱼贪心.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2654 卖鱼贪心.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.i: cmake_force
@@ -12248,7 +12304,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2654_卖鱼贪心.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.obj: ../2001~3000/2655\ 白雪.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_871) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_875) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2655_白雪.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2655 白雪.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.i: cmake_force
@@ -12262,7 +12318,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2655_白雪.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.obj: ../2001~3000/2704\ 网络流.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_872) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_876) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2704_网络流.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2704 网络流.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.i: cmake_force
@@ -12276,7 +12332,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2704_网络流.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.obj: ../2001~3000/2705\ 婚车EK.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_873) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_877) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2705_婚车EK.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2705 婚车EK.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.i: cmake_force
@@ -12290,7 +12346,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2705_婚车EK.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.obj: ../2001~3000/2706\ 魔法少女匈牙利.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_874) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_878) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2706_魔法少女匈牙利.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2706 魔法少女匈牙利.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.i: cmake_force
@@ -12304,7 +12360,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2706_魔法少女匈牙利.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.obj: ../2001~3000/2707\ 最大匹配匈牙利.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_875) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_879) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2707_最大匹配匈牙利.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2707 最大匹配匈牙利.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.i: cmake_force
@@ -12318,7 +12374,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2707_最大匹配匈牙利.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.obj: ../2001~3000/2708\ E3-计网的烦恼bound.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_876) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_880) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2708_E3-计网的烦恼bound.cpp.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2708 E3-计网的烦恼bound.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.i: cmake_force
@@ -12332,7 +12388,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2708_E3-计网的烦恼bound.cpp.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.obj: ../2001~3000/2709\ 贪心.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_877) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_881) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2709_贪心.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2709 贪心.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.i: cmake_force
@@ -12346,7 +12402,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2709_贪心.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.obj: ../2001~3000/2740\ 图1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_878) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_882) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2740_图1.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2740 图1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.i: cmake_force
@@ -12360,7 +12416,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2740_图1.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.obj: ../2001~3000/2741\ 图2floyd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_879) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_883) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2741_图2floyd.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2741 图2floyd.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.i: cmake_force
@@ -12374,7 +12430,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj: ../2001~3000/2743\ 图3dinic.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_880) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_884) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2743_图3dinic.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2743 图3dinic.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.i: cmake_force
@@ -12388,7 +12444,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.obj: ../2001~3000/2759\ k关键字排序.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_881) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_885) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2759_k关键字排序.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2759 k关键字排序.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.i: cmake_force
@@ -12402,7 +12458,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.obj: ../2001~3000/2953\ 真二分查找bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_882) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_886) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2953_真二分查找bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2953 真二分查找bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.i: cmake_force
@@ -12416,7 +12472,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2953_真二分查找bsearch.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.obj: ../2001~3000/2958\ 二分查找PLUSbsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_883) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_887) "Building C object CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\2001~3000\2958_二分查找PLUSbsearch.c.obj -c "E:\程序\BUAA-OJ-Project\2001~3000\2958 二分查找PLUSbsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.i: cmake_force
@@ -12430,7 +12486,7 @@ CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2958_二分查找PLUSbsearch.c.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.obj: ../3001~4000/3335\ 检测数码管.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_884) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_888) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\3001~4000\3335_检测数码管.c.obj -c "E:\程序\BUAA-OJ-Project\3001~4000\3335 检测数码管.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.i: cmake_force
@@ -12444,7 +12500,7 @@ CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3335_检测数码管.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.obj: ../3001~4000/3339\ 填报高考志愿.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_885) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_889) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\3001~4000\3339_填报高考志愿.c.obj -c "E:\程序\BUAA-OJ-Project\3001~4000\3339 填报高考志愿.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.i: cmake_force
@@ -12458,7 +12514,7 @@ CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.obj: ../3001~4000/3347\ 蟠桃大会.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_886) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_890) "Building C object CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\3001~4000\3347_蟠桃大会.c.obj -c "E:\程序\BUAA-OJ-Project\3001~4000\3347 蟠桃大会.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.i: cmake_force
@@ -12472,7 +12528,7 @@ CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.obj: ../4001~5000/4120\ （中等题）W形串.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_887) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_891) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4120_（中等题）W形串.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4120 （中等题）W形串.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.i: cmake_force
@@ -12486,7 +12542,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.obj: ../4001~5000/4182\ 返航小统计（数组）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_888) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_892) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4182_返航小统计（数组）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4182 返航小统计（数组）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.i: cmake_force
@@ -12500,7 +12556,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（数组）.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.obj: ../4001~5000/4182\ 返航小统计（直接输出）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_889) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_893) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4182_返航小统计（直接输出）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4182 返航小统计（直接输出）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.c.i: cmake_force
@@ -12514,7 +12570,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4182_返航小统计（直接输出）.
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.obj: ../4001~5000/4183\ 女神的生日.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_890) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_894) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4183_女神的生日.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4183 女神的生日.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.i: cmake_force
@@ -12528,7 +12584,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4183_女神的生日.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.obj: ../4001~5000/4184\ YourSQL2.0.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_891) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_895) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4184_YourSQL2.0.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4184 YourSQL2.0.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.i: cmake_force
@@ -12542,7 +12598,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4184_YourSQL2.0.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.obj: ../4001~5000/4185\ 数列级数（循环）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_892) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_896) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4185_数列级数（循环）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4185 数列级数（循环）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.i: cmake_force
@@ -12556,7 +12612,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（循环）.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.obj: ../4001~5000/4185\ 数列级数（打表）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_893) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_897) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4185_数列级数（打表）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4185 数列级数（打表）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.i: cmake_force
@@ -12570,7 +12626,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4185_数列级数（打表）.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.obj: ../4001~5000/4187\ 佛像.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_894) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_898) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4187_佛像.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4187 佛像.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.i: cmake_force
@@ -12584,7 +12640,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4187_佛像.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.obj: ../4001~5000/4188\ 数数入门.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_895) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_899) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4188_数数入门.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4188 数数入门.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.i: cmake_force
@@ -12598,7 +12654,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4188_数数入门.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.obj: ../4001~5000/4189\ 阿瓦隆卡牌.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_896) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_900) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4189_阿瓦隆卡牌.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4189 阿瓦隆卡牌.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.i: cmake_force
@@ -12612,7 +12668,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4189_阿瓦隆卡牌.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.obj: ../4001~5000/4190\ 忍蛙的圆形轨迹.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_897) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_901) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4190_忍蛙的圆形轨迹.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4190 忍蛙的圆形轨迹.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.i: cmake_force
@@ -12626,7 +12682,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.obj: ../4001~5000/4190\ 忍蛙的圆形轨迹_另一种解法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_898) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_902) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4190_忍蛙的圆形轨迹_另一种解法.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4190 忍蛙的圆形轨迹_另一种解法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解法.c.i: cmake_force
@@ -12640,7 +12696,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4190_忍蛙的圆形轨迹_另一种解
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.obj: ../4001~5000/4191\ helloworld.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_899) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_903) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4191_helloworld.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4191 helloworld.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.i: cmake_force
@@ -12654,7 +12710,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4191_helloworld.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.obj: ../4001~5000/4192\ 正反相加.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_900) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_904) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4192_正反相加.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4192 正反相加.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.i: cmake_force
@@ -12668,7 +12724,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4192_正反相加.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj: ../4001~5000/4193\ 真·简单的a+b.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_901) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_905) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4193_真·简单的a+b.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4193 真·简单的a+b.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.i: cmake_force
@@ -12682,7 +12738,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4193_真·简单的a+b.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.obj: ../4001~5000/4194\ PHP\ 是最好的语言.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_902) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_906) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4194_PHP_是最好的语言.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4194 PHP 是最好的语言.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.i: cmake_force
@@ -12696,7 +12752,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4194_PHP_是最好的语言.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.obj: ../4001~5000/4195\ cbj学数学分析.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_903) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_907) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4195_cbj学数学分析.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4195 cbj学数学分析.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.i: cmake_force
@@ -12710,7 +12766,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4195_cbj学数学分析.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.obj: ../4001~5000/4196\ 刀客塔的烦恼.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_904) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_908) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4196_刀客塔的烦恼.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4196 刀客塔的烦恼.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.i: cmake_force
@@ -12724,7 +12780,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4196_刀客塔的烦恼.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.obj: ../4001~5000/4197\ 单节得分王.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_905) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_909) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4197_单节得分王.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4197 单节得分王.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.i: cmake_force
@@ -12738,7 +12794,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj: ../4001~5000/4198\ 基础物理实验\ 2（简单版）（打表）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_906) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_910) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4198_基础物理实验_2（简单版）（打表）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4198 基础物理实验 2（简单版）（打表）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版）（打表）.c.i: cmake_force
@@ -12752,7 +12808,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2（简单版�
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.obj: ../4001~5000/4199\ 二进制逆序.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_907) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_911) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4199_二进制逆序.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4199 二进制逆序.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.i: cmake_force
@@ -12766,7 +12822,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4199_二进制逆序.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.obj: ../4001~5000/4201\ 北航欢迎你.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_908) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_912) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4201_北航欢迎你.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4201 北航欢迎你.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.i: cmake_force
@@ -12780,7 +12836,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4201_北航欢迎你.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.obj: ../4001~5000/4202\ 女神的密码2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_909) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_913) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4202_女神的密码2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4202 女神的密码2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.i: cmake_force
@@ -12794,7 +12850,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4202_女神的密码2.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.obj: ../4001~5000/4203\ 奇妙的多边形.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_910) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_914) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4203_奇妙的多边形.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4203 奇妙的多边形.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.i: cmake_force
@@ -12808,7 +12864,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4203_奇妙的多边形.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.obj: ../4001~5000/4204\ 女神的密码.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_911) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_915) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4204_女神的密码.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4204 女神的密码.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.i: cmake_force
@@ -12822,7 +12878,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4204_女神的密码.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.obj: ../4001~5000/4205\ 小迷弟的迷惑行为.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_912) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_916) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4205_小迷弟的迷惑行为.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4205 小迷弟的迷惑行为.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.i: cmake_force
@@ -12836,7 +12892,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4205_小迷弟的迷惑行为.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.obj: ../4001~5000/4206\ 女神的考验.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_913) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_917) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4206_女神的考验.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4206 女神的考验.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.i: cmake_force
@@ -12850,7 +12906,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4206_女神的考验.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.obj: ../4001~5000/4207\ ONOS大班的班长选举.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_914) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_918) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4207_ONOS大班的班长选举.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4207 ONOS大班的班长选举.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.i: cmake_force
@@ -12864,7 +12920,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4207_ONOS大班的班长选举.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.obj: ../4001~5000/4208\ 缺项一元三次方程.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_915) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_919) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4208_缺项一元三次方程.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4208 缺项一元三次方程.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.i: cmake_force
@@ -12878,7 +12934,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4208_缺项一元三次方程.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.obj: ../4001~5000/4209\ cbj绘图.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_916) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_920) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4209_cbj绘图.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4209 cbj绘图.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.i: cmake_force
@@ -12892,7 +12948,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4209_cbj绘图.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.obj: ../4001~5000/4211\ 字母频率统计2021.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_917) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_921) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4211_字母频率统计2021.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4211 字母频率统计2021.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.i: cmake_force
@@ -12906,7 +12962,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4211_字母频率统计2021.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.obj: ../4001~5000/4212\ 找数字\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_918) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_922) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4212_找数字_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4212 找数字 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.i: cmake_force
@@ -12920,7 +12976,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法1.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.obj: ../4001~5000/4212\ 找数字\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_919) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_923) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4212_找数字_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4212 找数字 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.i: cmake_force
@@ -12934,7 +12990,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4212_找数字_方法2.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.obj: ../4001~5000/4213\ 计算绩点.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_920) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_924) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4213_计算绩点.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4213 计算绩点.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.i: cmake_force
@@ -12948,7 +13004,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4213_计算绩点.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.obj: ../4001~5000/4214\ ZJD学GCD.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_921) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_925) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4214_ZJD学GCD.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4214 ZJD学GCD.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.i: cmake_force
@@ -12962,7 +13018,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4214_ZJD学GCD.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.obj: ../4001~5000/4215\ 漏沙漏.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_922) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_926) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4215_漏沙漏.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4215 漏沙漏.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.i: cmake_force
@@ -12976,7 +13032,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4215_漏沙漏.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.obj: ../4001~5000/4216\ 简单的分数约分.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_923) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_927) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4216_简单的分数约分.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4216 简单的分数约分.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.i: cmake_force
@@ -12990,7 +13046,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4216_简单的分数约分.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.obj: ../4001~5000/4217\ 简单方程.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_924) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_928) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4217_简单方程.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4217 简单方程.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.i: cmake_force
@@ -13004,7 +13060,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4217_简单方程.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.obj: ../4001~5000/4218\ 朵朵的日期计算.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_925) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_929) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4218_朵朵的日期计算.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4218 朵朵的日期计算.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.i: cmake_force
@@ -13018,7 +13074,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4218_朵朵的日期计算.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.obj: ../4001~5000/4220\ cbj学数学分析(阶乘).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_926) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_930) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4220_cbj学数学分析(阶乘).c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4220 cbj学数学分析(阶乘).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.i: cmake_force
@@ -13032,7 +13088,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4220_cbj学数学分析(阶乘).c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.obj: ../4001~5000/4221\ 复数计算器.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_927) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_931) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4221_复数计算器.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4221 复数计算器.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.i: cmake_force
@@ -13046,7 +13102,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4221_复数计算器.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.obj: ../4001~5000/4222\ ssd的变量命名.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_928) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_932) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4222_ssd的变量命名.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4222 ssd的变量命名.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.i: cmake_force
@@ -13060,7 +13116,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4222_ssd的变量命名.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.obj: ../4001~5000/4223\ High\ Heels！.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_929) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_933) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4223_High_Heels！.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4223 High Heels！.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.i: cmake_force
@@ -13074,7 +13130,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4223_High_Heels！.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.obj: ../4001~5000/4224\ 朵朵买甜瓜.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_930) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_934) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4224_朵朵买甜瓜.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4224 朵朵买甜瓜.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.i: cmake_force
@@ -13088,7 +13144,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4224_朵朵买甜瓜.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.obj: ../4001~5000/4225\ 小兔子乖乖拔萝卜.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_931) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_935) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4225_小兔子乖乖拔萝卜.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4225 小兔子乖乖拔萝卜.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.i: cmake_force
@@ -13102,7 +13158,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4225_小兔子乖乖拔萝卜.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.obj: ../4001~5000/4226\ 9键输入.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_932) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_936) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4226_9键输入.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4226 9键输入.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.i: cmake_force
@@ -13116,7 +13172,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4226_9键输入.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.obj: ../4001~5000/4227\ 小迷弟坐电梯.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_933) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_937) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4227_小迷弟坐电梯.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4227 小迷弟坐电梯.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.i: cmake_force
@@ -13130,7 +13186,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4227_小迷弟坐电梯.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.obj: ../4001~5000/4228\ Wink矩阵运算.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_934) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_938) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4228_Wink矩阵运算.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4228 Wink矩阵运算.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.i: cmake_force
@@ -13144,7 +13200,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4228_Wink矩阵运算.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.obj: ../4001~5000/4229\ NBSI码.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_935) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_939) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4229_NBSI码.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4229 NBSI码.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.i: cmake_force
@@ -13158,7 +13214,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4229_NBSI码.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.obj: ../4001~5000/4230\ 数字反转2021\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_936) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_940) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4230_数字反转2021_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4230 数字反转2021 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.i: cmake_force
@@ -13172,7 +13228,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法1.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.obj: ../4001~5000/4230\ 数字反转2021\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_937) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_941) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4230_数字反转2021_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4230 数字反转2021 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.i: cmake_force
@@ -13186,7 +13242,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4230_数字反转2021_方法2.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.obj: ../4001~5000/4232\ 一\ 道\ 水\ 题.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_938) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_942) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4232_一_道_水_题.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4232 一 道 水 题.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.i: cmake_force
@@ -13200,7 +13256,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4232_一_道_水_题.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.obj: ../4001~5000/4233\ 网抑人.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_939) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_943) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4233_网抑人.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4233 网抑人.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.i: cmake_force
@@ -13214,7 +13270,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4233_网抑人.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.obj: ../4001~5000/4234\ 小迷弟的反向最大公约数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_940) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_944) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4234_小迷弟的反向最大公约数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4234 小迷弟的反向最大公约数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.c.i: cmake_force
@@ -13228,7 +13284,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4234_小迷弟的反向最大公约数.
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.obj: ../4001~5000/4235\ 水君的价格.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_941) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_945) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4235_水君的价格.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4235 水君的价格.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.i: cmake_force
@@ -13242,7 +13298,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4235_水君的价格.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.obj: ../4001~5000/4236\ 格雷编码.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_942) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_946) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4236_格雷编码.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4236 格雷编码.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.i: cmake_force
@@ -13256,7 +13312,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4236_格雷编码.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.obj: ../4001~5000/4237\ 林士谔算法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_943) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_947) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4237_林士谔算法.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4237 林士谔算法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.i: cmake_force
@@ -13270,7 +13326,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4237_林士谔算法.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.obj: ../4001~5000/4238\ 小迷弟帮室友追女神.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_944) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_948) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4238_小迷弟帮室友追女神.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4238 小迷弟帮室友追女神.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.i: cmake_force
@@ -13284,7 +13340,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4238_小迷弟帮室友追女神.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.obj: ../4001~5000/4239\ 朵朵选靓号.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_945) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_949) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4239_朵朵选靓号.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4239 朵朵选靓号.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.i: cmake_force
@@ -13298,7 +13354,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4239_朵朵选靓号.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.obj: ../4001~5000/4240\ 小迷弟的灵光一现.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_946) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_950) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4240_小迷弟的灵光一现.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4240 小迷弟的灵光一现.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.i: cmake_force
@@ -13312,7 +13368,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4240_小迷弟的灵光一现.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.obj: ../4001~5000/4241\ 小迷弟的碎碎念.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_947) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_951) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4241_小迷弟的碎碎念.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4241 小迷弟的碎碎念.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.i: cmake_force
@@ -13326,7 +13382,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4241_小迷弟的碎碎念.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.obj: ../4001~5000/4242\ ZYT学“真·位运算”.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_948) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_952) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4242_ZYT学“真·位运算”.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4242 ZYT学“真·位运算”.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.i: cmake_force
@@ -13340,7 +13396,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4242_ZYT学“真·位运算”.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.obj: ../4001~5000/4243\ ZJD想当Manager.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_949) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_953) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4243_ZJD想当Manager.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4243 ZJD想当Manager.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.i: cmake_force
@@ -13354,7 +13410,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4243_ZJD想当Manager.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.obj: ../4001~5000/4244\ CRC16.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_950) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_954) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4244_CRC16.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4244 CRC16.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.i: cmake_force
@@ -13368,7 +13424,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4244_CRC16.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.obj: ../4001~5000/4245\ ZYT学五则运算.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_951) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_955) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4245_ZYT学五则运算.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4245 ZYT学五则运算.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.i: cmake_force
@@ -13382,7 +13438,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4245_ZYT学五则运算.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.obj: ../4001~5000/4246\ 有理有据的送分.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_952) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_956) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4246_有理有据的送分.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4246 有理有据的送分.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.i: cmake_force
@@ -13396,7 +13452,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4246_有理有据的送分.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.obj: ../4001~5000/4247\ 简易浮点数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_953) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_957) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4247_简易浮点数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4247 简易浮点数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.i: cmake_force
@@ -13410,7 +13466,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4247_简易浮点数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.obj: ../4001~5000/4248\ 木木枭学高中集合论.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_954) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_958) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4248_木木枭学高中集合论.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4248 木木枭学高中集合论.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.i: cmake_force
@@ -13424,7 +13480,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4248_木木枭学高中集合论.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.obj: ../4001~5000/4250\ 循环移位转圈圈.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_955) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_959) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4250_循环移位转圈圈.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4250 循环移位转圈圈.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.i: cmake_force
@@ -13438,7 +13494,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4250_循环移位转圈圈.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.obj: ../4001~5000/4251\ 补码相反数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_956) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_960) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4251_补码相反数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4251 补码相反数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.i: cmake_force
@@ -13452,7 +13508,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4251_补码相反数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.obj: ../4001~5000/4252\ 小迷弟的破镜重圆.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_957) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_961) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4252_小迷弟的破镜重圆.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4252 小迷弟的破镜重圆.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.i: cmake_force
@@ -13466,7 +13522,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4252_小迷弟的破镜重圆.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.obj: ../4001~5000/4253\ GCD\ Plus.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_958) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_962) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4253_GCD_Plus.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4253 GCD Plus.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.i: cmake_force
@@ -13480,7 +13536,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4253_GCD_Plus.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.obj: ../4001~5000/4254\ cbj学进制转换.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_959) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_963) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4254_cbj学进制转换.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4254 cbj学进制转换.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.i: cmake_force
@@ -13494,7 +13550,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4254_cbj学进制转换.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.obj: ../4001~5000/4256\ 高低位\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_960) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_964) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4256_高低位_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4256 高低位 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.i: cmake_force
@@ -13508,7 +13564,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法1.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.obj: ../4001~5000/4256\ 高低位\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_961) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_965) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4256_高低位_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4256 高低位 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.i: cmake_force
@@ -13522,7 +13578,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4256_高低位_方法2.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.obj: ../4001~5000/4257\ 小迷弟积不出分.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_962) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_966) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4257_小迷弟积不出分.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4257 小迷弟积不出分.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.i: cmake_force
@@ -13536,7 +13592,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4257_小迷弟积不出分.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.obj: ../4001~5000/4258\ 浮点数进阶.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_963) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_967) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4258_浮点数进阶.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4258 浮点数进阶.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.i: cmake_force
@@ -13550,7 +13606,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4258_浮点数进阶.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.obj: ../4001~5000/4259\ 自动控制原理\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_964) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_968) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4259_自动控制原理_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4259 自动控制原理 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.i: cmake_force
@@ -13564,7 +13620,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法1.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.obj: ../4001~5000/4259\ 自动控制原理\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_965) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_969) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4259_自动控制原理_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4259 自动控制原理 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.i: cmake_force
@@ -13578,7 +13634,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4259_自动控制原理_方法2.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.obj: ../4001~5000/4260\ 大兔子乖乖拔大萝卜\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_966) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_970) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4260_大兔子乖乖拔大萝卜_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4260 大兔子乖乖拔大萝卜 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法1.c.i: cmake_force
@@ -13592,7 +13648,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.obj: ../4001~5000/4260\ 大兔子乖乖拔大萝卜\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_967) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_971) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4260_大兔子乖乖拔大萝卜_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4260 大兔子乖乖拔大萝卜 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法2.c.i: cmake_force
@@ -13606,7 +13662,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4260_大兔子乖乖拔大萝卜_方法
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.obj: ../4001~5000/4261\ 晶钻与明珠.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_968) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_972) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4261_晶钻与明珠.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4261 晶钻与明珠.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.i: cmake_force
@@ -13620,7 +13676,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4261_晶钻与明珠.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.obj: ../4001~5000/4262\ 二荷学姐买基金（续）\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_969) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_973) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4262_二荷学姐买基金（续）_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4262 二荷学姐买基金（续） 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法1.c.i: cmake_force
@@ -13634,7 +13690,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.obj: ../4001~5000/4262\ 二荷学姐买基金（续）\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_970) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_974) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4262_二荷学姐买基金（续）_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4262 二荷学姐买基金（续） 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方法2.c.i: cmake_force
@@ -13648,7 +13704,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4262_二荷学姐买基金（续）_方
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.obj: ../4001~5000/4263\ test\ a\ xor\ b.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_971) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_975) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4263_test_a_xor_b.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4263 test a xor b.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.i: cmake_force
@@ -13662,7 +13718,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4263_test_a_xor_b.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.obj: ../4001~5000/4264\ Yes\ OK！.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_972) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_976) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4264_Yes_OK！.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4264 Yes OK！.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.i: cmake_force
@@ -13676,7 +13732,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4264_Yes_OK！.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.obj: ../4001~5000/4265\ 二荷学姐买基金.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_973) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_977) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4265_二荷学姐买基金.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4265 二荷学姐买基金.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.i: cmake_force
@@ -13690,7 +13746,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4265_二荷学姐买基金.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.obj: ../4001~5000/4266\ 切换进制回文数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_974) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_978) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4266_切换进制回文数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4266 切换进制回文数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.i: cmake_force
@@ -13704,7 +13760,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4266_切换进制回文数.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.obj: ../4001~5000/4267\ 三荷学长买不来基金.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_975) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_979) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4267_三荷学长买不来基金.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4267 三荷学长买不来基金.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.i: cmake_force
@@ -13718,7 +13774,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4267_三荷学长买不来基金.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.obj: ../4001~5000/4268\ 荷荷学妹赚基金.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_976) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_980) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4268_荷荷学妹赚基金.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4268 荷荷学妹赚基金.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.i: cmake_force
@@ -13732,7 +13788,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4268_荷荷学妹赚基金.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.obj: ../4001~5000/4269\ JZD学组合数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_977) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_981) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4269_JZD学组合数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4269 JZD学组合数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.i: cmake_force
@@ -13746,7 +13802,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4269_JZD学组合数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.obj: ../4001~5000/4270\ 年\ 度\ 好\ 题.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_978) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_982) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4270_年_度_好_题.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4270 年 度 好 题.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.i: cmake_force
@@ -13760,7 +13816,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4270_年_度_好_题.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.obj: ../4001~5000/4271\ 不可思议的展开.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_979) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_983) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4271_不可思议的展开.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4271 不可思议的展开.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.i: cmake_force
@@ -13774,7 +13830,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4271_不可思议的展开.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.obj: ../4001~5000/4272\ 逆\ 序\ 对.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_980) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_984) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4272_逆_序_对.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4272 逆 序 对.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.i: cmake_force
@@ -13788,7 +13844,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4272_逆_序_对.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.obj: ../4001~5000/4273\ 达\ 拉\ 崩\ 吧.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_981) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_985) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4273_达_拉_崩_吧.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4273 达 拉 崩 吧.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.i: cmake_force
@@ -13802,7 +13858,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4273_达_拉_崩_吧.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.obj: ../4001~5000/4275\ 行变换与行列式.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_982) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_986) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4275_行变换与行列式.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4275 行变换与行列式.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.i: cmake_force
@@ -13816,7 +13872,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4275_行变换与行列式.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.obj: ../4001~5000/4276\ 小迷弟搞偷袭.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_983) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_987) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4276_小迷弟搞偷袭.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4276 小迷弟搞偷袭.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.i: cmake_force
@@ -13830,7 +13886,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4276_小迷弟搞偷袭.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.obj: ../4001~5000/4277\ 一荷学弟卖基金.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_984) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_988) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4277_一荷学弟卖基金.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4277 一荷学弟卖基金.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.i: cmake_force
@@ -13844,7 +13900,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4277_一荷学弟卖基金.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.obj: ../4001~5000/4278\ cbj加密数据\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_985) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_989) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4278_cbj加密数据_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4278 cbj加密数据 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.i: cmake_force
@@ -13858,7 +13914,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法1.c.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.obj: ../4001~5000/4278\ cbj加密数据\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_986) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_990) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4278_cbj加密数据_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4278 cbj加密数据 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.i: cmake_force
@@ -13872,7 +13928,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4278_cbj加密数据_方法2.c.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.obj: ../4001~5000/4281\ 递归括号匹配.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_987) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_991) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4281_递归括号匹配.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4281 递归括号匹配.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.i: cmake_force
@@ -13886,7 +13942,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4281_递归括号匹配.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.obj: ../4001~5000/4282\ 吃糖.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_988) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_992) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4282_吃糖.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4282 吃糖.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.i: cmake_force
@@ -13900,7 +13956,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4282_吃糖.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.obj: ../4001~5000/4283\ 四荷学姐买不起基金.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_989) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_993) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4283_四荷学姐买不起基金.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4283 四荷学姐买不起基金.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.i: cmake_force
@@ -13914,7 +13970,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4283_四荷学姐买不起基金.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.obj: ../4001~5000/4284\ 计数排序.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_990) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_994) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4284_计数排序.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4284 计数排序.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.i: cmake_force
@@ -13928,7 +13984,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4284_计数排序.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.obj: ../4001~5000/4285\ 五荷一点都不喜欢重复.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_991) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_995) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4285_五荷一点都不喜欢重复.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4285 五荷一点都不喜欢重复.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.i: cmake_force
@@ -13942,7 +13998,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4285_五荷一点都不喜欢重复.c.s
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.obj: ../4001~5000/4286\ 倒三角.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_992) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_996) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4286_倒三角.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4286 倒三角.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.i: cmake_force
@@ -13956,7 +14012,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4286_倒三角.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.obj: ../4001~5000/4287\ 一天不用switch我浑身难受.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_993) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_997) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4287_一天不用switch我浑身难受.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4287 一天不用switch我浑身难受.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.c.i: cmake_force
@@ -13970,7 +14026,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4287_一天不用switch我浑身难受.
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.obj: ../4001~5000/4288\ 忍蛙的冠军巅峰.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_994) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_998) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4288_忍蛙的冠军巅峰.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4288 忍蛙的冠军巅峰.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.i: cmake_force
@@ -13984,7 +14040,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4288_忍蛙的冠军巅峰.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.obj: ../4001~5000/4289\ 小迷弟磕cp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_995) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_999) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4289_小迷弟磕cp.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4289 小迷弟磕cp.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.i: cmake_force
@@ -13998,7 +14054,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4289_小迷弟磕cp.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.obj: ../4001~5000/4290\ cbj统计成绩.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_996) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1000) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4290_cbj统计成绩.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4290 cbj统计成绩.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.i: cmake_force
@@ -14012,7 +14068,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4290_cbj统计成绩.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.obj: ../4001~5000/4291\ ssd学不会理力.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_997) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1001) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4291_ssd学不会理力.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4291 ssd学不会理力.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.i: cmake_force
@@ -14026,7 +14082,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4291_ssd学不会理力.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.obj: ../4001~5000/4293\ 遥不可及的军训.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_998) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1002) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4293_遥不可及的军训.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4293 遥不可及的军训.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.i: cmake_force
@@ -14040,7 +14096,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4293_遥不可及的军训.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.obj: ../4001~5000/4294\ 荷荷学妹坐地铁.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_999) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1003) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4294_荷荷学妹坐地铁.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4294 荷荷学妹坐地铁.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.i: cmake_force
@@ -14054,7 +14110,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹坐地铁.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj: ../4001~5000/4295\ 有些奇怪的字符画.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1000) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1004) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4295_有些奇怪的字符画.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4295 有些奇怪的字符画.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.i: cmake_force
@@ -14068,7 +14124,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj: ../4001~5000/4296\ 日期指示器.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1001) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1005) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4296_日期指示器.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4296 日期指示器.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.i: cmake_force
@@ -14082,7 +14138,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj: ../4001~5000/4297\ 大美丽和大凶残.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1002) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1006) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4297_大美丽和大凶残.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4297 大美丽和大凶残.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.i: cmake_force
@@ -14096,7 +14152,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj: ../4001~5000/4298\ 荷家军进攻汉诺塔.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1003) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1007) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4298_荷家军进攻汉诺塔.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4298 荷家军进攻汉诺塔.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.i: cmake_force
@@ -14110,7 +14166,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj: ../4001~5000/4299\ 小雷枚举排列数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1004) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1008) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4299_小雷枚举排列数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4299 小雷枚举排列数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.i: cmake_force
@@ -14124,7 +14180,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj: ../4001~5000/4300\ 汉诺塔防住了荷家军.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1005) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1009) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4300_汉诺塔防住了荷家军.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4300 汉诺塔防住了荷家军.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.i: cmake_force
@@ -14138,7 +14194,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj: ../4001~5000/4301\ 路西恩梦游课堂.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1006) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1010) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4301_路西恩梦游课堂.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4301 路西恩梦游课堂.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.i: cmake_force
@@ -14152,7 +14208,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj: ../4001~5000/4302\ 开除记者\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1007) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1011) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4302_开除记者_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4302 开除记者 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.i: cmake_force
@@ -14166,7 +14222,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj: ../4001~5000/4302\ 开除记者\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1008) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1012) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4302_开除记者_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4302 开除记者 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.i: cmake_force
@@ -14180,7 +14236,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj: ../4001~5000/4311\ 朵朵验证哥德巴赫猜想\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1009) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1013) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4311_朵朵验证哥德巴赫猜想_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4311 朵朵验证哥德巴赫猜想 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.i: cmake_force
@@ -14194,7 +14250,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj: ../4001~5000/4311\ 朵朵验证哥德巴赫猜想\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1010) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1014) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4311_朵朵验证哥德巴赫猜想_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4311 朵朵验证哥德巴赫猜想 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.i: cmake_force
@@ -14208,7 +14264,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj: ../4001~5000/4313\ 简单的递归函数~\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1011) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1015) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4313_简单的递归函数~_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4313 简单的递归函数~ 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.i: cmake_force
@@ -14222,7 +14278,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.s
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj: ../4001~5000/4313\ 简单的递归函数~\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1012) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1016) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4313_简单的递归函数~_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4313 简单的递归函数~ 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.i: cmake_force
@@ -14236,7 +14292,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.s
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj: ../4001~5000/4315\ ssd恰自选.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1013) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1017) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4315_ssd恰自选.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4315 ssd恰自选.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.i: cmake_force
@@ -14250,7 +14306,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj: ../4001~5000/4316\ 种田.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1014) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1018) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4316_种田.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4316 种田.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.i: cmake_force
@@ -14264,7 +14320,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj: ../4001~5000/4317\ 阿水记不住日期.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1015) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1019) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4317_阿水记不住日期.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4317 阿水记不住日期.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.i: cmake_force
@@ -14278,7 +14334,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj: ../4001~5000/4318\ 逆序输出字符串.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1016) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1020) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4318_逆序输出字符串.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4318 逆序输出字符串.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.i: cmake_force
@@ -14292,7 +14348,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj: ../4001~5000/4323\ 当DJ大师遇上正方形碟片\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1017) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1021) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4323_当DJ大师遇上正方形碟片_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4323 当DJ大师遇上正方形碟片 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.i: cmake_force
@@ -14306,7 +14362,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_�
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj: ../4001~5000/4323\ 当DJ大师遇上正方形碟片\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1018) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1022) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4323_当DJ大师遇上正方形碟片_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4323 当DJ大师遇上正方形碟片 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.i: cmake_force
@@ -14320,7 +14376,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_�
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj: ../4001~5000/4324\ 多项式相加2021\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1019) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1023) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4324_多项式相加2021_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4324 多项式相加2021 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.i: cmake_force
@@ -14334,7 +14390,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj: ../4001~5000/4324\ 多项式相加2021\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1020) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1024) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4324_多项式相加2021_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4324 多项式相加2021 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.i: cmake_force
@@ -14348,7 +14404,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj: ../4001~5000/4328\ Ning的汉明距离.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1021) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1025) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4328_Ning的汉明距离.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4328 Ning的汉明距离.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.i: cmake_force
@@ -14362,7 +14418,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj: ../4001~5000/4329\ 找出上机大佬\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1022) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1026) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4329_找出上机大佬_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4329 找出上机大佬 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.i: cmake_force
@@ -14376,7 +14432,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj: ../4001~5000/4329\ 找出上机大佬\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1023) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1027) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4329_找出上机大佬_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4329 找出上机大佬 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.i: cmake_force
@@ -14390,7 +14446,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj: ../4001~5000/4330\ PlayFair.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1024) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1028) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4330_PlayFair.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4330 PlayFair.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.i: cmake_force
@@ -14404,7 +14460,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj: ../4001~5000/4331\ 党的光辉照我心～.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1025) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1029) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4331_党的光辉照我心～.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4331 党的光辉照我心～.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.i: cmake_force
@@ -14418,7 +14474,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj: ../4001~5000/4332\ 兔狗贴贴.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1026) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1030) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4332_兔狗贴贴.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4332 兔狗贴贴.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.i: cmake_force
@@ -14432,7 +14488,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj: ../4001~5000/4333\ 阿水给大家排排坐.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1027) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1031) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4333_阿水给大家排排坐.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4333 阿水给大家排排坐.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.i: cmake_force
@@ -14446,7 +14502,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj: ../4001~5000/4334\ 超级泡泡排序.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1028) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1032) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4334_超级泡泡排序.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4334 超级泡泡排序.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.i: cmake_force
@@ -14460,7 +14516,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj: ../4001~5000/4335\ 惹Shy的二分查找.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1029) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1033) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4335_惹Shy的二分查找.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4335 惹Shy的二分查找.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.i: cmake_force
@@ -14474,7 +14530,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj: ../4001~5000/4337\ dch做不出毕业设计\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1030) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1034) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4337_dch做不出毕业设计_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4337 dch做不出毕业设计 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.i: cmake_force
@@ -14488,7 +14544,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj: ../4001~5000/4337\ dch做不出毕业设计\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1031) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1035) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4337_dch做不出毕业设计_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4337 dch做不出毕业设计 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.i: cmake_force
@@ -14502,7 +14558,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj: ../4001~5000/4338\ 简易的程序查重.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1032) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1036) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4338_简易的程序查重.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4338 简易的程序查重.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.i: cmake_force
@@ -14516,7 +14572,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj: ../4001~5000/4339\ ssd做逻辑\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1033) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1037) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4339_ssd做逻辑_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4339 ssd做逻辑 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.i: cmake_force
@@ -14530,7 +14586,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj: ../4001~5000/4339\ ssd做逻辑\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1034) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1038) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4339_ssd做逻辑_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4339 ssd做逻辑 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.i: cmake_force
@@ -14544,7 +14600,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj: ../4001~5000/4340\ 大化实验好难啊.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1035) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1039) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4340_大化实验好难啊.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4340 大化实验好难啊.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.i: cmake_force
@@ -14558,7 +14614,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj: ../4001~5000/4344\ cbj学数独.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1036) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1040) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4344_cbj学数独.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4344 cbj学数独.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.i: cmake_force
@@ -14572,7 +14628,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj: ../4001~5000/4347\ 轰炸.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1037) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1041) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4347_轰炸.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4347 轰炸.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.i: cmake_force
@@ -14586,7 +14642,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj: ../4001~5000/4348\ 给朵朵打电话.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1038) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1042) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4348_给朵朵打电话.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4348 给朵朵打电话.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.i: cmake_force
@@ -14600,7 +14656,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj: ../4001~5000/4349\ 有点“新意“的签到题？.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1039) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1043) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4349_有点“新意“的签到题？.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4349 有点“新意“的签到题？.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.i: cmake_force
@@ -14614,7 +14670,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj: ../4001~5000/4351\ JJ照镜子.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1040) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1044) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4351_JJ照镜子.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4351 JJ照镜子.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.i: cmake_force
@@ -14628,7 +14684,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj: ../4001~5000/4355\ 旗开得胜.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1041) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1045) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4355_旗开得胜.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4355 旗开得胜.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.i: cmake_force
@@ -14642,7 +14698,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj: ../4001~5000/4357\ Dec\ to\ 2's\ complement.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1042) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1046) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o "CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4357_Dec_to_2's_complement.c.obj" -c "E:\程序\BUAA-OJ-Project\4001~5000\4357 Dec to 2's complement.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.i: cmake_force
@@ -14656,7 +14712,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj: ../4001~5000/4358\ 二荷的二分查找.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1043) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1047) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4358_二荷的二分查找.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4358 二荷的二分查找.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.i: cmake_force
@@ -14670,7 +14726,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj: ../4001~5000/4361\ 数数入坟\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1044) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1048) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4361_数数入坟_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4361 数数入坟 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.i: cmake_force
@@ -14684,7 +14740,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj: ../4001~5000/4361\ 数数入坟\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1045) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1049) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4361_数数入坟_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4361 数数入坟 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.i: cmake_force
@@ -14698,7 +14754,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj: ../4001~5000/4362\ 切切切.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1046) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1050) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4362_切切切.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4362 切切切.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.i: cmake_force
@@ -14712,7 +14768,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj: ../4001~5000/4363\ 合成大西瓜.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1047) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1051) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4363_合成大西瓜.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4363 合成大西瓜.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.i: cmake_force
@@ -14726,7 +14782,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj: ../4001~5000/4364\ 字符串库函数测试.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1048) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1052) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4364_字符串库函数测试.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4364 字符串库函数测试.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.i: cmake_force
@@ -14740,7 +14796,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj: ../4001~5000/4378\ [题目标题敏感]\ 解析文本为UTF-8码并输出.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1049) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1053) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4378 [题目标题敏感] 解析文本为UTF-8码并输出.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.i: cmake_force
@@ -14754,7 +14810,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本�
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj: ../4001~5000/4379\ 解谜小游戏.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1050) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1054) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4379_解谜小游戏.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4379 解谜小游戏.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.i: cmake_force
@@ -14768,7 +14824,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj: ../4001~5000/4380\ 烧仙草数.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1051) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1055) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4380_烧仙草数.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4380 烧仙草数.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.i: cmake_force
@@ -14782,7 +14838,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj: ../4001~5000/4381\ 五月加急名单.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1052) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1056) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4381_五月加急名单.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4381 五月加急名单.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.i: cmake_force
@@ -14796,7 +14852,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj: ../4001~5000/4382\ 五点共圆\ -\ 几何结论.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1053) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1057) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4382_五点共圆_-_几何结论.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4382 五点共圆 - 几何结论.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.i: cmake_force
@@ -14810,7 +14866,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj: ../4001~5000/4382\ 五点共圆\ -\ 韦达定理.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1054) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1058) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4382_五点共圆_-_韦达定理.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4382 五点共圆 - 韦达定理.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.i: cmake_force
@@ -14824,7 +14880,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj: ../4001~5000/4383\ String.ReplaceAll().c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1055) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1059) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4383_String.ReplaceAll().c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4383 String.ReplaceAll().c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.i: cmake_force
@@ -14838,7 +14894,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj: ../4001~5000/4384\ 简易的人员信息整理.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1056) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1060) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4384_简易的人员信息整理.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4384 简易的人员信息整理.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.i: cmake_force
@@ -14852,7 +14908,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj: ../4001~5000/4385\ 合成宝石.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1057) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1061) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4385_合成宝石.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4385 合成宝石.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.i: cmake_force
@@ -14866,7 +14922,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj: ../4001~5000/4386\ 另类合成.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1058) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1062) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4386_另类合成.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4386 另类合成.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.i: cmake_force
@@ -14880,7 +14936,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj: ../4001~5000/4389\ 旗鼓相当的对手\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1059) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1063) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4389_旗鼓相当的对手_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4389 旗鼓相当的对手 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.i: cmake_force
@@ -14894,7 +14950,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.s:
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj: ../4001~5000/4389\ 旗鼓相当的对手\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1060) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1064) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4389_旗鼓相当的对手_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4389 旗鼓相当的对手 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.i: cmake_force
@@ -14908,7 +14964,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.s:
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj: ../4001~5000/4390\ 动态链表操作.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1061) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1065) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4390_动态链表操作.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4390 动态链表操作.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.i: cmake_force
@@ -14922,7 +14978,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj: ../4001~5000/4391\ 统计成绩（套娃版）.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1062) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1066) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4391_统计成绩（套娃版）.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4391 统计成绩（套娃版）.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.i: cmake_force
@@ -14936,7 +14992,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj: ../4001~5000/4392\ 出人意料的送分.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1063) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1067) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4392_出人意料的送分.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4392 出人意料的送分.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.i: cmake_force
@@ -14950,7 +15006,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj: ../4001~5000/4393\ 剔除名单.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1064) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1068) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4393_剔除名单.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4393 剔除名单.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.i: cmake_force
@@ -14964,7 +15020,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj: ../4001~5000/4394\ 井\ 字\ 棋\ 带\ 师.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1065) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1069) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4394_井_字_棋_带_师.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4394 井 字 棋 带 师.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.i: cmake_force
@@ -14978,7 +15034,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj: ../4001~5000/4395\ 追寻表达式中的真理\ 栈方法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1066) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1070) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4395_追寻表达式中的真理_栈方法.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4395 追寻表达式中的真理 栈方法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.i: cmake_force
@@ -14992,7 +15048,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj: ../4001~5000/4395\ 追寻表达式中的真理\ 爬升法.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1067) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1071) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4395_追寻表达式中的真理_爬升法.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4395 追寻表达式中的真理 爬升法.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.i: cmake_force
@@ -15006,7 +15062,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj: ../4001~5000/4395\ 追寻表达式中的真理.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1068) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1072) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4395_追寻表达式中的真理.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4395 追寻表达式中的真理.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.i: cmake_force
@@ -15020,7 +15076,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj: ../4001~5000/4401\ 小迷弟的灵光三现.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1069) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1073) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4401_小迷弟的灵光三现.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4401 小迷弟的灵光三现.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.i: cmake_force
@@ -15034,7 +15090,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj: ../4001~5000/4403\ 小迷弟的灵光两现.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1070) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1074) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4403_小迷弟的灵光两现.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4403 小迷弟的灵光两现.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.i: cmake_force
@@ -15048,7 +15104,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj: ../4001~5000/4409\ 名字的奥妙.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1071) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1075) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4409_名字的奥妙.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4409 名字的奥妙.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.i: cmake_force
@@ -15062,7 +15118,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj: ../4001~5000/4410\ 字符串Review.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1072) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1076) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4410_字符串Review.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4410 字符串Review.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.i: cmake_force
@@ -15076,7 +15132,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj: ../4001~5000/4411\ qsort签到.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1073) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1077) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4411_qsort签到.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4411 qsort签到.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.i: cmake_force
@@ -15090,7 +15146,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj: ../4001~5000/4412\ 七巧板入门.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1074) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1078) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4412_七巧板入门.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4412 七巧板入门.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.i: cmake_force
@@ -15104,7 +15160,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj: ../4001~5000/4413\ dch解方程.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1075) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1079) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4413_dch解方程.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4413 dch解方程.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.i: cmake_force
@@ -15118,7 +15174,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj: ../4001~5000/4414\ 三角形面积·改.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1076) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1080) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4414_三角形面积·改.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4414 三角形面积·改.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.i: cmake_force
@@ -15132,7 +15188,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj: ../4001~5000/4416\ 位\ 互\ 换.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1077) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1081) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4416_位_互_换.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4416 位 互 换.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.i: cmake_force
@@ -15146,7 +15202,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj: ../4001~5000/4417\ djj的奇怪数列.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1078) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1082) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4417_djj的奇怪数列.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4417 djj的奇怪数列.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.i: cmake_force
@@ -15160,7 +15216,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj: ../4001~5000/4418\ 301\ Moved\ Permanently\ 2021.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1079) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1083) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4418_301_Moved_Permanently_2021.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4418 301 Moved Permanently 2021.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.i: cmake_force
@@ -15174,7 +15230,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj: ../4001~5000/4419\ k-排列\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1080) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1084) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4419_k-排列_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4419 k-排列 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.i: cmake_force
@@ -15188,7 +15244,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj: ../4001~5000/4419\ k-排列\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1081) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1085) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4419_k-排列_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4419 k-排列 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.i: cmake_force
@@ -15202,7 +15258,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj: ../4001~5000/4421\ 两面包夹芝士\ 方法1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1082) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1086) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4421_两面包夹芝士_方法1.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4421 两面包夹芝士 方法1.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.i: cmake_force
@@ -15216,7 +15272,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj: ../4001~5000/4421\ 两面包夹芝士\ 方法2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1083) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1087) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4421_两面包夹芝士_方法2.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4421 两面包夹芝士 方法2.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.i: cmake_force
@@ -15230,7 +15286,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj: ../4001~5000/4422\ 简单的函数求和.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1084) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1088) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4422_简单的函数求和.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4422 简单的函数求和.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.i: cmake_force
@@ -15244,7 +15300,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.s: cmake_f
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj: ../4001~5000/4423\ 李白打酒\ AVL树\ O(nlogn).c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1085) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1089) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4423_李白打酒_AVL树_O(nlogn).c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4423 李白打酒 AVL树 O(nlogn).c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.i: cmake_force
@@ -15258,7 +15314,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.s: 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj: ../4001~5000/4423\ 李白打酒\ multiset\ O(nlogn).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1086) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1090) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4423_李白打酒_multiset_O(nlogn).cpp.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4423 李白打酒 multiset O(nlogn).cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.i: cmake_force
@@ -15272,7 +15328,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj: ../4001~5000/4423\ 李白打酒.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1087) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1091) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4423_李白打酒.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4423 李白打酒.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.i: cmake_force
@@ -15286,7 +15342,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj: ../4001~5000/4424\ 李白打酒2.0.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1088) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1092) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4424_李白打酒2.0.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4424 李白打酒2.0.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.i: cmake_force
@@ -15300,7 +15356,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj: ../4001~5000/4425\ 蒙达鲁克硫斯伯古比奇巴勒城的名册.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1089) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1093) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4425 蒙达鲁克硫斯伯古比奇巴勒城的名册.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.i: cmake_force
@@ -15314,7 +15370,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴�
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj: ../4001~5000/4435\ 给线段排排序.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1090) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1094) "Building C object CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\4001~5000\4435_给线段排排序.c.obj -c "E:\程序\BUAA-OJ-Project\4001~5000\4435 给线段排排序.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.i: cmake_force
@@ -15328,7 +15384,7 @@ CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj: ../priority_queue/38\ 优先队列应用.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1091) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1095) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\38_优先队列应用.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\38 优先队列应用.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.i: cmake_force
@@ -15342,7 +15398,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj: ../priority_queue/146\ 机智零崎不会没梗Ⅱ.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1092) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1096) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\146_机智零崎不会没梗Ⅱ.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\146 机智零崎不会没梗Ⅱ.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.i: cmake_force
@@ -15356,7 +15412,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj: ../priority_queue/147\ 皮卡丘！GET！.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1093) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1097) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\147_皮卡丘！GET！.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\147 皮卡丘！GET！.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.i: cmake_force
@@ -15370,7 +15426,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj: ../priority_queue/253\ 难题——再见了，大活\ 链表+可撤回贪心.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1094) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1098) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\253_难题——再见了，大活_链表+可撤回贪心.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\253 难题——再见了，大活 链表+可撤回贪心.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.i: cmake_force
@@ -15384,7 +15440,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj: ../priority_queue/341\ 图的深度遍历.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1095) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1099) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\341_图的深度遍历.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\341 图的深度遍历.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.i: cmake_force
@@ -15398,7 +15454,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj: ../priority_queue/342\ 图的广度遍历.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1096) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1100) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\342_图的广度遍历.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\342 图的广度遍历.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.i: cmake_force
@@ -15412,7 +15468,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj: ../priority_queue/462\ jhljx水水的补习班.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1097) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1101) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\462_jhljx水水的补习班.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\462 jhljx水水的补习班.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.i: cmake_force
@@ -15426,7 +15482,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.s:
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj: ../priority_queue/463\ Magry's\ Sum\ I.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1098) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1102) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\BUAA_OJ_Project.dir\priority_queue\463_Magry's_Sum_I.cpp.obj" -c "E:\程序\BUAA-OJ-Project\priority_queue\463 Magry's Sum I.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.i: cmake_force
@@ -15440,7 +15496,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj: ../priority_queue/471\ Magry's\ Sum\ II.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1099) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1103) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\BUAA_OJ_Project.dir\priority_queue\471_Magry's_Sum_II.cpp.obj" -c "E:\程序\BUAA-OJ-Project\priority_queue\471 Magry's Sum II.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.i: cmake_force
@@ -15454,7 +15510,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj: ../priority_queue/476\ jhljx水水的卡牌\ 贪心.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1100) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1104) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\476_jhljx水水的卡牌_贪心.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\476 jhljx水水的卡牌 贪心.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.i: cmake_force
@@ -15468,7 +15524,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj: ../priority_queue/671\ 简单·简单的贪心\ 贪心.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1101) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1105) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\671_简单·简单的贪心_贪心.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\671 简单·简单的贪心 贪心.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.i: cmake_force
@@ -15482,7 +15538,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj: ../priority_queue/937\ 最优卡组.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1102) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1106) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\937_最优卡组.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\937 最优卡组.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.i: cmake_force
@@ -15496,7 +15552,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.s: cmake_forc
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj: ../priority_queue/1512\ 女娲加农炮.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1103) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1107) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\1512_女娲加农炮.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\1512 女娲加农炮.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.i: cmake_force
@@ -15510,7 +15566,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj: ../priority_queue/1519\ 女娲加农炮II.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1104) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1108) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\1519_女娲加农炮II.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\1519 女娲加农炮II.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.i: cmake_force
@@ -15524,7 +15580,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.s: cmak
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj: ../priority_queue/2369\ 电影院.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1105) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1109) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\2369_电影院.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\2369 电影院.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.i: cmake_force
@@ -15538,7 +15594,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj: ../priority_queue/2375\ 生日宴会.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1106) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1110) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\2375_生日宴会.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\2375 生日宴会.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.i: cmake_force
@@ -15552,7 +15608,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj: ../priority_queue/2553\ 浩瀚星辰.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1107) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1111) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\2553_浩瀚星辰.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\2553 浩瀚星辰.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.i: cmake_force
@@ -15566,7 +15622,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.s: cmake_for
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj: ../priority_queue/Dijkstra/343\ 最短路径问题.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1108) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1112) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\343_最短路径问题.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\343 最短路径问题.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.i: cmake_force
@@ -15580,7 +15636,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj: ../priority_queue/Dijkstra/345\ 行者无疆.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1109) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1113) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\345_行者无疆.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\345 行者无疆.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.i: cmake_force
@@ -15594,7 +15650,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.s: c
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj: ../priority_queue/Dijkstra/358\ Bessie\ Come\ Home.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1110) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1114) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\358_Bessie_Come_Home.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\358 Bessie Come Home.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.i: cmake_force
@@ -15608,7 +15664,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj: ../priority_queue/Dijkstra/365\ 迷宫里有一只薛定谔的猫.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1111) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1115) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\365_迷宫里有一只薛定谔的猫.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\365 迷宫里有一只薛定谔的猫.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.i: cmake_force
@@ -15622,7 +15678,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj: ../priority_queue/Dijkstra/569\ Magry遇上了初雪第三弹\ 最大流模板.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1112) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1116) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\569_Magry遇上了初雪第三弹_最大流模板.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\569 Magry遇上了初雪第三弹 最大流模板.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.i: cmake_force
@@ -15636,7 +15692,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪�
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj: ../priority_queue/Dijkstra/585\ 自带究极坑属性任务之节点连接\ 最大流\ 当边权出现0的情况.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1113) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1117) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\585 自带究极坑属性任务之节点连接 最大流 当边权出现0的情况.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.i: cmake_force
@@ -15650,7 +15706,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj: ../priority_queue/Dijkstra/816\ DH的魔法光束.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1114) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1118) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\816_DH的魔法光束.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\816 DH的魔法光束.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.i: cmake_force
@@ -15664,7 +15720,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj: ../priority_queue/Dijkstra/916\ 不想掉坑.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1115) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1119) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\916_不想掉坑.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\916 不想掉坑.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.i: cmake_force
@@ -15678,7 +15734,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.s: c
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj: ../priority_queue/Dijkstra/2378\ 治安点.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1116) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1120) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\2378_治安点.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\2378 治安点.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.i: cmake_force
@@ -15692,7 +15748,7 @@ CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj: ../priority_queue/Dijkstra/2647\ 非负权单源最短路.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1117) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1121) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\priority_queue\Dijkstra\2647_非负权单源最短路.cpp.obj -c "E:\程序\BUAA-OJ-Project\priority_queue\Dijkstra\2647 非负权单源最短路.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.i: cmake_force
@@ -16264,7 +16320,7 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/53_最小非负值.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/530_王助教掷骰子.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/531_崔哥的信仰.c.obj" \
-"CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/535_一尺之棰.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/538_混乱的辈分关系_图论.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/54_Ryan's_ISBN.c.obj" \
@@ -16447,6 +16503,7 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/812_ModricWang的布线问题_II.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/813_Mdd去旅游map.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj" \
@@ -16482,6 +16539,9 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj" \
@@ -17385,7 +17445,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/529_大家一起来�
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/53_最小非负值.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/530_王助教掷骰子.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/531_崔哥的信仰.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/535_一尺之棰.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/538_混乱的辈分关系_图论.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/54_Ryan's_ISBN.c.obj
@@ -17568,6 +17628,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/810_【2017集训选�
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/812_ModricWang的布线问题_II.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/813_Mdd去旅游map.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/817_Mdd去旅游(II).c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj
@@ -17603,6 +17664,9 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/879_李助教的数�
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/88_A_plus_B.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/880_N3_+_1_problem.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/89_LCS_Data_Enhanced.cpp.obj
@@ -17947,7 +18011,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/build.make
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/linklibs.rsp
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1118) "Linking CXX executable BUAA_OJ_Project.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1122) "Linking CXX executable BUAA_OJ_Project.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BUAA_OJ_Project.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -126,24 +126,6 @@ struct BigInteger
 		while (!c.num[c.size] && c.size)--c.size;
 		return c;
 	}
-	BigInteger addOne() const
-	{
-		BigInteger c = *this;
-		c.num[1]++;
-		int cur = 1;
-		while (c.num[cur] >= 100000000)++c.num[cur + 1], c.num[cur++] -= 100000000;
-		if (c.num[c.size + 1])++c.size;
-		return c;
-	}
-	BigInteger minusOne() const
-	{
-		BigInteger c = *this;
-		c.num[1]--;
-		int cur = 1;
-		while (c.num[cur] < 0)--c.num[cur + 1], c.num[cur++] += 100000000;
-		if (!c.num[c.size])--c.size;
-		return c;
-	}
 	BigInteger operator >> (const int& b)const
 	{
 		BigInteger c;
@@ -215,19 +197,6 @@ struct BigInteger
 		BigInteger c = *this - div * b;
 		return c;
 	}
-	//开根用不上这个
-	BigInteger fastpower(int b)
-	{
-		BigInteger c = BigInteger("1");
-		BigInteger d = *this;
-		while (b)
-		{
-			if (b & 1)c = c * d;
-			d = d * d;
-			b >>= 1;
-		}
-		return c;
-	}
 };
 
 BigInteger tmp;
@@ -245,7 +214,6 @@ int main()
 	{
 		scanf("%d", &n);
 		sum = first = second = third = BigInteger("0");
-
 		while (n--)
 		{
 			tmp.read();

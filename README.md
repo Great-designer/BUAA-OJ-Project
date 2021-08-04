@@ -132,8 +132,6 @@ OJ4th地址：https://accoding.cn
 
 ### 普通题目
 
-815 ModricWang的局域网 882 MergeMultiset 883 RankingSystem 886 你会写月份的英文吗
-
 889 摄氏华氏温度转换 894 韩主席来发夜宵啦 895 交换生资格审核 897 QZZ的世界观测
 
 911 阶乘的小尾巴 912 今天是星期几呀 918 Calendar 921 QZZ的公约数

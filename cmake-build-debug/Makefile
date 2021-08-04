@@ -13496,29 +13496,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/531_崔哥的信仰.c.s
 .PHONY : 1~1000/531_崔哥的信仰.c.s
 
-1~1000/532_点与多边形.obj: 1~1000/532_点与多边形.cpp.obj
+1~1000/532_点与多边形.obj: 1~1000/532_点与多边形.c.obj
 .PHONY : 1~1000/532_点与多边形.obj
 
 # target to build an object file
-1~1000/532_点与多边形.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.obj
-.PHONY : 1~1000/532_点与多边形.cpp.obj
+1~1000/532_点与多边形.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.obj
+.PHONY : 1~1000/532_点与多边形.c.obj
 
-1~1000/532_点与多边形.i: 1~1000/532_点与多边形.cpp.i
+1~1000/532_点与多边形.i: 1~1000/532_点与多边形.c.i
 .PHONY : 1~1000/532_点与多边形.i
 
 # target to preprocess a source file
-1~1000/532_点与多边形.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.i
-.PHONY : 1~1000/532_点与多边形.cpp.i
+1~1000/532_点与多边形.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.i
+.PHONY : 1~1000/532_点与多边形.c.i
 
-1~1000/532_点与多边形.s: 1~1000/532_点与多边形.cpp.s
+1~1000/532_点与多边形.s: 1~1000/532_点与多边形.c.s
 .PHONY : 1~1000/532_点与多边形.s
 
 # target to generate assembly for a file
-1~1000/532_点与多边形.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.cpp.s
-.PHONY : 1~1000/532_点与多边形.cpp.s
+1~1000/532_点与多边形.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/532_点与多边形.c.s
+.PHONY : 1~1000/532_点与多边形.c.s
 
 1~1000/535_一尺之棰.obj: 1~1000/535_一尺之棰.c.obj
 .PHONY : 1~1000/535_一尺之棰.obj
@@ -17888,6 +17888,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.s
 .PHONY : 1~1000/814_DH去看球map.cpp.s
 
+1~1000/815_ModricWang的局域网.obj: 1~1000/815_ModricWang的局域网.c.obj
+.PHONY : 1~1000/815_ModricWang的局域网.obj
+
+# target to build an object file
+1~1000/815_ModricWang的局域网.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.obj
+.PHONY : 1~1000/815_ModricWang的局域网.c.obj
+
+1~1000/815_ModricWang的局域网.i: 1~1000/815_ModricWang的局域网.c.i
+.PHONY : 1~1000/815_ModricWang的局域网.i
+
+# target to preprocess a source file
+1~1000/815_ModricWang的局域网.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.i
+.PHONY : 1~1000/815_ModricWang的局域网.c.i
+
+1~1000/815_ModricWang的局域网.s: 1~1000/815_ModricWang的局域网.c.s
+.PHONY : 1~1000/815_ModricWang的局域网.s
+
+# target to generate assembly for a file
+1~1000/815_ModricWang的局域网.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/815_ModricWang的局域网.c.s
+.PHONY : 1~1000/815_ModricWang的局域网.c.s
+
 1~1000/817_Mdd去旅游(II).obj: 1~1000/817_Mdd去旅游(II).c.obj
 .PHONY : 1~1000/817_Mdd去旅游(II).obj
 
@@ -18727,6 +18751,78 @@ BUAA_OJ_Project/fast:
 1~1000/881_JumbledCommunication.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.s
 .PHONY : 1~1000/881_JumbledCommunication.c.s
+
+1~1000/882_MergeMultiset.obj: 1~1000/882_MergeMultiset.c.obj
+.PHONY : 1~1000/882_MergeMultiset.obj
+
+# target to build an object file
+1~1000/882_MergeMultiset.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj
+.PHONY : 1~1000/882_MergeMultiset.c.obj
+
+1~1000/882_MergeMultiset.i: 1~1000/882_MergeMultiset.c.i
+.PHONY : 1~1000/882_MergeMultiset.i
+
+# target to preprocess a source file
+1~1000/882_MergeMultiset.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.i
+.PHONY : 1~1000/882_MergeMultiset.c.i
+
+1~1000/882_MergeMultiset.s: 1~1000/882_MergeMultiset.c.s
+.PHONY : 1~1000/882_MergeMultiset.s
+
+# target to generate assembly for a file
+1~1000/882_MergeMultiset.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.s
+.PHONY : 1~1000/882_MergeMultiset.c.s
+
+1~1000/883_RankingSystem.obj: 1~1000/883_RankingSystem.c.obj
+.PHONY : 1~1000/883_RankingSystem.obj
+
+# target to build an object file
+1~1000/883_RankingSystem.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj
+.PHONY : 1~1000/883_RankingSystem.c.obj
+
+1~1000/883_RankingSystem.i: 1~1000/883_RankingSystem.c.i
+.PHONY : 1~1000/883_RankingSystem.i
+
+# target to preprocess a source file
+1~1000/883_RankingSystem.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.i
+.PHONY : 1~1000/883_RankingSystem.c.i
+
+1~1000/883_RankingSystem.s: 1~1000/883_RankingSystem.c.s
+.PHONY : 1~1000/883_RankingSystem.s
+
+# target to generate assembly for a file
+1~1000/883_RankingSystem.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.s
+.PHONY : 1~1000/883_RankingSystem.c.s
+
+1~1000/886_你会写月份的英文吗.obj: 1~1000/886_你会写月份的英文吗.c.obj
+.PHONY : 1~1000/886_你会写月份的英文吗.obj
+
+# target to build an object file
+1~1000/886_你会写月份的英文吗.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj
+.PHONY : 1~1000/886_你会写月份的英文吗.c.obj
+
+1~1000/886_你会写月份的英文吗.i: 1~1000/886_你会写月份的英文吗.c.i
+.PHONY : 1~1000/886_你会写月份的英文吗.i
+
+# target to preprocess a source file
+1~1000/886_你会写月份的英文吗.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.i
+.PHONY : 1~1000/886_你会写月份的英文吗.c.i
+
+1~1000/886_你会写月份的英文吗.s: 1~1000/886_你会写月份的英文吗.c.s
+.PHONY : 1~1000/886_你会写月份的英文吗.s
+
+# target to generate assembly for a file
+1~1000/886_你会写月份的英文吗.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.s
+.PHONY : 1~1000/886_你会写月份的英文吗.c.s
 
 1~1000/887_单峰五元组.obj: 1~1000/887_单峰五元组.c.obj
 .PHONY : 1~1000/887_单峰五元组.obj
@@ -29165,6 +29261,9 @@ help:
 	@echo ... 1~1000/814_DH去看球map.obj
 	@echo ... 1~1000/814_DH去看球map.i
 	@echo ... 1~1000/814_DH去看球map.s
+	@echo ... 1~1000/815_ModricWang的局域网.obj
+	@echo ... 1~1000/815_ModricWang的局域网.i
+	@echo ... 1~1000/815_ModricWang的局域网.s
 	@echo ... 1~1000/817_Mdd去旅游(II).obj
 	@echo ... 1~1000/817_Mdd去旅游(II).i
 	@echo ... 1~1000/817_Mdd去旅游(II).s
@@ -29270,6 +29369,15 @@ help:
 	@echo ... 1~1000/881_JumbledCommunication.obj
 	@echo ... 1~1000/881_JumbledCommunication.i
 	@echo ... 1~1000/881_JumbledCommunication.s
+	@echo ... 1~1000/882_MergeMultiset.obj
+	@echo ... 1~1000/882_MergeMultiset.i
+	@echo ... 1~1000/882_MergeMultiset.s
+	@echo ... 1~1000/883_RankingSystem.obj
+	@echo ... 1~1000/883_RankingSystem.i
+	@echo ... 1~1000/883_RankingSystem.s
+	@echo ... 1~1000/886_你会写月份的英文吗.obj
+	@echo ... 1~1000/886_你会写月份的英文吗.i
+	@echo ... 1~1000/886_你会写月份的英文吗.s
 	@echo ... 1~1000/887_单峰五元组.obj
 	@echo ... 1~1000/887_单峰五元组.i
 	@echo ... 1~1000/887_单峰五元组.s

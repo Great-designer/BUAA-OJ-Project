@@ -1767,7 +1767,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/531 崔哥的信仰.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/532 点与多边形.cpp">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/532 点与多边形.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/535 一尺之棰.c">
@@ -2316,6 +2316,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/814 DH去看球map.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/815 ModricWang的局域网.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/817 Mdd去旅游(II).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2419,6 +2422,15 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/881 JumbledCommunication.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/882 MergeMultiset.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/883 RankingSystem.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/886 你会写月份的英文吗.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/887 单峰五元组.c">
