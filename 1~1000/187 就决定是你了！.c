@@ -71,7 +71,7 @@ void merge()  //合点
 			}
 
 			//如果j依赖的点被合并(是旧环),且j在环里
-			if (w[d[j]] < 0 && w[j]>0 && mapp[j][d[j]] == 1 && mapp[j][d[j]] == 1)
+			if (w[d[j]] < 0 && w[j]>0 && mapp[j][d[j]] == 1)
 			{
 				w[n - w[d[j]]] += w[j];
 				v[n - w[d[j]]] += v[j];

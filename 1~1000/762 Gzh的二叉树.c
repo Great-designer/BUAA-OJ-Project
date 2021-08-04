@@ -14,7 +14,7 @@ struct tree
 void createtree(struct tree **b,char list[])
 {
 	struct tree *sta[1000],*p=NULL;
-	int top=-1,k=0,j=0;
+	int top=-1,k=0,j;
 	char ch;
 	*b=NULL;
 	for(j=0; list[j]!='\0'; j++)

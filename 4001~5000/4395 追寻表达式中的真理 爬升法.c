@@ -61,7 +61,7 @@ struct expr parse_primary()//处理常量、括号、普通函数。返回行号
 	if(next=='(')//左括号 
 	{
 		struct expr temp=express();
-		next=getchar();//右括号
+		getchar();//右括号
 		return temp;//直接无脑弹出temp 
 	}
 	else//标识符。函数也在这部分

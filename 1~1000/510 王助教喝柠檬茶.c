@@ -5,7 +5,7 @@ int n,v,m;
 int a[1010];
 int lessrequest[1010];
 int maxrequest[1010];
-int days,loss;
+int loss;
 
 int compare(const void*a,const void*b)
 {

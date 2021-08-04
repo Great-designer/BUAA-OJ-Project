@@ -15521,38 +15521,10 @@ CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\FFT-complex\41 大整数相乘.c" -o CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\41_大整数相乘.c.s
 
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj: ../FFT-complex/619\ 老哥，稳！\ FFT\ complex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1105) "Building C object CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\619_老哥，稳！_FFT_complex.c.obj -c "E:\程序\BUAA-OJ-Project\FFT-complex\619 老哥，稳！ FFT complex.c"
-
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\FFT-complex\619 老哥，稳！ FFT complex.c" > CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\619_老哥，稳！_FFT_complex.c.i
-
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\FFT-complex\619 老哥，稳！ FFT complex.c" -o CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\619_老哥，稳！_FFT_complex.c.s
-
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj: ../FFT-complex/629\ 模式寻数\ II\ 多项式FFT\ complex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1106) "Building C object CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\629_模式寻数_II_多项式FFT_complex.c.obj -c "E:\程序\BUAA-OJ-Project\FFT-complex\629 模式寻数 II 多项式FFT complex.c"
-
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\FFT-complex\629 模式寻数 II 多项式FFT complex.c" > CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\629_模式寻数_II_多项式FFT_complex.c.i
-
-CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\FFT-complex\629 模式寻数 II 多项式FFT complex.c" -o CMakeFiles\BUAA_OJ_Project.dir\FFT-complex\629_模式寻数_II_多项式FFT_complex.c.s
-
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj: ../bound-bsearch/121\ 相位转移.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1107) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1105) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\121_相位转移.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\121 相位转移.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.i: cmake_force
@@ -15566,7 +15538,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj: ../bound-bsearch/121\ 相位转移bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1108) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1106) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\121_相位转移bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\121 相位转移bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.i: cmake_force
@@ -15580,7 +15552,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.s: cmake_
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj: ../bound-bsearch/188\ 收徒.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1109) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1107) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\188_收徒.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\188 收徒.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.i: cmake_force
@@ -15594,7 +15566,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.s: cmake_force
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj: ../bound-bsearch/204\ 就是这么巧bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1110) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1108) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\204_就是这么巧bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\204 就是这么巧bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.i: cmake_force
@@ -15608,7 +15580,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj: ../bound-bsearch/204\ 就是这么巧.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1111) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1109) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\204_就是这么巧.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\204 就是这么巧.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.i: cmake_force
@@ -15622,7 +15594,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.s: cmake_fo
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj: ../bound-bsearch/251\ 简单题——I\ wanna\ be\ the\ 升级者Ⅱ.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1112) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1110) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\251 简单题——I wanna be the 升级者Ⅱ.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.i: cmake_force
@@ -15636,7 +15608,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_�
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj: ../bound-bsearch/39\ 简单的二分法bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1113) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1111) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\39_简单的二分法bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\39 简单的二分法bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.i: cmake_force
@@ -15650,7 +15622,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj: ../bound-bsearch/454\ DH摆三角\ 动态规划.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1114) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1112) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\454_DH摆三角_动态规划.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\454 DH摆三角 动态规划.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.i: cmake_force
@@ -15664,7 +15636,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.s:
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj: ../bound-bsearch/529\ 大家一起来排队.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1115) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1113) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\529_大家一起来排队.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\529 大家一起来排队.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.i: cmake_force
@@ -15678,7 +15650,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj: ../bound-bsearch/564\ 王助教的调色盘.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1116) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1114) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\564_王助教的调色盘.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\564 王助教的调色盘.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.i: cmake_force
@@ -15692,7 +15664,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj: ../bound-bsearch/696\ Mdd的成绩单bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1117) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1115) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\696_Mdd的成绩单bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\696 Mdd的成绩单bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.i: cmake_force
@@ -15706,7 +15678,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.s: cma
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj: ../bound-bsearch/759\ Gzh的射击游戏.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1118) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1116) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\759_Gzh的射击游戏.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\759 Gzh的射击游戏.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.i: cmake_force
@@ -15720,7 +15692,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.s: cmake
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj: ../bound-bsearch/2953\ 真二分查找bsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1119) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1117) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\2953_真二分查找bsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\2953 真二分查找bsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.i: cmake_force
@@ -15734,7 +15706,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.s: cm
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj: ../bound-bsearch/2958\ 二分查找PLUSbsearch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1120) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1118) "Building C object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\2958_二分查找PLUSbsearch.c.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\2958 二分查找PLUSbsearch.c"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.i: cmake_force
@@ -15748,7 +15720,7 @@ CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.s: c
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj: ../bound-bsearch/upper/2708\ E3-计网的烦恼.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1121) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1119) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\bound-bsearch\upper\2708_E3-计网的烦恼.cpp.obj -c "E:\程序\BUAA-OJ-Project\bound-bsearch\upper\2708 E3-计网的烦恼.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.i: cmake_force
@@ -16865,8 +16837,6 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/401_巨坑的(AB)%p_(有毒慎入)_by_ModricWang.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘_complex.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘.c.obj" \
-"CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj" \
-"CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj" \
@@ -17862,167 +17832,4 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4294_荷荷学妹�
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4295_有些奇怪的字符画.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4296_日期指示器.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4297_大美丽和大凶残.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4299_小雷枚举排列数.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4300_汉诺塔防住了荷家军.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4301_路西恩梦游课堂.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4302_开除记者_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4313_简单的递归函数~_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4315_ssd恰自选.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4316_种田.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4317_阿水记不住日期.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4318_逆序输出字符串.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4323_当DJ大师遇上正方形碟片_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4324_多项式相加2021_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4328_Ning的汉明距离.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4329_找出上机大佬_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4330_PlayFair.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4331_党的光辉照我心～.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4332_兔狗贴贴.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4333_阿水给大家排排坐.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4334_超级泡泡排序.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4335_惹Shy的二分查找.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4337_dch做不出毕业设计_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4338_简易的程序查重.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4339_ssd做逻辑_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4340_大化实验好难啊.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4344_cbj学数独.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4347_轰炸.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4348_给朵朵打电话.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4355_旗开得胜.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4357_Dec_to_2's_complement.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4358_二荷的二分查找.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4361_数数入坟_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4362_切切切.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4363_合成大西瓜.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4379_解谜小游戏.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4380_烧仙草数.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4381_五月加急名单.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_几何结论.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4382_五点共圆_-_韦达定理.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4383_String.ReplaceAll().c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4384_简易的人员信息整理.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4385_合成宝石.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4389_旗鼓相当的对手_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4390_动态链表操作.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4391_统计成绩（套娃版）.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4392_出人意料的送分.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4393_剔除名单.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4394_井_字_棋_带_师.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_栈方法.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理_爬升法.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4395_追寻表达式中的真理.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4409_名字的奥妙.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4410_字符串Review.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4411_qsort签到.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4412_七巧板入门.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4413_dch解方程.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4416_位_互_换.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4417_djj的奇怪数列.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4418_301_Moved_Permanently_2021.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4419_k-排列_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法1.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4421_两面包夹芝士_方法2.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4422_简单的函数求和.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_AVL树_O(nlogn).c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒_multiset_O(nlogn).cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4423_李白打酒.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4424_李白打酒2.0.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4425_蒙达鲁克硫斯伯古比奇巴勒城的名册.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4435_给线段排排序.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/38_优先队列应用.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/146_机智零崎不会没梗Ⅱ.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/147_皮卡丘！GET！.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/341_图的深度遍历.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/342_图的广度遍历.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/462_jhljx水水的补习班.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/463_Magry's_Sum_I.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/471_Magry's_Sum_II.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/476_jhljx水水的卡牌_贪心.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/671_简单·简单的贪心_贪心.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/937_最优卡组.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1512_女娲加农炮.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/1519_女娲加农炮II.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2369_电影院.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2553_浩瀚星辰.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/343_最短路径问题.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/345_行者无疆.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/358_Bessie_Come_Home.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/365_迷宫里有一只薛定谔的猫.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/569_Magry遇上了初雪第三弹_最大流模板.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/585_自带究极坑属性任务之节点连接_最大流_当边权出现0的情况.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/816_DH的魔法光束.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/916_不想掉坑.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2378_治安点.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/priority_queue/Dijkstra/2647_非负权单源最短路.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1134_简单ab_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1134_简单ab.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1415_石头剪子布_FFT_模式串匹配_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1415_石头剪子布.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1440_雨桐学姐做乘法_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1503_lx学长做乘法_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/1503_lx学长做乘法.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/240_FFT教你做乘法_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/240_FFT教你做乘法.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/401_巨坑的(AB)%p_(有毒慎入)_by_ModricWang_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/401_巨坑的(AB)%p_(有毒慎入)_by_ModricWang.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/41_大整数相乘.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/619_老哥，稳！_FFT_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/121_相位转移bsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/188_收徒.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧bsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/204_就是这么巧.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/251_简单题——I_wanna_be_the_升级者Ⅱ.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/39_简单的二分法bsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/454_DH摆三角_动态规划.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2953_真二分查找bsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/2958_二分查找PLUSbsearch.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/build.make
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/linklibs.rsp
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1122) "Linking CXX executable BUAA_OJ_Project.exe"
-	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BUAA_OJ_Project.dir\link.txt --verbose=$(VERBOSE)
-
-# Rule to build all files generated by this target.
-CMakeFiles/BUAA_OJ_Project.dir/build: BUAA_OJ_Project.exe
-.PHONY : CMakeFiles/BUAA_OJ_Project.dir/build
-
-CMakeFiles/BUAA_OJ_Project.dir/clean:
-	$(CMAKE_COMMAND) -P CMakeFiles\BUAA_OJ_Project.dir\cmake_clean.cmake
-.PHONY : CMakeFiles/BUAA_OJ_Project.dir/clean
-
-CMakeFiles/BUAA_OJ_Project.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\程序\BUAA-OJ-Project E:\程序\BUAA-OJ-Project E:\程序\BUAA-OJ-Project\cmake-build-debug E:\程序\BUAA-OJ-Project\cmake-build-debug E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles\BUAA_OJ_Project.dir\DependInfo.cmake --color=$(COLOR)
-.PHONY : CMakeFiles/BUAA_OJ_Project.dir/depend
-
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4298_荷家军进攻汉诺塔

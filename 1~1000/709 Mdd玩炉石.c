@@ -65,7 +65,7 @@ struct node *reverse(struct node *head,int n)
 			r=q->next;
 		}
 		p=q;
-		if(q->next == NULL || q->next == NULL)
+		if(q->next == NULL)
 		{
 			break;
 		}

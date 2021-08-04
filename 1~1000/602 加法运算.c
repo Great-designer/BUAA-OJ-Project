@@ -21,22 +21,6 @@ int Cnt(int n)
 	return tst * sum[d] + (tst * (tst - 1) / 2) * p + tst * (1 + n % p) + Cnt(n % p);
 }
 
-int upcnt(long long *res, long long b)
-{
-	long long c = *res;
-	*res += b;
-	int up = 0;
-	int d = 0;
-	while(b || c)
-	{
-		if( (d = d + b % 10 + c % 10) > 9 )up++;
-		d /= 10;
-		b /= 10;
-		c /= 10;
-	}
-	return up;
-}
-
 int main()
 {
 	for(int i = 1; i <= 10; i++)

@@ -31,15 +31,15 @@ int lower(const void *p1,const void *p2)
 {
 	int *a=(int *)p1;
 	int *b=(int *)p2;
-	if(*a<=*(b-1))
+	if(compare(a,b-1)<=0)
 	{
 		return -1;
 	}
-	else if((*a>*(b-1))&&*a>*b)
+	else if(compare(a,b-1)>0&&compare(a,b)>0)
 	{
 		return 1;
 	}
-	else if((*a>*(b-1))&&*a<=*b)
+	else
 	{
 		return 0;
 	}

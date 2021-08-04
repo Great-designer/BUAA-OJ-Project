@@ -5,24 +5,6 @@
 int Size;
 unsigned long long target[1005000];
 
-int lower(const void *p1,const void *p2)
-{
-	unsigned long long *a=(unsigned long long *)p1;
-	unsigned long long *b=(unsigned long long *)p2;
-	if(b!=target&&*a<=*(b-1))
-	{
-		return -1;
-	}
-	else if((b==target||*a>*(b-1))&&*a>*b)
-	{
-		return 1;
-	}
-	else if((b==target||*a>*(b-1))&&*a<=*b)
-	{
-		return 0;
-	}
-}
-
 int compare(const void *p1,const void *p2)
 {
 	unsigned long long *a=(unsigned long long *)p1;
@@ -34,6 +16,24 @@ int compare(const void *p1,const void *p2)
 	else if(*a<*b)
 	{
 		return -1;
+	}
+	else
+	{
+		return 0;
+	}
+}
+
+int lower(const void *p1,const void *p2)
+{
+	unsigned long long *a=(unsigned long long *)p1;
+	unsigned long long *b=(unsigned long long *)p2;
+	if(b!=target&&compare(a,b-1)<=0)
+	{
+		return -1;
+	}
+	else if((b==target||compare(a,b-1)>0)&&compare(a,b)>0)
+	{
+		return 1;
 	}
 	else
 	{

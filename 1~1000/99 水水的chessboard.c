@@ -44,7 +44,7 @@ int BFS(int x,int y)
 		{
 			int nextx=place.first+nx[i];
 			int nexty=place.second+ny[i];
-			if(nextx>=1&&nexty<=8&&nexty>=1&&nexty<=8&&!occur[nextx][nexty])
+			if(nextx>=1&&nextx<=8&&nexty>=1&&nexty<=8&&!occur[nextx][nexty])
 			{
 				temp.first=nextx;
 				temp.second=nexty;

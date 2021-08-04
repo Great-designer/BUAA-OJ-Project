@@ -27,7 +27,6 @@ void hanoi(int n, char a, char b, char c, char isNotGet)
 }
 
 char a = '1', b = '2', c = '3';
-char isNotGet=1;
 
 int main()
 {

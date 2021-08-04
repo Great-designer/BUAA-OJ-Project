@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<math.h>
 #include<stdlib.h>
-#include<ctype.h>
 
 struct node
 {
@@ -34,7 +32,7 @@ int c[100010];
 
 int main() 
 {
-    int i,n,j,t,m,k=0;
+    int i,n,j,t,m,k;
     scanf("%d",&t);
     while(t--)
     {

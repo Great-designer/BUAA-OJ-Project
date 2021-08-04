@@ -3,8 +3,6 @@
 #include<math.h>
 #include<stdlib.h>
 
-#define PI acos(-1.0)
-
 struct Point
 {
 	int x, y;
