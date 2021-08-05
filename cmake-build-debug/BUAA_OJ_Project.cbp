@@ -291,9 +291,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1510 Mogg射日.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1511 天秤的烦恼.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1513 HugeGun学姐的曲线.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -522,9 +519,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1649 ArcheyChen的狼题.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1650 摸鱼助教MoggⅠ.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1651 摸鱼助教Mogg Ⅱ.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -675,7 +669,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/139 Easy Triangle.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/14 Inverse number：Reborn.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/14 Inverse number：Reborn归并排序求逆序对.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/141 microhhh的回城.c">
@@ -931,9 +925,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/226 简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/227 更大公约数.c">
@@ -1377,9 +1368,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/379 中等题-不同数字的个数 离线+树状数组.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/379 中等题-不同数字的个数 离线+莫队.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/380 月落乌啼霜满天.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1509,19 +1497,10 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/444 股票交易.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/445 模式寻对 二次莫队.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/445 模式寻对 莫队.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/445 模式寻对.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/446 王助教玩逢七必过.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/447 jhljx的GC处理 二分答案.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/448 jhljx学位运算.c">
@@ -1840,9 +1819,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/651 我知道你不知道圣诞节做什么.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/652 ModricWang拦截导弹 最长不上升子序列.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/653 圣诞礼物圈地计划.c">
@@ -2248,9 +2224,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/822 DH的括号匹配.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/823 Mdd玩积木(中难).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/824 DH的城市安全rotate.cpp">
@@ -2994,9 +2967,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4288 忍蛙的冠军巅峰.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4289 小迷弟磕cp.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4290 cbj统计成绩.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3094,9 +3064,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4334 超级泡泡排序.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4335 惹Shy的二分查找.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4337 dch做不出毕业设计 方法1.c">
@@ -3249,12 +3216,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4418 301 Moved Permanently 2021.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4419 k-排列 方法1.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4419 k-排列 方法2.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4421 两面包夹芝士 方法1.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3262,9 +3223,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4422 简单的函数求和.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒 AVL树 O(nlogn).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒 multiset O(nlogn).cpp">
@@ -3354,6 +3312,15 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/39 简单的二分法bsearch.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/4289 小迷弟磕cpbsearch.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/4335 惹Shy的二分查找bsearch.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/4419 k-排列 方法2.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/454 DH摆三角 动态规划.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3369,7 +3336,31 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/759 Gzh的射击游戏.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/others/447 jhljx的GC处理.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/others/823 Mdd玩积木(中难).c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/1650 摸鱼助教MoggⅠ.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/226 简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/2708 E3-计网的烦恼.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4419 k-排列 方法1.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4423 李白打酒 AVL树 O(nlogn).c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/652 ModricWang拦截导弹 最长不上升子序列.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/1042 角谷定理（伪） bfs.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/146 机智零崎不会没梗Ⅱ.cpp">
@@ -3451,6 +3442,24 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/Dijkstra/916 不想掉坑.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/14 Inverse number：Reborn离散化树状数组求逆序对.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/1511 天秤的烦恼.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/379 中等题-不同数字的个数 离线+莫队.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/3965 （简单题）小鱼比可爱 树状数组 离散化去重.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/445 模式寻对 二次莫队.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/unique/445 模式寻对 莫队.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/CMakeLists.txt">

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.48687553" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="BUAA_OJ_Project" targetName="BUAA_OJ_Project" />
@@ -13,53 +16,30 @@
   <component name="ChangeListManager">
     <list default="true" id="82aa2c09-714e-4574-b704-7a6927ea9717" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1134 简单ab complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1134 简单ab.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1415 石头剪子布 FFT 模式串匹配 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1415 石头剪子布.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1440 雨桐学姐做乘法 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1503 lx学长做乘法.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/121 相位转移bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/121 相位转移bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/187 就决定是你了！.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/187 就决定是你了！.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/188 收徒lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/204 就是这么巧bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/204 就是这么巧lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/240 FFT教你做乘法.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/251 简单题——I wanna be the 升级者Ⅱ 二分查找lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/39 简单的二分法bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/401 巨坑的(AB)%p (有毒慎入) by ModricWang.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/41 大整数相乘 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/41 大整数相乘.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/454 DH摆三角 数学问题 dp lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/510 王助教喝柠檬茶.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/510 王助教喝柠檬茶.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/529 大家一起来排队 lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/564 王助教的调色盘lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/602 加法运算.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/602 加法运算.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/619 老哥，稳！ FFT complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/621 怠惰的王木木Ⅲ 凸包模板.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/621 怠惰的王木木Ⅲ 凸包模板.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/629 模式寻数 II 多项式FFT complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/680 难题·大独裁者的以后 稳定凸包.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/680 难题·大独裁者的以后 稳定凸包.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/696 Mdd的成绩单bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/709 Mdd玩炉石.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/709 Mdd玩炉石.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/759 Gzh的射击游戏lower_bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/762 Gzh的二叉树.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/762 Gzh的二叉树.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/99 水水的chessboard.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/99 水水的chessboard.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2708 E3-计网的烦恼bound.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2953 真二分查找bsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2958 二分查找PLUSbsearch.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 爬升法.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4395 追寻表达式中的真理 爬升法.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1511 天秤的烦恼.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1650 摸鱼助教MoggⅠ.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/14 Inverse number：Reborn.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/226 简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/379 中等题-不同数字的个数 离线+莫队.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/445 模式寻对 二次莫队.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/445 模式寻对 莫队.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/447 jhljx的GC处理 二分答案.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/652 ModricWang拦截导弹 最长不上升子序列.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/79 microhhh的雷达.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/79 microhhh的雷达.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/823 Mdd玩积木(中难).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4289 小迷弟磕cp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4335 惹Shy的二分查找.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4419 k-排列 方法2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4423 李白打酒 AVL树 O(nlogn).c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
@@ -96,12 +76,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RunManager">
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -128,6 +108,7 @@
       <workItem from="1628081862323" duration="1644000" />
       <workItem from="1628084102608" duration="505000" />
       <workItem from="1628092774631" duration="1696000" />
+      <workItem from="1628149589480" duration="2061000" />
     </task>
     <servers />
   </component>
