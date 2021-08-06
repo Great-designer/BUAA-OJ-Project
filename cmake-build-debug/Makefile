@@ -176,30 +176,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1028_数组漂移.c.s
 .PHONY : 1001~2000/1028_数组漂移.c.s
 
-1001~2000/1030_统计质数_Min25筛_bitset.obj: 1001~2000/1030_统计质数_Min25筛_bitset.cpp.obj
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.obj
-
-# target to build an object file
-1001~2000/1030_统计质数_Min25筛_bitset.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_Min25筛_bitset.cpp.obj
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.cpp.obj
-
-1001~2000/1030_统计质数_Min25筛_bitset.i: 1001~2000/1030_统计质数_Min25筛_bitset.cpp.i
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.i
-
-# target to preprocess a source file
-1001~2000/1030_统计质数_Min25筛_bitset.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_Min25筛_bitset.cpp.i
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.cpp.i
-
-1001~2000/1030_统计质数_Min25筛_bitset.s: 1001~2000/1030_统计质数_Min25筛_bitset.cpp.s
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.s
-
-# target to generate assembly for a file
-1001~2000/1030_统计质数_Min25筛_bitset.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_Min25筛_bitset.cpp.s
-.PHONY : 1001~2000/1030_统计质数_Min25筛_bitset.cpp.s
-
 1001~2000/1030_统计质数_埃式筛法.obj: 1001~2000/1030_统计质数_埃式筛法.c.obj
 .PHONY : 1001~2000/1030_统计质数_埃式筛法.obj
 
@@ -223,30 +199,6 @@ BUAA_OJ_Project/fast:
 1001~2000/1030_统计质数_埃式筛法.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_埃式筛法.c.s
 .PHONY : 1001~2000/1030_统计质数_埃式筛法.c.s
-
-1001~2000/1030_统计质数_洲阁筛_bitset.obj: 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.obj
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.obj
-
-# target to build an object file
-1001~2000/1030_统计质数_洲阁筛_bitset.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_洲阁筛_bitset.cpp.obj
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.obj
-
-1001~2000/1030_统计质数_洲阁筛_bitset.i: 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.i
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.i
-
-# target to preprocess a source file
-1001~2000/1030_统计质数_洲阁筛_bitset.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_洲阁筛_bitset.cpp.i
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.i
-
-1001~2000/1030_统计质数_洲阁筛_bitset.s: 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.s
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.s
-
-# target to generate assembly for a file
-1001~2000/1030_统计质数_洲阁筛_bitset.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_洲阁筛_bitset.cpp.s
-.PHONY : 1001~2000/1030_统计质数_洲阁筛_bitset.cpp.s
 
 1001~2000/1030_统计质数_线性筛.obj: 1001~2000/1030_统计质数_线性筛.c.obj
 .PHONY : 1001~2000/1030_统计质数_线性筛.obj
@@ -6824,30 +6776,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/226_简单的质数(简单).c.s
 .PHONY : 1~1000/226_简单的质数(简单).c.s
 
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj: 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj
-
-# target to build an object file
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
-
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i: 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i
-
-# target to preprocess a source file
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
-
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s: 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s
-
-# target to generate assembly for a file
-1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
-.PHONY : 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
-
 1~1000/227_更大公约数.obj: 1~1000/227_更大公约数.c.obj
 .PHONY : 1~1000/227_更大公约数.obj
 
@@ -11935,30 +11863,6 @@ BUAA_OJ_Project/fast:
 1~1000/46_李逍遥的仙剑客栈.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/46_李逍遥的仙剑客栈.c.s
 .PHONY : 1~1000/46_李逍遥的仙剑客栈.c.s
-
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj: 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
-
-# target to build an object file
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj"
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
-
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i: 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
-
-# target to preprocess a source file
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i"
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i
-
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s: 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
-
-# target to generate assembly for a file
-1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s"
-.PHONY : 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s
 
 1~1000/472_Magry's_Prime_Min25筛.obj: 1~1000/472_Magry's_Prime_Min25筛.c.obj
 .PHONY : 1~1000/472_Magry's_Prime_Min25筛.obj
@@ -18823,30 +18727,6 @@ BUAA_OJ_Project/fast:
 1~1000/95_异面直线距离.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/95_异面直线距离.c.s
 .PHONY : 1~1000/95_异面直线距离.c.s
-
-1~1000/960_校赛签到bitset.obj: 1~1000/960_校赛签到bitset.cpp.obj
-.PHONY : 1~1000/960_校赛签到bitset.obj
-
-# target to build an object file
-1~1000/960_校赛签到bitset.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.obj
-.PHONY : 1~1000/960_校赛签到bitset.cpp.obj
-
-1~1000/960_校赛签到bitset.i: 1~1000/960_校赛签到bitset.cpp.i
-.PHONY : 1~1000/960_校赛签到bitset.i
-
-# target to preprocess a source file
-1~1000/960_校赛签到bitset.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.i
-.PHONY : 1~1000/960_校赛签到bitset.cpp.i
-
-1~1000/960_校赛签到bitset.s: 1~1000/960_校赛签到bitset.cpp.s
-.PHONY : 1~1000/960_校赛签到bitset.s
-
-# target to generate assembly for a file
-1~1000/960_校赛签到bitset.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/960_校赛签到bitset.cpp.s
-.PHONY : 1~1000/960_校赛签到bitset.cpp.s
 
 1~1000/964_三角形的判断.obj: 1~1000/964_三角形的判断.c.obj
 .PHONY : 1~1000/964_三角形的判断.obj
@@ -25952,6 +25832,126 @@ FFT-complex/629_模式寻数_II_多项式FFT_complex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/FFT-complex/629_模式寻数_II_多项式FFT_complex.c.s
 .PHONY : FFT-complex/629_模式寻数_II_多项式FFT_complex.c.s
 
+bitset/1030_统计质数_Min25筛.obj: bitset/1030_统计质数_Min25筛.cpp.obj
+.PHONY : bitset/1030_统计质数_Min25筛.obj
+
+# target to build an object file
+bitset/1030_统计质数_Min25筛.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_Min25筛.cpp.obj
+.PHONY : bitset/1030_统计质数_Min25筛.cpp.obj
+
+bitset/1030_统计质数_Min25筛.i: bitset/1030_统计质数_Min25筛.cpp.i
+.PHONY : bitset/1030_统计质数_Min25筛.i
+
+# target to preprocess a source file
+bitset/1030_统计质数_Min25筛.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_Min25筛.cpp.i
+.PHONY : bitset/1030_统计质数_Min25筛.cpp.i
+
+bitset/1030_统计质数_Min25筛.s: bitset/1030_统计质数_Min25筛.cpp.s
+.PHONY : bitset/1030_统计质数_Min25筛.s
+
+# target to generate assembly for a file
+bitset/1030_统计质数_Min25筛.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_Min25筛.cpp.s
+.PHONY : bitset/1030_统计质数_Min25筛.cpp.s
+
+bitset/1030_统计质数_洲阁筛.obj: bitset/1030_统计质数_洲阁筛.cpp.obj
+.PHONY : bitset/1030_统计质数_洲阁筛.obj
+
+# target to build an object file
+bitset/1030_统计质数_洲阁筛.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_洲阁筛.cpp.obj
+.PHONY : bitset/1030_统计质数_洲阁筛.cpp.obj
+
+bitset/1030_统计质数_洲阁筛.i: bitset/1030_统计质数_洲阁筛.cpp.i
+.PHONY : bitset/1030_统计质数_洲阁筛.i
+
+# target to preprocess a source file
+bitset/1030_统计质数_洲阁筛.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_洲阁筛.cpp.i
+.PHONY : bitset/1030_统计质数_洲阁筛.cpp.i
+
+bitset/1030_统计质数_洲阁筛.s: bitset/1030_统计质数_洲阁筛.cpp.s
+.PHONY : bitset/1030_统计质数_洲阁筛.s
+
+# target to generate assembly for a file
+bitset/1030_统计质数_洲阁筛.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/1030_统计质数_洲阁筛.cpp.s
+.PHONY : bitset/1030_统计质数_洲阁筛.cpp.s
+
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj: bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj
+
+# target to build an object file
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.obj
+
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i: bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i
+
+# target to preprocess a source file
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.i
+
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s: bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s
+
+# target to generate assembly for a file
+bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
+.PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
+
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj: bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
+
+# target to build an object file
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj"
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
+
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i: bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
+
+# target to preprocess a source file
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i"
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.i
+
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s: bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
+
+# target to generate assembly for a file
+bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s"
+.PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.s
+
+bitset/960_校赛签到.obj: bitset/960_校赛签到.cpp.obj
+.PHONY : bitset/960_校赛签到.obj
+
+# target to build an object file
+bitset/960_校赛签到.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/960_校赛签到.cpp.obj
+.PHONY : bitset/960_校赛签到.cpp.obj
+
+bitset/960_校赛签到.i: bitset/960_校赛签到.cpp.i
+.PHONY : bitset/960_校赛签到.i
+
+# target to preprocess a source file
+bitset/960_校赛签到.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/960_校赛签到.cpp.i
+.PHONY : bitset/960_校赛签到.cpp.i
+
+bitset/960_校赛签到.s: bitset/960_校赛签到.cpp.s
+.PHONY : bitset/960_校赛签到.s
+
+# target to generate assembly for a file
+bitset/960_校赛签到.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/960_校赛签到.cpp.s
+.PHONY : bitset/960_校赛签到.cpp.s
+
 bound-bsearch/121_相位转移.obj: bound-bsearch/121_相位转移.cpp.obj
 .PHONY : bound-bsearch/121_相位转移.obj
 
@@ -27527,15 +27527,9 @@ help:
 	@echo ... 1001~2000/1028_数组漂移.obj
 	@echo ... 1001~2000/1028_数组漂移.i
 	@echo ... 1001~2000/1028_数组漂移.s
-	@echo ... 1001~2000/1030_统计质数_Min25筛_bitset.obj
-	@echo ... 1001~2000/1030_统计质数_Min25筛_bitset.i
-	@echo ... 1001~2000/1030_统计质数_Min25筛_bitset.s
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.obj
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.i
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.s
-	@echo ... 1001~2000/1030_统计质数_洲阁筛_bitset.obj
-	@echo ... 1001~2000/1030_统计质数_洲阁筛_bitset.i
-	@echo ... 1001~2000/1030_统计质数_洲阁筛_bitset.s
 	@echo ... 1001~2000/1030_统计质数_线性筛.obj
 	@echo ... 1001~2000/1030_统计质数_线性筛.i
 	@echo ... 1001~2000/1030_统计质数_线性筛.s
@@ -28358,9 +28352,6 @@ help:
 	@echo ... 1~1000/226_简单的质数(简单).obj
 	@echo ... 1~1000/226_简单的质数(简单).i
 	@echo ... 1~1000/226_简单的质数(简单).s
-	@echo ... 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj
-	@echo ... 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i
-	@echo ... 1~1000/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s
 	@echo ... 1~1000/227_更大公约数.obj
 	@echo ... 1~1000/227_更大公约数.i
 	@echo ... 1~1000/227_更大公约数.s
@@ -28997,9 +28988,6 @@ help:
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.obj
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.i
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.s
-	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
-	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
-	@echo ... 1~1000/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
 	@echo ... 1~1000/472_Magry's_Prime_Min25筛.obj
 	@echo ... 1~1000/472_Magry's_Prime_Min25筛.i
 	@echo ... 1~1000/472_Magry's_Prime_Min25筛.s
@@ -29858,9 +29846,6 @@ help:
 	@echo ... 1~1000/95_异面直线距离.obj
 	@echo ... 1~1000/95_异面直线距离.i
 	@echo ... 1~1000/95_异面直线距离.s
-	@echo ... 1~1000/960_校赛签到bitset.obj
-	@echo ... 1~1000/960_校赛签到bitset.i
-	@echo ... 1~1000/960_校赛签到bitset.s
 	@echo ... 1~1000/964_三角形的判断.obj
 	@echo ... 1~1000/964_三角形的判断.i
 	@echo ... 1~1000/964_三角形的判断.s
@@ -30749,6 +30734,21 @@ help:
 	@echo ... FFT-complex/629_模式寻数_II_多项式FFT_complex.obj
 	@echo ... FFT-complex/629_模式寻数_II_多项式FFT_complex.i
 	@echo ... FFT-complex/629_模式寻数_II_多项式FFT_complex.s
+	@echo ... bitset/1030_统计质数_Min25筛.obj
+	@echo ... bitset/1030_统计质数_Min25筛.i
+	@echo ... bitset/1030_统计质数_Min25筛.s
+	@echo ... bitset/1030_统计质数_洲阁筛.obj
+	@echo ... bitset/1030_统计质数_洲阁筛.i
+	@echo ... bitset/1030_统计质数_洲阁筛.s
+	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj
+	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i
+	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s
+	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
+	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
+	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
+	@echo ... bitset/960_校赛签到.obj
+	@echo ... bitset/960_校赛签到.i
+	@echo ... bitset/960_校赛签到.s
 	@echo ... bound-bsearch/121_相位转移.obj
 	@echo ... bound-bsearch/121_相位转移.i
 	@echo ... bound-bsearch/121_相位转移.s

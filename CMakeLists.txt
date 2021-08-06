@@ -8,15 +8,18 @@ include_directories(1~1000)
 include_directories(2001~3000)
 include_directories(3001~4000)
 include_directories(4001~5000)
+include_directories(bitset)
+include_directories(bound-bsearch)
+include_directories(FFT-complex)
+include_directories(priority_queue)
+include_directories(unique)
 
 add_executable(BUAA_OJ_Project
         "1001~2000/1026 向量内积.c"
         "1001~2000/1028 数组漂移.c"
         "1001~2000/1030 统计质数 高度优化的埃氏筛法.c"
-        "1001~2000/1030 统计质数 Min25筛 bitset.cpp"
         "1001~2000/1030 统计质数 埃式筛法.c"
         "1001~2000/1030 统计质数 线性筛.c"
-        "1001~2000/1030 统计质数 洲阁筛 bitset.cpp"
         "1001~2000/1057 弱化高精度减法.c"
         "1001~2000/1059 选择排列.c"
         "1001~2000/1064 Bamboo和Coco.c"
@@ -291,7 +294,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/224 Equation（简单）.c"
         "1~1000/225 Keyboard(简单).c"
         "1~1000/226 简单的质数(简单).c"
-        "1~1000/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp"
         "1~1000/227 更大公约数.c"
         "1~1000/229 尾声·织梦行云（难）.c"
         "1~1000/23 名侦探柯南之陷阱.c"
@@ -504,7 +506,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/467 阴影即吾盾.c"
         "1~1000/468 模式寻数.cpp"
         "1~1000/47 不要不要数列求和.c"
-        "1~1000/472 Magry's Prime Meissel Lehmer+记忆化搜索.cpp"
         "1~1000/472 Magry's Prime Min25筛.c"
         "1~1000/472 Magry's Prime 去掉偶数的埃氏筛法.c"
         "1~1000/473 王助教活了多久.c"
@@ -791,7 +792,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/955 7月12日.c"
         "1~1000/958 浪哥的烦恼2.c"
         "1~1000/96 暗号.c"
-        "1~1000/960 校赛签到bitset.cpp"
         "1~1000/964 三角形的判断.c"
         "1~1000/97 Tiling_easy version.c"
         "1~1000/975 AlvinZH的1021实验.c"
@@ -1150,4 +1150,9 @@ add_executable(BUAA_OJ_Project
         "bound-bsearch/upper/4172 Longest Increasing Subsequence in a matrix - Hard.cpp"
         "bound-bsearch/upper/4419 k-排列 方法1.c"
         "bound-bsearch/others/447 jhljx的GC处理.c"
-        "bound-bsearch/others/823 Mdd玩积木(中难).c")
+        "bound-bsearch/others/823 Mdd玩积木(中难).c"
+        "bitset/1030 统计质数 Min25筛.cpp"
+        "bitset/1030 统计质数 洲阁筛.cpp"
+        "bitset/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp"
+        "bitset/472 Magry's Prime Meissel Lehmer+记忆化搜索.cpp"
+        "bitset/960 校赛签到.cpp")

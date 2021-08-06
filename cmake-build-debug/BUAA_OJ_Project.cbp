@@ -29,6 +29,11 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/2001~3000"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/3001~4000"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/4001~5000"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/bitset"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/bound-bsearch"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/FFT-complex"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -55,6 +60,11 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/2001~3000"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/3001~4000"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/4001~5000"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/bitset"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/bound-bsearch"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/FFT-complex"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -96,13 +106,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1028 数组漂移.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 Min25筛 bitset.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 埃式筛法.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 洲阁筛 bitset.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 线性筛.c">
@@ -933,9 +937,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/226 简单的质数(简单).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/227 更大公约数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1570,9 +1571,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/47 不要不要数列求和.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/472 Magry&apos;s Prime Meissel Lehmer+记忆化搜索.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/472 Magry&apos;s Prime Min25筛.c">
@@ -2431,9 +2429,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/96 暗号.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/960 校赛签到bitset.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/964 三角形的判断.c">
@@ -3316,6 +3311,21 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/FFT-complex/629 模式寻数 II 多项式FFT complex.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/1030 统计质数 Min25筛.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/1030 统计质数 洲阁筛.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/472 Magry&apos;s Prime Meissel Lehmer+记忆化搜索.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/960 校赛签到.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/121 相位转移.cpp">
