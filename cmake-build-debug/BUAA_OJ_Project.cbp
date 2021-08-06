@@ -96,10 +96,19 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1028 数组漂移.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 高度优化的埃氏筛法.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 Min25筛 bitset.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 埃式筛法.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 洲阁筛 bitset.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 线性筛.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 高度优化的埃氏筛法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1057 弱化高精度减法.c">
@@ -1572,9 +1581,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/472 Magry&apos;s Prime 去掉偶数的埃氏筛法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/472 Magry&apos;s Prime 高度优化的埃氏筛法+上界二分查找.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/473 王助教活了多久.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2460,7 +2466,19 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2356 位运算.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉树深度和笛卡尔树.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 VEB树 map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 set.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 手写红黑树.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 深度 笛卡尔树.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 链表预处理.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2370 连续子序列的权值单调栈.c">
@@ -2632,6 +2650,18 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2759 k关键字排序.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 另解.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 序列操作 Splay set.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 数组思维操作.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3333 monotonicity 尺取法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3335 检测数码管.c">
@@ -3225,7 +3255,10 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4422 简单的函数求和.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒 multiset O(nlogn).cpp">
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒 AVL树 O(nlogn).c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒 O(nlogn) multiset.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4423 李白打酒.c">
@@ -3309,6 +3342,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/2958 二分查找PLUSbsearch.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/3333 monotonicity 最短满足和的连续子序列.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/39 简单的二分法bsearch.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3351,10 +3387,25 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/2708 E3-计网的烦恼.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/2994 紧急救援 上界二分查找.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/3339 填报高考志愿 排序 下界二分查找.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/3832 斐波那契 高精度.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4168 Longest Increasing Subsequence in a matrix - Easy LIS变种.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4172 Longest Increasing Subsequence in a matrix - Hard.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4419 k-排列 方法1.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4423 李白打酒 AVL树 O(nlogn).c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/472 Magry&apos;s Prime 高度优化的埃氏筛法+上界二分查找.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/652 ModricWang拦截导弹 最长不上升子序列.c">

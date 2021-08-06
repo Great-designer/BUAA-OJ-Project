@@ -20,17 +20,18 @@ void initial()
 			}
 		}
 	}
-	countPrime[1] = 2;
-	for (i = 2; i < 5000010; ++i)
-	{
-		countPrime[i] = countPrime[i - 1] + isPrime[i];
-	}
 }
 
 int main()
 {
 	int n;
 	initial();
+	countPrime[1] = 2;
+	int i;
+	for (i = 2; i < 5000010; ++i)
+	{
+		countPrime[i] = countPrime[i - 1] + isPrime[i];
+	}
 	while (scanf("%d", &n) != EOF)
 	{
 		if (n == 1)

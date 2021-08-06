@@ -243,16 +243,6 @@ long long get_num_by_rank(struct AVL *a,int rank)
 	return a->nodes[now].value;
 }
 
-long long lower_bound(struct AVL *a,long long x)
-{
-	return get_num_by_rank(a,get_rank_by_num(a,x) - 1);
-}
-
-long long upper_bound(struct AVL *a,long long x)
-{
-	return get_num_by_rank(a,get_rank_by_num(a,x + 1));
-}
-
 void Insert(struct AVL *a,long long x)
 {
 	insert(a,&(a->avl_root), x);
@@ -265,12 +255,12 @@ void Remove(struct AVL *a,long long x)
 
 long long min_val(struct AVL *a)
 {
-	return upper_bound(a,-1145141919810ll);
+	return get_num_by_rank(a,get_rank_by_num(a,-1145141919810ll + 1));
 }
 
 long long max_val(struct AVL *a)
 {
-	return lower_bound(a,1145141919810ll);
+	return get_num_by_rank(a,get_rank_by_num(a,1145141919810ll) - 1);
 }
 
 struct AVL Tree;

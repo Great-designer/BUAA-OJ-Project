@@ -226,7 +226,7 @@ OJ4th地址：https://accoding.cn
 
 2990 统计感染者 2991 消毒 2992 隔离 2993 2019-nCoV
 
-2994 紧急救援 2995 配送口罩 2996 Fight against 2019-nCoV! 2997 小文搜文献
+2995 配送口罩 2996 Fight against 2019-nCoV! 2997 小文搜文献
 
 2998 龙龙与指针 2999 小明嗑瓜子 3000 在家也能学编程 3001 老铁666
 
@@ -236,11 +236,11 @@ OJ4th地址：https://accoding.cn
 
 3008 统计康复者 3009 能和本大爷玩游戏的竟然只有你一个 3010 转圈圈 3012 二极管
 
-3013 大数 popcount 3014 奇怪的排序 3015 AC coding 3025 新同学
+3013 大数 popcount 3015 AC coding 3025 新同学
 
 3027 Easy LCM Problem 3028 简单成绩统计 3029 符号函数
 
-3031 看日出 3327 谁是19王 3333 monotonicity
+3031 看日出 3327 谁是19王
 
 3338 复习位运算 3340 爬爬爬 3341 数字点读机 3342 智能复读机
 
@@ -252,7 +252,7 @@ OJ4th地址：https://accoding.cn
 
 3760 两点之间的距离 3761 唯一的数
 
-3830 转换成绩等级 3831 找完数 3832 斐波那契
+3830 转换成绩等级 3831 找完数
 
 3847 最大公约数与最小公倍数 3951 （中等题）血战双十一 3955 （简单题）陶陶摘橘子
 
@@ -260,11 +260,9 @@ OJ4th地址：https://accoding.cn
 
 4121 （简单题）璐璐的饮品店 4164 Who hasn't sign up 4165 DS = Data structure of Shawn's
 
-4166 Find Good Reverse Tuple 4167 Nero's Key Board 4168 Longest Increasing Subsequence in a matrix - Easy
+4166 Find Good Reverse Tuple 4167 Nero's Key Board 4169 Weidong's minimum working hours
 
-4169 Weidong's minimum working hours 4171 Optimization on matrices multiplication
-
-4172 Longest Increasing Subsequence in a matrix - Hard 4173 Minimal edit distance to a string's prefix
+4171 Optimization on matrices multiplication 4173 Minimal edit distance to a string's prefix
 
 4312 五子棋大师 4350 众志成城 4353 猜拳擂台
 

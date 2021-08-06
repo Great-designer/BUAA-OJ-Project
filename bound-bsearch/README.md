@@ -12,9 +12,11 @@
 
 ### upper
 
-226 简单的质数(简单) 652 ModricWang拦截导弹 1650 摸鱼助教MoggⅠ
+226 简单的质数(简单) 472 Magry's Prime 652 ModricWang拦截导弹 1650 摸鱼助教MoggⅠ
 
-2708 E3-计网的烦恼 4419 k-排列 4423 李白打酒
+2708 E3-计网的烦恼 2994 紧急救援 3339 填报高考志愿 3832 斐波那契
+
+4168 Longest Increasing Subsequence in a matrix - Easy 4172 Longest Increasing Subsequence in a matrix - Hard 4419 k-排列
 
 ### others
 
@@ -26,6 +28,8 @@
 
 251 简单题——I wanna be the 升级者Ⅱ 454 DH摆三角 529 大家一起来排队 564 王助教的调色盘
 
-696 Mdd的成绩单 759 Gzh的射击游戏 2953 真二分查找 2958 二分查找PLUS
+696 Mdd的成绩单 759 Gzh的射击游戏 2953 真二分查找
+
+2958 二分查找PLUS 3333 monotonicity
 
 4289 小迷弟磕cp 4335 惹 Shy 的 二 分 查 找 4419 k-排列
