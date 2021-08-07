@@ -1,3 +1,0 @@
-"D:\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BUAA_OJ_Project.dir/objects.a
-D:\mingw64\bin\ar.exe cr CMakeFiles\BUAA_OJ_Project.dir/objects.a @CMakeFiles\BUAA_OJ_Project.dir\objects1.rsp
-D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BUAA_OJ_Project.dir/objects.a -Wl,--no-whole-archive -o BUAA_OJ_Project.exe -Wl,--out-implib,libBUAA_OJ_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BUAA_OJ_Project.dir\linklibs.rsp
