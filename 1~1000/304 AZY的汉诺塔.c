@@ -54,7 +54,7 @@ int main()
 			}
 			if(current<step)
 			{
-				if(Hanoi[(i+1)%3].top==0||((!(Hanoi[(i-1)%3].top==0))&&Hanoi[(i+1)%3].tower[Hanoi[(i+1)%3].top-1]>Hanoi[(i-1)%3].tower[Hanoi[(i-1)%3].top-1]))
+				if(Hanoi[(i+1)%3].top==0||((Hanoi[(i-1)%3].top!=0)&&Hanoi[(i+1)%3].tower[Hanoi[(i+1)%3].top-1]>Hanoi[(i-1)%3].tower[Hanoi[(i-1)%3].top-1]))
 				{
 					curPlace=Hanoi[(i-1)%3].tower[Hanoi[(i-1)%3].top-1];
 					Hanoi[(i-1)%3].top--;
@@ -77,7 +77,7 @@ int main()
 		printf("Finished!\n");
 		for(i=0;i<3;++i)
 		{
-			while(!(Hanoi[i].top==0))
+			while(Hanoi[i].top!=0)
 			{
 				Hanoi[i].top--;
 			}

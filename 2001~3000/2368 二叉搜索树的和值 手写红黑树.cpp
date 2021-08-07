@@ -379,13 +379,13 @@ struct RedBlackTree
 	//插入 返回对应迭代器
 	iterator<T> insert(T v)
 	{
-		RBNode<T> *ptn = find(v, 1);
+		find(v, 1);
 		if (_hot == NULL)  //仅有1个节点
 		{
 			init(v);
 			return iterator<T>(_root);
 		}
-		ptn = new RBNode<T>(v, 1, _hot, NULL, NULL, 1);
+		RBNode<T> *ptn = new RBNode<T>(v, 1, _hot, NULL, NULL, 1);
 		if (_hot->val <= v)
 		{
 			_hot->rc = ptn;
