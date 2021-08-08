@@ -16,7 +16,6 @@ int main()
 	s.insert(base);
 	height[base] = 0;
 	int max_ = base;
-	int min_ = base;
 	printf("%lld\n", height[base]);
 	int i;
 	for(i = 1; i < n; i++)

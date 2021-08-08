@@ -35,7 +35,8 @@ void print(struct decimal ans)
 		sprintf(up, "%lld", Up);
 		sprintf(down, "%lld", ans.q);
 		sprintf(integer, "%lld", Integer);
-		int len_int = strlen(integer), len_up = strlen(up), len_down = strlen(down);
+		int len_int = strlen(integer);
+		int len_down = strlen(down);
 		int i;
 		for(i = 0; i < len_int; i++) putchar(' ');
 		puts(up);

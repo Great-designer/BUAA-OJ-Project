@@ -189,7 +189,7 @@ struct RedBlackTree
 	}
 
 	//允许重复的查找,默认是找到同一个数的最后一个出现的位置
-	RBNode<T> *find(T v, const int op)
+	void find(T v, const int op)
 	{
 		RBNode<T> *ptn = _root;
 		_hot = NULL;
@@ -206,7 +206,6 @@ struct RedBlackTree
 				ptn = ptn->rc;
 			}
 		}
-		return ptn;
 	}
 
 	//双红修正,采用迭代方式,迭代条件为RR-2上溢向上传2层

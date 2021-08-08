@@ -248,6 +248,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_高度优化的埃氏筛法.c.s
 .PHONY : 1001~2000/1030_统计质数_高度优化的埃氏筛法.c.s
 
+1001~2000/1042_角谷定理（伪）_随机数.obj: 1001~2000/1042_角谷定理（伪）_随机数.c.obj
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.obj
+
+# target to build an object file
+1001~2000/1042_角谷定理（伪）_随机数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1042_角谷定理（伪）_随机数.c.obj
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.c.obj
+
+1001~2000/1042_角谷定理（伪）_随机数.i: 1001~2000/1042_角谷定理（伪）_随机数.c.i
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.i
+
+# target to preprocess a source file
+1001~2000/1042_角谷定理（伪）_随机数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1042_角谷定理（伪）_随机数.c.i
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.c.i
+
+1001~2000/1042_角谷定理（伪）_随机数.s: 1001~2000/1042_角谷定理（伪）_随机数.c.s
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.s
+
+# target to generate assembly for a file
+1001~2000/1042_角谷定理（伪）_随机数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1042_角谷定理（伪）_随机数.c.s
+.PHONY : 1001~2000/1042_角谷定理（伪）_随机数.c.s
+
 1001~2000/1057_弱化高精度减法.obj: 1001~2000/1057_弱化高精度减法.c.obj
 .PHONY : 1001~2000/1057_弱化高精度减法.obj
 
@@ -7304,30 +7328,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/24_名侦探柯南之陷阱升级版.c.s
 .PHONY : 1~1000/24_名侦探柯南之陷阱升级版.c.s
 
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.obj: 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.obj
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.obj
-
-# target to build an object file
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.obj
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.obj
-
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.i: 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.i
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.i
-
-# target to preprocess a source file
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.i
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.i
-
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.s: 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.s
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.s
-
-# target to generate assembly for a file
-1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.s
-.PHONY : 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.cpp.s
-
 1~1000/253_难题——再见了，大活_wqs二分.obj: 1~1000/253_难题——再见了，大活_wqs二分.c.obj
 .PHONY : 1~1000/253_难题——再见了，大活_wqs二分.obj
 
@@ -11720,6 +11720,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/466_我有特殊的快排技巧.c.s
 .PHONY : 1~1000/466_我有特殊的快排技巧.c.s
 
+1~1000/466_我有特殊的快排技巧_qsort.obj: 1~1000/466_我有特殊的快排技巧_qsort.c.obj
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.obj
+
+# target to build an object file
+1~1000/466_我有特殊的快排技巧_qsort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/466_我有特殊的快排技巧_qsort.c.obj
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.c.obj
+
+1~1000/466_我有特殊的快排技巧_qsort.i: 1~1000/466_我有特殊的快排技巧_qsort.c.i
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.i
+
+# target to preprocess a source file
+1~1000/466_我有特殊的快排技巧_qsort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/466_我有特殊的快排技巧_qsort.c.i
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.c.i
+
+1~1000/466_我有特殊的快排技巧_qsort.s: 1~1000/466_我有特殊的快排技巧_qsort.c.s
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.s
+
+# target to generate assembly for a file
+1~1000/466_我有特殊的快排技巧_qsort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/466_我有特殊的快排技巧_qsort.c.s
+.PHONY : 1~1000/466_我有特殊的快排技巧_qsort.c.s
+
 1~1000/467_阴影即吾盾.obj: 1~1000/467_阴影即吾盾.c.obj
 .PHONY : 1~1000/467_阴影即吾盾.obj
 
@@ -11743,30 +11767,6 @@ BUAA_OJ_Project/fast:
 1~1000/467_阴影即吾盾.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/467_阴影即吾盾.c.s
 .PHONY : 1~1000/467_阴影即吾盾.c.s
-
-1~1000/468_模式寻数.obj: 1~1000/468_模式寻数.cpp.obj
-.PHONY : 1~1000/468_模式寻数.obj
-
-# target to build an object file
-1~1000/468_模式寻数.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/468_模式寻数.cpp.obj
-.PHONY : 1~1000/468_模式寻数.cpp.obj
-
-1~1000/468_模式寻数.i: 1~1000/468_模式寻数.cpp.i
-.PHONY : 1~1000/468_模式寻数.i
-
-# target to preprocess a source file
-1~1000/468_模式寻数.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/468_模式寻数.cpp.i
-.PHONY : 1~1000/468_模式寻数.cpp.i
-
-1~1000/468_模式寻数.s: 1~1000/468_模式寻数.cpp.s
-.PHONY : 1~1000/468_模式寻数.s
-
-# target to generate assembly for a file
-1~1000/468_模式寻数.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/468_模式寻数.cpp.s
-.PHONY : 1~1000/468_模式寻数.cpp.s
 
 1~1000/46_李逍遥的仙剑客栈.obj: 1~1000/46_李逍遥的仙剑客栈.c.obj
 .PHONY : 1~1000/46_李逍遥的仙剑客栈.obj
@@ -13544,30 +13544,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/621_怠惰的王木木Ⅲ_凸包模板.c.s
 .PHONY : 1~1000/621_怠惰的王木木Ⅲ_凸包模板.c.s
 
-1~1000/623_NAIVE排序_nth_element.obj: 1~1000/623_NAIVE排序_nth_element.cpp.obj
-.PHONY : 1~1000/623_NAIVE排序_nth_element.obj
-
-# target to build an object file
-1~1000/623_NAIVE排序_nth_element.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/623_NAIVE排序_nth_element.cpp.obj
-.PHONY : 1~1000/623_NAIVE排序_nth_element.cpp.obj
-
-1~1000/623_NAIVE排序_nth_element.i: 1~1000/623_NAIVE排序_nth_element.cpp.i
-.PHONY : 1~1000/623_NAIVE排序_nth_element.i
-
-# target to preprocess a source file
-1~1000/623_NAIVE排序_nth_element.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/623_NAIVE排序_nth_element.cpp.i
-.PHONY : 1~1000/623_NAIVE排序_nth_element.cpp.i
-
-1~1000/623_NAIVE排序_nth_element.s: 1~1000/623_NAIVE排序_nth_element.cpp.s
-.PHONY : 1~1000/623_NAIVE排序_nth_element.s
-
-# target to generate assembly for a file
-1~1000/623_NAIVE排序_nth_element.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/623_NAIVE排序_nth_element.cpp.s
-.PHONY : 1~1000/623_NAIVE排序_nth_element.cpp.s
-
 1~1000/625_ModricWang的满天繁星.obj: 1~1000/625_ModricWang的满天繁星.c.obj
 .PHONY : 1~1000/625_ModricWang的满天繁星.obj
 
@@ -14119,30 +14095,6 @@ BUAA_OJ_Project/fast:
 1~1000/668_钢管拼接.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/668_钢管拼接.c.s
 .PHONY : 1~1000/668_钢管拼接.c.s
-
-1~1000/669_简单·梦想始发车_nth_element.obj: 1~1000/669_简单·梦想始发车_nth_element.cpp.obj
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.obj
-
-# target to build an object file
-1~1000/669_简单·梦想始发车_nth_element.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/669_简单·梦想始发车_nth_element.cpp.obj
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.cpp.obj
-
-1~1000/669_简单·梦想始发车_nth_element.i: 1~1000/669_简单·梦想始发车_nth_element.cpp.i
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.i
-
-# target to preprocess a source file
-1~1000/669_简单·梦想始发车_nth_element.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/669_简单·梦想始发车_nth_element.cpp.i
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.cpp.i
-
-1~1000/669_简单·梦想始发车_nth_element.s: 1~1000/669_简单·梦想始发车_nth_element.cpp.s
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.s
-
-# target to generate assembly for a file
-1~1000/669_简单·梦想始发车_nth_element.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/669_简单·梦想始发车_nth_element.cpp.s
-.PHONY : 1~1000/669_简单·梦想始发车_nth_element.cpp.s
 
 1~1000/66_日期计算.obj: 1~1000/66_日期计算.c.obj
 .PHONY : 1~1000/66_日期计算.obj
@@ -16135,30 +16087,6 @@ BUAA_OJ_Project/fast:
 1~1000/763_DH去旅行.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/763_DH去旅行.c.s
 .PHONY : 1~1000/763_DH去旅行.c.s
-
-1~1000/764_ModricWang请客吃饭nthelement.obj: 1~1000/764_ModricWang请客吃饭nthelement.cpp.obj
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.obj
-
-# target to build an object file
-1~1000/764_ModricWang请客吃饭nthelement.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/764_ModricWang请客吃饭nthelement.cpp.obj
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.cpp.obj
-
-1~1000/764_ModricWang请客吃饭nthelement.i: 1~1000/764_ModricWang请客吃饭nthelement.cpp.i
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.i
-
-# target to preprocess a source file
-1~1000/764_ModricWang请客吃饭nthelement.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/764_ModricWang请客吃饭nthelement.cpp.i
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.cpp.i
-
-1~1000/764_ModricWang请客吃饭nthelement.s: 1~1000/764_ModricWang请客吃饭nthelement.cpp.s
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.s
-
-# target to generate assembly for a file
-1~1000/764_ModricWang请客吃饭nthelement.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/764_ModricWang请客吃饭nthelement.cpp.s
-.PHONY : 1~1000/764_ModricWang请客吃饭nthelement.cpp.s
 
 1~1000/765_Ugly_Number.obj: 1~1000/765_Ugly_Number.c.obj
 .PHONY : 1~1000/765_Ugly_Number.obj
@@ -21031,6 +20959,30 @@ BUAA_OJ_Project/fast:
 4001~5000/4197_单节得分王.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4197_单节得分王.c.s
 .PHONY : 4001~5000/4197_单节得分王.c.s
+
+4001~5000/4198_基础物理实验_2.obj: 4001~5000/4198_基础物理实验_2.c.obj
+.PHONY : 4001~5000/4198_基础物理实验_2.obj
+
+# target to build an object file
+4001~5000/4198_基础物理实验_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2.c.obj
+.PHONY : 4001~5000/4198_基础物理实验_2.c.obj
+
+4001~5000/4198_基础物理实验_2.i: 4001~5000/4198_基础物理实验_2.c.i
+.PHONY : 4001~5000/4198_基础物理实验_2.i
+
+# target to preprocess a source file
+4001~5000/4198_基础物理实验_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2.c.i
+.PHONY : 4001~5000/4198_基础物理实验_2.c.i
+
+4001~5000/4198_基础物理实验_2.s: 4001~5000/4198_基础物理实验_2.c.s
+.PHONY : 4001~5000/4198_基础物理实验_2.s
+
+# target to generate assembly for a file
+4001~5000/4198_基础物理实验_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4198_基础物理实验_2.c.s
+.PHONY : 4001~5000/4198_基础物理实验_2.c.s
 
 4001~5000/4198_基础物理实验_2（简单版）（打表）.obj: 4001~5000/4198_基础物理实验_2（简单版）（打表）.c.obj
 .PHONY : 4001~5000/4198_基础物理实验_2（简单版）（打表）.obj
@@ -26576,6 +26528,222 @@ bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s
 .PHONY : bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s
 
+nth_element/1518_第k顺序统计量.obj: nth_element/1518_第k顺序统计量.cpp.obj
+.PHONY : nth_element/1518_第k顺序统计量.obj
+
+# target to build an object file
+nth_element/1518_第k顺序统计量.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/1518_第k顺序统计量.cpp.obj
+.PHONY : nth_element/1518_第k顺序统计量.cpp.obj
+
+nth_element/1518_第k顺序统计量.i: nth_element/1518_第k顺序统计量.cpp.i
+.PHONY : nth_element/1518_第k顺序统计量.i
+
+# target to preprocess a source file
+nth_element/1518_第k顺序统计量.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/1518_第k顺序统计量.cpp.i
+.PHONY : nth_element/1518_第k顺序统计量.cpp.i
+
+nth_element/1518_第k顺序统计量.s: nth_element/1518_第k顺序统计量.cpp.s
+.PHONY : nth_element/1518_第k顺序统计量.s
+
+# target to generate assembly for a file
+nth_element/1518_第k顺序统计量.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/1518_第k顺序统计量.cpp.s
+.PHONY : nth_element/1518_第k顺序统计量.cpp.s
+
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.obj: nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.obj
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.obj
+
+# target to build an object file
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.obj
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.obj
+
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.i: nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.i
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.i
+
+# target to preprocess a source file
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.i
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.i
+
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.s: nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.s
+
+# target to generate assembly for a file
+nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s
+.PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s
+
+nth_element/466_我有特殊的快排技巧.obj: nth_element/466_我有特殊的快排技巧.cpp.obj
+.PHONY : nth_element/466_我有特殊的快排技巧.obj
+
+# target to build an object file
+nth_element/466_我有特殊的快排技巧.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/466_我有特殊的快排技巧.cpp.obj
+.PHONY : nth_element/466_我有特殊的快排技巧.cpp.obj
+
+nth_element/466_我有特殊的快排技巧.i: nth_element/466_我有特殊的快排技巧.cpp.i
+.PHONY : nth_element/466_我有特殊的快排技巧.i
+
+# target to preprocess a source file
+nth_element/466_我有特殊的快排技巧.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/466_我有特殊的快排技巧.cpp.i
+.PHONY : nth_element/466_我有特殊的快排技巧.cpp.i
+
+nth_element/466_我有特殊的快排技巧.s: nth_element/466_我有特殊的快排技巧.cpp.s
+.PHONY : nth_element/466_我有特殊的快排技巧.s
+
+# target to generate assembly for a file
+nth_element/466_我有特殊的快排技巧.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/466_我有特殊的快排技巧.cpp.s
+.PHONY : nth_element/466_我有特殊的快排技巧.cpp.s
+
+nth_element/468_模式寻数.obj: nth_element/468_模式寻数.cpp.obj
+.PHONY : nth_element/468_模式寻数.obj
+
+# target to build an object file
+nth_element/468_模式寻数.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/468_模式寻数.cpp.obj
+.PHONY : nth_element/468_模式寻数.cpp.obj
+
+nth_element/468_模式寻数.i: nth_element/468_模式寻数.cpp.i
+.PHONY : nth_element/468_模式寻数.i
+
+# target to preprocess a source file
+nth_element/468_模式寻数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/468_模式寻数.cpp.i
+.PHONY : nth_element/468_模式寻数.cpp.i
+
+nth_element/468_模式寻数.s: nth_element/468_模式寻数.cpp.s
+.PHONY : nth_element/468_模式寻数.s
+
+# target to generate assembly for a file
+nth_element/468_模式寻数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/468_模式寻数.cpp.s
+.PHONY : nth_element/468_模式寻数.cpp.s
+
+nth_element/50_零崎的补番计划Ⅰ_STL.obj: nth_element/50_零崎的补番计划Ⅰ_STL.cpp.obj
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.obj
+
+# target to build an object file
+nth_element/50_零崎的补番计划Ⅰ_STL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/50_零崎的补番计划Ⅰ_STL.cpp.obj
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.cpp.obj
+
+nth_element/50_零崎的补番计划Ⅰ_STL.i: nth_element/50_零崎的补番计划Ⅰ_STL.cpp.i
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.i
+
+# target to preprocess a source file
+nth_element/50_零崎的补番计划Ⅰ_STL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/50_零崎的补番计划Ⅰ_STL.cpp.i
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.cpp.i
+
+nth_element/50_零崎的补番计划Ⅰ_STL.s: nth_element/50_零崎的补番计划Ⅰ_STL.cpp.s
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.s
+
+# target to generate assembly for a file
+nth_element/50_零崎的补番计划Ⅰ_STL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/50_零崎的补番计划Ⅰ_STL.cpp.s
+.PHONY : nth_element/50_零崎的补番计划Ⅰ_STL.cpp.s
+
+nth_element/623_NAIVE排序.obj: nth_element/623_NAIVE排序.cpp.obj
+.PHONY : nth_element/623_NAIVE排序.obj
+
+# target to build an object file
+nth_element/623_NAIVE排序.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/623_NAIVE排序.cpp.obj
+.PHONY : nth_element/623_NAIVE排序.cpp.obj
+
+nth_element/623_NAIVE排序.i: nth_element/623_NAIVE排序.cpp.i
+.PHONY : nth_element/623_NAIVE排序.i
+
+# target to preprocess a source file
+nth_element/623_NAIVE排序.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/623_NAIVE排序.cpp.i
+.PHONY : nth_element/623_NAIVE排序.cpp.i
+
+nth_element/623_NAIVE排序.s: nth_element/623_NAIVE排序.cpp.s
+.PHONY : nth_element/623_NAIVE排序.s
+
+# target to generate assembly for a file
+nth_element/623_NAIVE排序.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/623_NAIVE排序.cpp.s
+.PHONY : nth_element/623_NAIVE排序.cpp.s
+
+nth_element/669_简单·梦想始发车.obj: nth_element/669_简单·梦想始发车.cpp.obj
+.PHONY : nth_element/669_简单·梦想始发车.obj
+
+# target to build an object file
+nth_element/669_简单·梦想始发车.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/669_简单·梦想始发车.cpp.obj
+.PHONY : nth_element/669_简单·梦想始发车.cpp.obj
+
+nth_element/669_简单·梦想始发车.i: nth_element/669_简单·梦想始发车.cpp.i
+.PHONY : nth_element/669_简单·梦想始发车.i
+
+# target to preprocess a source file
+nth_element/669_简单·梦想始发车.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/669_简单·梦想始发车.cpp.i
+.PHONY : nth_element/669_简单·梦想始发车.cpp.i
+
+nth_element/669_简单·梦想始发车.s: nth_element/669_简单·梦想始发车.cpp.s
+.PHONY : nth_element/669_简单·梦想始发车.s
+
+# target to generate assembly for a file
+nth_element/669_简单·梦想始发车.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/669_简单·梦想始发车.cpp.s
+.PHONY : nth_element/669_简单·梦想始发车.cpp.s
+
+nth_element/764_ModricWang请客吃饭.obj: nth_element/764_ModricWang请客吃饭.cpp.obj
+.PHONY : nth_element/764_ModricWang请客吃饭.obj
+
+# target to build an object file
+nth_element/764_ModricWang请客吃饭.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/764_ModricWang请客吃饭.cpp.obj
+.PHONY : nth_element/764_ModricWang请客吃饭.cpp.obj
+
+nth_element/764_ModricWang请客吃饭.i: nth_element/764_ModricWang请客吃饭.cpp.i
+.PHONY : nth_element/764_ModricWang请客吃饭.i
+
+# target to preprocess a source file
+nth_element/764_ModricWang请客吃饭.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/764_ModricWang请客吃饭.cpp.i
+.PHONY : nth_element/764_ModricWang请客吃饭.cpp.i
+
+nth_element/764_ModricWang请客吃饭.s: nth_element/764_ModricWang请客吃饭.cpp.s
+.PHONY : nth_element/764_ModricWang请客吃饭.s
+
+# target to generate assembly for a file
+nth_element/764_ModricWang请客吃饭.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/764_ModricWang请客吃饭.cpp.s
+.PHONY : nth_element/764_ModricWang请客吃饭.cpp.s
+
+nth_element/98_第三小整数.obj: nth_element/98_第三小整数.cpp.obj
+.PHONY : nth_element/98_第三小整数.obj
+
+# target to build an object file
+nth_element/98_第三小整数.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.obj
+.PHONY : nth_element/98_第三小整数.cpp.obj
+
+nth_element/98_第三小整数.i: nth_element/98_第三小整数.cpp.i
+.PHONY : nth_element/98_第三小整数.i
+
+# target to preprocess a source file
+nth_element/98_第三小整数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.i
+.PHONY : nth_element/98_第三小整数.cpp.i
+
+nth_element/98_第三小整数.s: nth_element/98_第三小整数.cpp.s
+.PHONY : nth_element/98_第三小整数.s
+
+# target to generate assembly for a file
+nth_element/98_第三小整数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.s
+.PHONY : nth_element/98_第三小整数.cpp.s
+
 priority_queue/1042_角谷定理（伪）_bfs.obj: priority_queue/1042_角谷定理（伪）_bfs.cpp.obj
 .PHONY : priority_queue/1042_角谷定理（伪）_bfs.obj
 
@@ -27800,6 +27968,9 @@ help:
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.obj
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.i
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.s
+	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.obj
+	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.i
+	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.s
 	@echo ... 1001~2000/1057_弱化高精度减法.obj
 	@echo ... 1001~2000/1057_弱化高精度减法.i
 	@echo ... 1001~2000/1057_弱化高精度减法.s
@@ -28682,9 +28853,6 @@ help:
 	@echo ... 1~1000/24_名侦探柯南之陷阱升级版.obj
 	@echo ... 1~1000/24_名侦探柯南之陷阱升级版.i
 	@echo ... 1~1000/24_名侦探柯南之陷阱升级版.s
-	@echo ... 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.obj
-	@echo ... 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.i
-	@echo ... 1~1000/250_简单题——I_wanna_be_the_升级者Ⅰ_nth_element.s
 	@echo ... 1~1000/253_难题——再见了，大活_wqs二分.obj
 	@echo ... 1~1000/253_难题——再见了，大活_wqs二分.i
 	@echo ... 1~1000/253_难题——再见了，大活_wqs二分.s
@@ -29234,12 +29402,12 @@ help:
 	@echo ... 1~1000/466_我有特殊的快排技巧.obj
 	@echo ... 1~1000/466_我有特殊的快排技巧.i
 	@echo ... 1~1000/466_我有特殊的快排技巧.s
+	@echo ... 1~1000/466_我有特殊的快排技巧_qsort.obj
+	@echo ... 1~1000/466_我有特殊的快排技巧_qsort.i
+	@echo ... 1~1000/466_我有特殊的快排技巧_qsort.s
 	@echo ... 1~1000/467_阴影即吾盾.obj
 	@echo ... 1~1000/467_阴影即吾盾.i
 	@echo ... 1~1000/467_阴影即吾盾.s
-	@echo ... 1~1000/468_模式寻数.obj
-	@echo ... 1~1000/468_模式寻数.i
-	@echo ... 1~1000/468_模式寻数.s
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.obj
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.i
 	@echo ... 1~1000/46_李逍遥的仙剑客栈.s
@@ -29462,9 +29630,6 @@ help:
 	@echo ... 1~1000/621_怠惰的王木木Ⅲ_凸包模板.obj
 	@echo ... 1~1000/621_怠惰的王木木Ⅲ_凸包模板.i
 	@echo ... 1~1000/621_怠惰的王木木Ⅲ_凸包模板.s
-	@echo ... 1~1000/623_NAIVE排序_nth_element.obj
-	@echo ... 1~1000/623_NAIVE排序_nth_element.i
-	@echo ... 1~1000/623_NAIVE排序_nth_element.s
 	@echo ... 1~1000/625_ModricWang的满天繁星.obj
 	@echo ... 1~1000/625_ModricWang的满天繁星.i
 	@echo ... 1~1000/625_ModricWang的满天繁星.s
@@ -29534,9 +29699,6 @@ help:
 	@echo ... 1~1000/668_钢管拼接.obj
 	@echo ... 1~1000/668_钢管拼接.i
 	@echo ... 1~1000/668_钢管拼接.s
-	@echo ... 1~1000/669_简单·梦想始发车_nth_element.obj
-	@echo ... 1~1000/669_简单·梦想始发车_nth_element.i
-	@echo ... 1~1000/669_简单·梦想始发车_nth_element.s
 	@echo ... 1~1000/66_日期计算.obj
 	@echo ... 1~1000/66_日期计算.i
 	@echo ... 1~1000/66_日期计算.s
@@ -29786,9 +29948,6 @@ help:
 	@echo ... 1~1000/763_DH去旅行.obj
 	@echo ... 1~1000/763_DH去旅行.i
 	@echo ... 1~1000/763_DH去旅行.s
-	@echo ... 1~1000/764_ModricWang请客吃饭nthelement.obj
-	@echo ... 1~1000/764_ModricWang请客吃饭nthelement.i
-	@echo ... 1~1000/764_ModricWang请客吃饭nthelement.s
 	@echo ... 1~1000/765_Ugly_Number.obj
 	@echo ... 1~1000/765_Ugly_Number.i
 	@echo ... 1~1000/765_Ugly_Number.s
@@ -30398,6 +30557,9 @@ help:
 	@echo ... 4001~5000/4197_单节得分王.obj
 	@echo ... 4001~5000/4197_单节得分王.i
 	@echo ... 4001~5000/4197_单节得分王.s
+	@echo ... 4001~5000/4198_基础物理实验_2.obj
+	@echo ... 4001~5000/4198_基础物理实验_2.i
+	@echo ... 4001~5000/4198_基础物理实验_2.s
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.obj
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.i
 	@echo ... 4001~5000/4198_基础物理实验_2（简单版）（打表）.s
@@ -31091,6 +31253,33 @@ help:
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.obj
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.i
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.s
+	@echo ... nth_element/1518_第k顺序统计量.obj
+	@echo ... nth_element/1518_第k顺序统计量.i
+	@echo ... nth_element/1518_第k顺序统计量.s
+	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.obj
+	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.i
+	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.s
+	@echo ... nth_element/466_我有特殊的快排技巧.obj
+	@echo ... nth_element/466_我有特殊的快排技巧.i
+	@echo ... nth_element/466_我有特殊的快排技巧.s
+	@echo ... nth_element/468_模式寻数.obj
+	@echo ... nth_element/468_模式寻数.i
+	@echo ... nth_element/468_模式寻数.s
+	@echo ... nth_element/50_零崎的补番计划Ⅰ_STL.obj
+	@echo ... nth_element/50_零崎的补番计划Ⅰ_STL.i
+	@echo ... nth_element/50_零崎的补番计划Ⅰ_STL.s
+	@echo ... nth_element/623_NAIVE排序.obj
+	@echo ... nth_element/623_NAIVE排序.i
+	@echo ... nth_element/623_NAIVE排序.s
+	@echo ... nth_element/669_简单·梦想始发车.obj
+	@echo ... nth_element/669_简单·梦想始发车.i
+	@echo ... nth_element/669_简单·梦想始发车.s
+	@echo ... nth_element/764_ModricWang请客吃饭.obj
+	@echo ... nth_element/764_ModricWang请客吃饭.i
+	@echo ... nth_element/764_ModricWang请客吃饭.s
+	@echo ... nth_element/98_第三小整数.obj
+	@echo ... nth_element/98_第三小整数.i
+	@echo ... nth_element/98_第三小整数.s
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.obj
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.i
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.s

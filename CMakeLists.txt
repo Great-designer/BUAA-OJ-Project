@@ -11,6 +11,7 @@ include_directories(4001~5000)
 include_directories(bitset)
 include_directories(bound-bsearch)
 include_directories(FFT-complex)
+include_directories(nth_element)
 include_directories(priority_queue)
 include_directories(set)
 include_directories(unique)
@@ -21,6 +22,7 @@ add_executable(BUAA_OJ_Project
         "1001~2000/1030 统计质数 高度优化的埃氏筛法.c"
         "1001~2000/1030 统计质数 埃式筛法.c"
         "1001~2000/1030 统计质数 线性筛.c"
+        "1001~2000/1042 角谷定理（伪） 随机数.c"
         "1001~2000/1057 弱化高精度减法.c"
         "1001~2000/1059 选择排列.c"
         "1001~2000/1064 Bamboo和Coco.c"
@@ -317,7 +319,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/248 microhhh的回文词（难）.c"
         "1~1000/249 Doc的梦想（难）.c"
         "1~1000/25 质数判断.c"
-        "1~1000/250 简单题——I wanna be the 升级者Ⅰ nth_element.cpp"
         "1~1000/253 难题——再见了，大活 wqs二分.c"
         "1~1000/253 难题——再见了，大活 计数DP.c"
         "1~1000/254 中等题——零崎的考试 基础DP.c"
@@ -501,8 +502,8 @@ add_executable(BUAA_OJ_Project
         "1~1000/461 jhljx水水的最短路径.c"
         "1~1000/464 ModricWang的数据位校验.c"
         "1~1000/466 我有特殊的快排技巧.c"
+        "1~1000/466 我有特殊的快排技巧 qsort.c"
         "1~1000/467 阴影即吾盾.c"
-        "1~1000/468 模式寻数.cpp"
         "1~1000/47 不要不要数列求和.c"
         "1~1000/472 Magry's Prime Min25筛.c"
         "1~1000/472 Magry's Prime 去掉偶数的埃氏筛法.c"
@@ -576,7 +577,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/620 数论の重逢 EXCRT.c"
         "1~1000/620 数论の重逢 中国剩余定理.c"
         "1~1000/621 怠惰的王木木Ⅲ 凸包模板.c"
-        "1~1000/623 NAIVE排序 nth_element.cpp"
         "1~1000/625 ModricWang的满天繁星.c"
         "1~1000/635 王助教复制字节.c"
         "1~1000/639 王助教改英文缩写.c"
@@ -601,7 +601,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/666 圣诞小游戏.c"
         "1~1000/667 圣诞糖果.c"
         "1~1000/668 钢管拼接.c"
-        "1~1000/669 简单·梦想始发车 nth_element.cpp"
         "1~1000/67 N航母问题.c"
         "1~1000/670 难题·圣杯之战·最终章 二分图 最小割最大流.cpp"
         "1~1000/672 简单·最大公约数.c"
@@ -685,7 +684,6 @@ add_executable(BUAA_OJ_Project
         "1~1000/761 Mdd的信.c"
         "1~1000/762 Gzh的二叉树.c"
         "1~1000/763 DH去旅行.c"
-        "1~1000/764 ModricWang请客吃饭nthelement.cpp"
         "1~1000/765 Ugly Number.c"
         "1~1000/766 ModricWang的新显卡.c"
         "1~1000/767 Mdd的二叉树(II).c"
@@ -887,6 +885,7 @@ add_executable(BUAA_OJ_Project
         "4001~5000/4195 cbj学数学分析.c"
         "4001~5000/4196 刀客塔的烦恼.c"
         "4001~5000/4197 单节得分王.c"
+        "4001~5000/4198 基础物理实验 2.c"
         "4001~5000/4198 基础物理实验 2（简单版）（打表）.c"
         "4001~5000/4199 二进制逆序.c"
         "4001~5000/4201 北航欢迎你.c"
@@ -1167,4 +1166,13 @@ add_executable(BUAA_OJ_Project
         "set/2191 题目D似曾相识unordered_set.cpp"
         "set/2368 二叉搜索树的和值.cpp"
         "set/3014 奇怪的排序 序列操作 Splay.cpp"
-        "set/4423 李白打酒 O(nlogn) multiset.cpp")
+        "set/4423 李白打酒 O(nlogn) multiset.cpp"
+        "nth_element/50 零崎的补番计划Ⅰ STL.cpp"
+        "nth_element/98 第三小整数.cpp"
+        "nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp"
+        "nth_element/466 我有特殊的快排技巧.cpp"
+        "nth_element/468 模式寻数.cpp"
+        "nth_element/623 NAIVE排序.cpp"
+        "nth_element/669 简单·梦想始发车.cpp"
+        "nth_element/764 ModricWang请客吃饭.cpp"
+        "nth_element/1518 第k顺序统计量.cpp")

@@ -32,6 +32,7 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/bitset"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/bound-bsearch"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/FFT-complex"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/nth_element"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/set"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
@@ -64,6 +65,7 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/bitset"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/bound-bsearch"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/FFT-complex"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/nth_element"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/set"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
@@ -115,6 +117,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 高度优化的埃氏筛法.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1042 角谷定理（伪） 随机数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1057 弱化高精度减法.c">
@@ -1005,9 +1010,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/25 质数判断.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/250 简单题——I wanna be the 升级者Ⅰ nth_element.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/253 难题——再见了，大活 wqs二分.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1554,13 +1556,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/464 ModricWang的数据位校验.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/466 我有特殊的快排技巧 qsort.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/466 我有特殊的快排技巧.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/467 阴影即吾盾.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/468 模式寻数.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/47 不要不要数列求和.c">
@@ -1782,9 +1784,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/621 怠惰的王木木Ⅲ 凸包模板.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/623 NAIVE排序 nth_element.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/625 ModricWang的满天繁星.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1855,9 +1854,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/668 钢管拼接.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/669 简单·梦想始发车 nth_element.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/67 N航母问题.c">
@@ -2107,9 +2103,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/763 DH去旅行.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/764 ModricWang请客吃饭nthelement.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/765 Ugly Number.c">
@@ -2713,6 +2706,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4197 单节得分王.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4198 基础物理实验 2.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4198 基础物理实验 2（简单版）（打表）.c">
@@ -3406,6 +3402,33 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/652 ModricWang拦截导弹 最长不上升子序列.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/1518 第k顺序统计量.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/466 我有特殊的快排技巧.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/468 模式寻数.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/50 零崎的补番计划Ⅰ STL.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/623 NAIVE排序.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/669 简单·梦想始发车.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/764 ModricWang请客吃饭.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/98 第三小整数.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/1042 角谷定理（伪） bfs.cpp">

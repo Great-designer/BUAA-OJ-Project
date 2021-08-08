@@ -1,13 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<string.h>
-
-int swap(int a,int b)
-{
-	int t=a;
-	a=b;
-	b=t;
-}
 
 int a[10000000],ap[10000000];
 

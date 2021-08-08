@@ -15,7 +15,7 @@ void get_prime(unsigned int n)
 	cnt = 0;
 	a.set(0);
 	a.set(1);
-	unsigned int i = 0;
+	unsigned int i;
 	for (i = 2; i <= n; ++i)
 	{
 		if (!a.test(i))
@@ -23,7 +23,7 @@ void get_prime(unsigned int n)
 			prime[++cnt] = i;
 		}
 		pi[i] = cnt;
-		unsigned int j = 0;
+		unsigned int j;
 		for (j = 1; j <= cnt && prime[j] * i <= n; ++j)
 		{
 			a.set(i * prime[j]);

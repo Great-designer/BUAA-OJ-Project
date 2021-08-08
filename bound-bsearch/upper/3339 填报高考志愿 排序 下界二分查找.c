@@ -42,7 +42,7 @@ int cmp(const void* p1, const void* p2)
 int lower_bound(long long a[], int lo, int hi, long long val)
 {
 	if (val > a[hi]) return hi + 1;
-	int mi = 0;
+	int mi;
 	while (lo < hi)
 	{
 		mi = (lo + hi) >> 1;
@@ -55,7 +55,7 @@ int lower_bound(long long a[], int lo, int hi, long long val)
 int upper_bound(long long a[], int lo, int hi, long long val)
 {
 	if (val >= a[hi]) return hi + 1;
-	int mi = 0;
+	int mi;
 	while (lo < hi)
 	{
 		mi = (lo + hi) >> 1;

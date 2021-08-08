@@ -49,8 +49,14 @@ struct splaytree
 		while(par(x) != f)
 		{
 			if( par(par(x)) == f );
-			else if(dir(x) == dir(par(x))) rotate(par(x));
-			else rotate(x);
+			else if(dir(x) == dir(par(x)))
+			{
+			    rotate(par(x));
+			}
+			else
+			{
+			    rotate(x);
+			}
 			rotate(x);
 		}
 		if( f == 0 ) root = x;
@@ -155,7 +161,6 @@ int main()
 		X.insert(c.first);
 		swap(A[c.first], c.second);
 	}
-	int count = 0;
 	int t, mx = N;
 	for(t = 0; X.size() > 1; t++)
 	{
@@ -165,10 +170,16 @@ int main()
 		X.erase(cur);
 		while(!lst.empty())
 		{
-			int en = lst.back(), st = 0;
+			int en = lst.back(), st;
 			auto it = X.lower_bound(en);
-			if( it != X.begin()) st = *prev(it);
-			else break;
+			if( it != X.begin())
+			{
+			    st = *prev(it);
+			}
+			else
+			{
+			    break;
+			}
 			int v = lst.erase_end(st);
 			A[st].push_back(v);
 			int tmp = A[st].back();

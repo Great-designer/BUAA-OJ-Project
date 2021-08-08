@@ -1,10 +1,5 @@
 #include<stdio.h>
 
-void swapbyvalue(int a,int b)
-{
-	int c=a;
-}
-
 void swapbyquote(int *a,int *b)
 {
 	int c;
@@ -30,7 +25,6 @@ int main()
 	{
 		tmpm=m;
 		tmpn=n;
-		swapbyvalue(tmpm,tmpn);
 		printf("%d %d\n",tmpm,tmpn);
 		tmpm=m;
 		tmpn=n;
