@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-#include<stdlib.h>
 
 //s1 s2存放读入的两段程序 去掉空白字符后的总字符串
 //stemp暂存某一行

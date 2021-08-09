@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int a[100005];
 int dp[100005];

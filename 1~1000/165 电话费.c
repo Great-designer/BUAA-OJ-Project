@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 char num[10010];
 int n,s;

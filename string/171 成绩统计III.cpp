@@ -1,5 +1,3 @@
-#include<ctype.h>
-
 #include<iostream>
 #include<algorithm>
 #include<vector>

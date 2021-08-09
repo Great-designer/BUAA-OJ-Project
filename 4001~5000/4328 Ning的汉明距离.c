@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdio.h>
 
 char code[102][1005];//储存字符串
 int n, m;

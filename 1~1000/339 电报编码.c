@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-#include<stdlib.h>
 
 char input[2010];
 char occur[30];

@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
+#include<stdio.h>
 
 long long n, m;
 long long arr[1005];

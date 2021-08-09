@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 long long t1[1002][1002];
 

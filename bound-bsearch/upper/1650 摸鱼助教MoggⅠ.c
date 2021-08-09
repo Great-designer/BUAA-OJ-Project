@@ -1,9 +1,8 @@
 #include<stdio.h>
-#include<limits.h>
 
 //升序数组找下界，即找到[l,r)中第一个大于等于val的数字，有序数组中可以插入val，而不会破坏数组顺序的第一个位置，左闭右开的区间比较好理解，你也可以试试闭合区间的二分查找
 //升序数组找上界，即找到[l,r)中第一个大于val的数字，有序数组中可以插入val，而不会破坏数组顺序的最后一个位置，对比一下和lower_bound有什么不同
-int * upper_bound(int* l, int * r, int val)
+int *upper_bound(int* l, int * r, int val)
 {
 	int * m;
 	while(l<r)

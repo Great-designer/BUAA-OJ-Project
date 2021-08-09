@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int n;
 int data[50005];

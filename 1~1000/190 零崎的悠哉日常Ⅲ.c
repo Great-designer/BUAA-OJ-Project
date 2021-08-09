@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int n;
 double p,pl,pr,dp[1000005];

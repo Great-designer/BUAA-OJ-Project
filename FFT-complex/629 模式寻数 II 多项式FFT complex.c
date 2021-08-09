@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<math.h>
-#include<string.h>
 #include<complex.h>
 
 #define Pi acos(-1.0)

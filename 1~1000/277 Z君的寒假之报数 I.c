@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 char exist[1010];
 int n,k,loop,survive;

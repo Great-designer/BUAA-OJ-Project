@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<stdlib.h>
+
 long long a[550][550];
 int main()
 {    

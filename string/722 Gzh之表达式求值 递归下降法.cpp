@@ -2,7 +2,7 @@
 #include<ctype.h>
 #include<string>
 #include<string.h>
-#include<stdlib.h>
+
 /*
 Recursive Descent
 <expr> ::= ['+'|'-'] <term> {<'+'|'-'> <term>}

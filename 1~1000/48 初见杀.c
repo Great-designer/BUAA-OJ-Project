@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 char a[50]="XABCDEFGHIJKLMNOPQRSTUVWXYZ";
 

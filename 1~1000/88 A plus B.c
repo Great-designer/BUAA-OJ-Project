@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<string.h>
-#include<ctype.h>
 #include<limits.h>
 
 int a[100010],b[100010];

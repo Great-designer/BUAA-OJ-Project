@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 int n,m,u=0,b[1005];
 char s[5];

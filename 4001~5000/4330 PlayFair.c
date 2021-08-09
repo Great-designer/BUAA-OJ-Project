@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<stdlib.h>
 #include<ctype.h>
-#include<math.h>
 
 char c1, c2;
 char mima[5][5];

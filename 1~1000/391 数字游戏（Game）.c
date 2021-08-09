@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int a[110],dp[110][110],sum[110][110];
 int n;

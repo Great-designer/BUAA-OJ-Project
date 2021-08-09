@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<limits.h>
 
 int ans[30];
 

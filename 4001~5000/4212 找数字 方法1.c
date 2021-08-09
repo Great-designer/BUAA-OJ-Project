@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <ctype.h>
-#include <stdlib.h>
+#include<stdio.h>
 
 long long sum, num;
 int flag;

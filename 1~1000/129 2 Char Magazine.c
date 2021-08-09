@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-#include<math.h>
 
 char s[101][1010]; 
 

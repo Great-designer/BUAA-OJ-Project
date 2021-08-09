@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#include<math.h>
+
 //这种dp计数的题目一般都是使用dp[i][j]的形式解答
 //本题则是前i个物品取j对的最小消耗
 //如果a<b<c<d 那么(a-b)^2+(c-d)^2就是最小

@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 long long Randomized_Partition(long long A[],long long low,long long high)
 {

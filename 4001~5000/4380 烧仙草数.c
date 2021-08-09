@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdio.h>
-#include<stdlib.h>
 
 int PrimeTab[50000] = {2, 3, 5, 7};
 int PrimeIndex = 4;

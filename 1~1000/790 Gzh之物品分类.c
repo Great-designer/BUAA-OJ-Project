@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<limits.h>
-#include<string.h>
 
 int f[1105];
 

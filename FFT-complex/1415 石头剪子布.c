@@ -1,5 +1,4 @@
-#include<stdio.h>  
-#include<string.h>  
+#include<stdio.h>
 #include<math.h>   
  
 #define PI acos(-1.0)

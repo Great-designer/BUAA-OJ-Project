@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdio.h>
 
 char vis[100010];
 int pri[100010],cnt;

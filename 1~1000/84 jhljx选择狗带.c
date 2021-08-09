@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<string.h>
-#include<math.h>
 
 int prime[10000005],cnt;
 char v[10000005];

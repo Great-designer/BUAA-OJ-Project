@@ -1,7 +1,6 @@
 #include<iostream>
 #include<algorithm>
 #include<set>
-#include<vector>
 #include<iterator>
 
 using namespace std;

@@ -38,6 +38,7 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/string"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -73,6 +74,7 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/string"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -771,13 +773,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/170 黑白棋I.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/171 成绩统计IIIstring.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/172 水水的矩阵翻转.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/175 成绩统计IIstring.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/176 jhljx学字符串.c">
@@ -1188,9 +1184,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/320 microhhh的字符串综合训练2.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/321 microhhh的字符串综合训练1string.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/322 AZY的消失.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1252,9 +1245,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/34 判断三角形.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/340 AZY&apos;s Xscapesstream.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/344 拮据的模拟城市.c">
@@ -1728,9 +1718,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/602 加法运算.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/603 火柴棍摆数字string.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/606 王助教又填数独.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1902,9 +1889,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/70 microhhh的困境.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/700 ModricWang的下午茶.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/701 DH的矩阵游戏.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1960,12 +1944,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/721 DH的数字序列.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/722 Gzh之表达式求值string OPG文法.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/722 Gzh之表达式求值string 递归下降法.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/723 Mdd的回文串.c">
@@ -2025,9 +2003,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/74 临近的虚实.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/742 DH的字符串游戏string.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/743 进制转换.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2035,9 +2010,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/745 ModricWang的链表.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/746 Gzh之返老还童IIIstring.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/747 欢迎来到士谔书院~.c">
@@ -2056,9 +2028,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/751 Mdd的二叉树.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/752 Gzh的二叉搜索树遍历sstream.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/753 来一场华丽的学级裁判吧.c">
@@ -2208,9 +2177,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/835 风吹雨遍山.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/836 管理员的大忧伤string.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/837 管理员的忧伤.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2310,9 +2276,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/9 零崎的人间冒险Ⅰ.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/90 晴天小猪的绕口令to_string.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/900 又掉坑.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2370,6 +2333,12 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/925 凸峰三元组.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/926 求凸多边形面积 求任意多边形面积.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/926 求凸多边形面积.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/927 逆序乘积.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2383,6 +2352,12 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/931 水仙花数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/932 平均分.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/933 数字统计.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/934 熊猫序列.c">
@@ -3556,6 +3531,45 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/set/991 求集合交集.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/171 成绩统计III.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/175 成绩统计II.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/321 microhhh的字符串综合训练1.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/340 AZY&apos;s Xscapesstream.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/603 火柴棍摆数字.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/700 ModricWang的下午茶.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/722 Gzh之表达式求值 OPG文法.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/722 Gzh之表达式求值 递归下降法.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/742 DH的字符串游戏.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/746 Gzh之返老还童III.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/752 Gzh的二叉搜索树遍历sstream.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/836 管理员的大忧伤.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/90 晴天小猪的绕口令to_string.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/unique/14 Inverse number：Reborn离散化树状数组求逆序对.cpp">

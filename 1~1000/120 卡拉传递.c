@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int n,k;
 int f[200010];

@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<math.h>
-#include<stdlib.h>
 
 int a[1000];//存放生成的数
 int book[1000]; //表示递归生成到哪一位置的数

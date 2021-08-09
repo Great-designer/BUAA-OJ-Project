@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 long long f[1000005],p[1000005],s[1000005],d[1000005],num[1000005];
 

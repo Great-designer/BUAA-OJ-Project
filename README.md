@@ -120,8 +120,6 @@ OJ4th地址：https://accoding.cn
 
 ### 普通题目
 
-926 求凸多边形面积 932 平均分 933 数字统计
-
 939 金币 942 Ascender 943 three investigators 944 heynihao
 
 945 ACMakeMeHappier 946 deticxe 947 ResuscitatedHope

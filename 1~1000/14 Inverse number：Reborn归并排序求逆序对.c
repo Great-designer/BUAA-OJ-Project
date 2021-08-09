@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 int a[1000005],b[1000005];
 long long ans;

@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 
 long long H[2020],L[2020];
 int n,m;

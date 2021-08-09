@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 long long n, x, cnt, tmp;
 

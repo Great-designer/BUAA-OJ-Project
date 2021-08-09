@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 #include<string.h>
 
 long long maxProfit(int*prices,int pricesSize)

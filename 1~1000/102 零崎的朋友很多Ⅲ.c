@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<string.h>
-#include<stdlib.h>
 
 int m[330][330];
 int rightKey[330][330];

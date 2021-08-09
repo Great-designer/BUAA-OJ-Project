@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 long long divisor[100015], remaind[100015];
 int n;

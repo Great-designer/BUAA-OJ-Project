@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<math.h>
-#include<string.h>
 #include<ctype.h>
 
 double read_double()

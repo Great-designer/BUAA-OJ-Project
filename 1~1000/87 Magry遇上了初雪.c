@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<string.h>
-#include<ctype.h>
 
 long long gcdCN(long long a, long long b)
 {

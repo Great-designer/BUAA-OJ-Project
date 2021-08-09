@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<string.h>
-#include<stdlib.h>
 
 //本题属于二分答案当中，寻找合法的最小值
 //大于的也都合法，小于的绝对不合法

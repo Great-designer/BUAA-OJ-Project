@@ -1,8 +1,5 @@
-#include <ctype.h>
-#include <math.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include<stdio.h>
+#include<string.h>
 
 // 此函数用来去除字符串结尾的\r
 int TrimEndR(char *base)

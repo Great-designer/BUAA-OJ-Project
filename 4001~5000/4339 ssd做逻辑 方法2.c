@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 char SYM[25];
 int TOP;

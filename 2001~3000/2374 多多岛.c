@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 int g[100005][50];
 int topg[100005];

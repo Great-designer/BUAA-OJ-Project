@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 long long a[100005];
 

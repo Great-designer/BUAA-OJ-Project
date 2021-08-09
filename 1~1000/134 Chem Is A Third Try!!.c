@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int sorti[1005];
 int s[1005][1005];

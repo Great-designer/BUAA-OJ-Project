@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 unsigned int prime[10000010], cnt;
 char vis[10000010];

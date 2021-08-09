@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
 
 void CrossProduct(long long Result[], long long V1[], long long V2[])
 {

@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 #include<ctype.h>
 
 int n,m;

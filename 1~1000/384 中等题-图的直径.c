@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
 
 int map[110][110];
 int res;

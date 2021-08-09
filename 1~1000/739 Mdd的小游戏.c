@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int s1[51000],s2[51000];
 

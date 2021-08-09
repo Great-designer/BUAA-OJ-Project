@@ -1,6 +1,4 @@
 #include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
 
 int p[1010];
 int r[1010];

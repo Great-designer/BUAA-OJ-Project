@@ -1,7 +1,6 @@
 #include<stdio.h>
-#include<math.h>
-//标准的解方程二分模型
 
+//标准的解方程二分模型
 int A, B, C, D, E;
 
 double y;
