@@ -119,7 +119,7 @@ int prec(char op)//返回指定算符的优先级
 	{
 		return 1;
 	}
-	else if(op=='*'||op=='/')
+	else
 	{
 		return 2;
 	}

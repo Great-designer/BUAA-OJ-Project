@@ -3,14 +3,15 @@
 
 using namespace std;
 
+int lowbit(int c)
+{
+    return c & (-c);
+}
+
 struct BIT
 {
 	int c[500005];
 	int n;
-	int lowbit(int c)
-	{
-		return c & (-c);
-	}
 	void init(int N)
 	{
 		n = N;

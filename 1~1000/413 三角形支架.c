@@ -1,15 +1,11 @@
 #include<stdio.h>
-
-long long abs(long long a)
-{
-	return a>0?a:-a;
-}
+#include<stdlib.h>
 
 void judge(long long a,long long b,long long c)
 {
-	if(a>0&&b>0&&c>0&&c<a+b&&c>abs(a-b))
+	if(a>0&&b>0&&c>0&&c<a+b&&c>llabs(a-b))
 	{
-		long long gx3a2=abs(c*c-b*b);
+		long long gx3a2=llabs(c*c-b*b);
 		unsigned long long right=3*a*a;
 		if(gx3a2<right)
 		{

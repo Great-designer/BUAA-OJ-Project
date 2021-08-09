@@ -8,9 +8,20 @@ long long res;
 
 int compare(const void *p1,const void *p2)
 {
-	int *a=(int*)p1;
-	int *b=(int*)p2;
-	return (*a)>(*b)?1:-1;
+	int *a=(int *)p1;
+	int *b=(int *)p2;
+	if(*a>*b)
+	{
+	    return 1;
+	}
+	else if(*a<*b)
+	{
+	    return -1;
+	}
+	else
+	{
+	    return 0;
+	}
 }
 
 int main()

@@ -3,12 +3,7 @@
 int Parenthesis()
 {
 	char c=getchar();
-	if(c==')'||c==']'||c=='}'||c==EOF)
-	{
-		ungetc(c,stdin);//与getchar相反，向读入中退回一个字符
-		return 1;
-	}
-	else if(c=='(')
+	if(c=='(')
 	{
 		int temp=Parenthesis();
 		if(temp==0)//调用匹配失败
@@ -64,6 +59,11 @@ int Parenthesis()
 			return 0;
 		}
 		return 1;
+	}
+	else
+	{
+	    ungetc(c,stdin);//与getchar相反，向读入中退回一个字符
+	    return 1;
 	}
 }
 

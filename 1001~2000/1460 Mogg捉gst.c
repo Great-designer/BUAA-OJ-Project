@@ -91,7 +91,6 @@ void initSearch(void)
 			if (v != 0)
 			{
 				winner[v][v][now_player] = 2;
-				struct State temp;
 				temp.g_pos=v;
 				temp.m_pos=v;
 				temp.now_player=now_player;

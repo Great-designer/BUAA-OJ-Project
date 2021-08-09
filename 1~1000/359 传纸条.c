@@ -18,15 +18,15 @@ long long max(long long a,long long b,long long c,long long d)
 	{
 		return a;
 	}
-	if(b>=a&&b>=c&&b>=d)
+	else if(b>=a&&b>=c&&b>=d)
 	{
 		return b;
 	}
-	if(c>=a&&c>=b&&c>=d)
+	else if(c>=a&&c>=b&&c>=d)
 	{
 		return c;
 	}
-	if(d>=a&&d>=b&&d>=c)
+	else
 	{
 		return d;
 	}

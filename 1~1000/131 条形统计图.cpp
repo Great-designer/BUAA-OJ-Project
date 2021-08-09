@@ -27,7 +27,6 @@ int main()
         int cnt=0,target=a.size();
         while(cnt!=target)
 		{
-			map<int,int>::iterator it;
             for(it=a.begin();it!=a.end();++it)
 			{
                 if(it->second==1)

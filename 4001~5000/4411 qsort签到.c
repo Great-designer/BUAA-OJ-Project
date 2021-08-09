@@ -3,11 +3,22 @@
 
 double a[100005];
 
-int cmp(const void *a, const void *b)
+int cmp(const void *p1, const void *p2)
 {
-	double *e = (double *)a, *f = (double *)b;
-	return *e > *f ? 1 : -1;
-	// 返回int类型。
+	double *e = (double *)p1;
+	double *f = (double *)p2;
+	if(*e>*f)
+	{
+	    return 1;
+	}
+	else if(*e<*f)
+	{
+	    return -1;
+	}
+	else
+	{
+	    return 0;
+	}
 }
 
 int main()

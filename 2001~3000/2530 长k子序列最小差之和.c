@@ -4,9 +4,22 @@
 int n,k; 
 int a[1005],dp[1005][1005]; 
 
-int comp(const void*a,const void*b)
+int comp(const void *p1,const void *p2)
 {
-	return *(int*)a-*(int*)b;
+    int *a=(int *)p1;
+    int *b=(int *)p2;
+    if(*a>*b)
+    {
+        return 1;
+    }
+    else if(*a<*b)
+    {
+        return -1;
+    }
+    else
+    {
+        return 0;
+    }
 }
  
 int solve(int x) 

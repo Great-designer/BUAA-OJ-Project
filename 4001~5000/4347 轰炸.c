@@ -18,6 +18,7 @@ int find(int xi,int yi)
 			return i;
 		}
 	}
+	return i;
 }
 
 int main()
