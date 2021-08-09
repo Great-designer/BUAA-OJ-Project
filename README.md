@@ -120,8 +120,6 @@ OJ4th地址：https://accoding.cn
 
 ### 普通题目
 
-911 阶乘的小尾巴 912 今天是星期几呀 918 Calendar 921 QZZ的公约数
-
 926 求凸多边形面积 932 平均分 933 数字统计
 
 939 金币 942 Ascender 943 three investigators 944 heynihao

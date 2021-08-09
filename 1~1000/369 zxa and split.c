@@ -40,7 +40,7 @@ int main()
         {
             long long x, y;
             scanf("%lld%lld", &x, &y);
-            long long d = abs(w - x);
+            long long d = llabs(w - x);
             long long num = 0;
             if (T % 2 == 0)
             {

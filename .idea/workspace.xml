@@ -13,25 +13,20 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e711a9-d1b0-4081-89b9-00346341d4b4" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1042 角谷定理（伪） 随机数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1042 角谷定理（伪） 随机数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/250 简单题——I wanna be the 升级者Ⅰ nth_element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/468 模式寻数.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/623 NAIVE排序 nth_element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/669 简单·梦想始发车 nth_element.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/699 Mdd的swap函数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/699 Mdd的swap函数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/764 ModricWang请客吃饭nthelement.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/825 ModricWang的星际旅行（中难）.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/825 ModricWang的星际旅行（中难）.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/98 第三小整数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/98 第三小整数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2368 二叉搜索树的和值 手写红黑树.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/2001~3000/2368 二叉搜索树的和值 手写红黑树.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4198 基础物理实验 2.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4198 基础物理实验 2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/113 超市排队.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/266 AZY学习顺序表vector.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/290 Kevin_Feng写作文.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/314 毛毛虫.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/315 滚动的窗口.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/369 zxa and split.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/369 zxa and split.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/381 不忍挂掉一大片find.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/388 中等-王po买瓜.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/390 难题-拓扑排序assign.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/704 ModricWang的文本排版.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/897 QZZ的世界观测copy.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitset/1030 统计质数 Min25筛.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/bitset/1030 统计质数 Min25筛.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bound-bsearch/upper/3339 填报高考志愿 排序 下界二分查找.c" beforeDir="false" afterPath="$PROJECT_DIR$/bound-bsearch/upper/3339 填报高考志愿 排序 下界二分查找.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
@@ -39,13 +34,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set/2368 二叉搜索树的和值.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/set/2368 二叉搜索树的和值.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/set/3014 奇怪的排序 序列操作 Splay.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/set/3014 奇怪的排序 序列操作 Splay.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +48,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1wRuSbro4QKBrbqE2Jupfuya90V" />
   <component name="ProjectViewState">
@@ -76,12 +69,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628433725319</updated>
       <workItem from="1628433727600" duration="1784000" />
+      <workItem from="1628507993574" duration="1806000" />
     </task>
     <servers />
   </component>

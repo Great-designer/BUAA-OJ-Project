@@ -4064,30 +4064,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/112_数字填充.c.s
 .PHONY : 1~1000/112_数字填充.c.s
 
-1~1000/113_超市排队.obj: 1~1000/113_超市排队.cpp.obj
-.PHONY : 1~1000/113_超市排队.obj
-
-# target to build an object file
-1~1000/113_超市排队.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/113_超市排队.cpp.obj
-.PHONY : 1~1000/113_超市排队.cpp.obj
-
-1~1000/113_超市排队.i: 1~1000/113_超市排队.cpp.i
-.PHONY : 1~1000/113_超市排队.i
-
-# target to preprocess a source file
-1~1000/113_超市排队.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/113_超市排队.cpp.i
-.PHONY : 1~1000/113_超市排队.cpp.i
-
-1~1000/113_超市排队.s: 1~1000/113_超市排队.cpp.s
-.PHONY : 1~1000/113_超市排队.s
-
-# target to generate assembly for a file
-1~1000/113_超市排队.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/113_超市排队.cpp.s
-.PHONY : 1~1000/113_超市排队.cpp.s
-
 1~1000/114_盗墓笔记之鬼玺.obj: 1~1000/114_盗墓笔记之鬼玺.c.obj
 .PHONY : 1~1000/114_盗墓笔记之鬼玺.obj
 
@@ -7664,30 +7640,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/265_Kevin_Feng挤地铁(栈).c.s
 .PHONY : 1~1000/265_Kevin_Feng挤地铁(栈).c.s
 
-1~1000/266_AZY学习顺序表vector.obj: 1~1000/266_AZY学习顺序表vector.cpp.obj
-.PHONY : 1~1000/266_AZY学习顺序表vector.obj
-
-# target to build an object file
-1~1000/266_AZY学习顺序表vector.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/266_AZY学习顺序表vector.cpp.obj
-.PHONY : 1~1000/266_AZY学习顺序表vector.cpp.obj
-
-1~1000/266_AZY学习顺序表vector.i: 1~1000/266_AZY学习顺序表vector.cpp.i
-.PHONY : 1~1000/266_AZY学习顺序表vector.i
-
-# target to preprocess a source file
-1~1000/266_AZY学习顺序表vector.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/266_AZY学习顺序表vector.cpp.i
-.PHONY : 1~1000/266_AZY学习顺序表vector.cpp.i
-
-1~1000/266_AZY学习顺序表vector.s: 1~1000/266_AZY学习顺序表vector.cpp.s
-.PHONY : 1~1000/266_AZY学习顺序表vector.s
-
-# target to generate assembly for a file
-1~1000/266_AZY学习顺序表vector.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/266_AZY学习顺序表vector.cpp.s
-.PHONY : 1~1000/266_AZY学习顺序表vector.cpp.s
-
 1~1000/267_大魔术师.obj: 1~1000/267_大魔术师.c.obj
 .PHONY : 1~1000/267_大魔术师.obj
 
@@ -8167,30 +8119,6 @@ BUAA_OJ_Project/fast:
 1~1000/28_pluperfect_digital_invariant.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/28_pluperfect_digital_invariant.c.s
 .PHONY : 1~1000/28_pluperfect_digital_invariant.c.s
-
-1~1000/290_Kevin_Feng写作文.obj: 1~1000/290_Kevin_Feng写作文.cpp.obj
-.PHONY : 1~1000/290_Kevin_Feng写作文.obj
-
-# target to build an object file
-1~1000/290_Kevin_Feng写作文.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/290_Kevin_Feng写作文.cpp.obj
-.PHONY : 1~1000/290_Kevin_Feng写作文.cpp.obj
-
-1~1000/290_Kevin_Feng写作文.i: 1~1000/290_Kevin_Feng写作文.cpp.i
-.PHONY : 1~1000/290_Kevin_Feng写作文.i
-
-# target to preprocess a source file
-1~1000/290_Kevin_Feng写作文.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/290_Kevin_Feng写作文.cpp.i
-.PHONY : 1~1000/290_Kevin_Feng写作文.cpp.i
-
-1~1000/290_Kevin_Feng写作文.s: 1~1000/290_Kevin_Feng写作文.cpp.s
-.PHONY : 1~1000/290_Kevin_Feng写作文.s
-
-# target to generate assembly for a file
-1~1000/290_Kevin_Feng写作文.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/290_Kevin_Feng写作文.cpp.s
-.PHONY : 1~1000/290_Kevin_Feng写作文.cpp.s
 
 1~1000/291_鸡蛋的小小愿望.obj: 1~1000/291_鸡蛋的小小愿望.c.obj
 .PHONY : 1~1000/291_鸡蛋的小小愿望.obj
@@ -8695,54 +8623,6 @@ BUAA_OJ_Project/fast:
 1~1000/313_礼物.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/313_礼物.c.s
 .PHONY : 1~1000/313_礼物.c.s
-
-1~1000/314_毛毛虫.obj: 1~1000/314_毛毛虫.cpp.obj
-.PHONY : 1~1000/314_毛毛虫.obj
-
-# target to build an object file
-1~1000/314_毛毛虫.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/314_毛毛虫.cpp.obj
-.PHONY : 1~1000/314_毛毛虫.cpp.obj
-
-1~1000/314_毛毛虫.i: 1~1000/314_毛毛虫.cpp.i
-.PHONY : 1~1000/314_毛毛虫.i
-
-# target to preprocess a source file
-1~1000/314_毛毛虫.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/314_毛毛虫.cpp.i
-.PHONY : 1~1000/314_毛毛虫.cpp.i
-
-1~1000/314_毛毛虫.s: 1~1000/314_毛毛虫.cpp.s
-.PHONY : 1~1000/314_毛毛虫.s
-
-# target to generate assembly for a file
-1~1000/314_毛毛虫.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/314_毛毛虫.cpp.s
-.PHONY : 1~1000/314_毛毛虫.cpp.s
-
-1~1000/315_滚动的窗口.obj: 1~1000/315_滚动的窗口.cpp.obj
-.PHONY : 1~1000/315_滚动的窗口.obj
-
-# target to build an object file
-1~1000/315_滚动的窗口.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/315_滚动的窗口.cpp.obj
-.PHONY : 1~1000/315_滚动的窗口.cpp.obj
-
-1~1000/315_滚动的窗口.i: 1~1000/315_滚动的窗口.cpp.i
-.PHONY : 1~1000/315_滚动的窗口.i
-
-# target to preprocess a source file
-1~1000/315_滚动的窗口.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/315_滚动的窗口.cpp.i
-.PHONY : 1~1000/315_滚动的窗口.cpp.i
-
-1~1000/315_滚动的窗口.s: 1~1000/315_滚动的窗口.cpp.s
-.PHONY : 1~1000/315_滚动的窗口.s
-
-# target to generate assembly for a file
-1~1000/315_滚动的窗口.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/315_滚动的窗口.cpp.s
-.PHONY : 1~1000/315_滚动的窗口.cpp.s
 
 1~1000/316_Team_Queue_of_microhhh.obj: 1~1000/316_Team_Queue_of_microhhh.c.obj
 .PHONY : 1~1000/316_Team_Queue_of_microhhh.obj
@@ -10256,30 +10136,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/380_月落乌啼霜满天.c.s
 .PHONY : 1~1000/380_月落乌啼霜满天.c.s
 
-1~1000/381_不忍挂掉一大片find.obj: 1~1000/381_不忍挂掉一大片find.cpp.obj
-.PHONY : 1~1000/381_不忍挂掉一大片find.obj
-
-# target to build an object file
-1~1000/381_不忍挂掉一大片find.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/381_不忍挂掉一大片find.cpp.obj
-.PHONY : 1~1000/381_不忍挂掉一大片find.cpp.obj
-
-1~1000/381_不忍挂掉一大片find.i: 1~1000/381_不忍挂掉一大片find.cpp.i
-.PHONY : 1~1000/381_不忍挂掉一大片find.i
-
-# target to preprocess a source file
-1~1000/381_不忍挂掉一大片find.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/381_不忍挂掉一大片find.cpp.i
-.PHONY : 1~1000/381_不忍挂掉一大片find.cpp.i
-
-1~1000/381_不忍挂掉一大片find.s: 1~1000/381_不忍挂掉一大片find.cpp.s
-.PHONY : 1~1000/381_不忍挂掉一大片find.s
-
-# target to generate assembly for a file
-1~1000/381_不忍挂掉一大片find.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/381_不忍挂掉一大片find.cpp.s
-.PHONY : 1~1000/381_不忍挂掉一大片find.cpp.s
-
 1~1000/382_中世界的Thor.obj: 1~1000/382_中世界的Thor.c.obj
 .PHONY : 1~1000/382_中世界的Thor.obj
 
@@ -10472,30 +10328,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/387_中等-Monotonic_Stack.c.s
 .PHONY : 1~1000/387_中等-Monotonic_Stack.c.s
 
-1~1000/388_中等-王po买瓜.obj: 1~1000/388_中等-王po买瓜.cpp.obj
-.PHONY : 1~1000/388_中等-王po买瓜.obj
-
-# target to build an object file
-1~1000/388_中等-王po买瓜.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/388_中等-王po买瓜.cpp.obj
-.PHONY : 1~1000/388_中等-王po买瓜.cpp.obj
-
-1~1000/388_中等-王po买瓜.i: 1~1000/388_中等-王po买瓜.cpp.i
-.PHONY : 1~1000/388_中等-王po买瓜.i
-
-# target to preprocess a source file
-1~1000/388_中等-王po买瓜.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/388_中等-王po买瓜.cpp.i
-.PHONY : 1~1000/388_中等-王po买瓜.cpp.i
-
-1~1000/388_中等-王po买瓜.s: 1~1000/388_中等-王po买瓜.cpp.s
-.PHONY : 1~1000/388_中等-王po买瓜.s
-
-# target to generate assembly for a file
-1~1000/388_中等-王po买瓜.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/388_中等-王po买瓜.cpp.s
-.PHONY : 1~1000/388_中等-王po买瓜.cpp.s
-
 1~1000/389_难题-AZY做志愿者.obj: 1~1000/389_难题-AZY做志愿者.c.obj
 .PHONY : 1~1000/389_难题-AZY做志愿者.obj
 
@@ -10519,30 +10351,6 @@ BUAA_OJ_Project/fast:
 1~1000/389_难题-AZY做志愿者.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/389_难题-AZY做志愿者.c.s
 .PHONY : 1~1000/389_难题-AZY做志愿者.c.s
-
-1~1000/390_难题-拓扑排序assign.obj: 1~1000/390_难题-拓扑排序assign.cpp.obj
-.PHONY : 1~1000/390_难题-拓扑排序assign.obj
-
-# target to build an object file
-1~1000/390_难题-拓扑排序assign.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/390_难题-拓扑排序assign.cpp.obj
-.PHONY : 1~1000/390_难题-拓扑排序assign.cpp.obj
-
-1~1000/390_难题-拓扑排序assign.i: 1~1000/390_难题-拓扑排序assign.cpp.i
-.PHONY : 1~1000/390_难题-拓扑排序assign.i
-
-# target to preprocess a source file
-1~1000/390_难题-拓扑排序assign.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/390_难题-拓扑排序assign.cpp.i
-.PHONY : 1~1000/390_难题-拓扑排序assign.cpp.i
-
-1~1000/390_难题-拓扑排序assign.s: 1~1000/390_难题-拓扑排序assign.cpp.s
-.PHONY : 1~1000/390_难题-拓扑排序assign.s
-
-# target to generate assembly for a file
-1~1000/390_难题-拓扑排序assign.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/390_难题-拓扑排序assign.cpp.s
-.PHONY : 1~1000/390_难题-拓扑排序assign.cpp.s
 
 1~1000/391_数字游戏（Game）.obj: 1~1000/391_数字游戏（Game）.c.obj
 .PHONY : 1~1000/391_数字游戏（Game）.obj
@@ -14696,30 +14504,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.s
 .PHONY : 1~1000/703_Mdd的链表.c.s
 
-1~1000/704_ModricWang的文本排版.obj: 1~1000/704_ModricWang的文本排版.cpp.obj
-.PHONY : 1~1000/704_ModricWang的文本排版.obj
-
-# target to build an object file
-1~1000/704_ModricWang的文本排版.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/704_ModricWang的文本排版.cpp.obj
-.PHONY : 1~1000/704_ModricWang的文本排版.cpp.obj
-
-1~1000/704_ModricWang的文本排版.i: 1~1000/704_ModricWang的文本排版.cpp.i
-.PHONY : 1~1000/704_ModricWang的文本排版.i
-
-# target to preprocess a source file
-1~1000/704_ModricWang的文本排版.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/704_ModricWang的文本排版.cpp.i
-.PHONY : 1~1000/704_ModricWang的文本排版.cpp.i
-
-1~1000/704_ModricWang的文本排版.s: 1~1000/704_ModricWang的文本排版.cpp.s
-.PHONY : 1~1000/704_ModricWang的文本排版.s
-
-# target to generate assembly for a file
-1~1000/704_ModricWang的文本排版.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/704_ModricWang的文本排版.cpp.s
-.PHONY : 1~1000/704_ModricWang的文本排版.cpp.s
-
 1~1000/705_Gzh最后一次上自习.obj: 1~1000/705_Gzh最后一次上自习.c.obj
 .PHONY : 1~1000/705_Gzh最后一次上自习.obj
 
@@ -17888,30 +17672,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/896_成双成对的尾巴.c.s
 .PHONY : 1~1000/896_成双成对的尾巴.c.s
 
-1~1000/897_QZZ的世界观测copy.obj: 1~1000/897_QZZ的世界观测copy.cpp.obj
-.PHONY : 1~1000/897_QZZ的世界观测copy.obj
-
-# target to build an object file
-1~1000/897_QZZ的世界观测copy.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/897_QZZ的世界观测copy.cpp.obj
-.PHONY : 1~1000/897_QZZ的世界观测copy.cpp.obj
-
-1~1000/897_QZZ的世界观测copy.i: 1~1000/897_QZZ的世界观测copy.cpp.i
-.PHONY : 1~1000/897_QZZ的世界观测copy.i
-
-# target to preprocess a source file
-1~1000/897_QZZ的世界观测copy.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/897_QZZ的世界观测copy.cpp.i
-.PHONY : 1~1000/897_QZZ的世界观测copy.cpp.i
-
-1~1000/897_QZZ的世界观测copy.s: 1~1000/897_QZZ的世界观测copy.cpp.s
-.PHONY : 1~1000/897_QZZ的世界观测copy.s
-
-# target to generate assembly for a file
-1~1000/897_QZZ的世界观测copy.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/897_QZZ的世界观测copy.cpp.s
-.PHONY : 1~1000/897_QZZ的世界观测copy.cpp.s
-
 1~1000/899_掉坑.obj: 1~1000/899_掉坑.c.obj
 .PHONY : 1~1000/899_掉坑.obj
 
@@ -18128,6 +17888,54 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/910_逆序对统计（naive版）.c.s
 .PHONY : 1~1000/910_逆序对统计（naive版）.c.s
 
+1~1000/911_阶乘的小尾巴.obj: 1~1000/911_阶乘的小尾巴.c.obj
+.PHONY : 1~1000/911_阶乘的小尾巴.obj
+
+# target to build an object file
+1~1000/911_阶乘的小尾巴.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/911_阶乘的小尾巴.c.obj
+.PHONY : 1~1000/911_阶乘的小尾巴.c.obj
+
+1~1000/911_阶乘的小尾巴.i: 1~1000/911_阶乘的小尾巴.c.i
+.PHONY : 1~1000/911_阶乘的小尾巴.i
+
+# target to preprocess a source file
+1~1000/911_阶乘的小尾巴.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/911_阶乘的小尾巴.c.i
+.PHONY : 1~1000/911_阶乘的小尾巴.c.i
+
+1~1000/911_阶乘的小尾巴.s: 1~1000/911_阶乘的小尾巴.c.s
+.PHONY : 1~1000/911_阶乘的小尾巴.s
+
+# target to generate assembly for a file
+1~1000/911_阶乘的小尾巴.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/911_阶乘的小尾巴.c.s
+.PHONY : 1~1000/911_阶乘的小尾巴.c.s
+
+1~1000/912_今天是星期几呀.obj: 1~1000/912_今天是星期几呀.c.obj
+.PHONY : 1~1000/912_今天是星期几呀.obj
+
+# target to build an object file
+1~1000/912_今天是星期几呀.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/912_今天是星期几呀.c.obj
+.PHONY : 1~1000/912_今天是星期几呀.c.obj
+
+1~1000/912_今天是星期几呀.i: 1~1000/912_今天是星期几呀.c.i
+.PHONY : 1~1000/912_今天是星期几呀.i
+
+# target to preprocess a source file
+1~1000/912_今天是星期几呀.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/912_今天是星期几呀.c.i
+.PHONY : 1~1000/912_今天是星期几呀.c.i
+
+1~1000/912_今天是星期几呀.s: 1~1000/912_今天是星期几呀.c.s
+.PHONY : 1~1000/912_今天是星期几呀.s
+
+# target to generate assembly for a file
+1~1000/912_今天是星期几呀.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/912_今天是星期几呀.c.s
+.PHONY : 1~1000/912_今天是星期几呀.c.s
+
 1~1000/913_数位各位之和.obj: 1~1000/913_数位各位之和.c.obj
 .PHONY : 1~1000/913_数位各位之和.obj
 
@@ -18175,6 +17983,30 @@ BUAA_OJ_Project/fast:
 1~1000/917_完数.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/917_完数.c.s
 .PHONY : 1~1000/917_完数.c.s
+
+1~1000/918_Calendar.obj: 1~1000/918_Calendar.c.obj
+.PHONY : 1~1000/918_Calendar.obj
+
+# target to build an object file
+1~1000/918_Calendar.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/918_Calendar.c.obj
+.PHONY : 1~1000/918_Calendar.c.obj
+
+1~1000/918_Calendar.i: 1~1000/918_Calendar.c.i
+.PHONY : 1~1000/918_Calendar.i
+
+# target to preprocess a source file
+1~1000/918_Calendar.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/918_Calendar.c.i
+.PHONY : 1~1000/918_Calendar.c.i
+
+1~1000/918_Calendar.s: 1~1000/918_Calendar.c.s
+.PHONY : 1~1000/918_Calendar.s
+
+# target to generate assembly for a file
+1~1000/918_Calendar.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/918_Calendar.c.s
+.PHONY : 1~1000/918_Calendar.c.s
 
 1~1000/919_TQ有点二_另一种分组.obj: 1~1000/919_TQ有点二_另一种分组.c.obj
 .PHONY : 1~1000/919_TQ有点二_另一种分组.obj
@@ -18271,6 +18103,30 @@ BUAA_OJ_Project/fast:
 1~1000/91_n的最小cp.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/91_n的最小cp.c.s
 .PHONY : 1~1000/91_n的最小cp.c.s
+
+1~1000/921_QZZ的公约数.obj: 1~1000/921_QZZ的公约数.c.obj
+.PHONY : 1~1000/921_QZZ的公约数.obj
+
+# target to build an object file
+1~1000/921_QZZ的公约数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/921_QZZ的公约数.c.obj
+.PHONY : 1~1000/921_QZZ的公约数.c.obj
+
+1~1000/921_QZZ的公约数.i: 1~1000/921_QZZ的公约数.c.i
+.PHONY : 1~1000/921_QZZ的公约数.i
+
+# target to preprocess a source file
+1~1000/921_QZZ的公约数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/921_QZZ的公约数.c.i
+.PHONY : 1~1000/921_QZZ的公约数.c.i
+
+1~1000/921_QZZ的公约数.s: 1~1000/921_QZZ的公约数.c.s
+.PHONY : 1~1000/921_QZZ的公约数.s
+
+# target to generate assembly for a file
+1~1000/921_QZZ的公约数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/921_QZZ的公约数.c.s
+.PHONY : 1~1000/921_QZZ的公约数.c.s
 
 1~1000/922_分解重复素因数.obj: 1~1000/922_分解重复素因数.c.obj
 .PHONY : 1~1000/922_分解重复素因数.obj
@@ -26528,6 +26384,78 @@ bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s
 .PHONY : bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.c.s
 
+deque/314_毛毛虫.obj: deque/314_毛毛虫.cpp.obj
+.PHONY : deque/314_毛毛虫.obj
+
+# target to build an object file
+deque/314_毛毛虫.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/314_毛毛虫.cpp.obj
+.PHONY : deque/314_毛毛虫.cpp.obj
+
+deque/314_毛毛虫.i: deque/314_毛毛虫.cpp.i
+.PHONY : deque/314_毛毛虫.i
+
+# target to preprocess a source file
+deque/314_毛毛虫.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/314_毛毛虫.cpp.i
+.PHONY : deque/314_毛毛虫.cpp.i
+
+deque/314_毛毛虫.s: deque/314_毛毛虫.cpp.s
+.PHONY : deque/314_毛毛虫.s
+
+# target to generate assembly for a file
+deque/314_毛毛虫.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/314_毛毛虫.cpp.s
+.PHONY : deque/314_毛毛虫.cpp.s
+
+deque/315_滚动的窗口.obj: deque/315_滚动的窗口.cpp.obj
+.PHONY : deque/315_滚动的窗口.obj
+
+# target to build an object file
+deque/315_滚动的窗口.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/315_滚动的窗口.cpp.obj
+.PHONY : deque/315_滚动的窗口.cpp.obj
+
+deque/315_滚动的窗口.i: deque/315_滚动的窗口.cpp.i
+.PHONY : deque/315_滚动的窗口.i
+
+# target to preprocess a source file
+deque/315_滚动的窗口.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/315_滚动的窗口.cpp.i
+.PHONY : deque/315_滚动的窗口.cpp.i
+
+deque/315_滚动的窗口.s: deque/315_滚动的窗口.cpp.s
+.PHONY : deque/315_滚动的窗口.s
+
+# target to generate assembly for a file
+deque/315_滚动的窗口.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/315_滚动的窗口.cpp.s
+.PHONY : deque/315_滚动的窗口.cpp.s
+
+deque/388_中等-王po买瓜.obj: deque/388_中等-王po买瓜.cpp.obj
+.PHONY : deque/388_中等-王po买瓜.obj
+
+# target to build an object file
+deque/388_中等-王po买瓜.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/388_中等-王po买瓜.cpp.obj
+.PHONY : deque/388_中等-王po买瓜.cpp.obj
+
+deque/388_中等-王po买瓜.i: deque/388_中等-王po买瓜.cpp.i
+.PHONY : deque/388_中等-王po买瓜.i
+
+# target to preprocess a source file
+deque/388_中等-王po买瓜.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/388_中等-王po买瓜.cpp.i
+.PHONY : deque/388_中等-王po买瓜.cpp.i
+
+deque/388_中等-王po买瓜.s: deque/388_中等-王po买瓜.cpp.s
+.PHONY : deque/388_中等-王po买瓜.s
+
+# target to generate assembly for a file
+deque/388_中等-王po买瓜.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/388_中等-王po买瓜.cpp.s
+.PHONY : deque/388_中等-王po买瓜.cpp.s
+
 nth_element/1518_第k顺序统计量.obj: nth_element/1518_第k顺序统计量.cpp.obj
 .PHONY : nth_element/1518_第k顺序统计量.obj
 
@@ -27944,6 +27872,174 @@ unique/445_模式寻对_莫队.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/unique/445_模式寻对_莫队.cpp.s
 .PHONY : unique/445_模式寻对_莫队.cpp.s
 
+vector/113_超市排队insert.obj: vector/113_超市排队insert.cpp.obj
+.PHONY : vector/113_超市排队insert.obj
+
+# target to build an object file
+vector/113_超市排队insert.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/113_超市排队insert.cpp.obj
+.PHONY : vector/113_超市排队insert.cpp.obj
+
+vector/113_超市排队insert.i: vector/113_超市排队insert.cpp.i
+.PHONY : vector/113_超市排队insert.i
+
+# target to preprocess a source file
+vector/113_超市排队insert.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/113_超市排队insert.cpp.i
+.PHONY : vector/113_超市排队insert.cpp.i
+
+vector/113_超市排队insert.s: vector/113_超市排队insert.cpp.s
+.PHONY : vector/113_超市排队insert.s
+
+# target to generate assembly for a file
+vector/113_超市排队insert.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/113_超市排队insert.cpp.s
+.PHONY : vector/113_超市排队insert.cpp.s
+
+vector/266_AZY学习顺序表insert.obj: vector/266_AZY学习顺序表insert.cpp.obj
+.PHONY : vector/266_AZY学习顺序表insert.obj
+
+# target to build an object file
+vector/266_AZY学习顺序表insert.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/266_AZY学习顺序表insert.cpp.obj
+.PHONY : vector/266_AZY学习顺序表insert.cpp.obj
+
+vector/266_AZY学习顺序表insert.i: vector/266_AZY学习顺序表insert.cpp.i
+.PHONY : vector/266_AZY学习顺序表insert.i
+
+# target to preprocess a source file
+vector/266_AZY学习顺序表insert.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/266_AZY学习顺序表insert.cpp.i
+.PHONY : vector/266_AZY学习顺序表insert.cpp.i
+
+vector/266_AZY学习顺序表insert.s: vector/266_AZY学习顺序表insert.cpp.s
+.PHONY : vector/266_AZY学习顺序表insert.s
+
+# target to generate assembly for a file
+vector/266_AZY学习顺序表insert.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/266_AZY学习顺序表insert.cpp.s
+.PHONY : vector/266_AZY学习顺序表insert.cpp.s
+
+vector/290_Kevin_Feng写作文insert.obj: vector/290_Kevin_Feng写作文insert.cpp.obj
+.PHONY : vector/290_Kevin_Feng写作文insert.obj
+
+# target to build an object file
+vector/290_Kevin_Feng写作文insert.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/290_Kevin_Feng写作文insert.cpp.obj
+.PHONY : vector/290_Kevin_Feng写作文insert.cpp.obj
+
+vector/290_Kevin_Feng写作文insert.i: vector/290_Kevin_Feng写作文insert.cpp.i
+.PHONY : vector/290_Kevin_Feng写作文insert.i
+
+# target to preprocess a source file
+vector/290_Kevin_Feng写作文insert.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/290_Kevin_Feng写作文insert.cpp.i
+.PHONY : vector/290_Kevin_Feng写作文insert.cpp.i
+
+vector/290_Kevin_Feng写作文insert.s: vector/290_Kevin_Feng写作文insert.cpp.s
+.PHONY : vector/290_Kevin_Feng写作文insert.s
+
+# target to generate assembly for a file
+vector/290_Kevin_Feng写作文insert.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/290_Kevin_Feng写作文insert.cpp.s
+.PHONY : vector/290_Kevin_Feng写作文insert.cpp.s
+
+vector/381_不忍挂掉一大片find.obj: vector/381_不忍挂掉一大片find.cpp.obj
+.PHONY : vector/381_不忍挂掉一大片find.obj
+
+# target to build an object file
+vector/381_不忍挂掉一大片find.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/381_不忍挂掉一大片find.cpp.obj
+.PHONY : vector/381_不忍挂掉一大片find.cpp.obj
+
+vector/381_不忍挂掉一大片find.i: vector/381_不忍挂掉一大片find.cpp.i
+.PHONY : vector/381_不忍挂掉一大片find.i
+
+# target to preprocess a source file
+vector/381_不忍挂掉一大片find.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/381_不忍挂掉一大片find.cpp.i
+.PHONY : vector/381_不忍挂掉一大片find.cpp.i
+
+vector/381_不忍挂掉一大片find.s: vector/381_不忍挂掉一大片find.cpp.s
+.PHONY : vector/381_不忍挂掉一大片find.s
+
+# target to generate assembly for a file
+vector/381_不忍挂掉一大片find.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/381_不忍挂掉一大片find.cpp.s
+.PHONY : vector/381_不忍挂掉一大片find.cpp.s
+
+vector/390_难题-拓扑排序assign.obj: vector/390_难题-拓扑排序assign.cpp.obj
+.PHONY : vector/390_难题-拓扑排序assign.obj
+
+# target to build an object file
+vector/390_难题-拓扑排序assign.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/390_难题-拓扑排序assign.cpp.obj
+.PHONY : vector/390_难题-拓扑排序assign.cpp.obj
+
+vector/390_难题-拓扑排序assign.i: vector/390_难题-拓扑排序assign.cpp.i
+.PHONY : vector/390_难题-拓扑排序assign.i
+
+# target to preprocess a source file
+vector/390_难题-拓扑排序assign.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/390_难题-拓扑排序assign.cpp.i
+.PHONY : vector/390_难题-拓扑排序assign.cpp.i
+
+vector/390_难题-拓扑排序assign.s: vector/390_难题-拓扑排序assign.cpp.s
+.PHONY : vector/390_难题-拓扑排序assign.s
+
+# target to generate assembly for a file
+vector/390_难题-拓扑排序assign.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/390_难题-拓扑排序assign.cpp.s
+.PHONY : vector/390_难题-拓扑排序assign.cpp.s
+
+vector/704_ModricWang的文本排版insert.obj: vector/704_ModricWang的文本排版insert.cpp.obj
+.PHONY : vector/704_ModricWang的文本排版insert.obj
+
+# target to build an object file
+vector/704_ModricWang的文本排版insert.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/704_ModricWang的文本排版insert.cpp.obj
+.PHONY : vector/704_ModricWang的文本排版insert.cpp.obj
+
+vector/704_ModricWang的文本排版insert.i: vector/704_ModricWang的文本排版insert.cpp.i
+.PHONY : vector/704_ModricWang的文本排版insert.i
+
+# target to preprocess a source file
+vector/704_ModricWang的文本排版insert.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/704_ModricWang的文本排版insert.cpp.i
+.PHONY : vector/704_ModricWang的文本排版insert.cpp.i
+
+vector/704_ModricWang的文本排版insert.s: vector/704_ModricWang的文本排版insert.cpp.s
+.PHONY : vector/704_ModricWang的文本排版insert.s
+
+# target to generate assembly for a file
+vector/704_ModricWang的文本排版insert.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/704_ModricWang的文本排版insert.cpp.s
+.PHONY : vector/704_ModricWang的文本排版insert.cpp.s
+
+vector/897_QZZ的世界观测copy.obj: vector/897_QZZ的世界观测copy.cpp.obj
+.PHONY : vector/897_QZZ的世界观测copy.obj
+
+# target to build an object file
+vector/897_QZZ的世界观测copy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/897_QZZ的世界观测copy.cpp.obj
+.PHONY : vector/897_QZZ的世界观测copy.cpp.obj
+
+vector/897_QZZ的世界观测copy.i: vector/897_QZZ的世界观测copy.cpp.i
+.PHONY : vector/897_QZZ的世界观测copy.i
+
+# target to preprocess a source file
+vector/897_QZZ的世界观测copy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/897_QZZ的世界观测copy.cpp.i
+.PHONY : vector/897_QZZ的世界观测copy.cpp.i
+
+vector/897_QZZ的世界观测copy.s: vector/897_QZZ的世界观测copy.cpp.s
+.PHONY : vector/897_QZZ的世界观测copy.s
+
+# target to generate assembly for a file
+vector/897_QZZ的世界观测copy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/897_QZZ的世界观测copy.cpp.s
+.PHONY : vector/897_QZZ的世界观测copy.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -28445,9 +28541,6 @@ help:
 	@echo ... 1~1000/112_数字填充.obj
 	@echo ... 1~1000/112_数字填充.i
 	@echo ... 1~1000/112_数字填充.s
-	@echo ... 1~1000/113_超市排队.obj
-	@echo ... 1~1000/113_超市排队.i
-	@echo ... 1~1000/113_超市排队.s
 	@echo ... 1~1000/114_盗墓笔记之鬼玺.obj
 	@echo ... 1~1000/114_盗墓笔记之鬼玺.i
 	@echo ... 1~1000/114_盗墓笔记之鬼玺.s
@@ -28895,9 +28988,6 @@ help:
 	@echo ... 1~1000/265_Kevin_Feng挤地铁(栈).obj
 	@echo ... 1~1000/265_Kevin_Feng挤地铁(栈).i
 	@echo ... 1~1000/265_Kevin_Feng挤地铁(栈).s
-	@echo ... 1~1000/266_AZY学习顺序表vector.obj
-	@echo ... 1~1000/266_AZY学习顺序表vector.i
-	@echo ... 1~1000/266_AZY学习顺序表vector.s
 	@echo ... 1~1000/267_大魔术师.obj
 	@echo ... 1~1000/267_大魔术师.i
 	@echo ... 1~1000/267_大魔术师.s
@@ -28958,9 +29048,6 @@ help:
 	@echo ... 1~1000/28_pluperfect_digital_invariant.obj
 	@echo ... 1~1000/28_pluperfect_digital_invariant.i
 	@echo ... 1~1000/28_pluperfect_digital_invariant.s
-	@echo ... 1~1000/290_Kevin_Feng写作文.obj
-	@echo ... 1~1000/290_Kevin_Feng写作文.i
-	@echo ... 1~1000/290_Kevin_Feng写作文.s
 	@echo ... 1~1000/291_鸡蛋的小小愿望.obj
 	@echo ... 1~1000/291_鸡蛋的小小愿望.i
 	@echo ... 1~1000/291_鸡蛋的小小愿望.s
@@ -29024,12 +29111,6 @@ help:
 	@echo ... 1~1000/313_礼物.obj
 	@echo ... 1~1000/313_礼物.i
 	@echo ... 1~1000/313_礼物.s
-	@echo ... 1~1000/314_毛毛虫.obj
-	@echo ... 1~1000/314_毛毛虫.i
-	@echo ... 1~1000/314_毛毛虫.s
-	@echo ... 1~1000/315_滚动的窗口.obj
-	@echo ... 1~1000/315_滚动的窗口.i
-	@echo ... 1~1000/315_滚动的窗口.s
 	@echo ... 1~1000/316_Team_Queue_of_microhhh.obj
 	@echo ... 1~1000/316_Team_Queue_of_microhhh.i
 	@echo ... 1~1000/316_Team_Queue_of_microhhh.s
@@ -29219,9 +29300,6 @@ help:
 	@echo ... 1~1000/380_月落乌啼霜满天.obj
 	@echo ... 1~1000/380_月落乌啼霜满天.i
 	@echo ... 1~1000/380_月落乌啼霜满天.s
-	@echo ... 1~1000/381_不忍挂掉一大片find.obj
-	@echo ... 1~1000/381_不忍挂掉一大片find.i
-	@echo ... 1~1000/381_不忍挂掉一大片find.s
 	@echo ... 1~1000/382_中世界的Thor.obj
 	@echo ... 1~1000/382_中世界的Thor.i
 	@echo ... 1~1000/382_中世界的Thor.s
@@ -29246,15 +29324,9 @@ help:
 	@echo ... 1~1000/387_中等-Monotonic_Stack.obj
 	@echo ... 1~1000/387_中等-Monotonic_Stack.i
 	@echo ... 1~1000/387_中等-Monotonic_Stack.s
-	@echo ... 1~1000/388_中等-王po买瓜.obj
-	@echo ... 1~1000/388_中等-王po买瓜.i
-	@echo ... 1~1000/388_中等-王po买瓜.s
 	@echo ... 1~1000/389_难题-AZY做志愿者.obj
 	@echo ... 1~1000/389_难题-AZY做志愿者.i
 	@echo ... 1~1000/389_难题-AZY做志愿者.s
-	@echo ... 1~1000/390_难题-拓扑排序assign.obj
-	@echo ... 1~1000/390_难题-拓扑排序assign.i
-	@echo ... 1~1000/390_难题-拓扑排序assign.s
 	@echo ... 1~1000/391_数字游戏（Game）.obj
 	@echo ... 1~1000/391_数字游戏（Game）.i
 	@echo ... 1~1000/391_数字游戏（Game）.s
@@ -29774,9 +29846,6 @@ help:
 	@echo ... 1~1000/703_Mdd的链表.obj
 	@echo ... 1~1000/703_Mdd的链表.i
 	@echo ... 1~1000/703_Mdd的链表.s
-	@echo ... 1~1000/704_ModricWang的文本排版.obj
-	@echo ... 1~1000/704_ModricWang的文本排版.i
-	@echo ... 1~1000/704_ModricWang的文本排版.s
 	@echo ... 1~1000/705_Gzh最后一次上自习.obj
 	@echo ... 1~1000/705_Gzh最后一次上自习.i
 	@echo ... 1~1000/705_Gzh最后一次上自习.s
@@ -30173,9 +30242,6 @@ help:
 	@echo ... 1~1000/896_成双成对的尾巴.obj
 	@echo ... 1~1000/896_成双成对的尾巴.i
 	@echo ... 1~1000/896_成双成对的尾巴.s
-	@echo ... 1~1000/897_QZZ的世界观测copy.obj
-	@echo ... 1~1000/897_QZZ的世界观测copy.i
-	@echo ... 1~1000/897_QZZ的世界观测copy.s
 	@echo ... 1~1000/899_掉坑.obj
 	@echo ... 1~1000/899_掉坑.i
 	@echo ... 1~1000/899_掉坑.s
@@ -30203,12 +30269,21 @@ help:
 	@echo ... 1~1000/910_逆序对统计（naive版）.obj
 	@echo ... 1~1000/910_逆序对统计（naive版）.i
 	@echo ... 1~1000/910_逆序对统计（naive版）.s
+	@echo ... 1~1000/911_阶乘的小尾巴.obj
+	@echo ... 1~1000/911_阶乘的小尾巴.i
+	@echo ... 1~1000/911_阶乘的小尾巴.s
+	@echo ... 1~1000/912_今天是星期几呀.obj
+	@echo ... 1~1000/912_今天是星期几呀.i
+	@echo ... 1~1000/912_今天是星期几呀.s
 	@echo ... 1~1000/913_数位各位之和.obj
 	@echo ... 1~1000/913_数位各位之和.i
 	@echo ... 1~1000/913_数位各位之和.s
 	@echo ... 1~1000/917_完数.obj
 	@echo ... 1~1000/917_完数.i
 	@echo ... 1~1000/917_完数.s
+	@echo ... 1~1000/918_Calendar.obj
+	@echo ... 1~1000/918_Calendar.i
+	@echo ... 1~1000/918_Calendar.s
 	@echo ... 1~1000/919_TQ有点二_另一种分组.obj
 	@echo ... 1~1000/919_TQ有点二_另一种分组.i
 	@echo ... 1~1000/919_TQ有点二_另一种分组.s
@@ -30221,6 +30296,9 @@ help:
 	@echo ... 1~1000/91_n的最小cp.obj
 	@echo ... 1~1000/91_n的最小cp.i
 	@echo ... 1~1000/91_n的最小cp.s
+	@echo ... 1~1000/921_QZZ的公约数.obj
+	@echo ... 1~1000/921_QZZ的公约数.i
+	@echo ... 1~1000/921_QZZ的公约数.s
 	@echo ... 1~1000/922_分解重复素因数.obj
 	@echo ... 1~1000/922_分解重复素因数.i
 	@echo ... 1~1000/922_分解重复素因数.s
@@ -31253,6 +31331,15 @@ help:
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.obj
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.i
 	@echo ... bound-bsearch/upper/652_ModricWang拦截导弹_最长不上升子序列.s
+	@echo ... deque/314_毛毛虫.obj
+	@echo ... deque/314_毛毛虫.i
+	@echo ... deque/314_毛毛虫.s
+	@echo ... deque/315_滚动的窗口.obj
+	@echo ... deque/315_滚动的窗口.i
+	@echo ... deque/315_滚动的窗口.s
+	@echo ... deque/388_中等-王po买瓜.obj
+	@echo ... deque/388_中等-王po买瓜.i
+	@echo ... deque/388_中等-王po买瓜.s
 	@echo ... nth_element/1518_第k顺序统计量.obj
 	@echo ... nth_element/1518_第k顺序统计量.i
 	@echo ... nth_element/1518_第k顺序统计量.s
@@ -31430,6 +31517,27 @@ help:
 	@echo ... unique/445_模式寻对_莫队.obj
 	@echo ... unique/445_模式寻对_莫队.i
 	@echo ... unique/445_模式寻对_莫队.s
+	@echo ... vector/113_超市排队insert.obj
+	@echo ... vector/113_超市排队insert.i
+	@echo ... vector/113_超市排队insert.s
+	@echo ... vector/266_AZY学习顺序表insert.obj
+	@echo ... vector/266_AZY学习顺序表insert.i
+	@echo ... vector/266_AZY学习顺序表insert.s
+	@echo ... vector/290_Kevin_Feng写作文insert.obj
+	@echo ... vector/290_Kevin_Feng写作文insert.i
+	@echo ... vector/290_Kevin_Feng写作文insert.s
+	@echo ... vector/381_不忍挂掉一大片find.obj
+	@echo ... vector/381_不忍挂掉一大片find.i
+	@echo ... vector/381_不忍挂掉一大片find.s
+	@echo ... vector/390_难题-拓扑排序assign.obj
+	@echo ... vector/390_难题-拓扑排序assign.i
+	@echo ... vector/390_难题-拓扑排序assign.s
+	@echo ... vector/704_ModricWang的文本排版insert.obj
+	@echo ... vector/704_ModricWang的文本排版insert.i
+	@echo ... vector/704_ModricWang的文本排版insert.s
+	@echo ... vector/897_QZZ的世界观测copy.obj
+	@echo ... vector/897_QZZ的世界观测copy.i
+	@echo ... vector/897_QZZ的世界观测copy.s
 .PHONY : help
 
 

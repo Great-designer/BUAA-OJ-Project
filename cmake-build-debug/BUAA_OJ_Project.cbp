@@ -36,6 +36,8 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/set"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -69,6 +71,8 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/priority_queue"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/set"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/unique"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -605,9 +609,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/112 数字填充.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/113 超市排队.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/114 盗墓笔记之鬼玺.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1052,9 +1053,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/265 Kevin_Feng挤地铁(栈).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/266 AZY学习顺序表vector.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/267 大魔术师.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1113,9 +1111,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/29 A+Bi Problem.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/290 Kevin_Feng写作文.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/291 鸡蛋的小小愿望.c">
@@ -1179,12 +1174,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/313 礼物.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/314 毛毛虫.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/315 滚动的窗口.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/316 Team Queue of microhhh.c">
@@ -1373,9 +1362,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/380 月落乌啼霜满天.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/381 不忍挂掉一大片find.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/382 中世界的Thor 倍增LCA+非严格次小生成树.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1400,13 +1386,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/387 中等-Monotonic Stack.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/388 中等-王po买瓜.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/389 难题-AZY做志愿者.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/390 难题-拓扑排序assign.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/391 数字游戏（Game）.c">
@@ -1931,9 +1911,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/703 Mdd的链表.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/704 ModricWang的文本排版.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/705 Gzh最后一次上自习.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2327,9 +2304,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/896 成双成对的尾巴.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/897 QZZ的世界观测copy.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/899 掉坑.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2360,10 +2334,19 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/910 逆序对统计（naive版）.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/911 阶乘的小尾巴.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/912 今天是星期几呀.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/913 数位各位之和.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/917 完数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/918 Calendar.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/919 TQ有点二 另一种分组.c">
@@ -2376,6 +2359,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/92 jhljx分解质因数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/921 QZZ的公约数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/922 分解重复素因数.c">
@@ -3404,6 +3390,15 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bound-bsearch/upper/652 ModricWang拦截导弹 最长不上升子序列.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/deque/314 毛毛虫.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/deque/315 滚动的窗口.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/deque/388 中等-王po买瓜.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/1518 第k顺序统计量.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3579,6 +3574,27 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/unique/445 模式寻对 莫队.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/113 超市排队insert.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/266 AZY学习顺序表insert.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/290 Kevin_Feng写作文insert.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/381 不忍挂掉一大片find.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/390 难题-拓扑排序assign.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/704 ModricWang的文本排版insert.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/897 QZZ的世界观测copy.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/CMakeLists.txt">
