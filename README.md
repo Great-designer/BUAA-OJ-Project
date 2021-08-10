@@ -34,15 +34,33 @@ OJ4th地址：https://accoding.cn
 
 仓库主分支的编者喜欢Allman括号风格（俗称括号换行），缩进用Tabs，并且一个Tab等于4个空格。
 
-## 题单
+## 分类、搜索与题单
 
-一些题目可能会采用特殊的知识点通过。比如，用到map、set、priority_queue等等。
-
-这种情形会建立分支文件夹，在文件夹下有相应题单。
+一些题目可能会采用特殊的知识点通过。比如，用到map、set、priority_queue等等。这种情形会建立分支文件夹，在文件夹下有相应题单。
 
 同一道题的一种做法只会出现在一个目录。同一道题的不同做法可能出现在不同目录。
 
-## 限定使用python的题目
+目前的分类有：
+
+- python：限定使用python的题目。
+- bound-bsearch：使用二分法在数组上查找，一般可以写为lower_bound、upper_bound或bsearch。
+- FFT-complex：快速傅里叶变换题目，使用C99的complex类型通过。
+- bitset：主要使用bitset。
+- map：主要使用map、multimap、unordered_map或unordered_multimap。
+- nth_element：主要使用nth_element。
+- priority_queue：主要使用priority_queue。
+- set：主要使用set、multiset、unordered_set或unordered_multiset。
+- unique：主要使用unique。
+
+以下是使用不太推荐方法的分类，题目有可能会从这些分类中移除。
+- deque：主要使用deque。
+- string：主要使用string，不易改写成c文件。
+- vector：主要使用vector，不易改写成c文件。
+- others-cpp：不属于以上任何分类的cpp文件。
+
+由于仓库文件命名开头为题号，且使用了分类系统，可以善用GitHub自带的搜索功能，或者本地操作系统自带的搜索功能来查找文件。
+
+### 限定使用python的题目
 
 限定使用python的题目，一般会使用python语言通过此题。
 
