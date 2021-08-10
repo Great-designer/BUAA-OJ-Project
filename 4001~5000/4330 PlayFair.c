@@ -12,9 +12,13 @@ int findX(char p)//在密码表中找到该字母的X坐标
 	{
 		for (j = 0; j < 5; j++)
 		{
-			if (mima[i][j] == p) return i;
+			if (mima[i][j] == p)
+			{
+			    return i;
+			}
 		}
 	}
+    return i;
 }
 
 int findY(char p)//在密码表中找到该字母的Y坐标
@@ -24,9 +28,13 @@ int findY(char p)//在密码表中找到该字母的Y坐标
 	{
 		for (j = 0; j < 5; j++)
 		{
-			if (mima[i][j] == p) return j;
+			if (mima[i][j] == p)
+			{
+			    return j;
+			}
 		}
 	}
+    return j;
 }
 
 void jiami(char p1, char p2)

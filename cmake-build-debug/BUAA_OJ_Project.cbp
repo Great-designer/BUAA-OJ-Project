@@ -39,6 +39,8 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/string"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/map"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/others-cpp"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -75,6 +77,8 @@
 					<Add directory="E:/程序/BUAA-OJ-Project/deque"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/vector"/>
 					<Add directory="E:/程序/BUAA-OJ-Project/string"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/map"/>
+					<Add directory="E:/程序/BUAA-OJ-Project/others-cpp"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.1.0/include/c++/backward"/>
@@ -263,9 +267,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1489 绝命西二旗.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1491 lx买东西.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -306,9 +307,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1507 排序.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1508 SkyLee的图书整理.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1509 一起来学stdlib.c">
@@ -659,9 +657,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/130 Magry遇上了初雪第二弹.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/131 条形统计图.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/132 胡乱走的和尚.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -672,9 +667,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/135 老和尚的真言.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/136 满天繁星.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/137 NeXT.c">
@@ -764,9 +756,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/168 寻找方程的根.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/169 元素查找map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/17 A+B.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -783,9 +772,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/178 jhljx走迷宫.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/179 这货不是二分unordered_map.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/18 快来快来帮猪脚.c">
@@ -914,13 +900,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/220 数字填充（简单）.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/221 Statistics（中等）.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/222 高精度A+B.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/223 Chem is a try！（难） map string.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/224 Equation（简单）.c">
@@ -1031,9 +1011,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/26 jhljx去太空.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/260 难题——线段和直线 计算几何.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/261 AZY的看图数数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1142,9 +1119,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/300 反方向的钟.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/301 魔王与你相约I.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/302 拉赫玛尼诺夫第三钢琴协奏曲.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1226,9 +1200,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/333 念奴娇.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/334 Coolest AZY.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/335 AZY&apos;s Reversal.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1266,9 +1237,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/350 邻接矩阵转邻接表.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/351 microhhh的名字统计.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/352 Z君搬砖.c">
@@ -1346,9 +1314,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/378 中等·大独裁者.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/379 中等题-不同数字的个数 离线+树状数组.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/380 月落乌啼霜满天.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1370,9 +1335,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/385 简单-jhljx的情怀.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/386 简单-AZY的二叉树遍历.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/387 中等-Monotonic Stack.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1383,9 +1345,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/392 加工调度（Prod）.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/393 捷径（Shortcut）sort.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/394 旅行（Travel）.c">
@@ -1442,13 +1401,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/42 不要不要丧心病狂.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/420 jhljx的最长零子数组.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/421 jhljx数组变变变.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/424 jhljx上大学学数学 数论扩域.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/424 jhljx上大学学数学.c">
@@ -1616,9 +1569,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/510 王助教喝柠檬茶.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/511 王助教凑七对子.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/512 机器人装配 流水线dp.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1647,9 +1597,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/535 一尺之棰.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/538 混乱的辈分关系 图论.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/54 Ryan&apos;s ISBN.c">
@@ -1685,9 +1632,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/572 简单的贪心 贪心经典 过河问题.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/574 空间旅行unordered_map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/580 圆圆的物理实验.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -1703,7 +1647,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/592 裁纸片.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/594 Magry的微信鼓励金.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/594 Magry的微信鼓励金 求众数算法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/598 王助教填数独.c">
@@ -1719,9 +1663,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/606 王助教又填数独.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/607 Magry再度出山 最近最远点对.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/609 最小内积.c">
@@ -1824,9 +1765,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/67 N航母问题.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/670 难题·圣杯之战·最终章 二分图 最小割最大流.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/672 简单·最大公约数.c">
@@ -2024,9 +1962,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/75 恶魔的证明.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/750 DH的出行规划map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/751 Mdd的二叉树.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2067,9 +2002,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/77 jhljx的强迫症.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/770 DH的邮件系统map.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/771 Mdd的二叉树(III).c">
@@ -2132,12 +2064,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/812 ModricWang的布线问题 II.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/813 Mdd去旅游map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/814 DH去看球map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/815 ModricWang的局域网.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2147,13 +2073,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/820 Mdd的栈(中).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/821 DH的注册系统map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/822 DH的括号匹配.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/824 DH的城市安全rotate.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/825 ModricWang的星际旅行（中难）.c">
@@ -2180,13 +2100,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/837 管理员的忧伤.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/838 小太阳 树的最长链dfs 快读 map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/84 jhljx选择狗带.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/840 后羿射日 - ver. easy.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/841 哦~我的女神！.c">
@@ -2408,12 +2322,6 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2356 位运算.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 VEB树 map.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 手写红黑树.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 深度 笛卡尔树.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2589,9 +2497,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2759 k关键字排序.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2992 隔离 计算几何.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 另解.c">
@@ -3374,6 +3279,84 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/deque/388 中等-王po买瓜.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/1234 学生信息unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/131 条形统计图.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/136 满天繁星.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/1508 SkyLee的图书整理.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/169 元素查找unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/179 这货不是二分unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/221 Statistics（中等）unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/223 Chem is a try！（难）.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/2368 二叉搜索树的和值 VEB树.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/2980 14. 超市收银系统.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/301 魔王与你相约I.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/351 microhhh的名字统计.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/379 中等题-不同数字的个数 离线+树状数组.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/3951 （中等题）血战双十一unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/3963 （中等题）礼物的价值 模拟 unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/4164 Who hasn&apos;t sign up unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/420 jhljx的最长零子数组.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/511 王助教凑七对子.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/516 ModricWang的星灵棋 状态压缩bfs unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/574 空间旅行unordered_map.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/750 DH的出行规划.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/770 DH的邮件系统.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/813 Mdd去旅游.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/814 DH去看球.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/821 DH的注册系统.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/map/838 小太阳 树的最长链dfs 快读.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/1518 第k顺序统计量.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3399,6 +3382,39 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/98 第三小整数.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/260 难题——线段和直线 计算几何.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2992 隔离 计算几何.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/393 捷径（Shortcut）sort.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/424 jhljx上大学学数学 数论扩域.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/538 混乱的辈分关系 图论.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/607 Magry再度出山 最近最远点对.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/670 难题·圣杯之战·最终章 二分图 最小割最大流.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/824 DH的城市安全rotate.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/840 后羿射日 - ver. easy.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/1042 角谷定理（伪） bfs.cpp">
@@ -3599,7 +3615,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/vector/290 Kevin_Feng写作文insert.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/334 Coolest AZYfind.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/vector/381 不忍挂掉一大片find.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/386 简单-AZY的二叉树遍历find.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/vector/390 难题-拓扑排序assign.cpp">

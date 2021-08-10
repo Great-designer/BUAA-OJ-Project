@@ -248,11 +248,9 @@ OJ4th地址：https://accoding.cn
 
 3830 转换成绩等级 3831 找完数
 
-3847 最大公约数与最小公倍数 3951 （中等题）血战双十一 3955 （简单题）陶陶摘橘子
+3847 最大公约数与最小公倍数 3955 （简单题）陶陶摘橘子 3960 （中等题）能量转化炉
 
-3960 （中等题）能量转化炉 3963 （中等题）礼物的价值
-
-4121 （简单题）璐璐的饮品店 4164 Who hasn't sign up 4165 DS = Data structure of Shawn's
+4121 （简单题）璐璐的饮品店 4165 DS = Data structure of Shawn's
 
 4166 Find Good Reverse Tuple 4167 Nero's Key Board 4169 Weidong's minimum working hours
 

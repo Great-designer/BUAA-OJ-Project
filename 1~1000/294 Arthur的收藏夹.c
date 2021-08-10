@@ -10,17 +10,19 @@ struct node
 
 struct node *head=NULL,p,t;
 
-int compar(const void *a,const void *b)
+int compar(const void *p1,const void *p2)
 {
-    if(*(int*)a>*(int*)b)
+    int *a=(int *)p1;
+    int *b=(int *)p2;
+    if(*a>*b)
 	{
 		return 1;
 	}
-    if(*(int*)a<*(int*)b)
+    else if(*a<*b)
 	{
 		return -1;
 	}
-    if(*(int*)a==*(int*)b)
+    else
 	{
 		return 0;
 	}

@@ -1376,30 +1376,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1491_lx买东西.c.s
 .PHONY : 1001~2000/1491_lx买东西.c.s
 
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj: 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
-
-# target to build an object file
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
-
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.i: 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
-
-# target to preprocess a source file
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
-
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.s: 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
-
-# target to generate assembly for a file
-1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
-.PHONY : 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
-
 1001~2000/1492_最大子矩阵和.obj: 1001~2000/1492_最大子矩阵和.c.obj
 .PHONY : 1001~2000/1492_最大子矩阵和.obj
 
@@ -1711,30 +1687,6 @@ BUAA_OJ_Project/fast:
 1001~2000/1507_排序.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1507_排序.c.s
 .PHONY : 1001~2000/1507_排序.c.s
-
-1001~2000/1508_SkyLee的图书整理.obj: 1001~2000/1508_SkyLee的图书整理.cpp.obj
-.PHONY : 1001~2000/1508_SkyLee的图书整理.obj
-
-# target to build an object file
-1001~2000/1508_SkyLee的图书整理.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1508_SkyLee的图书整理.cpp.obj
-.PHONY : 1001~2000/1508_SkyLee的图书整理.cpp.obj
-
-1001~2000/1508_SkyLee的图书整理.i: 1001~2000/1508_SkyLee的图书整理.cpp.i
-.PHONY : 1001~2000/1508_SkyLee的图书整理.i
-
-# target to preprocess a source file
-1001~2000/1508_SkyLee的图书整理.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1508_SkyLee的图书整理.cpp.i
-.PHONY : 1001~2000/1508_SkyLee的图书整理.cpp.i
-
-1001~2000/1508_SkyLee的图书整理.s: 1001~2000/1508_SkyLee的图书整理.cpp.s
-.PHONY : 1001~2000/1508_SkyLee的图书整理.s
-
-# target to generate assembly for a file
-1001~2000/1508_SkyLee的图书整理.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1508_SkyLee的图书整理.cpp.s
-.PHONY : 1001~2000/1508_SkyLee的图书整理.cpp.s
 
 1001~2000/1509_一起来学stdlib.obj: 1001~2000/1509_一起来学stdlib.c.obj
 .PHONY : 1001~2000/1509_一起来学stdlib.obj
@@ -4496,30 +4448,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/130_Magry遇上了初雪第二弹.c.s
 .PHONY : 1~1000/130_Magry遇上了初雪第二弹.c.s
 
-1~1000/131_条形统计图.obj: 1~1000/131_条形统计图.cpp.obj
-.PHONY : 1~1000/131_条形统计图.obj
-
-# target to build an object file
-1~1000/131_条形统计图.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/131_条形统计图.cpp.obj
-.PHONY : 1~1000/131_条形统计图.cpp.obj
-
-1~1000/131_条形统计图.i: 1~1000/131_条形统计图.cpp.i
-.PHONY : 1~1000/131_条形统计图.i
-
-# target to preprocess a source file
-1~1000/131_条形统计图.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/131_条形统计图.cpp.i
-.PHONY : 1~1000/131_条形统计图.cpp.i
-
-1~1000/131_条形统计图.s: 1~1000/131_条形统计图.cpp.s
-.PHONY : 1~1000/131_条形统计图.s
-
-# target to generate assembly for a file
-1~1000/131_条形统计图.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/131_条形统计图.cpp.s
-.PHONY : 1~1000/131_条形统计图.cpp.s
-
 1~1000/132_胡乱走的和尚.obj: 1~1000/132_胡乱走的和尚.c.obj
 .PHONY : 1~1000/132_胡乱走的和尚.obj
 
@@ -4615,30 +4543,6 @@ BUAA_OJ_Project/fast:
 1~1000/135_老和尚的真言.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/135_老和尚的真言.c.s
 .PHONY : 1~1000/135_老和尚的真言.c.s
-
-1~1000/136_满天繁星.obj: 1~1000/136_满天繁星.cpp.obj
-.PHONY : 1~1000/136_满天繁星.obj
-
-# target to build an object file
-1~1000/136_满天繁星.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/136_满天繁星.cpp.obj
-.PHONY : 1~1000/136_满天繁星.cpp.obj
-
-1~1000/136_满天繁星.i: 1~1000/136_满天繁星.cpp.i
-.PHONY : 1~1000/136_满天繁星.i
-
-# target to preprocess a source file
-1~1000/136_满天繁星.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/136_满天繁星.cpp.i
-.PHONY : 1~1000/136_满天繁星.cpp.i
-
-1~1000/136_满天繁星.s: 1~1000/136_满天繁星.cpp.s
-.PHONY : 1~1000/136_满天繁星.s
-
-# target to generate assembly for a file
-1~1000/136_满天繁星.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/136_满天繁星.cpp.s
-.PHONY : 1~1000/136_满天繁星.cpp.s
 
 1~1000/137_NeXT.obj: 1~1000/137_NeXT.c.obj
 .PHONY : 1~1000/137_NeXT.obj
@@ -5336,30 +5240,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/168_寻找方程的根.c.s
 .PHONY : 1~1000/168_寻找方程的根.c.s
 
-1~1000/169_元素查找map.obj: 1~1000/169_元素查找map.cpp.obj
-.PHONY : 1~1000/169_元素查找map.obj
-
-# target to build an object file
-1~1000/169_元素查找map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/169_元素查找map.cpp.obj
-.PHONY : 1~1000/169_元素查找map.cpp.obj
-
-1~1000/169_元素查找map.i: 1~1000/169_元素查找map.cpp.i
-.PHONY : 1~1000/169_元素查找map.i
-
-# target to preprocess a source file
-1~1000/169_元素查找map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/169_元素查找map.cpp.i
-.PHONY : 1~1000/169_元素查找map.cpp.i
-
-1~1000/169_元素查找map.s: 1~1000/169_元素查找map.cpp.s
-.PHONY : 1~1000/169_元素查找map.s
-
-# target to generate assembly for a file
-1~1000/169_元素查找map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/169_元素查找map.cpp.s
-.PHONY : 1~1000/169_元素查找map.cpp.s
-
 1~1000/170_黑白棋I.obj: 1~1000/170_黑白棋I.c.obj
 .PHONY : 1~1000/170_黑白棋I.obj
 
@@ -5479,30 +5359,6 @@ BUAA_OJ_Project/fast:
 1~1000/178_jhljx走迷宫.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/178_jhljx走迷宫.c.s
 .PHONY : 1~1000/178_jhljx走迷宫.c.s
-
-1~1000/179_这货不是二分unordered_map.obj: 1~1000/179_这货不是二分unordered_map.cpp.obj
-.PHONY : 1~1000/179_这货不是二分unordered_map.obj
-
-# target to build an object file
-1~1000/179_这货不是二分unordered_map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/179_这货不是二分unordered_map.cpp.obj
-.PHONY : 1~1000/179_这货不是二分unordered_map.cpp.obj
-
-1~1000/179_这货不是二分unordered_map.i: 1~1000/179_这货不是二分unordered_map.cpp.i
-.PHONY : 1~1000/179_这货不是二分unordered_map.i
-
-# target to preprocess a source file
-1~1000/179_这货不是二分unordered_map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/179_这货不是二分unordered_map.cpp.i
-.PHONY : 1~1000/179_这货不是二分unordered_map.cpp.i
-
-1~1000/179_这货不是二分unordered_map.s: 1~1000/179_这货不是二分unordered_map.cpp.s
-.PHONY : 1~1000/179_这货不是二分unordered_map.s
-
-# target to generate assembly for a file
-1~1000/179_这货不是二分unordered_map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/179_这货不是二分unordered_map.cpp.s
-.PHONY : 1~1000/179_这货不是二分unordered_map.cpp.s
 
 1~1000/17_A+B.obj: 1~1000/17_A+B.c.obj
 .PHONY : 1~1000/17_A+B.obj
@@ -6512,30 +6368,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/220_数字填充（简单）.c.s
 .PHONY : 1~1000/220_数字填充（简单）.c.s
 
-1~1000/221_Statistics（中等）.obj: 1~1000/221_Statistics（中等）.cpp.obj
-.PHONY : 1~1000/221_Statistics（中等）.obj
-
-# target to build an object file
-1~1000/221_Statistics（中等）.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/221_Statistics（中等）.cpp.obj
-.PHONY : 1~1000/221_Statistics（中等）.cpp.obj
-
-1~1000/221_Statistics（中等）.i: 1~1000/221_Statistics（中等）.cpp.i
-.PHONY : 1~1000/221_Statistics（中等）.i
-
-# target to preprocess a source file
-1~1000/221_Statistics（中等）.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/221_Statistics（中等）.cpp.i
-.PHONY : 1~1000/221_Statistics（中等）.cpp.i
-
-1~1000/221_Statistics（中等）.s: 1~1000/221_Statistics（中等）.cpp.s
-.PHONY : 1~1000/221_Statistics（中等）.s
-
-# target to generate assembly for a file
-1~1000/221_Statistics（中等）.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/221_Statistics（中等）.cpp.s
-.PHONY : 1~1000/221_Statistics（中等）.cpp.s
-
 1~1000/222_高精度A+B.obj: 1~1000/222_高精度A+B.c.obj
 .PHONY : 1~1000/222_高精度A+B.obj
 
@@ -6559,30 +6391,6 @@ BUAA_OJ_Project/fast:
 1~1000/222_高精度A+B.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/222_高精度A+B.c.s
 .PHONY : 1~1000/222_高精度A+B.c.s
-
-1~1000/223_Chem_is_a_try！（难）_map_string.obj: 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.obj
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.obj
-
-# target to build an object file
-1~1000/223_Chem_is_a_try！（难）_map_string.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/223_Chem_is_a_try！（难）_map_string.cpp.obj
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.obj
-
-1~1000/223_Chem_is_a_try！（难）_map_string.i: 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.i
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.i
-
-# target to preprocess a source file
-1~1000/223_Chem_is_a_try！（难）_map_string.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/223_Chem_is_a_try！（难）_map_string.cpp.i
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.i
-
-1~1000/223_Chem_is_a_try！（难）_map_string.s: 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.s
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.s
-
-# target to generate assembly for a file
-1~1000/223_Chem_is_a_try！（难）_map_string.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/223_Chem_is_a_try！（难）_map_string.cpp.s
-.PHONY : 1~1000/223_Chem_is_a_try！（难）_map_string.cpp.s
 
 1~1000/224_Equation（简单）.obj: 1~1000/224_Equation（简单）.c.obj
 .PHONY : 1~1000/224_Equation（简单）.obj
@@ -7448,30 +7256,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/25_质数判断.c.s
 .PHONY : 1~1000/25_质数判断.c.s
 
-1~1000/260_难题——线段和直线_计算几何.obj: 1~1000/260_难题——线段和直线_计算几何.cpp.obj
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.obj
-
-# target to build an object file
-1~1000/260_难题——线段和直线_计算几何.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/260_难题——线段和直线_计算几何.cpp.obj
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.cpp.obj
-
-1~1000/260_难题——线段和直线_计算几何.i: 1~1000/260_难题——线段和直线_计算几何.cpp.i
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.i
-
-# target to preprocess a source file
-1~1000/260_难题——线段和直线_计算几何.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/260_难题——线段和直线_计算几何.cpp.i
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.cpp.i
-
-1~1000/260_难题——线段和直线_计算几何.s: 1~1000/260_难题——线段和直线_计算几何.cpp.s
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.s
-
-# target to generate assembly for a file
-1~1000/260_难题——线段和直线_计算几何.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/260_难题——线段和直线_计算几何.cpp.s
-.PHONY : 1~1000/260_难题——线段和直线_计算几何.cpp.s
-
 1~1000/261_AZY的看图数数.obj: 1~1000/261_AZY的看图数数.c.obj
 .PHONY : 1~1000/261_AZY的看图数数.obj
 
@@ -8336,30 +8120,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/300_反方向的钟.c.s
 .PHONY : 1~1000/300_反方向的钟.c.s
 
-1~1000/301_魔王与你相约I.obj: 1~1000/301_魔王与你相约I.cpp.obj
-.PHONY : 1~1000/301_魔王与你相约I.obj
-
-# target to build an object file
-1~1000/301_魔王与你相约I.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/301_魔王与你相约I.cpp.obj
-.PHONY : 1~1000/301_魔王与你相约I.cpp.obj
-
-1~1000/301_魔王与你相约I.i: 1~1000/301_魔王与你相约I.cpp.i
-.PHONY : 1~1000/301_魔王与你相约I.i
-
-# target to preprocess a source file
-1~1000/301_魔王与你相约I.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/301_魔王与你相约I.cpp.i
-.PHONY : 1~1000/301_魔王与你相约I.cpp.i
-
-1~1000/301_魔王与你相约I.s: 1~1000/301_魔王与你相约I.cpp.s
-.PHONY : 1~1000/301_魔王与你相约I.s
-
-# target to generate assembly for a file
-1~1000/301_魔王与你相约I.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/301_魔王与你相约I.cpp.s
-.PHONY : 1~1000/301_魔王与你相约I.cpp.s
-
 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.obj: 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.c.obj
 .PHONY : 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.obj
 
@@ -9008,30 +8768,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/333_念奴娇.c.s
 .PHONY : 1~1000/333_念奴娇.c.s
 
-1~1000/334_Coolest_AZY.obj: 1~1000/334_Coolest_AZY.cpp.obj
-.PHONY : 1~1000/334_Coolest_AZY.obj
-
-# target to build an object file
-1~1000/334_Coolest_AZY.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/334_Coolest_AZY.cpp.obj
-.PHONY : 1~1000/334_Coolest_AZY.cpp.obj
-
-1~1000/334_Coolest_AZY.i: 1~1000/334_Coolest_AZY.cpp.i
-.PHONY : 1~1000/334_Coolest_AZY.i
-
-# target to preprocess a source file
-1~1000/334_Coolest_AZY.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/334_Coolest_AZY.cpp.i
-.PHONY : 1~1000/334_Coolest_AZY.cpp.i
-
-1~1000/334_Coolest_AZY.s: 1~1000/334_Coolest_AZY.cpp.s
-.PHONY : 1~1000/334_Coolest_AZY.s
-
-# target to generate assembly for a file
-1~1000/334_Coolest_AZY.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/334_Coolest_AZY.cpp.s
-.PHONY : 1~1000/334_Coolest_AZY.cpp.s
-
 1~1000/335_AZY's_Reversal.obj: 1~1000/335_AZY's_Reversal.c.obj
 .PHONY : 1~1000/335_AZY's_Reversal.obj
 
@@ -9343,30 +9079,6 @@ BUAA_OJ_Project/fast:
 1~1000/350_邻接矩阵转邻接表.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/350_邻接矩阵转邻接表.c.s
 .PHONY : 1~1000/350_邻接矩阵转邻接表.c.s
-
-1~1000/351_microhhh的名字统计.obj: 1~1000/351_microhhh的名字统计.cpp.obj
-.PHONY : 1~1000/351_microhhh的名字统计.obj
-
-# target to build an object file
-1~1000/351_microhhh的名字统计.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/351_microhhh的名字统计.cpp.obj
-.PHONY : 1~1000/351_microhhh的名字统计.cpp.obj
-
-1~1000/351_microhhh的名字统计.i: 1~1000/351_microhhh的名字统计.cpp.i
-.PHONY : 1~1000/351_microhhh的名字统计.i
-
-# target to preprocess a source file
-1~1000/351_microhhh的名字统计.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/351_microhhh的名字统计.cpp.i
-.PHONY : 1~1000/351_microhhh的名字统计.cpp.i
-
-1~1000/351_microhhh的名字统计.s: 1~1000/351_microhhh的名字统计.cpp.s
-.PHONY : 1~1000/351_microhhh的名字统计.s
-
-# target to generate assembly for a file
-1~1000/351_microhhh的名字统计.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/351_microhhh的名字统计.cpp.s
-.PHONY : 1~1000/351_microhhh的名字统计.cpp.s
 
 1~1000/352_Z君搬砖.obj: 1~1000/352_Z君搬砖.c.obj
 .PHONY : 1~1000/352_Z君搬砖.obj
@@ -9968,30 +9680,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/378_中等·大独裁者.c.s
 .PHONY : 1~1000/378_中等·大独裁者.c.s
 
-1~1000/379_中等题-不同数字的个数_离线+树状数组.obj: 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.obj
-
-# target to build an object file
-1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
-
-1~1000/379_中等题-不同数字的个数_离线+树状数组.i: 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.i
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.i
-
-# target to preprocess a source file
-1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.i
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.i
-
-1~1000/379_中等题-不同数字的个数_离线+树状数组.s: 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.s
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.s
-
-# target to generate assembly for a file
-1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.s
-.PHONY : 1~1000/379_中等题-不同数字的个数_离线+树状数组.cpp.s
-
 1~1000/37_水水的比较大小.obj: 1~1000/37_水水的比较大小.c.obj
 .PHONY : 1~1000/37_水水的比较大小.obj
 
@@ -10184,30 +9872,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/385_简单-jhljx的情怀.c.s
 .PHONY : 1~1000/385_简单-jhljx的情怀.c.s
 
-1~1000/386_简单-AZY的二叉树遍历.obj: 1~1000/386_简单-AZY的二叉树遍历.cpp.obj
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.obj
-
-# target to build an object file
-1~1000/386_简单-AZY的二叉树遍历.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/386_简单-AZY的二叉树遍历.cpp.obj
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.cpp.obj
-
-1~1000/386_简单-AZY的二叉树遍历.i: 1~1000/386_简单-AZY的二叉树遍历.cpp.i
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.i
-
-# target to preprocess a source file
-1~1000/386_简单-AZY的二叉树遍历.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/386_简单-AZY的二叉树遍历.cpp.i
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.cpp.i
-
-1~1000/386_简单-AZY的二叉树遍历.s: 1~1000/386_简单-AZY的二叉树遍历.cpp.s
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.s
-
-# target to generate assembly for a file
-1~1000/386_简单-AZY的二叉树遍历.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/386_简单-AZY的二叉树遍历.cpp.s
-.PHONY : 1~1000/386_简单-AZY的二叉树遍历.cpp.s
-
 1~1000/387_中等-Monotonic_Stack.obj: 1~1000/387_中等-Monotonic_Stack.c.obj
 .PHONY : 1~1000/387_中等-Monotonic_Stack.obj
 
@@ -10303,30 +9967,6 @@ BUAA_OJ_Project/fast:
 1~1000/392_加工调度（Prod）.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/392_加工调度（Prod）.c.s
 .PHONY : 1~1000/392_加工调度（Prod）.c.s
-
-1~1000/393_捷径（Shortcut）sort.obj: 1~1000/393_捷径（Shortcut）sort.cpp.obj
-.PHONY : 1~1000/393_捷径（Shortcut）sort.obj
-
-# target to build an object file
-1~1000/393_捷径（Shortcut）sort.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/393_捷径（Shortcut）sort.cpp.obj
-.PHONY : 1~1000/393_捷径（Shortcut）sort.cpp.obj
-
-1~1000/393_捷径（Shortcut）sort.i: 1~1000/393_捷径（Shortcut）sort.cpp.i
-.PHONY : 1~1000/393_捷径（Shortcut）sort.i
-
-# target to preprocess a source file
-1~1000/393_捷径（Shortcut）sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/393_捷径（Shortcut）sort.cpp.i
-.PHONY : 1~1000/393_捷径（Shortcut）sort.cpp.i
-
-1~1000/393_捷径（Shortcut）sort.s: 1~1000/393_捷径（Shortcut）sort.cpp.s
-.PHONY : 1~1000/393_捷径（Shortcut）sort.s
-
-# target to generate assembly for a file
-1~1000/393_捷径（Shortcut）sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/393_捷径（Shortcut）sort.cpp.s
-.PHONY : 1~1000/393_捷径（Shortcut）sort.cpp.s
 
 1~1000/394_旅行（Travel）.obj: 1~1000/394_旅行（Travel）.c.obj
 .PHONY : 1~1000/394_旅行（Travel）.obj
@@ -10736,30 +10376,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/417_自习室之神.c.s
 .PHONY : 1~1000/417_自习室之神.c.s
 
-1~1000/420_jhljx的最长零子数组.obj: 1~1000/420_jhljx的最长零子数组.cpp.obj
-.PHONY : 1~1000/420_jhljx的最长零子数组.obj
-
-# target to build an object file
-1~1000/420_jhljx的最长零子数组.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/420_jhljx的最长零子数组.cpp.obj
-.PHONY : 1~1000/420_jhljx的最长零子数组.cpp.obj
-
-1~1000/420_jhljx的最长零子数组.i: 1~1000/420_jhljx的最长零子数组.cpp.i
-.PHONY : 1~1000/420_jhljx的最长零子数组.i
-
-# target to preprocess a source file
-1~1000/420_jhljx的最长零子数组.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/420_jhljx的最长零子数组.cpp.i
-.PHONY : 1~1000/420_jhljx的最长零子数组.cpp.i
-
-1~1000/420_jhljx的最长零子数组.s: 1~1000/420_jhljx的最长零子数组.cpp.s
-.PHONY : 1~1000/420_jhljx的最长零子数组.s
-
-# target to generate assembly for a file
-1~1000/420_jhljx的最长零子数组.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/420_jhljx的最长零子数组.cpp.s
-.PHONY : 1~1000/420_jhljx的最长零子数组.cpp.s
-
 1~1000/421_jhljx数组变变变.obj: 1~1000/421_jhljx数组变变变.c.obj
 .PHONY : 1~1000/421_jhljx数组变变变.obj
 
@@ -10807,30 +10423,6 @@ BUAA_OJ_Project/fast:
 1~1000/424_jhljx上大学学数学.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/424_jhljx上大学学数学.c.s
 .PHONY : 1~1000/424_jhljx上大学学数学.c.s
-
-1~1000/424_jhljx上大学学数学_数论扩域.obj: 1~1000/424_jhljx上大学学数学_数论扩域.cpp.obj
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.obj
-
-# target to build an object file
-1~1000/424_jhljx上大学学数学_数论扩域.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/424_jhljx上大学学数学_数论扩域.cpp.obj
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.cpp.obj
-
-1~1000/424_jhljx上大学学数学_数论扩域.i: 1~1000/424_jhljx上大学学数学_数论扩域.cpp.i
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.i
-
-# target to preprocess a source file
-1~1000/424_jhljx上大学学数学_数论扩域.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/424_jhljx上大学学数学_数论扩域.cpp.i
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.cpp.i
-
-1~1000/424_jhljx上大学学数学_数论扩域.s: 1~1000/424_jhljx上大学学数学_数论扩域.cpp.s
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.s
-
-# target to generate assembly for a file
-1~1000/424_jhljx上大学学数学_数论扩域.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/424_jhljx上大学学数学_数论扩域.cpp.s
-.PHONY : 1~1000/424_jhljx上大学学数学_数论扩域.cpp.s
 
 1~1000/42_不要不要丧心病狂.obj: 1~1000/42_不要不要丧心病狂.c.obj
 .PHONY : 1~1000/42_不要不要丧心病狂.obj
@@ -12128,30 +11720,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/510_王助教喝柠檬茶.c.s
 .PHONY : 1~1000/510_王助教喝柠檬茶.c.s
 
-1~1000/511_王助教凑七对子.obj: 1~1000/511_王助教凑七对子.cpp.obj
-.PHONY : 1~1000/511_王助教凑七对子.obj
-
-# target to build an object file
-1~1000/511_王助教凑七对子.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/511_王助教凑七对子.cpp.obj
-.PHONY : 1~1000/511_王助教凑七对子.cpp.obj
-
-1~1000/511_王助教凑七对子.i: 1~1000/511_王助教凑七对子.cpp.i
-.PHONY : 1~1000/511_王助教凑七对子.i
-
-# target to preprocess a source file
-1~1000/511_王助教凑七对子.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/511_王助教凑七对子.cpp.i
-.PHONY : 1~1000/511_王助教凑七对子.cpp.i
-
-1~1000/511_王助教凑七对子.s: 1~1000/511_王助教凑七对子.cpp.s
-.PHONY : 1~1000/511_王助教凑七对子.s
-
-# target to generate assembly for a file
-1~1000/511_王助教凑七对子.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/511_王助教凑七对子.cpp.s
-.PHONY : 1~1000/511_王助教凑七对子.cpp.s
-
 1~1000/512_机器人装配_流水线dp.obj: 1~1000/512_机器人装配_流水线dp.c.obj
 .PHONY : 1~1000/512_机器人装配_流水线dp.obj
 
@@ -12391,30 +11959,6 @@ BUAA_OJ_Project/fast:
 1~1000/535_一尺之棰.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/535_一尺之棰.c.s
 .PHONY : 1~1000/535_一尺之棰.c.s
-
-1~1000/538_混乱的辈分关系_图论.obj: 1~1000/538_混乱的辈分关系_图论.cpp.obj
-.PHONY : 1~1000/538_混乱的辈分关系_图论.obj
-
-# target to build an object file
-1~1000/538_混乱的辈分关系_图论.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/538_混乱的辈分关系_图论.cpp.obj
-.PHONY : 1~1000/538_混乱的辈分关系_图论.cpp.obj
-
-1~1000/538_混乱的辈分关系_图论.i: 1~1000/538_混乱的辈分关系_图论.cpp.i
-.PHONY : 1~1000/538_混乱的辈分关系_图论.i
-
-# target to preprocess a source file
-1~1000/538_混乱的辈分关系_图论.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/538_混乱的辈分关系_图论.cpp.i
-.PHONY : 1~1000/538_混乱的辈分关系_图论.cpp.i
-
-1~1000/538_混乱的辈分关系_图论.s: 1~1000/538_混乱的辈分关系_图论.cpp.s
-.PHONY : 1~1000/538_混乱的辈分关系_图论.s
-
-# target to generate assembly for a file
-1~1000/538_混乱的辈分关系_图论.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/538_混乱的辈分关系_图论.cpp.s
-.PHONY : 1~1000/538_混乱的辈分关系_图论.cpp.s
 
 1~1000/53_最小非负值.obj: 1~1000/53_最小非负值.c.obj
 .PHONY : 1~1000/53_最小非负值.obj
@@ -12680,30 +12224,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/572_简单的贪心_贪心经典_过河问题.c.s
 .PHONY : 1~1000/572_简单的贪心_贪心经典_过河问题.c.s
 
-1~1000/574_空间旅行unordered_map.obj: 1~1000/574_空间旅行unordered_map.cpp.obj
-.PHONY : 1~1000/574_空间旅行unordered_map.obj
-
-# target to build an object file
-1~1000/574_空间旅行unordered_map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/574_空间旅行unordered_map.cpp.obj
-.PHONY : 1~1000/574_空间旅行unordered_map.cpp.obj
-
-1~1000/574_空间旅行unordered_map.i: 1~1000/574_空间旅行unordered_map.cpp.i
-.PHONY : 1~1000/574_空间旅行unordered_map.i
-
-# target to preprocess a source file
-1~1000/574_空间旅行unordered_map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/574_空间旅行unordered_map.cpp.i
-.PHONY : 1~1000/574_空间旅行unordered_map.cpp.i
-
-1~1000/574_空间旅行unordered_map.s: 1~1000/574_空间旅行unordered_map.cpp.s
-.PHONY : 1~1000/574_空间旅行unordered_map.s
-
-# target to generate assembly for a file
-1~1000/574_空间旅行unordered_map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/574_空间旅行unordered_map.cpp.s
-.PHONY : 1~1000/574_空间旅行unordered_map.cpp.s
-
 1~1000/57_jhljx上大学.obj: 1~1000/57_jhljx上大学.c.obj
 .PHONY : 1~1000/57_jhljx上大学.obj
 
@@ -12848,29 +12368,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/592_裁纸片.c.s
 .PHONY : 1~1000/592_裁纸片.c.s
 
-1~1000/594_Magry的微信鼓励金.obj: 1~1000/594_Magry的微信鼓励金.c.obj
-.PHONY : 1~1000/594_Magry的微信鼓励金.obj
+1~1000/594_Magry的微信鼓励金_求众数算法.obj: 1~1000/594_Magry的微信鼓励金_求众数算法.c.obj
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.obj
 
 # target to build an object file
-1~1000/594_Magry的微信鼓励金.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金.c.obj
-.PHONY : 1~1000/594_Magry的微信鼓励金.c.obj
+1~1000/594_Magry的微信鼓励金_求众数算法.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金_求众数算法.c.obj
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.c.obj
 
-1~1000/594_Magry的微信鼓励金.i: 1~1000/594_Magry的微信鼓励金.c.i
-.PHONY : 1~1000/594_Magry的微信鼓励金.i
+1~1000/594_Magry的微信鼓励金_求众数算法.i: 1~1000/594_Magry的微信鼓励金_求众数算法.c.i
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.i
 
 # target to preprocess a source file
-1~1000/594_Magry的微信鼓励金.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金.c.i
-.PHONY : 1~1000/594_Magry的微信鼓励金.c.i
+1~1000/594_Magry的微信鼓励金_求众数算法.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金_求众数算法.c.i
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.c.i
 
-1~1000/594_Magry的微信鼓励金.s: 1~1000/594_Magry的微信鼓励金.c.s
-.PHONY : 1~1000/594_Magry的微信鼓励金.s
+1~1000/594_Magry的微信鼓励金_求众数算法.s: 1~1000/594_Magry的微信鼓励金_求众数算法.c.s
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.s
 
 # target to generate assembly for a file
-1~1000/594_Magry的微信鼓励金.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金.c.s
-.PHONY : 1~1000/594_Magry的微信鼓励金.c.s
+1~1000/594_Magry的微信鼓励金_求众数算法.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/594_Magry的微信鼓励金_求众数算法.c.s
+.PHONY : 1~1000/594_Magry的微信鼓励金_求众数算法.c.s
 
 1~1000/598_王助教填数独.obj: 1~1000/598_王助教填数独.c.obj
 .PHONY : 1~1000/598_王助教填数独.obj
@@ -12991,30 +12511,6 @@ BUAA_OJ_Project/fast:
 1~1000/606_王助教又填数独.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/606_王助教又填数独.c.s
 .PHONY : 1~1000/606_王助教又填数独.c.s
-
-1~1000/607_Magry再度出山_最近最远点对.obj: 1~1000/607_Magry再度出山_最近最远点对.cpp.obj
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.obj
-
-# target to build an object file
-1~1000/607_Magry再度出山_最近最远点对.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/607_Magry再度出山_最近最远点对.cpp.obj
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.cpp.obj
-
-1~1000/607_Magry再度出山_最近最远点对.i: 1~1000/607_Magry再度出山_最近最远点对.cpp.i
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.i
-
-# target to preprocess a source file
-1~1000/607_Magry再度出山_最近最远点对.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/607_Magry再度出山_最近最远点对.cpp.i
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.cpp.i
-
-1~1000/607_Magry再度出山_最近最远点对.s: 1~1000/607_Magry再度出山_最近最远点对.cpp.s
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.s
-
-# target to generate assembly for a file
-1~1000/607_Magry再度出山_最近最远点对.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/607_Magry再度出山_最近最远点对.cpp.s
-.PHONY : 1~1000/607_Magry再度出山_最近最远点对.cpp.s
 
 1~1000/609_最小内积.obj: 1~1000/609_最小内积.c.obj
 .PHONY : 1~1000/609_最小内积.obj
@@ -13807,30 +13303,6 @@ BUAA_OJ_Project/fast:
 1~1000/66_日期计算.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/66_日期计算.c.s
 .PHONY : 1~1000/66_日期计算.c.s
-
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj: 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj
-
-# target to build an object file
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
-
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.i: 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.i
-
-# target to preprocess a source file
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
-
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.s: 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.s
-
-# target to generate assembly for a file
-1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
-.PHONY : 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
 
 1~1000/672_简单·最大公约数.obj: 1~1000/672_简单·最大公约数.c.obj
 .PHONY : 1~1000/672_简单·最大公约数.obj
@@ -15392,30 +14864,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/74_临近的虚实.c.s
 .PHONY : 1~1000/74_临近的虚实.c.s
 
-1~1000/750_DH的出行规划map.obj: 1~1000/750_DH的出行规划map.cpp.obj
-.PHONY : 1~1000/750_DH的出行规划map.obj
-
-# target to build an object file
-1~1000/750_DH的出行规划map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/750_DH的出行规划map.cpp.obj
-.PHONY : 1~1000/750_DH的出行规划map.cpp.obj
-
-1~1000/750_DH的出行规划map.i: 1~1000/750_DH的出行规划map.cpp.i
-.PHONY : 1~1000/750_DH的出行规划map.i
-
-# target to preprocess a source file
-1~1000/750_DH的出行规划map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/750_DH的出行规划map.cpp.i
-.PHONY : 1~1000/750_DH的出行规划map.cpp.i
-
-1~1000/750_DH的出行规划map.s: 1~1000/750_DH的出行规划map.cpp.s
-.PHONY : 1~1000/750_DH的出行规划map.s
-
-# target to generate assembly for a file
-1~1000/750_DH的出行规划map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/750_DH的出行规划map.cpp.s
-.PHONY : 1~1000/750_DH的出行规划map.cpp.s
-
 1~1000/751_Mdd的二叉树.obj: 1~1000/751_Mdd的二叉树.c.obj
 .PHONY : 1~1000/751_Mdd的二叉树.obj
 
@@ -15751,30 +15199,6 @@ BUAA_OJ_Project/fast:
 1~1000/76_jhljx学素数.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/76_jhljx学素数.c.s
 .PHONY : 1~1000/76_jhljx学素数.c.s
-
-1~1000/770_DH的邮件系统map.obj: 1~1000/770_DH的邮件系统map.cpp.obj
-.PHONY : 1~1000/770_DH的邮件系统map.obj
-
-# target to build an object file
-1~1000/770_DH的邮件系统map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/770_DH的邮件系统map.cpp.obj
-.PHONY : 1~1000/770_DH的邮件系统map.cpp.obj
-
-1~1000/770_DH的邮件系统map.i: 1~1000/770_DH的邮件系统map.cpp.i
-.PHONY : 1~1000/770_DH的邮件系统map.i
-
-# target to preprocess a source file
-1~1000/770_DH的邮件系统map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/770_DH的邮件系统map.cpp.i
-.PHONY : 1~1000/770_DH的邮件系统map.cpp.i
-
-1~1000/770_DH的邮件系统map.s: 1~1000/770_DH的邮件系统map.cpp.s
-.PHONY : 1~1000/770_DH的邮件系统map.s
-
-# target to generate assembly for a file
-1~1000/770_DH的邮件系统map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/770_DH的邮件系统map.cpp.s
-.PHONY : 1~1000/770_DH的邮件系统map.cpp.s
 
 1~1000/771_Mdd的二叉树(III).obj: 1~1000/771_Mdd的二叉树(III).c.obj
 .PHONY : 1~1000/771_Mdd的二叉树(III).obj
@@ -16256,54 +15680,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/812_ModricWang的布线问题_II.c.s
 .PHONY : 1~1000/812_ModricWang的布线问题_II.c.s
 
-1~1000/813_Mdd去旅游map.obj: 1~1000/813_Mdd去旅游map.cpp.obj
-.PHONY : 1~1000/813_Mdd去旅游map.obj
-
-# target to build an object file
-1~1000/813_Mdd去旅游map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/813_Mdd去旅游map.cpp.obj
-.PHONY : 1~1000/813_Mdd去旅游map.cpp.obj
-
-1~1000/813_Mdd去旅游map.i: 1~1000/813_Mdd去旅游map.cpp.i
-.PHONY : 1~1000/813_Mdd去旅游map.i
-
-# target to preprocess a source file
-1~1000/813_Mdd去旅游map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/813_Mdd去旅游map.cpp.i
-.PHONY : 1~1000/813_Mdd去旅游map.cpp.i
-
-1~1000/813_Mdd去旅游map.s: 1~1000/813_Mdd去旅游map.cpp.s
-.PHONY : 1~1000/813_Mdd去旅游map.s
-
-# target to generate assembly for a file
-1~1000/813_Mdd去旅游map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/813_Mdd去旅游map.cpp.s
-.PHONY : 1~1000/813_Mdd去旅游map.cpp.s
-
-1~1000/814_DH去看球map.obj: 1~1000/814_DH去看球map.cpp.obj
-.PHONY : 1~1000/814_DH去看球map.obj
-
-# target to build an object file
-1~1000/814_DH去看球map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.obj
-.PHONY : 1~1000/814_DH去看球map.cpp.obj
-
-1~1000/814_DH去看球map.i: 1~1000/814_DH去看球map.cpp.i
-.PHONY : 1~1000/814_DH去看球map.i
-
-# target to preprocess a source file
-1~1000/814_DH去看球map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.i
-.PHONY : 1~1000/814_DH去看球map.cpp.i
-
-1~1000/814_DH去看球map.s: 1~1000/814_DH去看球map.cpp.s
-.PHONY : 1~1000/814_DH去看球map.s
-
-# target to generate assembly for a file
-1~1000/814_DH去看球map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/814_DH去看球map.cpp.s
-.PHONY : 1~1000/814_DH去看球map.cpp.s
-
 1~1000/815_ModricWang的局域网.obj: 1~1000/815_ModricWang的局域网.c.obj
 .PHONY : 1~1000/815_ModricWang的局域网.obj
 
@@ -16400,30 +15776,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/820_Mdd的栈(中).c.s
 .PHONY : 1~1000/820_Mdd的栈(中).c.s
 
-1~1000/821_DH的注册系统map.obj: 1~1000/821_DH的注册系统map.cpp.obj
-.PHONY : 1~1000/821_DH的注册系统map.obj
-
-# target to build an object file
-1~1000/821_DH的注册系统map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.obj
-.PHONY : 1~1000/821_DH的注册系统map.cpp.obj
-
-1~1000/821_DH的注册系统map.i: 1~1000/821_DH的注册系统map.cpp.i
-.PHONY : 1~1000/821_DH的注册系统map.i
-
-# target to preprocess a source file
-1~1000/821_DH的注册系统map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.i
-.PHONY : 1~1000/821_DH的注册系统map.cpp.i
-
-1~1000/821_DH的注册系统map.s: 1~1000/821_DH的注册系统map.cpp.s
-.PHONY : 1~1000/821_DH的注册系统map.s
-
-# target to generate assembly for a file
-1~1000/821_DH的注册系统map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/821_DH的注册系统map.cpp.s
-.PHONY : 1~1000/821_DH的注册系统map.cpp.s
-
 1~1000/822_DH的括号匹配.obj: 1~1000/822_DH的括号匹配.c.obj
 .PHONY : 1~1000/822_DH的括号匹配.obj
 
@@ -16447,30 +15799,6 @@ BUAA_OJ_Project/fast:
 1~1000/822_DH的括号匹配.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/822_DH的括号匹配.c.s
 .PHONY : 1~1000/822_DH的括号匹配.c.s
-
-1~1000/824_DH的城市安全rotate.obj: 1~1000/824_DH的城市安全rotate.cpp.obj
-.PHONY : 1~1000/824_DH的城市安全rotate.obj
-
-# target to build an object file
-1~1000/824_DH的城市安全rotate.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.obj
-.PHONY : 1~1000/824_DH的城市安全rotate.cpp.obj
-
-1~1000/824_DH的城市安全rotate.i: 1~1000/824_DH的城市安全rotate.cpp.i
-.PHONY : 1~1000/824_DH的城市安全rotate.i
-
-# target to preprocess a source file
-1~1000/824_DH的城市安全rotate.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.i
-.PHONY : 1~1000/824_DH的城市安全rotate.cpp.i
-
-1~1000/824_DH的城市安全rotate.s: 1~1000/824_DH的城市安全rotate.cpp.s
-.PHONY : 1~1000/824_DH的城市安全rotate.s
-
-# target to generate assembly for a file
-1~1000/824_DH的城市安全rotate.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/824_DH的城市安全rotate.cpp.s
-.PHONY : 1~1000/824_DH的城市安全rotate.cpp.s
 
 1~1000/825_ModricWang的星际旅行（中难）.obj: 1~1000/825_ModricWang的星际旅行（中难）.c.obj
 .PHONY : 1~1000/825_ModricWang的星际旅行（中难）.obj
@@ -16640,30 +15968,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/837_管理员的忧伤.c.s
 .PHONY : 1~1000/837_管理员的忧伤.c.s
 
-1~1000/838_小太阳_树的最长链dfs_快读_map.obj: 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.obj
-
-# target to build an object file
-1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.obj
-
-1~1000/838_小太阳_树的最长链dfs_快读_map.i: 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.i
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.i
-
-# target to preprocess a source file
-1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.i
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.i
-
-1~1000/838_小太阳_树的最长链dfs_快读_map.s: 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.s
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.s
-
-# target to generate assembly for a file
-1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.s
-.PHONY : 1~1000/838_小太阳_树的最长链dfs_快读_map.cpp.s
-
 1~1000/83_双11就要到啦.obj: 1~1000/83_双11就要到啦.c.obj
 .PHONY : 1~1000/83_双11就要到啦.obj
 
@@ -16687,30 +15991,6 @@ BUAA_OJ_Project/fast:
 1~1000/83_双11就要到啦.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/83_双11就要到啦.c.s
 .PHONY : 1~1000/83_双11就要到啦.c.s
-
-1~1000/840_后羿射日_-_ver._easy.obj: 1~1000/840_后羿射日_-_ver._easy.cpp.obj
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.obj
-
-# target to build an object file
-1~1000/840_后羿射日_-_ver._easy.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.obj
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.cpp.obj
-
-1~1000/840_后羿射日_-_ver._easy.i: 1~1000/840_后羿射日_-_ver._easy.cpp.i
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.i
-
-# target to preprocess a source file
-1~1000/840_后羿射日_-_ver._easy.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.i
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.cpp.i
-
-1~1000/840_后羿射日_-_ver._easy.s: 1~1000/840_后羿射日_-_ver._easy.cpp.s
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.s
-
-# target to generate assembly for a file
-1~1000/840_后羿射日_-_ver._easy.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/840_后羿射日_-_ver._easy.cpp.s
-.PHONY : 1~1000/840_后羿射日_-_ver._easy.cpp.s
 
 1~1000/841_哦~我的女神！.obj: 1~1000/841_哦~我的女神！.c.obj
 .PHONY : 1~1000/841_哦~我的女神！.obj
@@ -18512,54 +17792,6 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.s
 .PHONY : 2001~3000/2356_位运算.c.s
 
-2001~3000/2368_二叉搜索树的和值_VEB树_map.obj: 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.obj
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.obj
-
-# target to build an object file
-2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.obj
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.obj
-
-2001~3000/2368_二叉搜索树的和值_VEB树_map.i: 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.i
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.i
-
-# target to preprocess a source file
-2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.i
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.i
-
-2001~3000/2368_二叉搜索树的和值_VEB树_map.s: 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.s
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.s
-
-# target to generate assembly for a file
-2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.s
-.PHONY : 2001~3000/2368_二叉搜索树的和值_VEB树_map.cpp.s
-
-2001~3000/2368_二叉搜索树的和值_手写红黑树.obj: 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.obj
-
-# target to build an object file
-2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-
-2001~3000/2368_二叉搜索树的和值_手写红黑树.i: 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.i
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.i
-
-# target to preprocess a source file
-2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.i
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.i
-
-2001~3000/2368_二叉搜索树的和值_手写红黑树.s: 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.s
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.s
-
-# target to generate assembly for a file
-2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.s
-.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.cpp.s
-
 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj: 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.c.obj
 .PHONY : 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj
 
@@ -19975,30 +19207,6 @@ BUAA_OJ_Project/fast:
 2001~3000/2759_k关键字排序.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.s
 .PHONY : 2001~3000/2759_k关键字排序.c.s
-
-2001~3000/2992_隔离_计算几何.obj: 2001~3000/2992_隔离_计算几何.cpp.obj
-.PHONY : 2001~3000/2992_隔离_计算几何.obj
-
-# target to build an object file
-2001~3000/2992_隔离_计算几何.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2992_隔离_计算几何.cpp.obj
-.PHONY : 2001~3000/2992_隔离_计算几何.cpp.obj
-
-2001~3000/2992_隔离_计算几何.i: 2001~3000/2992_隔离_计算几何.cpp.i
-.PHONY : 2001~3000/2992_隔离_计算几何.i
-
-# target to preprocess a source file
-2001~3000/2992_隔离_计算几何.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2992_隔离_计算几何.cpp.i
-.PHONY : 2001~3000/2992_隔离_计算几何.cpp.i
-
-2001~3000/2992_隔离_计算几何.s: 2001~3000/2992_隔离_计算几何.cpp.s
-.PHONY : 2001~3000/2992_隔离_计算几何.s
-
-# target to generate assembly for a file
-2001~3000/2992_隔离_计算几何.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2992_隔离_计算几何.cpp.s
-.PHONY : 2001~3000/2992_隔离_计算几何.cpp.s
 
 3001~4000/3014_奇怪的排序_另解.obj: 3001~4000/3014_奇怪的排序_另解.c.obj
 .PHONY : 3001~4000/3014_奇怪的排序_另解.obj
@@ -26240,6 +25448,630 @@ deque/388_中等-王po买瓜.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/deque/388_中等-王po买瓜.cpp.s
 .PHONY : deque/388_中等-王po买瓜.cpp.s
 
+map/1234_学生信息unordered_map.obj: map/1234_学生信息unordered_map.cpp.obj
+.PHONY : map/1234_学生信息unordered_map.obj
+
+# target to build an object file
+map/1234_学生信息unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1234_学生信息unordered_map.cpp.obj
+.PHONY : map/1234_学生信息unordered_map.cpp.obj
+
+map/1234_学生信息unordered_map.i: map/1234_学生信息unordered_map.cpp.i
+.PHONY : map/1234_学生信息unordered_map.i
+
+# target to preprocess a source file
+map/1234_学生信息unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1234_学生信息unordered_map.cpp.i
+.PHONY : map/1234_学生信息unordered_map.cpp.i
+
+map/1234_学生信息unordered_map.s: map/1234_学生信息unordered_map.cpp.s
+.PHONY : map/1234_学生信息unordered_map.s
+
+# target to generate assembly for a file
+map/1234_学生信息unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1234_学生信息unordered_map.cpp.s
+.PHONY : map/1234_学生信息unordered_map.cpp.s
+
+map/131_条形统计图.obj: map/131_条形统计图.cpp.obj
+.PHONY : map/131_条形统计图.obj
+
+# target to build an object file
+map/131_条形统计图.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/131_条形统计图.cpp.obj
+.PHONY : map/131_条形统计图.cpp.obj
+
+map/131_条形统计图.i: map/131_条形统计图.cpp.i
+.PHONY : map/131_条形统计图.i
+
+# target to preprocess a source file
+map/131_条形统计图.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/131_条形统计图.cpp.i
+.PHONY : map/131_条形统计图.cpp.i
+
+map/131_条形统计图.s: map/131_条形统计图.cpp.s
+.PHONY : map/131_条形统计图.s
+
+# target to generate assembly for a file
+map/131_条形统计图.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/131_条形统计图.cpp.s
+.PHONY : map/131_条形统计图.cpp.s
+
+map/136_满天繁星.obj: map/136_满天繁星.cpp.obj
+.PHONY : map/136_满天繁星.obj
+
+# target to build an object file
+map/136_满天繁星.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/136_满天繁星.cpp.obj
+.PHONY : map/136_满天繁星.cpp.obj
+
+map/136_满天繁星.i: map/136_满天繁星.cpp.i
+.PHONY : map/136_满天繁星.i
+
+# target to preprocess a source file
+map/136_满天繁星.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/136_满天繁星.cpp.i
+.PHONY : map/136_满天繁星.cpp.i
+
+map/136_满天繁星.s: map/136_满天繁星.cpp.s
+.PHONY : map/136_满天繁星.s
+
+# target to generate assembly for a file
+map/136_满天繁星.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/136_满天繁星.cpp.s
+.PHONY : map/136_满天繁星.cpp.s
+
+map/1508_SkyLee的图书整理.obj: map/1508_SkyLee的图书整理.cpp.obj
+.PHONY : map/1508_SkyLee的图书整理.obj
+
+# target to build an object file
+map/1508_SkyLee的图书整理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1508_SkyLee的图书整理.cpp.obj
+.PHONY : map/1508_SkyLee的图书整理.cpp.obj
+
+map/1508_SkyLee的图书整理.i: map/1508_SkyLee的图书整理.cpp.i
+.PHONY : map/1508_SkyLee的图书整理.i
+
+# target to preprocess a source file
+map/1508_SkyLee的图书整理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1508_SkyLee的图书整理.cpp.i
+.PHONY : map/1508_SkyLee的图书整理.cpp.i
+
+map/1508_SkyLee的图书整理.s: map/1508_SkyLee的图书整理.cpp.s
+.PHONY : map/1508_SkyLee的图书整理.s
+
+# target to generate assembly for a file
+map/1508_SkyLee的图书整理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/1508_SkyLee的图书整理.cpp.s
+.PHONY : map/1508_SkyLee的图书整理.cpp.s
+
+map/169_元素查找unordered_map.obj: map/169_元素查找unordered_map.cpp.obj
+.PHONY : map/169_元素查找unordered_map.obj
+
+# target to build an object file
+map/169_元素查找unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/169_元素查找unordered_map.cpp.obj
+.PHONY : map/169_元素查找unordered_map.cpp.obj
+
+map/169_元素查找unordered_map.i: map/169_元素查找unordered_map.cpp.i
+.PHONY : map/169_元素查找unordered_map.i
+
+# target to preprocess a source file
+map/169_元素查找unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/169_元素查找unordered_map.cpp.i
+.PHONY : map/169_元素查找unordered_map.cpp.i
+
+map/169_元素查找unordered_map.s: map/169_元素查找unordered_map.cpp.s
+.PHONY : map/169_元素查找unordered_map.s
+
+# target to generate assembly for a file
+map/169_元素查找unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/169_元素查找unordered_map.cpp.s
+.PHONY : map/169_元素查找unordered_map.cpp.s
+
+map/179_这货不是二分unordered_map.obj: map/179_这货不是二分unordered_map.cpp.obj
+.PHONY : map/179_这货不是二分unordered_map.obj
+
+# target to build an object file
+map/179_这货不是二分unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/179_这货不是二分unordered_map.cpp.obj
+.PHONY : map/179_这货不是二分unordered_map.cpp.obj
+
+map/179_这货不是二分unordered_map.i: map/179_这货不是二分unordered_map.cpp.i
+.PHONY : map/179_这货不是二分unordered_map.i
+
+# target to preprocess a source file
+map/179_这货不是二分unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/179_这货不是二分unordered_map.cpp.i
+.PHONY : map/179_这货不是二分unordered_map.cpp.i
+
+map/179_这货不是二分unordered_map.s: map/179_这货不是二分unordered_map.cpp.s
+.PHONY : map/179_这货不是二分unordered_map.s
+
+# target to generate assembly for a file
+map/179_这货不是二分unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/179_这货不是二分unordered_map.cpp.s
+.PHONY : map/179_这货不是二分unordered_map.cpp.s
+
+map/221_Statistics（中等）unordered_map.obj: map/221_Statistics（中等）unordered_map.cpp.obj
+.PHONY : map/221_Statistics（中等）unordered_map.obj
+
+# target to build an object file
+map/221_Statistics（中等）unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/221_Statistics（中等）unordered_map.cpp.obj
+.PHONY : map/221_Statistics（中等）unordered_map.cpp.obj
+
+map/221_Statistics（中等）unordered_map.i: map/221_Statistics（中等）unordered_map.cpp.i
+.PHONY : map/221_Statistics（中等）unordered_map.i
+
+# target to preprocess a source file
+map/221_Statistics（中等）unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/221_Statistics（中等）unordered_map.cpp.i
+.PHONY : map/221_Statistics（中等）unordered_map.cpp.i
+
+map/221_Statistics（中等）unordered_map.s: map/221_Statistics（中等）unordered_map.cpp.s
+.PHONY : map/221_Statistics（中等）unordered_map.s
+
+# target to generate assembly for a file
+map/221_Statistics（中等）unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/221_Statistics（中等）unordered_map.cpp.s
+.PHONY : map/221_Statistics（中等）unordered_map.cpp.s
+
+map/223_Chem_is_a_try！（难）.obj: map/223_Chem_is_a_try！（难）.cpp.obj
+.PHONY : map/223_Chem_is_a_try！（难）.obj
+
+# target to build an object file
+map/223_Chem_is_a_try！（难）.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/223_Chem_is_a_try！（难）.cpp.obj
+.PHONY : map/223_Chem_is_a_try！（难）.cpp.obj
+
+map/223_Chem_is_a_try！（难）.i: map/223_Chem_is_a_try！（难）.cpp.i
+.PHONY : map/223_Chem_is_a_try！（难）.i
+
+# target to preprocess a source file
+map/223_Chem_is_a_try！（难）.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/223_Chem_is_a_try！（难）.cpp.i
+.PHONY : map/223_Chem_is_a_try！（难）.cpp.i
+
+map/223_Chem_is_a_try！（难）.s: map/223_Chem_is_a_try！（难）.cpp.s
+.PHONY : map/223_Chem_is_a_try！（难）.s
+
+# target to generate assembly for a file
+map/223_Chem_is_a_try！（难）.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/223_Chem_is_a_try！（难）.cpp.s
+.PHONY : map/223_Chem_is_a_try！（难）.cpp.s
+
+map/2368_二叉搜索树的和值_VEB树.obj: map/2368_二叉搜索树的和值_VEB树.cpp.obj
+.PHONY : map/2368_二叉搜索树的和值_VEB树.obj
+
+# target to build an object file
+map/2368_二叉搜索树的和值_VEB树.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2368_二叉搜索树的和值_VEB树.cpp.obj
+.PHONY : map/2368_二叉搜索树的和值_VEB树.cpp.obj
+
+map/2368_二叉搜索树的和值_VEB树.i: map/2368_二叉搜索树的和值_VEB树.cpp.i
+.PHONY : map/2368_二叉搜索树的和值_VEB树.i
+
+# target to preprocess a source file
+map/2368_二叉搜索树的和值_VEB树.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2368_二叉搜索树的和值_VEB树.cpp.i
+.PHONY : map/2368_二叉搜索树的和值_VEB树.cpp.i
+
+map/2368_二叉搜索树的和值_VEB树.s: map/2368_二叉搜索树的和值_VEB树.cpp.s
+.PHONY : map/2368_二叉搜索树的和值_VEB树.s
+
+# target to generate assembly for a file
+map/2368_二叉搜索树的和值_VEB树.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2368_二叉搜索树的和值_VEB树.cpp.s
+.PHONY : map/2368_二叉搜索树的和值_VEB树.cpp.s
+
+map/2980_14._超市收银系统.obj: map/2980_14._超市收银系统.cpp.obj
+.PHONY : map/2980_14._超市收银系统.obj
+
+# target to build an object file
+map/2980_14._超市收银系统.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2980_14._超市收银系统.cpp.obj
+.PHONY : map/2980_14._超市收银系统.cpp.obj
+
+map/2980_14._超市收银系统.i: map/2980_14._超市收银系统.cpp.i
+.PHONY : map/2980_14._超市收银系统.i
+
+# target to preprocess a source file
+map/2980_14._超市收银系统.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2980_14._超市收银系统.cpp.i
+.PHONY : map/2980_14._超市收银系统.cpp.i
+
+map/2980_14._超市收银系统.s: map/2980_14._超市收银系统.cpp.s
+.PHONY : map/2980_14._超市收银系统.s
+
+# target to generate assembly for a file
+map/2980_14._超市收银系统.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/2980_14._超市收银系统.cpp.s
+.PHONY : map/2980_14._超市收银系统.cpp.s
+
+map/301_魔王与你相约I.obj: map/301_魔王与你相约I.cpp.obj
+.PHONY : map/301_魔王与你相约I.obj
+
+# target to build an object file
+map/301_魔王与你相约I.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/301_魔王与你相约I.cpp.obj
+.PHONY : map/301_魔王与你相约I.cpp.obj
+
+map/301_魔王与你相约I.i: map/301_魔王与你相约I.cpp.i
+.PHONY : map/301_魔王与你相约I.i
+
+# target to preprocess a source file
+map/301_魔王与你相约I.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/301_魔王与你相约I.cpp.i
+.PHONY : map/301_魔王与你相约I.cpp.i
+
+map/301_魔王与你相约I.s: map/301_魔王与你相约I.cpp.s
+.PHONY : map/301_魔王与你相约I.s
+
+# target to generate assembly for a file
+map/301_魔王与你相约I.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/301_魔王与你相约I.cpp.s
+.PHONY : map/301_魔王与你相约I.cpp.s
+
+map/351_microhhh的名字统计.obj: map/351_microhhh的名字统计.cpp.obj
+.PHONY : map/351_microhhh的名字统计.obj
+
+# target to build an object file
+map/351_microhhh的名字统计.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/351_microhhh的名字统计.cpp.obj
+.PHONY : map/351_microhhh的名字统计.cpp.obj
+
+map/351_microhhh的名字统计.i: map/351_microhhh的名字统计.cpp.i
+.PHONY : map/351_microhhh的名字统计.i
+
+# target to preprocess a source file
+map/351_microhhh的名字统计.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/351_microhhh的名字统计.cpp.i
+.PHONY : map/351_microhhh的名字统计.cpp.i
+
+map/351_microhhh的名字统计.s: map/351_microhhh的名字统计.cpp.s
+.PHONY : map/351_microhhh的名字统计.s
+
+# target to generate assembly for a file
+map/351_microhhh的名字统计.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/351_microhhh的名字统计.cpp.s
+.PHONY : map/351_microhhh的名字统计.cpp.s
+
+map/379_中等题-不同数字的个数_离线+树状数组.obj: map/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.obj
+
+# target to build an object file
+map/379_中等题-不同数字的个数_离线+树状数组.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.cpp.obj
+
+map/379_中等题-不同数字的个数_离线+树状数组.i: map/379_中等题-不同数字的个数_离线+树状数组.cpp.i
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.i
+
+# target to preprocess a source file
+map/379_中等题-不同数字的个数_离线+树状数组.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/379_中等题-不同数字的个数_离线+树状数组.cpp.i
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.cpp.i
+
+map/379_中等题-不同数字的个数_离线+树状数组.s: map/379_中等题-不同数字的个数_离线+树状数组.cpp.s
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.s
+
+# target to generate assembly for a file
+map/379_中等题-不同数字的个数_离线+树状数组.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/379_中等题-不同数字的个数_离线+树状数组.cpp.s
+.PHONY : map/379_中等题-不同数字的个数_离线+树状数组.cpp.s
+
+map/3951_（中等题）血战双十一unordered_map.obj: map/3951_（中等题）血战双十一unordered_map.cpp.obj
+.PHONY : map/3951_（中等题）血战双十一unordered_map.obj
+
+# target to build an object file
+map/3951_（中等题）血战双十一unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3951_（中等题）血战双十一unordered_map.cpp.obj
+.PHONY : map/3951_（中等题）血战双十一unordered_map.cpp.obj
+
+map/3951_（中等题）血战双十一unordered_map.i: map/3951_（中等题）血战双十一unordered_map.cpp.i
+.PHONY : map/3951_（中等题）血战双十一unordered_map.i
+
+# target to preprocess a source file
+map/3951_（中等题）血战双十一unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3951_（中等题）血战双十一unordered_map.cpp.i
+.PHONY : map/3951_（中等题）血战双十一unordered_map.cpp.i
+
+map/3951_（中等题）血战双十一unordered_map.s: map/3951_（中等题）血战双十一unordered_map.cpp.s
+.PHONY : map/3951_（中等题）血战双十一unordered_map.s
+
+# target to generate assembly for a file
+map/3951_（中等题）血战双十一unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3951_（中等题）血战双十一unordered_map.cpp.s
+.PHONY : map/3951_（中等题）血战双十一unordered_map.cpp.s
+
+map/3963_（中等题）礼物的价值_模拟_unordered_map.obj: map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.obj
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.obj
+
+# target to build an object file
+map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.obj
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.obj
+
+map/3963_（中等题）礼物的价值_模拟_unordered_map.i: map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.i
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.i
+
+# target to preprocess a source file
+map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.i
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.i
+
+map/3963_（中等题）礼物的价值_模拟_unordered_map.s: map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.s
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.s
+
+# target to generate assembly for a file
+map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.s
+.PHONY : map/3963_（中等题）礼物的价值_模拟_unordered_map.cpp.s
+
+map/4164_Who_hasn't_sign_up_unordered_map.obj: map/4164_Who_hasn't_sign_up_unordered_map.cpp.obj
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.obj
+
+# target to build an object file
+map/4164_Who_hasn't_sign_up_unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/map/4164_Who_hasn't_sign_up_unordered_map.cpp.obj"
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.cpp.obj
+
+map/4164_Who_hasn't_sign_up_unordered_map.i: map/4164_Who_hasn't_sign_up_unordered_map.cpp.i
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.i
+
+# target to preprocess a source file
+map/4164_Who_hasn't_sign_up_unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/map/4164_Who_hasn't_sign_up_unordered_map.cpp.i"
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.cpp.i
+
+map/4164_Who_hasn't_sign_up_unordered_map.s: map/4164_Who_hasn't_sign_up_unordered_map.cpp.s
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.s
+
+# target to generate assembly for a file
+map/4164_Who_hasn't_sign_up_unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/map/4164_Who_hasn't_sign_up_unordered_map.cpp.s"
+.PHONY : map/4164_Who_hasn't_sign_up_unordered_map.cpp.s
+
+map/420_jhljx的最长零子数组.obj: map/420_jhljx的最长零子数组.cpp.obj
+.PHONY : map/420_jhljx的最长零子数组.obj
+
+# target to build an object file
+map/420_jhljx的最长零子数组.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/420_jhljx的最长零子数组.cpp.obj
+.PHONY : map/420_jhljx的最长零子数组.cpp.obj
+
+map/420_jhljx的最长零子数组.i: map/420_jhljx的最长零子数组.cpp.i
+.PHONY : map/420_jhljx的最长零子数组.i
+
+# target to preprocess a source file
+map/420_jhljx的最长零子数组.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/420_jhljx的最长零子数组.cpp.i
+.PHONY : map/420_jhljx的最长零子数组.cpp.i
+
+map/420_jhljx的最长零子数组.s: map/420_jhljx的最长零子数组.cpp.s
+.PHONY : map/420_jhljx的最长零子数组.s
+
+# target to generate assembly for a file
+map/420_jhljx的最长零子数组.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/420_jhljx的最长零子数组.cpp.s
+.PHONY : map/420_jhljx的最长零子数组.cpp.s
+
+map/511_王助教凑七对子.obj: map/511_王助教凑七对子.cpp.obj
+.PHONY : map/511_王助教凑七对子.obj
+
+# target to build an object file
+map/511_王助教凑七对子.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/511_王助教凑七对子.cpp.obj
+.PHONY : map/511_王助教凑七对子.cpp.obj
+
+map/511_王助教凑七对子.i: map/511_王助教凑七对子.cpp.i
+.PHONY : map/511_王助教凑七对子.i
+
+# target to preprocess a source file
+map/511_王助教凑七对子.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/511_王助教凑七对子.cpp.i
+.PHONY : map/511_王助教凑七对子.cpp.i
+
+map/511_王助教凑七对子.s: map/511_王助教凑七对子.cpp.s
+.PHONY : map/511_王助教凑七对子.s
+
+# target to generate assembly for a file
+map/511_王助教凑七对子.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/511_王助教凑七对子.cpp.s
+.PHONY : map/511_王助教凑七对子.cpp.s
+
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.obj: map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.obj
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.obj
+
+# target to build an object file
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.obj
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.obj
+
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.i: map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.i
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.i
+
+# target to preprocess a source file
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.i
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.i
+
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.s: map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.s
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.s
+
+# target to generate assembly for a file
+map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.s
+.PHONY : map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.cpp.s
+
+map/574_空间旅行unordered_map.obj: map/574_空间旅行unordered_map.cpp.obj
+.PHONY : map/574_空间旅行unordered_map.obj
+
+# target to build an object file
+map/574_空间旅行unordered_map.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/574_空间旅行unordered_map.cpp.obj
+.PHONY : map/574_空间旅行unordered_map.cpp.obj
+
+map/574_空间旅行unordered_map.i: map/574_空间旅行unordered_map.cpp.i
+.PHONY : map/574_空间旅行unordered_map.i
+
+# target to preprocess a source file
+map/574_空间旅行unordered_map.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/574_空间旅行unordered_map.cpp.i
+.PHONY : map/574_空间旅行unordered_map.cpp.i
+
+map/574_空间旅行unordered_map.s: map/574_空间旅行unordered_map.cpp.s
+.PHONY : map/574_空间旅行unordered_map.s
+
+# target to generate assembly for a file
+map/574_空间旅行unordered_map.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/574_空间旅行unordered_map.cpp.s
+.PHONY : map/574_空间旅行unordered_map.cpp.s
+
+map/750_DH的出行规划.obj: map/750_DH的出行规划.cpp.obj
+.PHONY : map/750_DH的出行规划.obj
+
+# target to build an object file
+map/750_DH的出行规划.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/750_DH的出行规划.cpp.obj
+.PHONY : map/750_DH的出行规划.cpp.obj
+
+map/750_DH的出行规划.i: map/750_DH的出行规划.cpp.i
+.PHONY : map/750_DH的出行规划.i
+
+# target to preprocess a source file
+map/750_DH的出行规划.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/750_DH的出行规划.cpp.i
+.PHONY : map/750_DH的出行规划.cpp.i
+
+map/750_DH的出行规划.s: map/750_DH的出行规划.cpp.s
+.PHONY : map/750_DH的出行规划.s
+
+# target to generate assembly for a file
+map/750_DH的出行规划.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/750_DH的出行规划.cpp.s
+.PHONY : map/750_DH的出行规划.cpp.s
+
+map/770_DH的邮件系统.obj: map/770_DH的邮件系统.cpp.obj
+.PHONY : map/770_DH的邮件系统.obj
+
+# target to build an object file
+map/770_DH的邮件系统.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/770_DH的邮件系统.cpp.obj
+.PHONY : map/770_DH的邮件系统.cpp.obj
+
+map/770_DH的邮件系统.i: map/770_DH的邮件系统.cpp.i
+.PHONY : map/770_DH的邮件系统.i
+
+# target to preprocess a source file
+map/770_DH的邮件系统.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/770_DH的邮件系统.cpp.i
+.PHONY : map/770_DH的邮件系统.cpp.i
+
+map/770_DH的邮件系统.s: map/770_DH的邮件系统.cpp.s
+.PHONY : map/770_DH的邮件系统.s
+
+# target to generate assembly for a file
+map/770_DH的邮件系统.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/770_DH的邮件系统.cpp.s
+.PHONY : map/770_DH的邮件系统.cpp.s
+
+map/813_Mdd去旅游.obj: map/813_Mdd去旅游.cpp.obj
+.PHONY : map/813_Mdd去旅游.obj
+
+# target to build an object file
+map/813_Mdd去旅游.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/813_Mdd去旅游.cpp.obj
+.PHONY : map/813_Mdd去旅游.cpp.obj
+
+map/813_Mdd去旅游.i: map/813_Mdd去旅游.cpp.i
+.PHONY : map/813_Mdd去旅游.i
+
+# target to preprocess a source file
+map/813_Mdd去旅游.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/813_Mdd去旅游.cpp.i
+.PHONY : map/813_Mdd去旅游.cpp.i
+
+map/813_Mdd去旅游.s: map/813_Mdd去旅游.cpp.s
+.PHONY : map/813_Mdd去旅游.s
+
+# target to generate assembly for a file
+map/813_Mdd去旅游.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/813_Mdd去旅游.cpp.s
+.PHONY : map/813_Mdd去旅游.cpp.s
+
+map/814_DH去看球.obj: map/814_DH去看球.cpp.obj
+.PHONY : map/814_DH去看球.obj
+
+# target to build an object file
+map/814_DH去看球.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/814_DH去看球.cpp.obj
+.PHONY : map/814_DH去看球.cpp.obj
+
+map/814_DH去看球.i: map/814_DH去看球.cpp.i
+.PHONY : map/814_DH去看球.i
+
+# target to preprocess a source file
+map/814_DH去看球.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/814_DH去看球.cpp.i
+.PHONY : map/814_DH去看球.cpp.i
+
+map/814_DH去看球.s: map/814_DH去看球.cpp.s
+.PHONY : map/814_DH去看球.s
+
+# target to generate assembly for a file
+map/814_DH去看球.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/814_DH去看球.cpp.s
+.PHONY : map/814_DH去看球.cpp.s
+
+map/821_DH的注册系统.obj: map/821_DH的注册系统.cpp.obj
+.PHONY : map/821_DH的注册系统.obj
+
+# target to build an object file
+map/821_DH的注册系统.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/821_DH的注册系统.cpp.obj
+.PHONY : map/821_DH的注册系统.cpp.obj
+
+map/821_DH的注册系统.i: map/821_DH的注册系统.cpp.i
+.PHONY : map/821_DH的注册系统.i
+
+# target to preprocess a source file
+map/821_DH的注册系统.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/821_DH的注册系统.cpp.i
+.PHONY : map/821_DH的注册系统.cpp.i
+
+map/821_DH的注册系统.s: map/821_DH的注册系统.cpp.s
+.PHONY : map/821_DH的注册系统.s
+
+# target to generate assembly for a file
+map/821_DH的注册系统.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/821_DH的注册系统.cpp.s
+.PHONY : map/821_DH的注册系统.cpp.s
+
+map/838_小太阳_树的最长链dfs_快读.obj: map/838_小太阳_树的最长链dfs_快读.cpp.obj
+.PHONY : map/838_小太阳_树的最长链dfs_快读.obj
+
+# target to build an object file
+map/838_小太阳_树的最长链dfs_快读.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/838_小太阳_树的最长链dfs_快读.cpp.obj
+.PHONY : map/838_小太阳_树的最长链dfs_快读.cpp.obj
+
+map/838_小太阳_树的最长链dfs_快读.i: map/838_小太阳_树的最长链dfs_快读.cpp.i
+.PHONY : map/838_小太阳_树的最长链dfs_快读.i
+
+# target to preprocess a source file
+map/838_小太阳_树的最长链dfs_快读.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/838_小太阳_树的最长链dfs_快读.cpp.i
+.PHONY : map/838_小太阳_树的最长链dfs_快读.cpp.i
+
+map/838_小太阳_树的最长链dfs_快读.s: map/838_小太阳_树的最长链dfs_快读.cpp.s
+.PHONY : map/838_小太阳_树的最长链dfs_快读.s
+
+# target to generate assembly for a file
+map/838_小太阳_树的最长链dfs_快读.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/map/838_小太阳_树的最长链dfs_快读.cpp.s
+.PHONY : map/838_小太阳_树的最长链dfs_快读.cpp.s
+
 nth_element/1518_第k顺序统计量.obj: nth_element/1518_第k顺序统计量.cpp.obj
 .PHONY : nth_element/1518_第k顺序统计量.obj
 
@@ -26455,6 +26287,270 @@ nth_element/98_第三小整数.s: nth_element/98_第三小整数.cpp.s
 nth_element/98_第三小整数.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.s
 .PHONY : nth_element/98_第三小整数.cpp.s
+
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj: others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
+
+# target to build an object file
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
+
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.i: others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
+
+# target to preprocess a source file
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.i
+
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.s: others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
+
+# target to generate assembly for a file
+others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
+.PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
+
+others-cpp/2368_二叉搜索树的和值_手写红黑树.obj: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.obj
+
+# target to build an object file
+others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
+
+others-cpp/2368_二叉搜索树的和值_手写红黑树.i: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.i
+
+# target to preprocess a source file
+others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
+
+others-cpp/2368_二叉搜索树的和值_手写红黑树.s: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.s
+
+# target to generate assembly for a file
+others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
+.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
+
+others-cpp/260_难题——线段和直线_计算几何.obj: others-cpp/260_难题——线段和直线_计算几何.cpp.obj
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.obj
+
+# target to build an object file
+others-cpp/260_难题——线段和直线_计算几何.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/260_难题——线段和直线_计算几何.cpp.obj
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.cpp.obj
+
+others-cpp/260_难题——线段和直线_计算几何.i: others-cpp/260_难题——线段和直线_计算几何.cpp.i
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.i
+
+# target to preprocess a source file
+others-cpp/260_难题——线段和直线_计算几何.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/260_难题——线段和直线_计算几何.cpp.i
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.cpp.i
+
+others-cpp/260_难题——线段和直线_计算几何.s: others-cpp/260_难题——线段和直线_计算几何.cpp.s
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.s
+
+# target to generate assembly for a file
+others-cpp/260_难题——线段和直线_计算几何.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/260_难题——线段和直线_计算几何.cpp.s
+.PHONY : others-cpp/260_难题——线段和直线_计算几何.cpp.s
+
+others-cpp/2992_隔离_计算几何.obj: others-cpp/2992_隔离_计算几何.cpp.obj
+.PHONY : others-cpp/2992_隔离_计算几何.obj
+
+# target to build an object file
+others-cpp/2992_隔离_计算几何.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.obj
+.PHONY : others-cpp/2992_隔离_计算几何.cpp.obj
+
+others-cpp/2992_隔离_计算几何.i: others-cpp/2992_隔离_计算几何.cpp.i
+.PHONY : others-cpp/2992_隔离_计算几何.i
+
+# target to preprocess a source file
+others-cpp/2992_隔离_计算几何.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.i
+.PHONY : others-cpp/2992_隔离_计算几何.cpp.i
+
+others-cpp/2992_隔离_计算几何.s: others-cpp/2992_隔离_计算几何.cpp.s
+.PHONY : others-cpp/2992_隔离_计算几何.s
+
+# target to generate assembly for a file
+others-cpp/2992_隔离_计算几何.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.s
+.PHONY : others-cpp/2992_隔离_计算几何.cpp.s
+
+others-cpp/393_捷径（Shortcut）sort.obj: others-cpp/393_捷径（Shortcut）sort.cpp.obj
+.PHONY : others-cpp/393_捷径（Shortcut）sort.obj
+
+# target to build an object file
+others-cpp/393_捷径（Shortcut）sort.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/393_捷径（Shortcut）sort.cpp.obj
+.PHONY : others-cpp/393_捷径（Shortcut）sort.cpp.obj
+
+others-cpp/393_捷径（Shortcut）sort.i: others-cpp/393_捷径（Shortcut）sort.cpp.i
+.PHONY : others-cpp/393_捷径（Shortcut）sort.i
+
+# target to preprocess a source file
+others-cpp/393_捷径（Shortcut）sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/393_捷径（Shortcut）sort.cpp.i
+.PHONY : others-cpp/393_捷径（Shortcut）sort.cpp.i
+
+others-cpp/393_捷径（Shortcut）sort.s: others-cpp/393_捷径（Shortcut）sort.cpp.s
+.PHONY : others-cpp/393_捷径（Shortcut）sort.s
+
+# target to generate assembly for a file
+others-cpp/393_捷径（Shortcut）sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/393_捷径（Shortcut）sort.cpp.s
+.PHONY : others-cpp/393_捷径（Shortcut）sort.cpp.s
+
+others-cpp/424_jhljx上大学学数学_数论扩域.obj: others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.obj
+
+# target to build an object file
+others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj
+
+others-cpp/424_jhljx上大学学数学_数论扩域.i: others-cpp/424_jhljx上大学学数学_数论扩域.cpp.i
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.i
+
+# target to preprocess a source file
+others-cpp/424_jhljx上大学学数学_数论扩域.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/424_jhljx上大学学数学_数论扩域.cpp.i
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.cpp.i
+
+others-cpp/424_jhljx上大学学数学_数论扩域.s: others-cpp/424_jhljx上大学学数学_数论扩域.cpp.s
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.s
+
+# target to generate assembly for a file
+others-cpp/424_jhljx上大学学数学_数论扩域.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/424_jhljx上大学学数学_数论扩域.cpp.s
+.PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.cpp.s
+
+others-cpp/538_混乱的辈分关系_图论.obj: others-cpp/538_混乱的辈分关系_图论.cpp.obj
+.PHONY : others-cpp/538_混乱的辈分关系_图论.obj
+
+# target to build an object file
+others-cpp/538_混乱的辈分关系_图论.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/538_混乱的辈分关系_图论.cpp.obj
+.PHONY : others-cpp/538_混乱的辈分关系_图论.cpp.obj
+
+others-cpp/538_混乱的辈分关系_图论.i: others-cpp/538_混乱的辈分关系_图论.cpp.i
+.PHONY : others-cpp/538_混乱的辈分关系_图论.i
+
+# target to preprocess a source file
+others-cpp/538_混乱的辈分关系_图论.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/538_混乱的辈分关系_图论.cpp.i
+.PHONY : others-cpp/538_混乱的辈分关系_图论.cpp.i
+
+others-cpp/538_混乱的辈分关系_图论.s: others-cpp/538_混乱的辈分关系_图论.cpp.s
+.PHONY : others-cpp/538_混乱的辈分关系_图论.s
+
+# target to generate assembly for a file
+others-cpp/538_混乱的辈分关系_图论.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/538_混乱的辈分关系_图论.cpp.s
+.PHONY : others-cpp/538_混乱的辈分关系_图论.cpp.s
+
+others-cpp/607_Magry再度出山_最近最远点对.obj: others-cpp/607_Magry再度出山_最近最远点对.cpp.obj
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.obj
+
+# target to build an object file
+others-cpp/607_Magry再度出山_最近最远点对.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/607_Magry再度出山_最近最远点对.cpp.obj
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.cpp.obj
+
+others-cpp/607_Magry再度出山_最近最远点对.i: others-cpp/607_Magry再度出山_最近最远点对.cpp.i
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.i
+
+# target to preprocess a source file
+others-cpp/607_Magry再度出山_最近最远点对.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/607_Magry再度出山_最近最远点对.cpp.i
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.cpp.i
+
+others-cpp/607_Magry再度出山_最近最远点对.s: others-cpp/607_Magry再度出山_最近最远点对.cpp.s
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.s
+
+# target to generate assembly for a file
+others-cpp/607_Magry再度出山_最近最远点对.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/607_Magry再度出山_最近最远点对.cpp.s
+.PHONY : others-cpp/607_Magry再度出山_最近最远点对.cpp.s
+
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj: others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj
+
+# target to build an object file
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.obj
+
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.i: others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.i
+
+# target to preprocess a source file
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.i
+
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.s: others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.s
+
+# target to generate assembly for a file
+others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
+.PHONY : others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.cpp.s
+
+others-cpp/824_DH的城市安全rotate.obj: others-cpp/824_DH的城市安全rotate.cpp.obj
+.PHONY : others-cpp/824_DH的城市安全rotate.obj
+
+# target to build an object file
+others-cpp/824_DH的城市安全rotate.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/824_DH的城市安全rotate.cpp.obj
+.PHONY : others-cpp/824_DH的城市安全rotate.cpp.obj
+
+others-cpp/824_DH的城市安全rotate.i: others-cpp/824_DH的城市安全rotate.cpp.i
+.PHONY : others-cpp/824_DH的城市安全rotate.i
+
+# target to preprocess a source file
+others-cpp/824_DH的城市安全rotate.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/824_DH的城市安全rotate.cpp.i
+.PHONY : others-cpp/824_DH的城市安全rotate.cpp.i
+
+others-cpp/824_DH的城市安全rotate.s: others-cpp/824_DH的城市安全rotate.cpp.s
+.PHONY : others-cpp/824_DH的城市安全rotate.s
+
+# target to generate assembly for a file
+others-cpp/824_DH的城市安全rotate.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/824_DH的城市安全rotate.cpp.s
+.PHONY : others-cpp/824_DH的城市安全rotate.cpp.s
+
+others-cpp/840_后羿射日_-_ver._easy.obj: others-cpp/840_后羿射日_-_ver._easy.cpp.obj
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.obj
+
+# target to build an object file
+others-cpp/840_后羿射日_-_ver._easy.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/840_后羿射日_-_ver._easy.cpp.obj
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.cpp.obj
+
+others-cpp/840_后羿射日_-_ver._easy.i: others-cpp/840_后羿射日_-_ver._easy.cpp.i
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.i
+
+# target to preprocess a source file
+others-cpp/840_后羿射日_-_ver._easy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/840_后羿射日_-_ver._easy.cpp.i
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.cpp.i
+
+others-cpp/840_后羿射日_-_ver._easy.s: others-cpp/840_后羿射日_-_ver._easy.cpp.s
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.s
+
+# target to generate assembly for a file
+others-cpp/840_后羿射日_-_ver._easy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/840_后羿射日_-_ver._easy.cpp.s
+.PHONY : others-cpp/840_后羿射日_-_ver._easy.cpp.s
 
 priority_queue/1042_角谷定理（伪）_bfs.obj: priority_queue/1042_角谷定理（伪）_bfs.cpp.obj
 .PHONY : priority_queue/1042_角谷定理（伪）_bfs.obj
@@ -28040,6 +28136,30 @@ vector/290_Kevin_Feng写作文insert.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/290_Kevin_Feng写作文insert.cpp.s
 .PHONY : vector/290_Kevin_Feng写作文insert.cpp.s
 
+vector/334_Coolest_AZYfind.obj: vector/334_Coolest_AZYfind.cpp.obj
+.PHONY : vector/334_Coolest_AZYfind.obj
+
+# target to build an object file
+vector/334_Coolest_AZYfind.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/334_Coolest_AZYfind.cpp.obj
+.PHONY : vector/334_Coolest_AZYfind.cpp.obj
+
+vector/334_Coolest_AZYfind.i: vector/334_Coolest_AZYfind.cpp.i
+.PHONY : vector/334_Coolest_AZYfind.i
+
+# target to preprocess a source file
+vector/334_Coolest_AZYfind.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/334_Coolest_AZYfind.cpp.i
+.PHONY : vector/334_Coolest_AZYfind.cpp.i
+
+vector/334_Coolest_AZYfind.s: vector/334_Coolest_AZYfind.cpp.s
+.PHONY : vector/334_Coolest_AZYfind.s
+
+# target to generate assembly for a file
+vector/334_Coolest_AZYfind.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/334_Coolest_AZYfind.cpp.s
+.PHONY : vector/334_Coolest_AZYfind.cpp.s
+
 vector/381_不忍挂掉一大片find.obj: vector/381_不忍挂掉一大片find.cpp.obj
 .PHONY : vector/381_不忍挂掉一大片find.obj
 
@@ -28063,6 +28183,30 @@ vector/381_不忍挂掉一大片find.s: vector/381_不忍挂掉一大片find.cpp
 vector/381_不忍挂掉一大片find.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/381_不忍挂掉一大片find.cpp.s
 .PHONY : vector/381_不忍挂掉一大片find.cpp.s
+
+vector/386_简单-AZY的二叉树遍历find.obj: vector/386_简单-AZY的二叉树遍历find.cpp.obj
+.PHONY : vector/386_简单-AZY的二叉树遍历find.obj
+
+# target to build an object file
+vector/386_简单-AZY的二叉树遍历find.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/386_简单-AZY的二叉树遍历find.cpp.obj
+.PHONY : vector/386_简单-AZY的二叉树遍历find.cpp.obj
+
+vector/386_简单-AZY的二叉树遍历find.i: vector/386_简单-AZY的二叉树遍历find.cpp.i
+.PHONY : vector/386_简单-AZY的二叉树遍历find.i
+
+# target to preprocess a source file
+vector/386_简单-AZY的二叉树遍历find.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/386_简单-AZY的二叉树遍历find.cpp.i
+.PHONY : vector/386_简单-AZY的二叉树遍历find.cpp.i
+
+vector/386_简单-AZY的二叉树遍历find.s: vector/386_简单-AZY的二叉树遍历find.cpp.s
+.PHONY : vector/386_简单-AZY的二叉树遍历find.s
+
+# target to generate assembly for a file
+vector/386_简单-AZY的二叉树遍历find.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/vector/386_简单-AZY的二叉树遍历find.cpp.s
+.PHONY : vector/386_简单-AZY的二叉树遍历find.cpp.s
 
 vector/390_难题-拓扑排序assign.obj: vector/390_难题-拓扑排序assign.cpp.obj
 .PHONY : vector/390_难题-拓扑排序assign.obj
@@ -28301,9 +28445,6 @@ help:
 	@echo ... 1001~2000/1491_lx买东西.obj
 	@echo ... 1001~2000/1491_lx买东西.i
 	@echo ... 1001~2000/1491_lx买东西.s
-	@echo ... 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
-	@echo ... 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
-	@echo ... 1001~2000/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
 	@echo ... 1001~2000/1492_最大子矩阵和.obj
 	@echo ... 1001~2000/1492_最大子矩阵和.i
 	@echo ... 1001~2000/1492_最大子矩阵和.s
@@ -28343,9 +28484,6 @@ help:
 	@echo ... 1001~2000/1507_排序.obj
 	@echo ... 1001~2000/1507_排序.i
 	@echo ... 1001~2000/1507_排序.s
-	@echo ... 1001~2000/1508_SkyLee的图书整理.obj
-	@echo ... 1001~2000/1508_SkyLee的图书整理.i
-	@echo ... 1001~2000/1508_SkyLee的图书整理.s
 	@echo ... 1001~2000/1509_一起来学stdlib.obj
 	@echo ... 1001~2000/1509_一起来学stdlib.i
 	@echo ... 1001~2000/1509_一起来学stdlib.s
@@ -28691,9 +28829,6 @@ help:
 	@echo ... 1~1000/130_Magry遇上了初雪第二弹.obj
 	@echo ... 1~1000/130_Magry遇上了初雪第二弹.i
 	@echo ... 1~1000/130_Magry遇上了初雪第二弹.s
-	@echo ... 1~1000/131_条形统计图.obj
-	@echo ... 1~1000/131_条形统计图.i
-	@echo ... 1~1000/131_条形统计图.s
 	@echo ... 1~1000/132_胡乱走的和尚.obj
 	@echo ... 1~1000/132_胡乱走的和尚.i
 	@echo ... 1~1000/132_胡乱走的和尚.s
@@ -28706,9 +28841,6 @@ help:
 	@echo ... 1~1000/135_老和尚的真言.obj
 	@echo ... 1~1000/135_老和尚的真言.i
 	@echo ... 1~1000/135_老和尚的真言.s
-	@echo ... 1~1000/136_满天繁星.obj
-	@echo ... 1~1000/136_满天繁星.i
-	@echo ... 1~1000/136_满天繁星.s
 	@echo ... 1~1000/137_NeXT.obj
 	@echo ... 1~1000/137_NeXT.i
 	@echo ... 1~1000/137_NeXT.s
@@ -28796,9 +28928,6 @@ help:
 	@echo ... 1~1000/168_寻找方程的根.obj
 	@echo ... 1~1000/168_寻找方程的根.i
 	@echo ... 1~1000/168_寻找方程的根.s
-	@echo ... 1~1000/169_元素查找map.obj
-	@echo ... 1~1000/169_元素查找map.i
-	@echo ... 1~1000/169_元素查找map.s
 	@echo ... 1~1000/170_黑白棋I.obj
 	@echo ... 1~1000/170_黑白棋I.i
 	@echo ... 1~1000/170_黑白棋I.s
@@ -28814,9 +28943,6 @@ help:
 	@echo ... 1~1000/178_jhljx走迷宫.obj
 	@echo ... 1~1000/178_jhljx走迷宫.i
 	@echo ... 1~1000/178_jhljx走迷宫.s
-	@echo ... 1~1000/179_这货不是二分unordered_map.obj
-	@echo ... 1~1000/179_这货不是二分unordered_map.i
-	@echo ... 1~1000/179_这货不是二分unordered_map.s
 	@echo ... 1~1000/17_A+B.obj
 	@echo ... 1~1000/17_A+B.i
 	@echo ... 1~1000/17_A+B.s
@@ -28943,15 +29069,9 @@ help:
 	@echo ... 1~1000/220_数字填充（简单）.obj
 	@echo ... 1~1000/220_数字填充（简单）.i
 	@echo ... 1~1000/220_数字填充（简单）.s
-	@echo ... 1~1000/221_Statistics（中等）.obj
-	@echo ... 1~1000/221_Statistics（中等）.i
-	@echo ... 1~1000/221_Statistics（中等）.s
 	@echo ... 1~1000/222_高精度A+B.obj
 	@echo ... 1~1000/222_高精度A+B.i
 	@echo ... 1~1000/222_高精度A+B.s
-	@echo ... 1~1000/223_Chem_is_a_try！（难）_map_string.obj
-	@echo ... 1~1000/223_Chem_is_a_try！（难）_map_string.i
-	@echo ... 1~1000/223_Chem_is_a_try！（难）_map_string.s
 	@echo ... 1~1000/224_Equation（简单）.obj
 	@echo ... 1~1000/224_Equation（简单）.i
 	@echo ... 1~1000/224_Equation（简单）.s
@@ -29060,9 +29180,6 @@ help:
 	@echo ... 1~1000/25_质数判断.obj
 	@echo ... 1~1000/25_质数判断.i
 	@echo ... 1~1000/25_质数判断.s
-	@echo ... 1~1000/260_难题——线段和直线_计算几何.obj
-	@echo ... 1~1000/260_难题——线段和直线_计算几何.i
-	@echo ... 1~1000/260_难题——线段和直线_计算几何.s
 	@echo ... 1~1000/261_AZY的看图数数.obj
 	@echo ... 1~1000/261_AZY的看图数数.i
 	@echo ... 1~1000/261_AZY的看图数数.s
@@ -29171,9 +29288,6 @@ help:
 	@echo ... 1~1000/300_反方向的钟.obj
 	@echo ... 1~1000/300_反方向的钟.i
 	@echo ... 1~1000/300_反方向的钟.s
-	@echo ... 1~1000/301_魔王与你相约I.obj
-	@echo ... 1~1000/301_魔王与你相约I.i
-	@echo ... 1~1000/301_魔王与你相约I.s
 	@echo ... 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.obj
 	@echo ... 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.i
 	@echo ... 1~1000/302_拉赫玛尼诺夫第三钢琴协奏曲.s
@@ -29255,9 +29369,6 @@ help:
 	@echo ... 1~1000/333_念奴娇.obj
 	@echo ... 1~1000/333_念奴娇.i
 	@echo ... 1~1000/333_念奴娇.s
-	@echo ... 1~1000/334_Coolest_AZY.obj
-	@echo ... 1~1000/334_Coolest_AZY.i
-	@echo ... 1~1000/334_Coolest_AZY.s
 	@echo ... 1~1000/335_AZY's_Reversal.obj
 	@echo ... 1~1000/335_AZY's_Reversal.i
 	@echo ... 1~1000/335_AZY's_Reversal.s
@@ -29297,9 +29408,6 @@ help:
 	@echo ... 1~1000/350_邻接矩阵转邻接表.obj
 	@echo ... 1~1000/350_邻接矩阵转邻接表.i
 	@echo ... 1~1000/350_邻接矩阵转邻接表.s
-	@echo ... 1~1000/351_microhhh的名字统计.obj
-	@echo ... 1~1000/351_microhhh的名字统计.i
-	@echo ... 1~1000/351_microhhh的名字统计.s
 	@echo ... 1~1000/352_Z君搬砖.obj
 	@echo ... 1~1000/352_Z君搬砖.i
 	@echo ... 1~1000/352_Z君搬砖.s
@@ -29375,9 +29483,6 @@ help:
 	@echo ... 1~1000/378_中等·大独裁者.obj
 	@echo ... 1~1000/378_中等·大独裁者.i
 	@echo ... 1~1000/378_中等·大独裁者.s
-	@echo ... 1~1000/379_中等题-不同数字的个数_离线+树状数组.obj
-	@echo ... 1~1000/379_中等题-不同数字的个数_离线+树状数组.i
-	@echo ... 1~1000/379_中等题-不同数字的个数_离线+树状数组.s
 	@echo ... 1~1000/37_水水的比较大小.obj
 	@echo ... 1~1000/37_水水的比较大小.i
 	@echo ... 1~1000/37_水水的比较大小.s
@@ -29402,9 +29507,6 @@ help:
 	@echo ... 1~1000/385_简单-jhljx的情怀.obj
 	@echo ... 1~1000/385_简单-jhljx的情怀.i
 	@echo ... 1~1000/385_简单-jhljx的情怀.s
-	@echo ... 1~1000/386_简单-AZY的二叉树遍历.obj
-	@echo ... 1~1000/386_简单-AZY的二叉树遍历.i
-	@echo ... 1~1000/386_简单-AZY的二叉树遍历.s
 	@echo ... 1~1000/387_中等-Monotonic_Stack.obj
 	@echo ... 1~1000/387_中等-Monotonic_Stack.i
 	@echo ... 1~1000/387_中等-Monotonic_Stack.s
@@ -29417,9 +29519,6 @@ help:
 	@echo ... 1~1000/392_加工调度（Prod）.obj
 	@echo ... 1~1000/392_加工调度（Prod）.i
 	@echo ... 1~1000/392_加工调度（Prod）.s
-	@echo ... 1~1000/393_捷径（Shortcut）sort.obj
-	@echo ... 1~1000/393_捷径（Shortcut）sort.i
-	@echo ... 1~1000/393_捷径（Shortcut）sort.s
 	@echo ... 1~1000/394_旅行（Travel）.obj
 	@echo ... 1~1000/394_旅行（Travel）.i
 	@echo ... 1~1000/394_旅行（Travel）.s
@@ -29471,18 +29570,12 @@ help:
 	@echo ... 1~1000/417_自习室之神.obj
 	@echo ... 1~1000/417_自习室之神.i
 	@echo ... 1~1000/417_自习室之神.s
-	@echo ... 1~1000/420_jhljx的最长零子数组.obj
-	@echo ... 1~1000/420_jhljx的最长零子数组.i
-	@echo ... 1~1000/420_jhljx的最长零子数组.s
 	@echo ... 1~1000/421_jhljx数组变变变.obj
 	@echo ... 1~1000/421_jhljx数组变变变.i
 	@echo ... 1~1000/421_jhljx数组变变变.s
 	@echo ... 1~1000/424_jhljx上大学学数学.obj
 	@echo ... 1~1000/424_jhljx上大学学数学.i
 	@echo ... 1~1000/424_jhljx上大学学数学.s
-	@echo ... 1~1000/424_jhljx上大学学数学_数论扩域.obj
-	@echo ... 1~1000/424_jhljx上大学学数学_数论扩域.i
-	@echo ... 1~1000/424_jhljx上大学学数学_数论扩域.s
 	@echo ... 1~1000/42_不要不要丧心病狂.obj
 	@echo ... 1~1000/42_不要不要丧心病狂.i
 	@echo ... 1~1000/42_不要不要丧心病狂.s
@@ -29645,9 +29738,6 @@ help:
 	@echo ... 1~1000/510_王助教喝柠檬茶.obj
 	@echo ... 1~1000/510_王助教喝柠檬茶.i
 	@echo ... 1~1000/510_王助教喝柠檬茶.s
-	@echo ... 1~1000/511_王助教凑七对子.obj
-	@echo ... 1~1000/511_王助教凑七对子.i
-	@echo ... 1~1000/511_王助教凑七对子.s
 	@echo ... 1~1000/512_机器人装配_流水线dp.obj
 	@echo ... 1~1000/512_机器人装配_流水线dp.i
 	@echo ... 1~1000/512_机器人装配_流水线dp.s
@@ -29678,9 +29768,6 @@ help:
 	@echo ... 1~1000/535_一尺之棰.obj
 	@echo ... 1~1000/535_一尺之棰.i
 	@echo ... 1~1000/535_一尺之棰.s
-	@echo ... 1~1000/538_混乱的辈分关系_图论.obj
-	@echo ... 1~1000/538_混乱的辈分关系_图论.i
-	@echo ... 1~1000/538_混乱的辈分关系_图论.s
 	@echo ... 1~1000/53_最小非负值.obj
 	@echo ... 1~1000/53_最小非负值.i
 	@echo ... 1~1000/53_最小非负值.s
@@ -29714,9 +29801,6 @@ help:
 	@echo ... 1~1000/572_简单的贪心_贪心经典_过河问题.obj
 	@echo ... 1~1000/572_简单的贪心_贪心经典_过河问题.i
 	@echo ... 1~1000/572_简单的贪心_贪心经典_过河问题.s
-	@echo ... 1~1000/574_空间旅行unordered_map.obj
-	@echo ... 1~1000/574_空间旅行unordered_map.i
-	@echo ... 1~1000/574_空间旅行unordered_map.s
 	@echo ... 1~1000/57_jhljx上大学.obj
 	@echo ... 1~1000/57_jhljx上大学.i
 	@echo ... 1~1000/57_jhljx上大学.s
@@ -29735,9 +29819,9 @@ help:
 	@echo ... 1~1000/592_裁纸片.obj
 	@echo ... 1~1000/592_裁纸片.i
 	@echo ... 1~1000/592_裁纸片.s
-	@echo ... 1~1000/594_Magry的微信鼓励金.obj
-	@echo ... 1~1000/594_Magry的微信鼓励金.i
-	@echo ... 1~1000/594_Magry的微信鼓励金.s
+	@echo ... 1~1000/594_Magry的微信鼓励金_求众数算法.obj
+	@echo ... 1~1000/594_Magry的微信鼓励金_求众数算法.i
+	@echo ... 1~1000/594_Magry的微信鼓励金_求众数算法.s
 	@echo ... 1~1000/598_王助教填数独.obj
 	@echo ... 1~1000/598_王助教填数独.i
 	@echo ... 1~1000/598_王助教填数独.s
@@ -29753,9 +29837,6 @@ help:
 	@echo ... 1~1000/606_王助教又填数独.obj
 	@echo ... 1~1000/606_王助教又填数独.i
 	@echo ... 1~1000/606_王助教又填数独.s
-	@echo ... 1~1000/607_Magry再度出山_最近最远点对.obj
-	@echo ... 1~1000/607_Magry再度出山_最近最远点对.i
-	@echo ... 1~1000/607_Magry再度出山_最近最远点对.s
 	@echo ... 1~1000/609_最小内积.obj
 	@echo ... 1~1000/609_最小内积.i
 	@echo ... 1~1000/609_最小内积.s
@@ -29855,9 +29936,6 @@ help:
 	@echo ... 1~1000/66_日期计算.obj
 	@echo ... 1~1000/66_日期计算.i
 	@echo ... 1~1000/66_日期计算.s
-	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj
-	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.i
-	@echo ... 1~1000/670_难题·圣杯之战·最终章_二分图_最小割最大流.s
 	@echo ... 1~1000/672_简单·最大公约数.obj
 	@echo ... 1~1000/672_简单·最大公约数.i
 	@echo ... 1~1000/672_简单·最大公约数.s
@@ -30053,9 +30131,6 @@ help:
 	@echo ... 1~1000/74_临近的虚实.obj
 	@echo ... 1~1000/74_临近的虚实.i
 	@echo ... 1~1000/74_临近的虚实.s
-	@echo ... 1~1000/750_DH的出行规划map.obj
-	@echo ... 1~1000/750_DH的出行规划map.i
-	@echo ... 1~1000/750_DH的出行规划map.s
 	@echo ... 1~1000/751_Mdd的二叉树.obj
 	@echo ... 1~1000/751_Mdd的二叉树.i
 	@echo ... 1~1000/751_Mdd的二叉树.s
@@ -30098,9 +30173,6 @@ help:
 	@echo ... 1~1000/76_jhljx学素数.obj
 	@echo ... 1~1000/76_jhljx学素数.i
 	@echo ... 1~1000/76_jhljx学素数.s
-	@echo ... 1~1000/770_DH的邮件系统map.obj
-	@echo ... 1~1000/770_DH的邮件系统map.i
-	@echo ... 1~1000/770_DH的邮件系统map.s
 	@echo ... 1~1000/771_Mdd的二叉树(III).obj
 	@echo ... 1~1000/771_Mdd的二叉树(III).i
 	@echo ... 1~1000/771_Mdd的二叉树(III).s
@@ -30161,12 +30233,6 @@ help:
 	@echo ... 1~1000/812_ModricWang的布线问题_II.obj
 	@echo ... 1~1000/812_ModricWang的布线问题_II.i
 	@echo ... 1~1000/812_ModricWang的布线问题_II.s
-	@echo ... 1~1000/813_Mdd去旅游map.obj
-	@echo ... 1~1000/813_Mdd去旅游map.i
-	@echo ... 1~1000/813_Mdd去旅游map.s
-	@echo ... 1~1000/814_DH去看球map.obj
-	@echo ... 1~1000/814_DH去看球map.i
-	@echo ... 1~1000/814_DH去看球map.s
 	@echo ... 1~1000/815_ModricWang的局域网.obj
 	@echo ... 1~1000/815_ModricWang的局域网.i
 	@echo ... 1~1000/815_ModricWang的局域网.s
@@ -30179,15 +30245,9 @@ help:
 	@echo ... 1~1000/820_Mdd的栈(中).obj
 	@echo ... 1~1000/820_Mdd的栈(中).i
 	@echo ... 1~1000/820_Mdd的栈(中).s
-	@echo ... 1~1000/821_DH的注册系统map.obj
-	@echo ... 1~1000/821_DH的注册系统map.i
-	@echo ... 1~1000/821_DH的注册系统map.s
 	@echo ... 1~1000/822_DH的括号匹配.obj
 	@echo ... 1~1000/822_DH的括号匹配.i
 	@echo ... 1~1000/822_DH的括号匹配.s
-	@echo ... 1~1000/824_DH的城市安全rotate.obj
-	@echo ... 1~1000/824_DH的城市安全rotate.i
-	@echo ... 1~1000/824_DH的城市安全rotate.s
 	@echo ... 1~1000/825_ModricWang的星际旅行（中难）.obj
 	@echo ... 1~1000/825_ModricWang的星际旅行（中难）.i
 	@echo ... 1~1000/825_ModricWang的星际旅行（中难）.s
@@ -30209,15 +30269,9 @@ help:
 	@echo ... 1~1000/837_管理员的忧伤.obj
 	@echo ... 1~1000/837_管理员的忧伤.i
 	@echo ... 1~1000/837_管理员的忧伤.s
-	@echo ... 1~1000/838_小太阳_树的最长链dfs_快读_map.obj
-	@echo ... 1~1000/838_小太阳_树的最长链dfs_快读_map.i
-	@echo ... 1~1000/838_小太阳_树的最长链dfs_快读_map.s
 	@echo ... 1~1000/83_双11就要到啦.obj
 	@echo ... 1~1000/83_双11就要到啦.i
 	@echo ... 1~1000/83_双11就要到啦.s
-	@echo ... 1~1000/840_后羿射日_-_ver._easy.obj
-	@echo ... 1~1000/840_后羿射日_-_ver._easy.i
-	@echo ... 1~1000/840_后羿射日_-_ver._easy.s
 	@echo ... 1~1000/841_哦~我的女神！.obj
 	@echo ... 1~1000/841_哦~我的女神！.i
 	@echo ... 1~1000/841_哦~我的女神！.s
@@ -30443,12 +30497,6 @@ help:
 	@echo ... 2001~3000/2356_位运算.obj
 	@echo ... 2001~3000/2356_位运算.i
 	@echo ... 2001~3000/2356_位运算.s
-	@echo ... 2001~3000/2368_二叉搜索树的和值_VEB树_map.obj
-	@echo ... 2001~3000/2368_二叉搜索树的和值_VEB树_map.i
-	@echo ... 2001~3000/2368_二叉搜索树的和值_VEB树_map.s
-	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.obj
-	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.i
-	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.s
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.i
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.s
@@ -30626,9 +30674,6 @@ help:
 	@echo ... 2001~3000/2759_k关键字排序.obj
 	@echo ... 2001~3000/2759_k关键字排序.i
 	@echo ... 2001~3000/2759_k关键字排序.s
-	@echo ... 2001~3000/2992_隔离_计算几何.obj
-	@echo ... 2001~3000/2992_隔离_计算几何.i
-	@echo ... 2001~3000/2992_隔离_计算几何.s
 	@echo ... 3001~4000/3014_奇怪的排序_另解.obj
 	@echo ... 3001~4000/3014_奇怪的排序_另解.i
 	@echo ... 3001~4000/3014_奇怪的排序_另解.s
@@ -31409,6 +31454,84 @@ help:
 	@echo ... deque/388_中等-王po买瓜.obj
 	@echo ... deque/388_中等-王po买瓜.i
 	@echo ... deque/388_中等-王po买瓜.s
+	@echo ... map/1234_学生信息unordered_map.obj
+	@echo ... map/1234_学生信息unordered_map.i
+	@echo ... map/1234_学生信息unordered_map.s
+	@echo ... map/131_条形统计图.obj
+	@echo ... map/131_条形统计图.i
+	@echo ... map/131_条形统计图.s
+	@echo ... map/136_满天繁星.obj
+	@echo ... map/136_满天繁星.i
+	@echo ... map/136_满天繁星.s
+	@echo ... map/1508_SkyLee的图书整理.obj
+	@echo ... map/1508_SkyLee的图书整理.i
+	@echo ... map/1508_SkyLee的图书整理.s
+	@echo ... map/169_元素查找unordered_map.obj
+	@echo ... map/169_元素查找unordered_map.i
+	@echo ... map/169_元素查找unordered_map.s
+	@echo ... map/179_这货不是二分unordered_map.obj
+	@echo ... map/179_这货不是二分unordered_map.i
+	@echo ... map/179_这货不是二分unordered_map.s
+	@echo ... map/221_Statistics（中等）unordered_map.obj
+	@echo ... map/221_Statistics（中等）unordered_map.i
+	@echo ... map/221_Statistics（中等）unordered_map.s
+	@echo ... map/223_Chem_is_a_try！（难）.obj
+	@echo ... map/223_Chem_is_a_try！（难）.i
+	@echo ... map/223_Chem_is_a_try！（难）.s
+	@echo ... map/2368_二叉搜索树的和值_VEB树.obj
+	@echo ... map/2368_二叉搜索树的和值_VEB树.i
+	@echo ... map/2368_二叉搜索树的和值_VEB树.s
+	@echo ... map/2980_14._超市收银系统.obj
+	@echo ... map/2980_14._超市收银系统.i
+	@echo ... map/2980_14._超市收银系统.s
+	@echo ... map/301_魔王与你相约I.obj
+	@echo ... map/301_魔王与你相约I.i
+	@echo ... map/301_魔王与你相约I.s
+	@echo ... map/351_microhhh的名字统计.obj
+	@echo ... map/351_microhhh的名字统计.i
+	@echo ... map/351_microhhh的名字统计.s
+	@echo ... map/379_中等题-不同数字的个数_离线+树状数组.obj
+	@echo ... map/379_中等题-不同数字的个数_离线+树状数组.i
+	@echo ... map/379_中等题-不同数字的个数_离线+树状数组.s
+	@echo ... map/3951_（中等题）血战双十一unordered_map.obj
+	@echo ... map/3951_（中等题）血战双十一unordered_map.i
+	@echo ... map/3951_（中等题）血战双十一unordered_map.s
+	@echo ... map/3963_（中等题）礼物的价值_模拟_unordered_map.obj
+	@echo ... map/3963_（中等题）礼物的价值_模拟_unordered_map.i
+	@echo ... map/3963_（中等题）礼物的价值_模拟_unordered_map.s
+	@echo ... map/4164_Who_hasn't_sign_up_unordered_map.obj
+	@echo ... map/4164_Who_hasn't_sign_up_unordered_map.i
+	@echo ... map/4164_Who_hasn't_sign_up_unordered_map.s
+	@echo ... map/420_jhljx的最长零子数组.obj
+	@echo ... map/420_jhljx的最长零子数组.i
+	@echo ... map/420_jhljx的最长零子数组.s
+	@echo ... map/511_王助教凑七对子.obj
+	@echo ... map/511_王助教凑七对子.i
+	@echo ... map/511_王助教凑七对子.s
+	@echo ... map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.obj
+	@echo ... map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.i
+	@echo ... map/516_ModricWang的星灵棋_状态压缩bfs_unordered_map.s
+	@echo ... map/574_空间旅行unordered_map.obj
+	@echo ... map/574_空间旅行unordered_map.i
+	@echo ... map/574_空间旅行unordered_map.s
+	@echo ... map/750_DH的出行规划.obj
+	@echo ... map/750_DH的出行规划.i
+	@echo ... map/750_DH的出行规划.s
+	@echo ... map/770_DH的邮件系统.obj
+	@echo ... map/770_DH的邮件系统.i
+	@echo ... map/770_DH的邮件系统.s
+	@echo ... map/813_Mdd去旅游.obj
+	@echo ... map/813_Mdd去旅游.i
+	@echo ... map/813_Mdd去旅游.s
+	@echo ... map/814_DH去看球.obj
+	@echo ... map/814_DH去看球.i
+	@echo ... map/814_DH去看球.s
+	@echo ... map/821_DH的注册系统.obj
+	@echo ... map/821_DH的注册系统.i
+	@echo ... map/821_DH的注册系统.s
+	@echo ... map/838_小太阳_树的最长链dfs_快读.obj
+	@echo ... map/838_小太阳_树的最长链dfs_快读.i
+	@echo ... map/838_小太阳_树的最长链dfs_快读.s
 	@echo ... nth_element/1518_第k顺序统计量.obj
 	@echo ... nth_element/1518_第k顺序统计量.i
 	@echo ... nth_element/1518_第k顺序统计量.s
@@ -31436,6 +31559,39 @@ help:
 	@echo ... nth_element/98_第三小整数.obj
 	@echo ... nth_element/98_第三小整数.i
 	@echo ... nth_element/98_第三小整数.s
+	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
+	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
+	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
+	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.obj
+	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.i
+	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.s
+	@echo ... others-cpp/260_难题——线段和直线_计算几何.obj
+	@echo ... others-cpp/260_难题——线段和直线_计算几何.i
+	@echo ... others-cpp/260_难题——线段和直线_计算几何.s
+	@echo ... others-cpp/2992_隔离_计算几何.obj
+	@echo ... others-cpp/2992_隔离_计算几何.i
+	@echo ... others-cpp/2992_隔离_计算几何.s
+	@echo ... others-cpp/393_捷径（Shortcut）sort.obj
+	@echo ... others-cpp/393_捷径（Shortcut）sort.i
+	@echo ... others-cpp/393_捷径（Shortcut）sort.s
+	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.obj
+	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.i
+	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.s
+	@echo ... others-cpp/538_混乱的辈分关系_图论.obj
+	@echo ... others-cpp/538_混乱的辈分关系_图论.i
+	@echo ... others-cpp/538_混乱的辈分关系_图论.s
+	@echo ... others-cpp/607_Magry再度出山_最近最远点对.obj
+	@echo ... others-cpp/607_Magry再度出山_最近最远点对.i
+	@echo ... others-cpp/607_Magry再度出山_最近最远点对.s
+	@echo ... others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.obj
+	@echo ... others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.i
+	@echo ... others-cpp/670_难题·圣杯之战·最终章_二分图_最小割最大流.s
+	@echo ... others-cpp/824_DH的城市安全rotate.obj
+	@echo ... others-cpp/824_DH的城市安全rotate.i
+	@echo ... others-cpp/824_DH的城市安全rotate.s
+	@echo ... others-cpp/840_后羿射日_-_ver._easy.obj
+	@echo ... others-cpp/840_后羿射日_-_ver._easy.i
+	@echo ... others-cpp/840_后羿射日_-_ver._easy.s
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.obj
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.i
 	@echo ... priority_queue/1042_角谷定理（伪）_bfs.s
@@ -31634,9 +31790,15 @@ help:
 	@echo ... vector/290_Kevin_Feng写作文insert.obj
 	@echo ... vector/290_Kevin_Feng写作文insert.i
 	@echo ... vector/290_Kevin_Feng写作文insert.s
+	@echo ... vector/334_Coolest_AZYfind.obj
+	@echo ... vector/334_Coolest_AZYfind.i
+	@echo ... vector/334_Coolest_AZYfind.s
 	@echo ... vector/381_不忍挂掉一大片find.obj
 	@echo ... vector/381_不忍挂掉一大片find.i
 	@echo ... vector/381_不忍挂掉一大片find.s
+	@echo ... vector/386_简单-AZY的二叉树遍历find.obj
+	@echo ... vector/386_简单-AZY的二叉树遍历find.i
+	@echo ... vector/386_简单-AZY的二叉树遍历find.s
 	@echo ... vector/390_难题-拓扑排序assign.obj
 	@echo ... vector/390_难题-拓扑排序assign.i
 	@echo ... vector/390_难题-拓扑排序assign.s
