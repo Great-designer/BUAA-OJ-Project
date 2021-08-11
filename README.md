@@ -138,8 +138,6 @@ OJ4th地址：https://accoding.cn
 
 ### 普通题目
 
-939 金币 942 Ascender 943 three investigators 944 heynihao
-
 945 ACMakeMeHappier 946 deticxe 947 ResuscitatedHope
 
 965 求导 966 阿克曼函数 967 TQ求面积

@@ -38,15 +38,14 @@ int read()
 	return k * f;
 }
 
-template<typename T>
 struct RBNode//红黑树节点
 {
-	T val;//节点值
+	int val;//节点值
 	bool color;//true为红,false为黑
 	RBNode *ftr;
 	RBNode *lc, *rc;//父亲节点左孩子右孩子
 	int _size;//排名专用:记录以此点为根的树的规模
-	RBNode(T v = T(), bool RB = 1, RBNode *f = NULL, RBNode *l = NULL, RBNode *r = NULL, int s = 1) : val(v), color(RB),
+	RBNode(int v = int(), bool RB = 1, RBNode *f = NULL, RBNode *l = NULL, RBNode *r = NULL, int s = 1) : val(v), color(RB),
 		ftr(f), lc(l),
 		rc(r), _size(s)
 	{}
@@ -112,11 +111,10 @@ struct RBNode//红黑树节点
 	}
 };
 
-template<typename T>
 struct iterator//节点对应的迭代器
 {
 	//这个数据实际上也要private
-	RBNode<T> *_real__node;
+	RBNode *_real__node;
 
 	iterator &operator++()
 	{
@@ -130,37 +128,33 @@ struct iterator//节点对应的迭代器
 		return *this;
 	}
 
-	T operator*()
+	int operator*()
 	{
 		return _real__node->val;
 	}
 
-	iterator(RBNode<T> *node_nn = NULL) : _real__node(node_nn)
-	{}
-
-	iterator(T const &val_vv) : _real__node(rfind(val_vv, 0))
+	iterator(RBNode *node_nn = NULL) : _real__node(node_nn)
 	{}
 
 	iterator(iterator const &iter) : _real__node(iter._real__node)
 	{}
 };
 
-template<typename T>
 struct RedBlackTree
 {
 	/**外部不可见部分**/
-	RBNode<T> *_root;//根节点
-	RBNode<T> *_hot;//查找专用命中_hot
-	void init(T v)
+	RBNode *_root;//根节点
+	RBNode *_hot;//查找专用命中_hot
+	void init(int v)
 	{
-		_root = new RBNode<T>(v, 0, NULL, NULL, NULL, 1);
+		_root = new RBNode(v, 0, NULL, NULL, NULL, 1);
 	}
 
 	//统一重平衡代码,考虑3个节点4个子树
 	//分类讨论排序不在此处做,传入接口时是排好序的
 	void
-	connect34(RBNode<T> *nroot, RBNode<T> *nlc, RBNode<T> *nrc, RBNode<T> *ntree1, RBNode<T> *ntree2, RBNode<T> *ntree3,
-	          RBNode<T> *ntree4)
+	connect34(RBNode *nroot, RBNode *nlc, RBNode *nrc, RBNode *ntree1, RBNode *ntree2, RBNode *ntree3,
+	          RBNode *ntree4)
 	{
 		nlc->lc = ntree1;
 		if (ntree1)
@@ -189,9 +183,9 @@ struct RedBlackTree
 	}
 
 	//允许重复的查找,默认是找到同一个数的最后一个出现的位置
-	void find(T v, const int op)
+	void find(int v, const int op)
 	{
-		RBNode<T> *ptn = _root;
+		RBNode *ptn = _root;
 		_hot = NULL;
 		while (ptn)
 		{
@@ -210,7 +204,7 @@ struct RedBlackTree
 
 	//双红修正,采用迭代方式,迭代条件为RR-2上溢向上传2层
 	//判断双红的时候,自己得先是红的,然后判断父亲节点
-	void SolveDoubleRed(RBNode<T> *nn)
+	void SolveDoubleRed(RBNode *nn)
 	{
 		while ((!(nn->ftr)) || nn->ftr->color == 1)
 		{
@@ -220,13 +214,13 @@ struct RedBlackTree
 				_root->color = 0;
 				return;
 			}
-			RBNode<T> *p = nn->ftr;
+			RBNode *p = nn->ftr;
 			if (p->color == 0)
 			{
 				return;    //case 1:没有双红,直接返回
 			}
-			RBNode<T> *u = bro(p);
-			RBNode<T> *g = p->ftr;
+			RBNode *u = bro(p);
+			RBNode *g = p->ftr;
 			//case 2:RR-2
 			if (u != NULL && u->color == 1)
 			{
@@ -325,7 +319,7 @@ struct RedBlackTree
 		}
 	}
 
-	RBNode<T> *findKth(int Rank, RBNode<T> *ptn)
+	RBNode *findKth(int Rank, RBNode *ptn)
 	{
 		if (ptn->lc == NULL)
 		{
@@ -355,7 +349,7 @@ struct RedBlackTree
 		}
 	}
 
-	int find_rank(T v, RBNode<T> *ptn)
+	int find_rank(int v, RBNode *ptn)
 	{
 		if (!ptn)
 		{
@@ -376,15 +370,15 @@ struct RedBlackTree
 	{}
 
 	//插入 返回对应迭代器
-	iterator<T> insert(T v)
+	iterator insert(int v)
 	{
 		find(v, 1);
 		if (_hot == NULL)  //仅有1个节点
 		{
 			init(v);
-			return iterator<T>(_root);
+			return iterator(_root);
 		}
-		RBNode<T> *ptn = new RBNode<T>(v, 1, _hot, NULL, NULL, 1);
+		RBNode *ptn = new RBNode(v, 1, _hot, NULL, NULL, 1);
 		if (_hot->val <= v)
 		{
 			_hot->rc = ptn;
@@ -394,11 +388,11 @@ struct RedBlackTree
 			_hot->lc = ptn;
 		}
 		SolveDoubleRed(ptn);
-		return iterator<T>(ptn);
+		return iterator(ptn);
 	}
 
 	//查排名
-	int get_rank(T v)
+	int get_rank(int v)
 	{
 		return find_rank(v, _root);
 	}
@@ -413,9 +407,9 @@ struct RedBlackTree
 		return !_root;
 	}
 
-	iterator<T> lower_bound(T v)
+	iterator lower_bound(int v)
 	{
-		RBNode<T> *ptn = _root;
+		RBNode *ptn = _root;
 		while (ptn)
 		{
 			_hot = ptn;
@@ -436,12 +430,12 @@ struct RedBlackTree
 		{
 			ptn = _hot->pred();
 		}
-		return iterator<T>(ptn);
+		return iterator(ptn);
 	}
 
-	iterator<T> upper_bound(T v)
+	iterator upper_bound(int v)
 	{
-		RBNode<T> *ptn = _root;
+		RBNode *ptn = _root;
 		while (ptn)
 		{
 			_hot = ptn;
@@ -462,11 +456,11 @@ struct RedBlackTree
 		{
 			ptn = _hot->succ();
 		}
-		return iterator<T>(ptn);
+		return iterator(ptn);
 	}
 };
 
-RedBlackTree<int> Tree;
+RedBlackTree Tree;
 long long depth[300010];
 long long ans;
 int n;

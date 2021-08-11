@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.4292972" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="BUAA_OJ_Project" targetName="BUAA_OJ_Project" />
@@ -13,55 +17,27 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e711a9-d1b0-4081-89b9-00346341d4b4" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1508 SkyLee的图书整理.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/131 条形统计图.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/136 满天繁星.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/169 元素查找map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/179 这货不是二分unordered_map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/221 Statistics（中等）.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/223 Chem is a try！（难） map string.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/260 难题——线段和直线 计算几何.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/294 Arthur的收藏夹.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/301 魔王与你相约I.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/334 Coolest AZY.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/351 microhhh的名字统计.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/379 中等题-不同数字的个数 离线+树状数组.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/386 简单-AZY的二叉树遍历.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/393 捷径（Shortcut）sort.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/420 jhljx的最长零子数组.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/424 jhljx上大学学数学 数论扩域.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/511 王助教凑七对子.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/538 混乱的辈分关系 图论.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/574 空间旅行unordered_map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/594 Magry的微信鼓励金.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/607 Magry再度出山 最近最远点对.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/670 难题·圣杯之战·最终章 二分图 最小割最大流.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/750 DH的出行规划map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/770 DH的邮件系统map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/813 Mdd去旅游map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/814 DH去看球map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/821 DH的注册系统map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/824 DH的城市安全rotate.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/838 小太阳 树的最长链dfs 快读 map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/840 后羿射日 - ver. easy.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2368 二叉搜索树的和值 VEB树 map.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2368 二叉搜索树的和值 手写红黑树.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2992 隔离 计算几何.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4330 PlayFair.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4330 PlayFair.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4254 cbj学进制转换 FFT做法.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFT-complex/1415 石头剪子布 FFT 模式串匹配 complex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFT-complex/619 老哥，稳！ FFT complex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFT-complex/629 模式寻数 II 多项式FFT complex.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FFT-complex/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FFT-complex/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bound-bsearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bound-bsearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bound-bsearch/others/447 jhljx的GC处理.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bound-bsearch/others/823 Mdd玩积木(中难).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bound-bsearch/upper/3339 填报高考志愿 排序 下界二分查找.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vector/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/string/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,9 +50,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1wRuSbro4QKBrbqE2Jupfuya90V" />
   <component name="ProjectViewState">
@@ -91,16 +64,17 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../钢琴转谱资源包/piano_transcription-master" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -124,6 +98,7 @@
       <workItem from="1628521346857" duration="2125000" />
       <workItem from="1628523889359" duration="2646000" />
       <workItem from="1628580091785" duration="1411000" />
+      <workItem from="1628659464853" duration="1145000" />
     </task>
     <servers />
   </component>

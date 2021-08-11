@@ -10,4 +10,6 @@ string是仓库编者不太喜欢的工具。仓库编者一般会尽可能把�
 
 340 AZY's Xscape 603 火柴棍摆数字 700 ModricWang的下午茶 722 Gzh之表达式求值
 
-742 DH的字符串游戏 746 Gzh之返老还童III 752 Gzh的二叉搜索树遍历 836 管理员的大忧伤
+742 DH的字符串游戏 746 Gzh之返老还童III 752 Gzh的二叉搜索树遍历
+
+836 管理员的大忧伤 942 Ascender 943 three investigators

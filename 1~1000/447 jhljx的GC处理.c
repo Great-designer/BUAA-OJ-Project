@@ -1,10 +1,8 @@
 #include<stdio.h>
-
 //本题属于二分答案当中，寻找合法的最小值
 //大于的也都合法，小于的绝对不合法
 //在检查了一个以i开始的区间之后
 //查找第一个大于等于i+size的1
-
 char instr[1000010];
 
 int main()
@@ -44,8 +42,10 @@ int main()
 			{
 				if (instr[i] == '1' && cur <= i)
 				{
-					i += mi, cur = i;
-					if (++needK > m)
+					i += mi;
+					cur = i;
+					++needK;
+					if (needK > m)
 					{
 						break;
 					}
