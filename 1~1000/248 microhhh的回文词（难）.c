@@ -25,7 +25,7 @@ int main()
 		char isPalindrome=1,isMirrored=1;
 		int n=strlen(s);
 		int i=0,j=n-1;
-		while(i<j)
+		while(i<=j)
 		{
 			isPalindrome=isPalindrome&&judgeMirror(s[i],s[j]);
 			isMirrored=isMirrored&&judgeReverse(s[i],s[j]);
