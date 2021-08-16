@@ -138,10 +138,6 @@ OJ4th地址：https://accoding.cn
 
 ### 普通题目
 
-945 ACMakeMeHappier 946 deticxe 947 ResuscitatedHope
-
-965 求导 966 阿克曼函数 967 TQ求面积
-
 968 Naive Hanoi 969 倒序输出
 
 985 字符统计 988 排序

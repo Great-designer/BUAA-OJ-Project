@@ -2,7 +2,6 @@
 <project version="4">
   <component name="AnalysisUIOptions">
     <option name="SPLITTER_PROPORTION" value="0.4292972" />
-    <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
@@ -17,17 +16,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e711a9-d1b0-4081-89b9-00346341d4b4" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4254 cbj学进制转换 FFT做法.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4328 Ning的汉明距离.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4328 Ning的汉明距离.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4328 ning的汉明距离 bitset.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4328 ning的汉明距离 kd树.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FFT-complex/1415 石头剪子布 FFT 模式串匹配 complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FFT-complex/619 老哥，稳！ FFT complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FFT-complex/629 模式寻数 II 多项式FFT complex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FFT-complex/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FFT-complex/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bound-bsearch/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bound-bsearch/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bound-bsearch/others/447 jhljx的GC处理.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bound-bsearch/others/823 Mdd玩积木(中难).c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bound-bsearch/upper/3339 填报高考志愿 排序 下界二分查找.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bitset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bitset/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
@@ -36,7 +30,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nth_element/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/nth_element/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/string/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +44,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1wRuSbro4QKBrbqE2Jupfuya90V" />
   <component name="ProjectViewState">
@@ -69,12 +66,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -99,6 +96,7 @@
       <workItem from="1628523889359" duration="2646000" />
       <workItem from="1628580091785" duration="1411000" />
       <workItem from="1628659464853" duration="1145000" />
+      <workItem from="1629114066285" duration="1532000" />
     </task>
     <servers />
   </component>

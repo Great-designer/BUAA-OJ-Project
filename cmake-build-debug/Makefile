@@ -17504,6 +17504,78 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/944_heynihao.c.s
 .PHONY : 1~1000/944_heynihao.c.s
 
+1~1000/945_ACMakeMeHappier.obj: 1~1000/945_ACMakeMeHappier.c.obj
+.PHONY : 1~1000/945_ACMakeMeHappier.obj
+
+# target to build an object file
+1~1000/945_ACMakeMeHappier.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier.c.obj
+.PHONY : 1~1000/945_ACMakeMeHappier.c.obj
+
+1~1000/945_ACMakeMeHappier.i: 1~1000/945_ACMakeMeHappier.c.i
+.PHONY : 1~1000/945_ACMakeMeHappier.i
+
+# target to preprocess a source file
+1~1000/945_ACMakeMeHappier.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier.c.i
+.PHONY : 1~1000/945_ACMakeMeHappier.c.i
+
+1~1000/945_ACMakeMeHappier.s: 1~1000/945_ACMakeMeHappier.c.s
+.PHONY : 1~1000/945_ACMakeMeHappier.s
+
+# target to generate assembly for a file
+1~1000/945_ACMakeMeHappier.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier.c.s
+.PHONY : 1~1000/945_ACMakeMeHappier.c.s
+
+1~1000/945_ACMakeMeHappier_扩展欧几里得.obj: 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.obj
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.obj
+
+# target to build an object file
+1~1000/945_ACMakeMeHappier_扩展欧几里得.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier_扩展欧几里得.c.obj
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.obj
+
+1~1000/945_ACMakeMeHappier_扩展欧几里得.i: 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.i
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.i
+
+# target to preprocess a source file
+1~1000/945_ACMakeMeHappier_扩展欧几里得.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier_扩展欧几里得.c.i
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.i
+
+1~1000/945_ACMakeMeHappier_扩展欧几里得.s: 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.s
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.s
+
+# target to generate assembly for a file
+1~1000/945_ACMakeMeHappier_扩展欧几里得.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/945_ACMakeMeHappier_扩展欧几里得.c.s
+.PHONY : 1~1000/945_ACMakeMeHappier_扩展欧几里得.c.s
+
+1~1000/947_ResuscitatedHope.obj: 1~1000/947_ResuscitatedHope.c.obj
+.PHONY : 1~1000/947_ResuscitatedHope.obj
+
+# target to build an object file
+1~1000/947_ResuscitatedHope.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/947_ResuscitatedHope.c.obj
+.PHONY : 1~1000/947_ResuscitatedHope.c.obj
+
+1~1000/947_ResuscitatedHope.i: 1~1000/947_ResuscitatedHope.c.i
+.PHONY : 1~1000/947_ResuscitatedHope.i
+
+# target to preprocess a source file
+1~1000/947_ResuscitatedHope.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/947_ResuscitatedHope.c.i
+.PHONY : 1~1000/947_ResuscitatedHope.c.i
+
+1~1000/947_ResuscitatedHope.s: 1~1000/947_ResuscitatedHope.c.s
+.PHONY : 1~1000/947_ResuscitatedHope.s
+
+# target to generate assembly for a file
+1~1000/947_ResuscitatedHope.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/947_ResuscitatedHope.c.s
+.PHONY : 1~1000/947_ResuscitatedHope.c.s
+
 1~1000/94_双层汉诺塔.obj: 1~1000/94_双层汉诺塔.c.obj
 .PHONY : 1~1000/94_双层汉诺塔.obj
 
@@ -17623,6 +17695,126 @@ BUAA_OJ_Project/fast:
 1~1000/964_三角形的判断.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/964_三角形的判断.c.s
 .PHONY : 1~1000/964_三角形的判断.c.s
+
+1~1000/965_求导.obj: 1~1000/965_求导.c.obj
+.PHONY : 1~1000/965_求导.obj
+
+# target to build an object file
+1~1000/965_求导.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/965_求导.c.obj
+.PHONY : 1~1000/965_求导.c.obj
+
+1~1000/965_求导.i: 1~1000/965_求导.c.i
+.PHONY : 1~1000/965_求导.i
+
+# target to preprocess a source file
+1~1000/965_求导.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/965_求导.c.i
+.PHONY : 1~1000/965_求导.c.i
+
+1~1000/965_求导.s: 1~1000/965_求导.c.s
+.PHONY : 1~1000/965_求导.s
+
+# target to generate assembly for a file
+1~1000/965_求导.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/965_求导.c.s
+.PHONY : 1~1000/965_求导.c.s
+
+1~1000/966_阿克曼函数.obj: 1~1000/966_阿克曼函数.c.obj
+.PHONY : 1~1000/966_阿克曼函数.obj
+
+# target to build an object file
+1~1000/966_阿克曼函数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/966_阿克曼函数.c.obj
+.PHONY : 1~1000/966_阿克曼函数.c.obj
+
+1~1000/966_阿克曼函数.i: 1~1000/966_阿克曼函数.c.i
+.PHONY : 1~1000/966_阿克曼函数.i
+
+# target to preprocess a source file
+1~1000/966_阿克曼函数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/966_阿克曼函数.c.i
+.PHONY : 1~1000/966_阿克曼函数.c.i
+
+1~1000/966_阿克曼函数.s: 1~1000/966_阿克曼函数.c.s
+.PHONY : 1~1000/966_阿克曼函数.s
+
+# target to generate assembly for a file
+1~1000/966_阿克曼函数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/966_阿克曼函数.c.s
+.PHONY : 1~1000/966_阿克曼函数.c.s
+
+1~1000/967_TQ求面积_抛针法.obj: 1~1000/967_TQ求面积_抛针法.c.obj
+.PHONY : 1~1000/967_TQ求面积_抛针法.obj
+
+# target to build an object file
+1~1000/967_TQ求面积_抛针法.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_抛针法.c.obj
+.PHONY : 1~1000/967_TQ求面积_抛针法.c.obj
+
+1~1000/967_TQ求面积_抛针法.i: 1~1000/967_TQ求面积_抛针法.c.i
+.PHONY : 1~1000/967_TQ求面积_抛针法.i
+
+# target to preprocess a source file
+1~1000/967_TQ求面积_抛针法.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_抛针法.c.i
+.PHONY : 1~1000/967_TQ求面积_抛针法.c.i
+
+1~1000/967_TQ求面积_抛针法.s: 1~1000/967_TQ求面积_抛针法.c.s
+.PHONY : 1~1000/967_TQ求面积_抛针法.s
+
+# target to generate assembly for a file
+1~1000/967_TQ求面积_抛针法.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_抛针法.c.s
+.PHONY : 1~1000/967_TQ求面积_抛针法.c.s
+
+1~1000/967_TQ求面积_泰勒展开_数学.obj: 1~1000/967_TQ求面积_泰勒展开_数学.c.obj
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.obj
+
+# target to build an object file
+1~1000/967_TQ求面积_泰勒展开_数学.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_泰勒展开_数学.c.obj
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.c.obj
+
+1~1000/967_TQ求面积_泰勒展开_数学.i: 1~1000/967_TQ求面积_泰勒展开_数学.c.i
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.i
+
+# target to preprocess a source file
+1~1000/967_TQ求面积_泰勒展开_数学.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_泰勒展开_数学.c.i
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.c.i
+
+1~1000/967_TQ求面积_泰勒展开_数学.s: 1~1000/967_TQ求面积_泰勒展开_数学.c.s
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.s
+
+# target to generate assembly for a file
+1~1000/967_TQ求面积_泰勒展开_数学.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_泰勒展开_数学.c.s
+.PHONY : 1~1000/967_TQ求面积_泰勒展开_数学.c.s
+
+1~1000/967_TQ求面积_自适应辛普森积分.obj: 1~1000/967_TQ求面积_自适应辛普森积分.c.obj
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.obj
+
+# target to build an object file
+1~1000/967_TQ求面积_自适应辛普森积分.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_自适应辛普森积分.c.obj
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.c.obj
+
+1~1000/967_TQ求面积_自适应辛普森积分.i: 1~1000/967_TQ求面积_自适应辛普森积分.c.i
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.i
+
+# target to preprocess a source file
+1~1000/967_TQ求面积_自适应辛普森积分.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_自适应辛普森积分.c.i
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.c.i
+
+1~1000/967_TQ求面积_自适应辛普森积分.s: 1~1000/967_TQ求面积_自适应辛普森积分.c.s
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.s
+
+# target to generate assembly for a file
+1~1000/967_TQ求面积_自适应辛普森积分.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_自适应辛普森积分.c.s
+.PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.c.s
 
 1~1000/96_暗号.obj: 1~1000/96_暗号.c.obj
 .PHONY : 1~1000/96_暗号.obj
@@ -24704,6 +24896,30 @@ bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
 .PHONY : bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp.s
 
+bitset/4328_ning的汉明距离.obj: bitset/4328_ning的汉明距离.cpp.obj
+.PHONY : bitset/4328_ning的汉明距离.obj
+
+# target to build an object file
+bitset/4328_ning的汉明距离.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/4328_ning的汉明距离.cpp.obj
+.PHONY : bitset/4328_ning的汉明距离.cpp.obj
+
+bitset/4328_ning的汉明距离.i: bitset/4328_ning的汉明距离.cpp.i
+.PHONY : bitset/4328_ning的汉明距离.i
+
+# target to preprocess a source file
+bitset/4328_ning的汉明距离.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/4328_ning的汉明距离.cpp.i
+.PHONY : bitset/4328_ning的汉明距离.cpp.i
+
+bitset/4328_ning的汉明距离.s: bitset/4328_ning的汉明距离.cpp.s
+.PHONY : bitset/4328_ning的汉明距离.s
+
+# target to generate assembly for a file
+bitset/4328_ning的汉明距离.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bitset/4328_ning的汉明距离.cpp.s
+.PHONY : bitset/4328_ning的汉明距离.cpp.s
+
 bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj: bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.cpp.obj
 .PHONY : bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
 
@@ -26191,6 +26407,30 @@ nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.s: nth_element/250_�
 nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s
 .PHONY : nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.cpp.s
+
+nth_element/4328_ning的汉明距离_kd树.obj: nth_element/4328_ning的汉明距离_kd树.cpp.obj
+.PHONY : nth_element/4328_ning的汉明距离_kd树.obj
+
+# target to build an object file
+nth_element/4328_ning的汉明距离_kd树.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/4328_ning的汉明距离_kd树.cpp.obj
+.PHONY : nth_element/4328_ning的汉明距离_kd树.cpp.obj
+
+nth_element/4328_ning的汉明距离_kd树.i: nth_element/4328_ning的汉明距离_kd树.cpp.i
+.PHONY : nth_element/4328_ning的汉明距离_kd树.i
+
+# target to preprocess a source file
+nth_element/4328_ning的汉明距离_kd树.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/4328_ning的汉明距离_kd树.cpp.i
+.PHONY : nth_element/4328_ning的汉明距离_kd树.cpp.i
+
+nth_element/4328_ning的汉明距离_kd树.s: nth_element/4328_ning的汉明距离_kd树.cpp.s
+.PHONY : nth_element/4328_ning的汉明距离_kd树.s
+
+# target to generate assembly for a file
+nth_element/4328_ning的汉明距离_kd树.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/4328_ning的汉明距离_kd树.cpp.s
+.PHONY : nth_element/4328_ning的汉明距离_kd树.cpp.s
 
 nth_element/466_我有特殊的快排技巧.obj: nth_element/466_我有特殊的快排技巧.cpp.obj
 .PHONY : nth_element/466_我有特殊的快排技巧.obj
@@ -28039,6 +28279,30 @@ string/943_three_investigators.s: string/943_three_investigators.cpp.s
 string/943_three_investigators.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/943_three_investigators.cpp.s
 .PHONY : string/943_three_investigators.cpp.s
+
+string/946_deticxe.obj: string/946_deticxe.cpp.obj
+.PHONY : string/946_deticxe.obj
+
+# target to build an object file
+string/946_deticxe.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/946_deticxe.cpp.obj
+.PHONY : string/946_deticxe.cpp.obj
+
+string/946_deticxe.i: string/946_deticxe.cpp.i
+.PHONY : string/946_deticxe.i
+
+# target to preprocess a source file
+string/946_deticxe.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/946_deticxe.cpp.i
+.PHONY : string/946_deticxe.cpp.i
+
+string/946_deticxe.s: string/946_deticxe.cpp.s
+.PHONY : string/946_deticxe.s
+
+# target to generate assembly for a file
+string/946_deticxe.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/946_deticxe.cpp.s
+.PHONY : string/946_deticxe.cpp.s
 
 unique/14_Inverse_number：Reborn离散化树状数组求逆序对.obj: unique/14_Inverse_number：Reborn离散化树状数组求逆序对.cpp.obj
 .PHONY : unique/14_Inverse_number：Reborn离散化树状数组求逆序对.obj
@@ -30581,6 +30845,15 @@ help:
 	@echo ... 1~1000/944_heynihao.obj
 	@echo ... 1~1000/944_heynihao.i
 	@echo ... 1~1000/944_heynihao.s
+	@echo ... 1~1000/945_ACMakeMeHappier.obj
+	@echo ... 1~1000/945_ACMakeMeHappier.i
+	@echo ... 1~1000/945_ACMakeMeHappier.s
+	@echo ... 1~1000/945_ACMakeMeHappier_扩展欧几里得.obj
+	@echo ... 1~1000/945_ACMakeMeHappier_扩展欧几里得.i
+	@echo ... 1~1000/945_ACMakeMeHappier_扩展欧几里得.s
+	@echo ... 1~1000/947_ResuscitatedHope.obj
+	@echo ... 1~1000/947_ResuscitatedHope.i
+	@echo ... 1~1000/947_ResuscitatedHope.s
 	@echo ... 1~1000/94_双层汉诺塔.obj
 	@echo ... 1~1000/94_双层汉诺塔.i
 	@echo ... 1~1000/94_双层汉诺塔.s
@@ -30596,6 +30869,21 @@ help:
 	@echo ... 1~1000/964_三角形的判断.obj
 	@echo ... 1~1000/964_三角形的判断.i
 	@echo ... 1~1000/964_三角形的判断.s
+	@echo ... 1~1000/965_求导.obj
+	@echo ... 1~1000/965_求导.i
+	@echo ... 1~1000/965_求导.s
+	@echo ... 1~1000/966_阿克曼函数.obj
+	@echo ... 1~1000/966_阿克曼函数.i
+	@echo ... 1~1000/966_阿克曼函数.s
+	@echo ... 1~1000/967_TQ求面积_抛针法.obj
+	@echo ... 1~1000/967_TQ求面积_抛针法.i
+	@echo ... 1~1000/967_TQ求面积_抛针法.s
+	@echo ... 1~1000/967_TQ求面积_泰勒展开_数学.obj
+	@echo ... 1~1000/967_TQ求面积_泰勒展开_数学.i
+	@echo ... 1~1000/967_TQ求面积_泰勒展开_数学.s
+	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.obj
+	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.i
+	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.s
 	@echo ... 1~1000/96_暗号.obj
 	@echo ... 1~1000/96_暗号.i
 	@echo ... 1~1000/96_暗号.s
@@ -31481,6 +31769,9 @@ help:
 	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.obj
 	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.i
 	@echo ... bitset/226_简单的质数(简单)Meissel_Lehmer+记忆化搜索.s
+	@echo ... bitset/4328_ning的汉明距离.obj
+	@echo ... bitset/4328_ning的汉明距离.i
+	@echo ... bitset/4328_ning的汉明距离.s
 	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.obj
 	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.i
 	@echo ... bitset/472_Magry's_Prime_Meissel_Lehmer+记忆化搜索.s
@@ -31667,6 +31958,9 @@ help:
 	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.obj
 	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.i
 	@echo ... nth_element/250_简单题——I_wanna_be_the_升级者Ⅰ.s
+	@echo ... nth_element/4328_ning的汉明距离_kd树.obj
+	@echo ... nth_element/4328_ning的汉明距离_kd树.i
+	@echo ... nth_element/4328_ning的汉明距离_kd树.s
 	@echo ... nth_element/466_我有特殊的快排技巧.obj
 	@echo ... nth_element/466_我有特殊的快排技巧.i
 	@echo ... nth_element/466_我有特殊的快排技巧.s
@@ -31898,6 +32192,9 @@ help:
 	@echo ... string/943_three_investigators.obj
 	@echo ... string/943_three_investigators.i
 	@echo ... string/943_three_investigators.s
+	@echo ... string/946_deticxe.obj
+	@echo ... string/946_deticxe.i
+	@echo ... string/946_deticxe.s
 	@echo ... unique/14_Inverse_number：Reborn离散化树状数组求逆序对.obj
 	@echo ... unique/14_Inverse_number：Reborn离散化树状数组求逆序对.i
 	@echo ... unique/14_Inverse_number：Reborn离散化树状数组求逆序对.s

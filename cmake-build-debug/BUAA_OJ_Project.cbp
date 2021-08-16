@@ -2292,6 +2292,15 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/944 heynihao.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/945 ACMakeMeHappier 扩展欧几里得.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/945 ACMakeMeHappier.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/947 ResuscitatedHope.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/95 异面直线距离.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2305,6 +2314,21 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/964 三角形的判断.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/965 求导.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/966 阿克曼函数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/967 TQ求面积 抛针法.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/967 TQ求面积 泰勒展开 数学.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/967 TQ求面积 自适应辛普森积分.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/97 Tiling_easy version.c">
@@ -3186,6 +3210,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/226 简单的质数(简单)Meissel_Lehmer+记忆化搜索.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/4328 ning的汉明距离.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/bitset/472 Magry&apos;s Prime Meissel Lehmer+记忆化搜索.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3370,6 +3397,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/4328 ning的汉明距离 kd树.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/466 我有特殊的快排技巧.cpp">
@@ -3601,6 +3631,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/943 three investigators.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/946 deticxe.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/unique/14 Inverse number：Reborn离散化树状数组求逆序对.cpp">
