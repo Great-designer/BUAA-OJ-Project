@@ -18224,6 +18224,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2356_位运算.c.s
 .PHONY : 2001~3000/2356_位运算.c.s
 
+2001~3000/2368_二叉搜索树的和值_手写红黑树.obj: 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.obj
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.obj
+
+# target to build an object file
+2001~3000/2368_二叉搜索树的和值_手写红黑树.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.c.obj
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.obj
+
+2001~3000/2368_二叉搜索树的和值_手写红黑树.i: 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.i
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.i
+
+# target to preprocess a source file
+2001~3000/2368_二叉搜索树的和值_手写红黑树.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.c.i
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.i
+
+2001~3000/2368_二叉搜索树的和值_手写红黑树.s: 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.s
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.s
+
+# target to generate assembly for a file
+2001~3000/2368_二叉搜索树的和值_手写红黑树.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2368_二叉搜索树的和值_手写红黑树.c.s
+.PHONY : 2001~3000/2368_二叉搜索树的和值_手写红黑树.c.s
+
 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj: 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.c.obj
 .PHONY : 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj
 
@@ -26768,30 +26792,6 @@ others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
 .PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
 
-others-cpp/2368_二叉搜索树的和值_手写红黑树.obj: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.obj
-
-# target to build an object file
-others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.obj
-
-others-cpp/2368_二叉搜索树的和值_手写红黑树.i: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.i
-
-# target to preprocess a source file
-others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.i
-
-others-cpp/2368_二叉搜索树的和值_手写红黑树.s: others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.s
-
-# target to generate assembly for a file
-others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
-.PHONY : others-cpp/2368_二叉搜索树的和值_手写红黑树.cpp.s
-
 others-cpp/260_难题——线段和直线_计算几何.obj: others-cpp/260_难题——线段和直线_计算几何.cpp.obj
 .PHONY : others-cpp/260_难题——线段和直线_计算几何.obj
 
@@ -31079,6 +31079,9 @@ help:
 	@echo ... 2001~3000/2356_位运算.obj
 	@echo ... 2001~3000/2356_位运算.i
 	@echo ... 2001~3000/2356_位运算.s
+	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.obj
+	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.i
+	@echo ... 2001~3000/2368_二叉搜索树的和值_手写红黑树.s
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.obj
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.i
 	@echo ... 2001~3000/2368_二叉搜索树的和值_深度_笛卡尔树.s
@@ -32147,9 +32150,6 @@ help:
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
-	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.obj
-	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.i
-	@echo ... others-cpp/2368_二叉搜索树的和值_手写红黑树.s
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.obj
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.i
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.s

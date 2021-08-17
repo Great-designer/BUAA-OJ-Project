@@ -15,40 +15,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5564fcd0-ada6-4070-859d-e173da57fb61" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BUAA-OJ-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BUAA-OJ-Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1463 两整数和.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1463 两整数和.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/196 比例简化.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/196 比例简化.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/22 公公偏头痛.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/22 公公偏头痛.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/456 DH学分数 gcd应用.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/456 DH学分数 gcd应用.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/827 Gzh的最佳损友（中等）.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/827 Gzh的最佳损友（中等）.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/921 QZZ的公约数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/921 QZZ的公约数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/945 ACMakeMeHappier.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/945 ACMakeMeHappier.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/967 TQ求面积 抛针法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/967 TQ求面积 抛针法.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4001~5000/4235 水君的价格.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4235 水君的价格.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +37,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1wqP7rmOrxDoIthOyYMmnEnLk3o" />
   <component name="ProjectViewState">
@@ -82,11 +55,6 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -107,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629182985263</updated>
       <workItem from="1629182987963" duration="1932000" />
+      <workItem from="1629187816609" duration="851000" />
+      <workItem from="1629188732743" duration="1557000" />
     </task>
     <servers />
   </component>

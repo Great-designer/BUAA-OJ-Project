@@ -778,6 +778,7 @@ add_executable(BUAA_OJ_Project
         "2001~3000/2356 位运算.c"
         "2001~3000/2368 二叉搜索树的和值 链表预处理.c"
         "2001~3000/2368 二叉搜索树的和值 深度 笛卡尔树.c"
+        "2001~3000/2368 二叉搜索树的和值 手写红黑树.c"
         "2001~3000/2370 连续子序列的权值单调栈.c"
         "2001~3000/2371 黑暗光明并查集.c"
         "2001~3000/2372 卡塔兰数.c"
@@ -1215,5 +1216,4 @@ add_executable(BUAA_OJ_Project
         "others-cpp/824 DH的城市安全rotate.cpp"
         "others-cpp/840 后羿射日 - ver. easy.cpp"
         "others-cpp/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp"
-        "others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp"
         "others-cpp/2992 隔离 计算几何.cpp")

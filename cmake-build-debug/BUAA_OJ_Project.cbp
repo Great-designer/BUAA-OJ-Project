@@ -2376,6 +2376,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2356 位运算.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 手写红黑树.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2368 二叉搜索树的和值 深度 笛卡尔树.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3442,9 +3445,6 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2368 二叉搜索树的和值 手写红黑树.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/260 难题——线段和直线 计算几何.cpp">
