@@ -1,0 +1,6 @@
+word = int(input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+print("The cyphertext is %d."%((word*a-b)*c+d))
