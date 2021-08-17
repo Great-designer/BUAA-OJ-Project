@@ -3,8 +3,14 @@
 
 long long gcd(long long a, long long b)
 {
-	while (b ^= a ^= b ^= a %= b);
-	return a;
+    if(b==0)
+    {
+        return a;
+    }
+    else
+    {
+        return gcd(b,a%b);
+    }
 }
 
 long long a[1010];

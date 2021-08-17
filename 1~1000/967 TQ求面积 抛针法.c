@@ -7,7 +7,7 @@ long long cnt1, cnt2;
 
 int main()
 {
-	srand((unsigned int) NULL);
+	srand(0);
 	scanf("%lf", &n);
 	double x, y;
 	for(int i = 0; i < 1e8; ++i)

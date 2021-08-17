@@ -33,7 +33,6 @@ int read()
 		k = (k << 1) + (k << 3) + c - 48;
 		c = getchar();
 	}
-	if (c == EOF);
 	return k;
 }
 

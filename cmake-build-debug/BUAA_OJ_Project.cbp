@@ -2331,6 +2331,12 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/967 TQ求面积 自适应辛普森积分.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/968 Naive Hanoi.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/969 倒序输出.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/97 Tiling_easy version.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2346,10 +2352,22 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/98 第三小整数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/985 字符统计.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/988 排序.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/989 御坂御坂.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/99 水水的chessboard.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/992 矩阵乘法.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/996 折半查找.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2355 完全图生成树特殊.c">

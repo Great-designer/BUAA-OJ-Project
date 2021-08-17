@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<limits.h>
 
 int main()
 {
@@ -11,7 +12,7 @@ int main()
     }
     else if(a<=0&&b<=0)
     {
-        if(a==-9223372036854775808&&b==-9223372036854775808)
+        if(a==LLONG_MIN&&b==LLONG_MIN)
         {
         	printf("-18446744073709551616");
 		}
@@ -20,13 +21,13 @@ int main()
 	        unsigned long long d,e;
 	        d=-a;
 	        e=-b;
-	        if(a==-9223372036854775808)
+	        if(a==LLONG_MIN)
 	        {
-	        	d=9223372036854775808;
+	        	d=9223372036854775808ull;
 			}
-	        if(b==-9223372036854775808)
+	        if(b==LLONG_MIN)
 	        {
-	        	e=9223372036854775808;
+	        	e=9223372036854775808ull;
 			}
 	        unsigned long long c=d+e;
 	        printf("-%llu",c);

@@ -17816,6 +17816,54 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/967_TQ求面积_自适应辛普森积分.c.s
 .PHONY : 1~1000/967_TQ求面积_自适应辛普森积分.c.s
 
+1~1000/968_Naive_Hanoi.obj: 1~1000/968_Naive_Hanoi.c.obj
+.PHONY : 1~1000/968_Naive_Hanoi.obj
+
+# target to build an object file
+1~1000/968_Naive_Hanoi.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/968_Naive_Hanoi.c.obj
+.PHONY : 1~1000/968_Naive_Hanoi.c.obj
+
+1~1000/968_Naive_Hanoi.i: 1~1000/968_Naive_Hanoi.c.i
+.PHONY : 1~1000/968_Naive_Hanoi.i
+
+# target to preprocess a source file
+1~1000/968_Naive_Hanoi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/968_Naive_Hanoi.c.i
+.PHONY : 1~1000/968_Naive_Hanoi.c.i
+
+1~1000/968_Naive_Hanoi.s: 1~1000/968_Naive_Hanoi.c.s
+.PHONY : 1~1000/968_Naive_Hanoi.s
+
+# target to generate assembly for a file
+1~1000/968_Naive_Hanoi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/968_Naive_Hanoi.c.s
+.PHONY : 1~1000/968_Naive_Hanoi.c.s
+
+1~1000/969_倒序输出.obj: 1~1000/969_倒序输出.c.obj
+.PHONY : 1~1000/969_倒序输出.obj
+
+# target to build an object file
+1~1000/969_倒序输出.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/969_倒序输出.c.obj
+.PHONY : 1~1000/969_倒序输出.c.obj
+
+1~1000/969_倒序输出.i: 1~1000/969_倒序输出.c.i
+.PHONY : 1~1000/969_倒序输出.i
+
+# target to preprocess a source file
+1~1000/969_倒序输出.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/969_倒序输出.c.i
+.PHONY : 1~1000/969_倒序输出.c.i
+
+1~1000/969_倒序输出.s: 1~1000/969_倒序输出.c.s
+.PHONY : 1~1000/969_倒序输出.s
+
+# target to generate assembly for a file
+1~1000/969_倒序输出.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/969_倒序输出.c.s
+.PHONY : 1~1000/969_倒序输出.c.s
+
 1~1000/96_暗号.obj: 1~1000/96_暗号.c.obj
 .PHONY : 1~1000/96_暗号.obj
 
@@ -17936,6 +17984,54 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/97_Tiling_easy_version.c.s
 .PHONY : 1~1000/97_Tiling_easy_version.c.s
 
+1~1000/985_字符统计.obj: 1~1000/985_字符统计.c.obj
+.PHONY : 1~1000/985_字符统计.obj
+
+# target to build an object file
+1~1000/985_字符统计.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/985_字符统计.c.obj
+.PHONY : 1~1000/985_字符统计.c.obj
+
+1~1000/985_字符统计.i: 1~1000/985_字符统计.c.i
+.PHONY : 1~1000/985_字符统计.i
+
+# target to preprocess a source file
+1~1000/985_字符统计.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/985_字符统计.c.i
+.PHONY : 1~1000/985_字符统计.c.i
+
+1~1000/985_字符统计.s: 1~1000/985_字符统计.c.s
+.PHONY : 1~1000/985_字符统计.s
+
+# target to generate assembly for a file
+1~1000/985_字符统计.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/985_字符统计.c.s
+.PHONY : 1~1000/985_字符统计.c.s
+
+1~1000/988_排序.obj: 1~1000/988_排序.c.obj
+.PHONY : 1~1000/988_排序.obj
+
+# target to build an object file
+1~1000/988_排序.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/988_排序.c.obj
+.PHONY : 1~1000/988_排序.c.obj
+
+1~1000/988_排序.i: 1~1000/988_排序.c.i
+.PHONY : 1~1000/988_排序.i
+
+# target to preprocess a source file
+1~1000/988_排序.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/988_排序.c.i
+.PHONY : 1~1000/988_排序.c.i
+
+1~1000/988_排序.s: 1~1000/988_排序.c.s
+.PHONY : 1~1000/988_排序.s
+
+# target to generate assembly for a file
+1~1000/988_排序.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/988_排序.c.s
+.PHONY : 1~1000/988_排序.c.s
+
 1~1000/989_御坂御坂.obj: 1~1000/989_御坂御坂.c.obj
 .PHONY : 1~1000/989_御坂御坂.obj
 
@@ -17983,6 +18079,54 @@ BUAA_OJ_Project/fast:
 1~1000/98_第三小整数.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/98_第三小整数.c.s
 .PHONY : 1~1000/98_第三小整数.c.s
+
+1~1000/992_矩阵乘法.obj: 1~1000/992_矩阵乘法.c.obj
+.PHONY : 1~1000/992_矩阵乘法.obj
+
+# target to build an object file
+1~1000/992_矩阵乘法.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/992_矩阵乘法.c.obj
+.PHONY : 1~1000/992_矩阵乘法.c.obj
+
+1~1000/992_矩阵乘法.i: 1~1000/992_矩阵乘法.c.i
+.PHONY : 1~1000/992_矩阵乘法.i
+
+# target to preprocess a source file
+1~1000/992_矩阵乘法.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/992_矩阵乘法.c.i
+.PHONY : 1~1000/992_矩阵乘法.c.i
+
+1~1000/992_矩阵乘法.s: 1~1000/992_矩阵乘法.c.s
+.PHONY : 1~1000/992_矩阵乘法.s
+
+# target to generate assembly for a file
+1~1000/992_矩阵乘法.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/992_矩阵乘法.c.s
+.PHONY : 1~1000/992_矩阵乘法.c.s
+
+1~1000/996_折半查找.obj: 1~1000/996_折半查找.c.obj
+.PHONY : 1~1000/996_折半查找.obj
+
+# target to build an object file
+1~1000/996_折半查找.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/996_折半查找.c.obj
+.PHONY : 1~1000/996_折半查找.c.obj
+
+1~1000/996_折半查找.i: 1~1000/996_折半查找.c.i
+.PHONY : 1~1000/996_折半查找.i
+
+# target to preprocess a source file
+1~1000/996_折半查找.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/996_折半查找.c.i
+.PHONY : 1~1000/996_折半查找.c.i
+
+1~1000/996_折半查找.s: 1~1000/996_折半查找.c.s
+.PHONY : 1~1000/996_折半查找.s
+
+# target to generate assembly for a file
+1~1000/996_折半查找.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/996_折半查找.c.s
+.PHONY : 1~1000/996_折半查找.c.s
 
 1~1000/99_水水的chessboard.obj: 1~1000/99_水水的chessboard.c.obj
 .PHONY : 1~1000/99_水水的chessboard.obj
@@ -30884,6 +31028,12 @@ help:
 	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.obj
 	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.i
 	@echo ... 1~1000/967_TQ求面积_自适应辛普森积分.s
+	@echo ... 1~1000/968_Naive_Hanoi.obj
+	@echo ... 1~1000/968_Naive_Hanoi.i
+	@echo ... 1~1000/968_Naive_Hanoi.s
+	@echo ... 1~1000/969_倒序输出.obj
+	@echo ... 1~1000/969_倒序输出.i
+	@echo ... 1~1000/969_倒序输出.s
 	@echo ... 1~1000/96_暗号.obj
 	@echo ... 1~1000/96_暗号.i
 	@echo ... 1~1000/96_暗号.s
@@ -30899,12 +31049,24 @@ help:
 	@echo ... 1~1000/97_Tiling_easy_version.obj
 	@echo ... 1~1000/97_Tiling_easy_version.i
 	@echo ... 1~1000/97_Tiling_easy_version.s
+	@echo ... 1~1000/985_字符统计.obj
+	@echo ... 1~1000/985_字符统计.i
+	@echo ... 1~1000/985_字符统计.s
+	@echo ... 1~1000/988_排序.obj
+	@echo ... 1~1000/988_排序.i
+	@echo ... 1~1000/988_排序.s
 	@echo ... 1~1000/989_御坂御坂.obj
 	@echo ... 1~1000/989_御坂御坂.i
 	@echo ... 1~1000/989_御坂御坂.s
 	@echo ... 1~1000/98_第三小整数.obj
 	@echo ... 1~1000/98_第三小整数.i
 	@echo ... 1~1000/98_第三小整数.s
+	@echo ... 1~1000/992_矩阵乘法.obj
+	@echo ... 1~1000/992_矩阵乘法.i
+	@echo ... 1~1000/992_矩阵乘法.s
+	@echo ... 1~1000/996_折半查找.obj
+	@echo ... 1~1000/996_折半查找.i
+	@echo ... 1~1000/996_折半查找.s
 	@echo ... 1~1000/99_水水的chessboard.obj
 	@echo ... 1~1000/99_水水的chessboard.i
 	@echo ... 1~1000/99_水水的chessboard.s

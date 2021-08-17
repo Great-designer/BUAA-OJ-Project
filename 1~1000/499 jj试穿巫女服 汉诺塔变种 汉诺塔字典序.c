@@ -11,7 +11,7 @@ void hanoi(int n, char a, char b, char c, char isNotGet)
 		{
 			printf("dressing\n");
 		}
-		printf("put dressup to board %c\n", c);
+		printf("put dressup to board %c\n", b);
 	}
 	else
 	{
@@ -21,8 +21,8 @@ void hanoi(int n, char a, char b, char c, char isNotGet)
 		{
 			printf("dressing\n");
 		}
-		printf("put dressup to board %c\n", c);
-		hanoi(n - 1, b, a, c, 0);
+		printf("put dressup to board %c\n", b);
+		hanoi(n - 1, c, b, a, 0);
 	}
 }
 
@@ -42,7 +42,7 @@ int main()
 		}
 		else
 		{
-			hanoi(n - 2, a, c, b, 1);
+			hanoi(n - 2, a, b, c, 1);
 			printf("get dressup from board 1\ndressing\nput dressup to board 3\nget dressup from board 1\ndressing\nput dressup to board 1\nleave\n");
 		}
 	}

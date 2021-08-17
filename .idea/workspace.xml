@@ -1,52 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.36663845" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BUAA_OJ_Project" targetName="BUAA_OJ_Project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7329add-5ebc-466d-9a90-9510c7e47a7e" name="默认变更列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+    <list default="true" id="5564fcd0-ada6-4070-859d-e173da57fb61" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/BUAA-OJ-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BUAA-OJ-Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1001~2000/1463 两整数和.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1463 两整数和.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/196 比例简化.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/196 比例简化.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/22 公公偏头痛.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/22 公公偏头痛.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/456 DH学分数 gcd应用.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/456 DH学分数 gcd应用.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/499 jj试穿巫女服 汉诺塔变种 汉诺塔字典序.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/827 Gzh的最佳损友（中等）.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/827 Gzh的最佳损友（中等）.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/921 QZZ的公约数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/921 QZZ的公约数.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/945 ACMakeMeHappier.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/945 ACMakeMeHappier.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/967 TQ求面积 抛针法.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/967 TQ求面积 抛针法.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4001~5000/4235 水君的价格.c" beforeDir="false" afterPath="$PROJECT_DIR$/4001~5000/4235 水君的价格.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1178 小明的实验数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1178 小明的实验数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1180 简单密码.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1180 简单密码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1182 打点计时器.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1182 打点计时器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1903 行列式计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1903 行列式计算.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1919 点线距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1919 点线距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1954 类斐波那契数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1954 类斐波那契数列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/1959 转换进制.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/1959 转换进制.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/2023 简单的约瑟夫问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2023 简单的约瑟夫问题.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/2049 无线网络发射器选址.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2049 无线网络发射器选址.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/2151 矩阵元素的最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/2151 矩阵元素的最大值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3010 转圈圈.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3010 转圈圈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3760 两点之间的距离.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3760 两点之间的距离.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3761 唯一的数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3761 唯一的数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3831 找完数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3831 找完数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3831 斐波那契.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3832 斐波那契.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3847 最大公约数与最小公倍数.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3847 最大公约数与最小公倍数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3951 （中等题）血战双十一.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3951 （中等题）血战双十一.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3955 （简单题）陶陶摘橘子.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3955 （简单题）陶陶摘橘子.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3960（中等题）能量转化炉.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3960（中等题）能量转化炉.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3963 （中等题）礼物的价值.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3963 （中等题）礼物的价值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/3965 （简单题）小鱼比可爱.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/3965 （简单题）小鱼比可爱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/4120 （中等题）W形串.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4120 （中等题）W形串.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/4121 （简单题）璐璐的饮品店.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4121 （简单题）璐璐的饮品店.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
   </component>
-  <component name="ProjectId" id="1wqGFB5XcsWd4fqCcRBERVXXQ9N" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1wqP7rmOrxDoIthOyYMmnEnLk3o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,18 +73,44 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="e7329add-5ebc-466d-9a90-9510c7e47a7e" name="默认变更列表" comment="" />
-      <created>1629178601869</created>
+      <changelist id="5564fcd0-ada6-4070-859d-e173da57fb61" name="更改" comment="" />
+      <created>1629182985263</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1629178601869</updated>
+      <updated>1629182985263</updated>
+      <workItem from="1629182987963" duration="1932000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

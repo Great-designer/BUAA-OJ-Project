@@ -2,8 +2,14 @@
 
 int gcd(int a, int b)
 {
-	while (b ^= a ^= b ^= a %= b);
-	return a;
+    if(b==0)
+    {
+        return a;
+    }
+    else
+    {
+        return gcd(b,a%b);
+    }
 }
 
 int a, b, l, ansa, ansb;
