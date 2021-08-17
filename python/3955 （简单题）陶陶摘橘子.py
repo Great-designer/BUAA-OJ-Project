@@ -1,8 +1,8 @@
-m, b, h = map(int,input().split())
+m, b, h = map(int, input().split())
 h = b + h
-sum = 0
+summ = 0
 for i in range(m):
     o = int(input())
-    if o<=h:
-        sum+=1
-print(sum) 
+    if o <= h:
+        summ += 1
+print(summ)

@@ -1,16 +1,17 @@
 def f(n):
     if n <= 1:
-       return n
+        return n
     else:
-       return (f(n-1) + f(n-2))
+        return f(n - 1) + f(n - 2)
+
 
 t = int(input())
 for i in range(t):
-    n = int(input())
+    nn = int(input())
     lis = []
-    for j in range(n+2):
+    for j in range(nn + 2):
         a = f(j)
-        if a > n :
+        if a > nn:
             break
         lis.append(a)
     print(*lis)
