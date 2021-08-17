@@ -3176,29 +3176,53 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1621_HugeGun学姐的魔法.c.s
 .PHONY : 1001~2000/1621_HugeGun学姐的魔法.c.s
 
-1001~2000/1623_RMQ问题.obj: 1001~2000/1623_RMQ问题.c.obj
-.PHONY : 1001~2000/1623_RMQ问题.obj
+1001~2000/1623_RMQ问题_ST.obj: 1001~2000/1623_RMQ问题_ST.c.obj
+.PHONY : 1001~2000/1623_RMQ问题_ST.obj
 
 # target to build an object file
-1001~2000/1623_RMQ问题.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题.c.obj
-.PHONY : 1001~2000/1623_RMQ问题.c.obj
+1001~2000/1623_RMQ问题_ST.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST.c.obj
+.PHONY : 1001~2000/1623_RMQ问题_ST.c.obj
 
-1001~2000/1623_RMQ问题.i: 1001~2000/1623_RMQ问题.c.i
-.PHONY : 1001~2000/1623_RMQ问题.i
+1001~2000/1623_RMQ问题_ST.i: 1001~2000/1623_RMQ问题_ST.c.i
+.PHONY : 1001~2000/1623_RMQ问题_ST.i
 
 # target to preprocess a source file
-1001~2000/1623_RMQ问题.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题.c.i
-.PHONY : 1001~2000/1623_RMQ问题.c.i
+1001~2000/1623_RMQ问题_ST.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST.c.i
+.PHONY : 1001~2000/1623_RMQ问题_ST.c.i
 
-1001~2000/1623_RMQ问题.s: 1001~2000/1623_RMQ问题.c.s
-.PHONY : 1001~2000/1623_RMQ问题.s
+1001~2000/1623_RMQ问题_ST.s: 1001~2000/1623_RMQ问题_ST.c.s
+.PHONY : 1001~2000/1623_RMQ问题_ST.s
 
 # target to generate assembly for a file
-1001~2000/1623_RMQ问题.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题.c.s
-.PHONY : 1001~2000/1623_RMQ问题.c.s
+1001~2000/1623_RMQ问题_ST.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST.c.s
+.PHONY : 1001~2000/1623_RMQ问题_ST.c.s
+
+1001~2000/1623_RMQ问题_ST稀疏表.obj: 1001~2000/1623_RMQ问题_ST稀疏表.c.obj
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.obj
+
+# target to build an object file
+1001~2000/1623_RMQ问题_ST稀疏表.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST稀疏表.c.obj
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.c.obj
+
+1001~2000/1623_RMQ问题_ST稀疏表.i: 1001~2000/1623_RMQ问题_ST稀疏表.c.i
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.i
+
+# target to preprocess a source file
+1001~2000/1623_RMQ问题_ST稀疏表.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST稀疏表.c.i
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.c.i
+
+1001~2000/1623_RMQ问题_ST稀疏表.s: 1001~2000/1623_RMQ问题_ST稀疏表.c.s
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.s
+
+# target to generate assembly for a file
+1001~2000/1623_RMQ问题_ST稀疏表.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1623_RMQ问题_ST稀疏表.c.s
+.PHONY : 1001~2000/1623_RMQ问题_ST稀疏表.c.s
 
 1001~2000/1627_Ackermann函数.obj: 1001~2000/1627_Ackermann函数.c.obj
 .PHONY : 1001~2000/1627_Ackermann函数.obj
@@ -3632,29 +3656,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1656_Zyy学姐的生日礼物6(正版).c.s
 .PHONY : 1001~2000/1656_Zyy学姐的生日礼物6(正版).c.s
 
-1001~2000/1661_树形DP初步-二叉树.obj: 1001~2000/1661_树形DP初步-二叉树.c.obj
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.obj
+1001~2000/1661_树形DP初步-二叉树_dfs.obj: 1001~2000/1661_树形DP初步-二叉树_dfs.c.obj
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.obj
 
 # target to build an object file
-1001~2000/1661_树形DP初步-二叉树.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树.c.obj
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.c.obj
+1001~2000/1661_树形DP初步-二叉树_dfs.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树_dfs.c.obj
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.c.obj
 
-1001~2000/1661_树形DP初步-二叉树.i: 1001~2000/1661_树形DP初步-二叉树.c.i
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.i
+1001~2000/1661_树形DP初步-二叉树_dfs.i: 1001~2000/1661_树形DP初步-二叉树_dfs.c.i
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.i
 
 # target to preprocess a source file
-1001~2000/1661_树形DP初步-二叉树.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树.c.i
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.c.i
+1001~2000/1661_树形DP初步-二叉树_dfs.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树_dfs.c.i
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.c.i
 
-1001~2000/1661_树形DP初步-二叉树.s: 1001~2000/1661_树形DP初步-二叉树.c.s
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.s
+1001~2000/1661_树形DP初步-二叉树_dfs.s: 1001~2000/1661_树形DP初步-二叉树_dfs.c.s
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.s
 
 # target to generate assembly for a file
-1001~2000/1661_树形DP初步-二叉树.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树.c.s
-.PHONY : 1001~2000/1661_树形DP初步-二叉树.c.s
+1001~2000/1661_树形DP初步-二叉树_dfs.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1661_树形DP初步-二叉树_dfs.c.s
+.PHONY : 1001~2000/1661_树形DP初步-二叉树_dfs.c.s
 
 1001~2000/1662_树形DP初步-真树.obj: 1001~2000/1662_树形DP初步-真树.c.obj
 .PHONY : 1001~2000/1662_树形DP初步-真树.obj
@@ -18320,29 +18344,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2370_连续子序列的权值单调栈.c.s
 .PHONY : 2001~3000/2370_连续子序列的权值单调栈.c.s
 
-2001~3000/2371_黑暗光明并查集.obj: 2001~3000/2371_黑暗光明并查集.c.obj
-.PHONY : 2001~3000/2371_黑暗光明并查集.obj
+2001~3000/2371_Zexal的拯救世界_并查集.obj: 2001~3000/2371_Zexal的拯救世界_并查集.c.obj
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.obj
 
 # target to build an object file
-2001~3000/2371_黑暗光明并查集.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.obj
-.PHONY : 2001~3000/2371_黑暗光明并查集.c.obj
+2001~3000/2371_Zexal的拯救世界_并查集.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_Zexal的拯救世界_并查集.c.obj
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.c.obj
 
-2001~3000/2371_黑暗光明并查集.i: 2001~3000/2371_黑暗光明并查集.c.i
-.PHONY : 2001~3000/2371_黑暗光明并查集.i
+2001~3000/2371_Zexal的拯救世界_并查集.i: 2001~3000/2371_Zexal的拯救世界_并查集.c.i
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.i
 
 # target to preprocess a source file
-2001~3000/2371_黑暗光明并查集.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.i
-.PHONY : 2001~3000/2371_黑暗光明并查集.c.i
+2001~3000/2371_Zexal的拯救世界_并查集.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_Zexal的拯救世界_并查集.c.i
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.c.i
 
-2001~3000/2371_黑暗光明并查集.s: 2001~3000/2371_黑暗光明并查集.c.s
-.PHONY : 2001~3000/2371_黑暗光明并查集.s
+2001~3000/2371_Zexal的拯救世界_并查集.s: 2001~3000/2371_Zexal的拯救世界_并查集.c.s
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.s
 
 # target to generate assembly for a file
-2001~3000/2371_黑暗光明并查集.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_黑暗光明并查集.c.s
-.PHONY : 2001~3000/2371_黑暗光明并查集.c.s
+2001~3000/2371_Zexal的拯救世界_并查集.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2371_Zexal的拯救世界_并查集.c.s
+.PHONY : 2001~3000/2371_Zexal的拯救世界_并查集.c.s
 
 2001~3000/2372_卡塔兰数.obj: 2001~3000/2372_卡塔兰数.c.obj
 .PHONY : 2001~3000/2372_卡塔兰数.obj
@@ -19616,29 +19640,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2741_图2floyd.c.s
 .PHONY : 2001~3000/2741_图2floyd.c.s
 
-2001~3000/2743_图3dinic.obj: 2001~3000/2743_图3dinic.c.obj
-.PHONY : 2001~3000/2743_图3dinic.obj
+2001~3000/2743_C5-图3_dinic.obj: 2001~3000/2743_C5-图3_dinic.c.obj
+.PHONY : 2001~3000/2743_C5-图3_dinic.obj
 
 # target to build an object file
-2001~3000/2743_图3dinic.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.obj
-.PHONY : 2001~3000/2743_图3dinic.c.obj
+2001~3000/2743_C5-图3_dinic.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_C5-图3_dinic.c.obj
+.PHONY : 2001~3000/2743_C5-图3_dinic.c.obj
 
-2001~3000/2743_图3dinic.i: 2001~3000/2743_图3dinic.c.i
-.PHONY : 2001~3000/2743_图3dinic.i
+2001~3000/2743_C5-图3_dinic.i: 2001~3000/2743_C5-图3_dinic.c.i
+.PHONY : 2001~3000/2743_C5-图3_dinic.i
 
 # target to preprocess a source file
-2001~3000/2743_图3dinic.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.i
-.PHONY : 2001~3000/2743_图3dinic.c.i
+2001~3000/2743_C5-图3_dinic.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_C5-图3_dinic.c.i
+.PHONY : 2001~3000/2743_C5-图3_dinic.c.i
 
-2001~3000/2743_图3dinic.s: 2001~3000/2743_图3dinic.c.s
-.PHONY : 2001~3000/2743_图3dinic.s
+2001~3000/2743_C5-图3_dinic.s: 2001~3000/2743_C5-图3_dinic.c.s
+.PHONY : 2001~3000/2743_C5-图3_dinic.s
 
 # target to generate assembly for a file
-2001~3000/2743_图3dinic.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_图3dinic.c.s
-.PHONY : 2001~3000/2743_图3dinic.c.s
+2001~3000/2743_C5-图3_dinic.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_C5-图3_dinic.c.s
+.PHONY : 2001~3000/2743_C5-图3_dinic.c.s
 
 2001~3000/2759_k关键字排序.obj: 2001~3000/2759_k关键字排序.c.obj
 .PHONY : 2001~3000/2759_k关键字排序.obj
@@ -26768,6 +26792,30 @@ nth_element/98_第三小整数.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.s
 .PHONY : nth_element/98_第三小整数.cpp.s
 
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.obj: others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.obj
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.obj
+
+# target to build an object file
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.obj
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.obj
+
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.i: others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.i
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.i
+
+# target to preprocess a source file
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.i
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.i
+
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.s: others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.s
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.s
+
+# target to generate assembly for a file
+others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.s
+.PHONY : others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.cpp.s
+
 others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj: others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.obj
 .PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
 
@@ -26792,6 +26840,78 @@ others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
 .PHONY : others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.cpp.s
 
+others-cpp/1623_RMQ问题_线段树.obj: others-cpp/1623_RMQ问题_线段树.cpp.obj
+.PHONY : others-cpp/1623_RMQ问题_线段树.obj
+
+# target to build an object file
+others-cpp/1623_RMQ问题_线段树.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1623_RMQ问题_线段树.cpp.obj
+.PHONY : others-cpp/1623_RMQ问题_线段树.cpp.obj
+
+others-cpp/1623_RMQ问题_线段树.i: others-cpp/1623_RMQ问题_线段树.cpp.i
+.PHONY : others-cpp/1623_RMQ问题_线段树.i
+
+# target to preprocess a source file
+others-cpp/1623_RMQ问题_线段树.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1623_RMQ问题_线段树.cpp.i
+.PHONY : others-cpp/1623_RMQ问题_线段树.cpp.i
+
+others-cpp/1623_RMQ问题_线段树.s: others-cpp/1623_RMQ问题_线段树.cpp.s
+.PHONY : others-cpp/1623_RMQ问题_线段树.s
+
+# target to generate assembly for a file
+others-cpp/1623_RMQ问题_线段树.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1623_RMQ问题_线段树.cpp.s
+.PHONY : others-cpp/1623_RMQ问题_线段树.cpp.s
+
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.obj: others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.obj
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.obj
+
+# target to build an object file
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.obj
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.obj
+
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.i: others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.i
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.i
+
+# target to preprocess a source file
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.i
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.i
+
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.s: others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.s
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.s
+
+# target to generate assembly for a file
+others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.s
+.PHONY : others-cpp/1661_树形DP初步-二叉树_树的直径dfs.cpp.s
+
+others-cpp/2371_Zexal的拯救世界_线段树.obj: others-cpp/2371_Zexal的拯救世界_线段树.cpp.obj
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.obj
+
+# target to build an object file
+others-cpp/2371_Zexal的拯救世界_线段树.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2371_Zexal的拯救世界_线段树.cpp.obj
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.cpp.obj
+
+others-cpp/2371_Zexal的拯救世界_线段树.i: others-cpp/2371_Zexal的拯救世界_线段树.cpp.i
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.i
+
+# target to preprocess a source file
+others-cpp/2371_Zexal的拯救世界_线段树.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2371_Zexal的拯救世界_线段树.cpp.i
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.cpp.i
+
+others-cpp/2371_Zexal的拯救世界_线段树.s: others-cpp/2371_Zexal的拯救世界_线段树.cpp.s
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.s
+
+# target to generate assembly for a file
+others-cpp/2371_Zexal的拯救世界_线段树.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2371_Zexal的拯救世界_线段树.cpp.s
+.PHONY : others-cpp/2371_Zexal的拯救世界_线段树.cpp.s
+
 others-cpp/260_难题——线段和直线_计算几何.obj: others-cpp/260_难题——线段和直线_计算几何.cpp.obj
 .PHONY : others-cpp/260_难题——线段和直线_计算几何.obj
 
@@ -26815,6 +26935,30 @@ others-cpp/260_难题——线段和直线_计算几何.s: others-cpp/260_难题
 others-cpp/260_难题——线段和直线_计算几何.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/260_难题——线段和直线_计算几何.cpp.s
 .PHONY : others-cpp/260_难题——线段和直线_计算几何.cpp.s
+
+others-cpp/2743_C5-图3_最小生成树原理_最小割.obj: others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.obj
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.obj
+
+# target to build an object file
+others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.obj
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.obj
+
+others-cpp/2743_C5-图3_最小生成树原理_最小割.i: others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.i
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.i
+
+# target to preprocess a source file
+others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.i
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.i
+
+others-cpp/2743_C5-图3_最小生成树原理_最小割.s: others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.s
+
+# target to generate assembly for a file
+others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s
+.PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s
 
 others-cpp/2992_隔离_计算几何.obj: others-cpp/2992_隔离_计算几何.cpp.obj
 .PHONY : others-cpp/2992_隔离_计算几何.obj
@@ -26863,6 +27007,30 @@ others-cpp/393_捷径（Shortcut）sort.s: others-cpp/393_捷径（Shortcut）so
 others-cpp/393_捷径（Shortcut）sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/393_捷径（Shortcut）sort.cpp.s
 .PHONY : others-cpp/393_捷径（Shortcut）sort.cpp.s
+
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.obj: others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.obj
+
+# target to build an object file
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj"
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj
+
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.i: others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.i
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.i
+
+# target to preprocess a source file
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.i"
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.i
+
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.s: others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.s
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.s
+
+# target to generate assembly for a file
+others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.s"
+.PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.s
 
 others-cpp/424_jhljx上大学学数学_数论扩域.obj: others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj
 .PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.obj
@@ -29198,9 +29366,12 @@ help:
 	@echo ... 1001~2000/1621_HugeGun学姐的魔法.obj
 	@echo ... 1001~2000/1621_HugeGun学姐的魔法.i
 	@echo ... 1001~2000/1621_HugeGun学姐的魔法.s
-	@echo ... 1001~2000/1623_RMQ问题.obj
-	@echo ... 1001~2000/1623_RMQ问题.i
-	@echo ... 1001~2000/1623_RMQ问题.s
+	@echo ... 1001~2000/1623_RMQ问题_ST.obj
+	@echo ... 1001~2000/1623_RMQ问题_ST.i
+	@echo ... 1001~2000/1623_RMQ问题_ST.s
+	@echo ... 1001~2000/1623_RMQ问题_ST稀疏表.obj
+	@echo ... 1001~2000/1623_RMQ问题_ST稀疏表.i
+	@echo ... 1001~2000/1623_RMQ问题_ST稀疏表.s
 	@echo ... 1001~2000/1627_Ackermann函数.obj
 	@echo ... 1001~2000/1627_Ackermann函数.i
 	@echo ... 1001~2000/1627_Ackermann函数.s
@@ -29255,9 +29426,9 @@ help:
 	@echo ... 1001~2000/1656_Zyy学姐的生日礼物6(正版).obj
 	@echo ... 1001~2000/1656_Zyy学姐的生日礼物6(正版).i
 	@echo ... 1001~2000/1656_Zyy学姐的生日礼物6(正版).s
-	@echo ... 1001~2000/1661_树形DP初步-二叉树.obj
-	@echo ... 1001~2000/1661_树形DP初步-二叉树.i
-	@echo ... 1001~2000/1661_树形DP初步-二叉树.s
+	@echo ... 1001~2000/1661_树形DP初步-二叉树_dfs.obj
+	@echo ... 1001~2000/1661_树形DP初步-二叉树_dfs.i
+	@echo ... 1001~2000/1661_树形DP初步-二叉树_dfs.s
 	@echo ... 1001~2000/1662_树形DP初步-真树.obj
 	@echo ... 1001~2000/1662_树形DP初步-真树.i
 	@echo ... 1001~2000/1662_树形DP初步-真树.s
@@ -31091,9 +31262,9 @@ help:
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.obj
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.i
 	@echo ... 2001~3000/2370_连续子序列的权值单调栈.s
-	@echo ... 2001~3000/2371_黑暗光明并查集.obj
-	@echo ... 2001~3000/2371_黑暗光明并查集.i
-	@echo ... 2001~3000/2371_黑暗光明并查集.s
+	@echo ... 2001~3000/2371_Zexal的拯救世界_并查集.obj
+	@echo ... 2001~3000/2371_Zexal的拯救世界_并查集.i
+	@echo ... 2001~3000/2371_Zexal的拯救世界_并查集.s
 	@echo ... 2001~3000/2372_卡塔兰数.obj
 	@echo ... 2001~3000/2372_卡塔兰数.i
 	@echo ... 2001~3000/2372_卡塔兰数.s
@@ -31253,9 +31424,9 @@ help:
 	@echo ... 2001~3000/2741_图2floyd.obj
 	@echo ... 2001~3000/2741_图2floyd.i
 	@echo ... 2001~3000/2741_图2floyd.s
-	@echo ... 2001~3000/2743_图3dinic.obj
-	@echo ... 2001~3000/2743_图3dinic.i
-	@echo ... 2001~3000/2743_图3dinic.s
+	@echo ... 2001~3000/2743_C5-图3_dinic.obj
+	@echo ... 2001~3000/2743_C5-图3_dinic.i
+	@echo ... 2001~3000/2743_C5-图3_dinic.s
 	@echo ... 2001~3000/2759_k关键字排序.obj
 	@echo ... 2001~3000/2759_k关键字排序.i
 	@echo ... 2001~3000/2759_k关键字排序.s
@@ -32147,18 +32318,36 @@ help:
 	@echo ... nth_element/98_第三小整数.obj
 	@echo ... nth_element/98_第三小整数.i
 	@echo ... nth_element/98_第三小整数.s
+	@echo ... others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.obj
+	@echo ... others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.i
+	@echo ... others-cpp/146_机智零崎不会没梗Ⅱ_哈夫曼树_贪心.s
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.obj
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.i
 	@echo ... others-cpp/1491_lx买东西_数位dp_针对输入n为高精度的情况.s
+	@echo ... others-cpp/1623_RMQ问题_线段树.obj
+	@echo ... others-cpp/1623_RMQ问题_线段树.i
+	@echo ... others-cpp/1623_RMQ问题_线段树.s
+	@echo ... others-cpp/1661_树形DP初步-二叉树_树的直径dfs.obj
+	@echo ... others-cpp/1661_树形DP初步-二叉树_树的直径dfs.i
+	@echo ... others-cpp/1661_树形DP初步-二叉树_树的直径dfs.s
+	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.obj
+	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.i
+	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.s
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.obj
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.i
 	@echo ... others-cpp/260_难题——线段和直线_计算几何.s
+	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.obj
+	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.i
+	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.s
 	@echo ... others-cpp/2992_隔离_计算几何.obj
 	@echo ... others-cpp/2992_隔离_计算几何.i
 	@echo ... others-cpp/2992_隔离_计算几何.s
 	@echo ... others-cpp/393_捷径（Shortcut）sort.obj
 	@echo ... others-cpp/393_捷径（Shortcut）sort.i
 	@echo ... others-cpp/393_捷径（Shortcut）sort.s
+	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.obj
+	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.i
+	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.s
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.obj
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.i
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.s

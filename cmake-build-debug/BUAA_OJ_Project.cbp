@@ -495,7 +495,10 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1621 HugeGun学姐的魔法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1623 RMQ问题.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1623 RMQ问题 ST.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1623 RMQ问题 ST稀疏表.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1627 Ackermann函数.c">
@@ -552,7 +555,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1656 Zyy学姐的生日礼物6(正版).c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1661 树形DP初步-二叉树.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1661 树形DP初步-二叉树 dfs.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1662 树形DP初步-真树.c">
@@ -2388,7 +2391,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2370 连续子序列的权值单调栈.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2371 黑暗光明并查集.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2371 Zexal的拯救世界 并查集.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2372 卡塔兰数.c">
@@ -2550,7 +2553,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2741 图2floyd.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2743 图3dinic.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2743 C5-图3 dinic.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2759 k关键字排序.c">
@@ -3444,16 +3447,34 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/98 第三小整数.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/146 机智零崎不会没梗Ⅱ 哈夫曼树 贪心.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1491 lx买东西 数位dp 针对输入n为高精度的情况.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1623 RMQ问题 线段树.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1661 树形DP初步-二叉树 树的直径dfs.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2371 Zexal的拯救世界 线段树.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/260 难题——线段和直线 计算几何.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2743 C5-图3 最小生成树原理 最小割.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2992 隔离 计算几何.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/393 捷径（Shortcut）sort.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/4165 DS = Data structure of Shawn&apos;s 线段树 除法分块.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/424 jhljx上大学学数学 数论扩域.cpp">

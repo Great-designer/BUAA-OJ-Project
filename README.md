@@ -236,9 +236,7 @@ OJ4th地址：https://accoding.cn
 
 3364 遥不可及的军训 3366 你最好在天黑前找点吃的
 
-4165 DS = Data structure of Shawn's 4166 Find Good Reverse Tuple
-
-4167 Nero's Key Board 4169 Weidong's minimum working hours
+4166 Find Good Reverse Tuple 4167 Nero's Key Board 4169 Weidong's minimum working hours
 
 4171 Optimization on matrices multiplication 4173 Minimal edit distance to a string's prefix
 
