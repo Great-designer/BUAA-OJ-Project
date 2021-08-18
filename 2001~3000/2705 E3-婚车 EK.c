@@ -2,37 +2,36 @@
 #include<string.h>
 
 int r[1007][1007];
-char visit[1007];
+char gap[1007];
 int pre[1007];
 int q[1007];
 
-char bfs(int s,int t,int n)//bfs寻找增光路，找到返回ture
+char bfs(int s,int t,int n)//bfs寻找增广路，找到返回1
 {
-	memset(q,0,sizeof(q));
 	int front=0;
 	int rear=0;
-	memset(visit,0,sizeof(visit));
+	memset(gap,0,sizeof(gap));
 	memset(pre,-1,sizeof(pre));
 	pre[s]=s;
-	q[rear]=s;//q.push(s);
+	q[rear]=s;
 	rear++;
-	visit[s]=1;
-	while(rear!=front)//!q.empty()
+	gap[s]=1;
+	while(rear!=front)
 	{
-		int p=q[front];//q.front();
-		front++;//q.pop();//认为节点的数组下标从1开始,用邻接矩阵存储
+		int p=q[front];
+		front++;//认为节点的数组下标从1开始,用邻接矩阵存储
 		int i;
 		for(i=1; i<=n; ++i)
 		{
-			if(r[p][i]>0&&!visit[i])
+			if(r[p][i]>0&&!gap[i])
 			{
-				visit[i]=1;
+				gap[i]=1;
 				pre[i]=p;
 				if(i==t)
 				{
 					return 1;
 				}
-				q[rear]=i;//q.push(i);
+				q[rear]=i;
 				rear++;
 			}
 		}

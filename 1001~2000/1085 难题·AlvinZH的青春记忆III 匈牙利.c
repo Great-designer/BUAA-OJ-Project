@@ -5,20 +5,20 @@ int n,m,ans;
 int G[1005][1005];//记录匹配的双方弟子
 int top[1005];
 int match[1005];//记录匹配点
-int visit[1005];//记录是否访问
+int occur[1005];//记录是否访问
 
 int A[1005],B[1005];
 
-char dfs(int x)//寻找增广路径
+char findpath(int x)//寻找增广路径
 {
 	int i;
 	for(i=0; i<top[x]; ++i)
 	{
 		int to=G[x][i];
-		if(!visit[to])
+		if(!occur[to])
 		{
-			visit[to]=1;
-			if(!match[to]||dfs(match[to]))
+			occur[to]=1;
+			if(!match[to]||findpath(match[to]))
 			{
 				match[to]=x;
 				return 1;
@@ -35,8 +35,8 @@ int MaxMatch()
 	int i;
 	for(i=1; i<=m; ++i)
 	{
-		memset(visit,0,sizeof(visit));//清空访问
-		if(dfs(i))
+		memset(occur,0,sizeof(occur));//清空访问
+		if(findpath(i))
 		{
 			ans++;//从节点i尝试扩展
 		}
@@ -46,7 +46,7 @@ int MaxMatch()
 
 int main()
 {
-	while(~scanf("%d%d",&n,&m))
+	while(scanf("%d%d",&n,&m)!=EOF)
 	{
 		int i;
 		memset(top,0,sizeof(top));

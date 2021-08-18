@@ -3,82 +3,84 @@
 
 int maze[1100][1100];
 int gap[1100],dis[1100],pre[1100],cur[1100];
+int maxflow;
 
-int sap(int start,int end,int nodenum) 
+void dfs(int num,int start,int end,int *u,int *flow,int *flagg)
 {
-    memset(cur,0,sizeof(cur));
-    memset(dis,0,sizeof(dis));
-    memset(gap,0,sizeof(gap));
-    int u=pre[start]=start,maxflow=0,aug=-1;
-    gap[0]=nodenum;
-    while(dis[start]<nodenum)
+	int i;
+	for(i=cur[*u]; i<num; i++)
 	{
-        while(1)
-        {
-        	int flag=0;
-        	int v;
-        	for(v=cur[u];v<nodenum;v++)
-        	{
-        		if(maze[u][v]&&dis[u]==dis[v]+1) 
-				{
-                	if(aug==-1||aug>maze[u][v])
-					{
-						aug=maze[u][v];
-					}
-        	        pre[v]=u;
-        	        u=cur[u]=v;
-        	        if(v==end)
-					{
-        	            maxflow+=aug;
-        	            for(u=pre[u];v!=start;v=u,u=pre[u])
-						{
-        	                maze[u][v]-=aug;
-        	                maze[v][u]+=aug;
-        	            }
-        	            aug=-1;
-        	        }
-        	        flag=1;
-        	        break;
-        	    }
-			}
-			if(flag==1)
-			{
-				continue;
-			}
-			break;
-		}
-        int mindis=nodenum-1;
-        int v;
-        for(v=0;v<nodenum;v++)
-        {
-        	if(maze[u][v]&&mindis>dis[v])
-			{
-                cur[u]=v;
-                mindis=dis[v];
-            }
-		}
-        if((--gap[dis[u]])==0)
+		if(maze[*u][i]&&dis[*u]==dis[i]+1)
 		{
-			break;
+			if((*flow)==-1||(*flow)>maze[*u][i])
+			{
+				(*flow)=maze[*u][i];
+			}
+			pre[i]=(*u);
+			(*u)=cur[*u]=i;
+			if(i==end)
+			{
+				maxflow+=(*flow);
+				for((*u)=pre[*u]; i!=start; i=(*u),(*u)=pre[*u])
+				{
+					maze[*u][i]-=(*flow);
+					maze[i][*u]+=(*flow);
+				}
+				(*flow)=-1;
+			}
+			i=cur[*u]-1;
 		}
-        gap[dis[u]=mindis+1]++;
-        u=pre[u];
-    }
-    return maxflow;
+	}
+	int mindis=num-1;
+	for(i=0; i<num; i++)
+	{
+		if(maze[*u][i]&&mindis>dis[i])
+		{
+			cur[*u]=i;
+			mindis=dis[i];
+		}
+	}
+	--gap[dis[*u]];
+	if(gap[dis[*u]]!=0)
+	{
+		dis[*u]=mindis+1;
+		gap[dis[*u]]++;
+		(*u)=pre[*u];
+	}
+	else
+	{
+		(*flagg)=0;
+	}
+}
+
+void sap(int num,int start,int end)
+{
+	memset(cur,0,sizeof(cur));
+	memset(dis,0,sizeof(dis));
+	memset(gap,0,sizeof(gap));
+	int u=pre[start]=start;
+	int flow=-1;
+	maxflow=0;
+	gap[0]=num;
+	int flagg=1;
+	while(dis[start]<num&&flagg==1)
+	{
+		dfs(num,start,end,&u,&flow,&flagg);
+	}
 }
 
 int main()
 {
-    int n,m;
-    scanf("%d%d",&n,&m);
-    memset(maze,0,sizeof(maze));
-    int i;
-    for(i=0;i<m;i++)
+	int n,m;
+	scanf("%d%d",&n,&m);
+	memset(maze,0,sizeof(maze));
+	int i;
+	for(i=0; i<m; i++)
 	{
-        int a,b,c;
-        scanf("%d%d%d",&a,&b,&c);
-        maze[a][b]=maze[b][a]=c;
-    }
-    int ans=sap(1,n,n+1);
-    printf("%d\n",ans);
+		int a,b,c;
+		scanf("%d%d%d",&a,&b,&c);
+		maze[a][b]=maze[b][a]=c;
+	}
+	sap(n+1,1,n);
+	printf("%d\n",maxflow);
 }

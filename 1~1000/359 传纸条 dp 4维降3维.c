@@ -3,7 +3,7 @@
 
 int mask[51][51];
 long long dp[51][51][51];
-
+//视为两个人同时走路，(i,j)是第一个人的坐标，k是第二个人的x坐标，此时y坐标即为i+j-k
 int n,m;
 
 void erase()
@@ -42,7 +42,7 @@ void buildDP()
 		for(j=1;j<=m;++j)
 		{
 			int k;
-			for(k=1;k<=n&&k<=(i+j);k++)
+			for(k=1;k<=n&&k<=(i+j);k++)//整个for循环不用考虑边界，0的地方自然就是0
 			{
 				int p=i+j-k;
 				if(k!=i)

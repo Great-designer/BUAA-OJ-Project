@@ -162,10 +162,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1084 中等·AlvinZH的青春记忆II.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1085 难题·AlvinZH的青春记忆III.c">
-			<Option target="BUAA_OJ_Project"/>
-		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1085 难题·AlvinZH的青春记忆III匈牙利.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1085 难题·AlvinZH的青春记忆III 匈牙利.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1086 难题·AlvinZH的青春记忆IV.c">
@@ -969,7 +966,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/243 似乎该博弈了！.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/244 听说你会打地鼠.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/244 听说你会打地鼠 流水线调度dp.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/245 模式查找.c">
@@ -1257,7 +1254,10 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/357 借教室.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/359 传纸条.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/359 传纸条 dp 4维降3维.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/359 传纸条 dp 4维降滚动2维.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/36 jhljx水水的签到题.c">
@@ -2199,7 +2199,10 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/9 零崎的人间冒险Ⅰ.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/900 又掉坑.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/900 AlvinZH又掉坑里了 4维降滚动2维.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/900 AlvinZH又掉坑里了 dp 4维降3维.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/901 m个无空分拆不限金币.c">
@@ -2535,7 +2538,7 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2704 网络流.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
-		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2705 婚车EK.c">
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2705 E3-婚车 EK.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2706 魔法少女匈牙利.c">
@@ -3447,6 +3450,15 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/98 第三小整数.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1066 ModricWang的水系法术 无向图最大流 HLPP预流推进 list.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1066 ModricWang的水系法术 无向图最大流 ISAP.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1085 难题·AlvinZH的青春记忆III 最大流 ISAP.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/146 机智零崎不会没梗Ⅱ 哈夫曼树 贪心.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3459,16 +3471,28 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/1661 树形DP初步-二叉树 树的直径dfs.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/191 零崎的悠哉日常Ⅱ 网络流 多组查询.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2371 Zexal的拯救世界 线段树.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/260 难题——线段和直线 计算几何.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2705 E3-婚车 网络流模板.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2743 C5-图3 最小生成树原理 最小割.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2922 网络吞吐量 最短路 最大流.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2992 隔离 计算几何.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/359 传纸条 最大费用最大流.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/393 捷径（Shortcut）sort.cpp">
@@ -3493,6 +3517,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/840 后羿射日 - ver. easy.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/900 AlvinZH又掉坑里了 最大费用最大流.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/1042 角谷定理（伪） bfs.cpp">
