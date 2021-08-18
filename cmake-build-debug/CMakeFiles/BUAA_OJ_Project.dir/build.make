@@ -8115,19 +8115,19 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\703 Mdd的链表.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\703_Mdd的链表.c.s
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj: ../1~1000/705\ Gzh最后一次上自习.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_576) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_Gzh最后一次上自习.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\705 Gzh最后一次上自习.c"
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj: ../1~1000/705\ gzh最后一次上自习\ 数学推导\ 计数dp\ 快读快写.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_576) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\705 gzh最后一次上自习 数学推导 计数dp 快读快写.c"
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\705 Gzh最后一次上自习.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_Gzh最后一次上自习.c.i
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\705 gzh最后一次上自习 数学推导 计数dp 快读快写.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\705 Gzh最后一次上自习.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_Gzh最后一次上自习.c.s
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\705 gzh最后一次上自习 数学推导 计数dp 快读快写.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/706_DH的新手机.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/706_DH的新手机.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
@@ -8465,19 +8465,19 @@ CMakeFiles/BUAA_OJ_Project.dir/1~1000/73_随便玩玩的字符串.c.s: cmake_for
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/73_随便玩玩的字符串.c.s"
 	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\73 随便玩玩的字符串.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\73_随便玩玩的字符串.c.s
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj: ../1~1000/730\ Gzh之返老还童II.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_601) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II.c"
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj: ../1~1000/730\ Gzh之返老还童II\ 二阶前缀和\ 数学规律推导\ 二分答案.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_601) "Building C object CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj -c "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II 二阶前缀和 数学规律推导 二分答案.c"
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.i"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II.c.i
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II 二阶前缀和 数学规律推导 二分答案.c" > CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i
 
-CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.s"
-	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II.c.s
+CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s"
+	D:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "E:\程序\BUAA-OJ-Project\1~1000\730 Gzh之返老还童II 二阶前缀和 数学规律推导 二分答案.c" -o CMakeFiles\BUAA_OJ_Project.dir\1~1000\730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s
 
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/731_ModricWang的序列修改.c.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/1~1000/731_ModricWang的序列修改.c.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_C.rsp
@@ -17596,7 +17596,7 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/70_microhhh的困境.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/701_DH的矩阵游戏.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.obj" \
-"CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/706_DH的新手机.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/708_Mdd的链表(II).c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/709_Mdd玩炉石.c.obj" \
@@ -17621,7 +17621,7 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/728_DH的回文数.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/729_DH的01串.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/73_随便玩玩的字符串.c.obj" \
-"CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/731_ModricWang的序列修改.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/732_Gzh之软院联谊_稳定婚姻匹配问题_Gale-Shapley算法.c.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/1~1000/733_Gzh渣基三.c.obj" \
@@ -18811,7 +18811,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/7_Last_Day's_dog.c.ob
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/70_microhhh的困境.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/701_DH的矩阵游戏.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/706_DH的新手机.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/708_Mdd的链表(II).c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/709_Mdd玩炉石.c.obj
@@ -18836,7 +18836,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/727_ModricWang的瑞�
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/728_DH的回文数.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/729_DH的01串.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/73_随便玩玩的字符串.c.obj
-BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/731_ModricWang的序列修改.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/732_Gzh之软院联谊_稳定婚姻匹配问题_Gale-Shapley算法.c.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/1~1000/733_Gzh渣基三.c.obj

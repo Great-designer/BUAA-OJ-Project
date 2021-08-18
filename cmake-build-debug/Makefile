@@ -13880,29 +13880,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/703_Mdd的链表.c.s
 .PHONY : 1~1000/703_Mdd的链表.c.s
 
-1~1000/705_Gzh最后一次上自习.obj: 1~1000/705_Gzh最后一次上自习.c.obj
-.PHONY : 1~1000/705_Gzh最后一次上自习.obj
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.obj: 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.obj
 
 # target to build an object file
-1~1000/705_Gzh最后一次上自习.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.obj
-.PHONY : 1~1000/705_Gzh最后一次上自习.c.obj
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.obj
 
-1~1000/705_Gzh最后一次上自习.i: 1~1000/705_Gzh最后一次上自习.c.i
-.PHONY : 1~1000/705_Gzh最后一次上自习.i
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.i: 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.i
 
 # target to preprocess a source file
-1~1000/705_Gzh最后一次上自习.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.i
-.PHONY : 1~1000/705_Gzh最后一次上自习.c.i
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.i
 
-1~1000/705_Gzh最后一次上自习.s: 1~1000/705_Gzh最后一次上自习.c.s
-.PHONY : 1~1000/705_Gzh最后一次上自习.s
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.s: 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.s
 
 # target to generate assembly for a file
-1~1000/705_Gzh最后一次上自习.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_Gzh最后一次上自习.c.s
-.PHONY : 1~1000/705_Gzh最后一次上自习.c.s
+1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s
+.PHONY : 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.c.s
 
 1~1000/706_DH的新手机.obj: 1~1000/706_DH的新手机.c.obj
 .PHONY : 1~1000/706_DH的新手机.obj
@@ -14480,29 +14480,29 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/72_晴天小猪的羊肉串.c.s
 .PHONY : 1~1000/72_晴天小猪的羊肉串.c.s
 
-1~1000/730_Gzh之返老还童II.obj: 1~1000/730_Gzh之返老还童II.c.obj
-.PHONY : 1~1000/730_Gzh之返老还童II.obj
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.obj: 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.obj
 
 # target to build an object file
-1~1000/730_Gzh之返老还童II.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.obj
-.PHONY : 1~1000/730_Gzh之返老还童II.c.obj
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.obj
 
-1~1000/730_Gzh之返老还童II.i: 1~1000/730_Gzh之返老还童II.c.i
-.PHONY : 1~1000/730_Gzh之返老还童II.i
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.i: 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.i
 
 # target to preprocess a source file
-1~1000/730_Gzh之返老还童II.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.i
-.PHONY : 1~1000/730_Gzh之返老还童II.c.i
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.i
 
-1~1000/730_Gzh之返老还童II.s: 1~1000/730_Gzh之返老还童II.c.s
-.PHONY : 1~1000/730_Gzh之返老还童II.s
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.s: 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.s
 
 # target to generate assembly for a file
-1~1000/730_Gzh之返老还童II.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II.c.s
-.PHONY : 1~1000/730_Gzh之返老还童II.c.s
+1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s
+.PHONY : 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.c.s
 
 1~1000/731_ModricWang的序列修改.obj: 1~1000/731_ModricWang的序列修改.c.obj
 .PHONY : 1~1000/731_ModricWang的序列修改.obj
@@ -30920,9 +30920,9 @@ help:
 	@echo ... 1~1000/703_Mdd的链表.obj
 	@echo ... 1~1000/703_Mdd的链表.i
 	@echo ... 1~1000/703_Mdd的链表.s
-	@echo ... 1~1000/705_Gzh最后一次上自习.obj
-	@echo ... 1~1000/705_Gzh最后一次上自习.i
-	@echo ... 1~1000/705_Gzh最后一次上自习.s
+	@echo ... 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.obj
+	@echo ... 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.i
+	@echo ... 1~1000/705_gzh最后一次上自习_数学推导_计数dp_快读快写.s
 	@echo ... 1~1000/706_DH的新手机.obj
 	@echo ... 1~1000/706_DH的新手机.i
 	@echo ... 1~1000/706_DH的新手机.s
@@ -30995,9 +30995,9 @@ help:
 	@echo ... 1~1000/72_晴天小猪的羊肉串.obj
 	@echo ... 1~1000/72_晴天小猪的羊肉串.i
 	@echo ... 1~1000/72_晴天小猪的羊肉串.s
-	@echo ... 1~1000/730_Gzh之返老还童II.obj
-	@echo ... 1~1000/730_Gzh之返老还童II.i
-	@echo ... 1~1000/730_Gzh之返老还童II.s
+	@echo ... 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.obj
+	@echo ... 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.i
+	@echo ... 1~1000/730_Gzh之返老还童II_二阶前缀和_数学规律推导_二分答案.s
 	@echo ... 1~1000/731_ModricWang的序列修改.obj
 	@echo ... 1~1000/731_ModricWang的序列修改.i
 	@echo ... 1~1000/731_ModricWang的序列修改.s

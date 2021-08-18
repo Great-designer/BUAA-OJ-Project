@@ -16,22 +16,15 @@
   <component name="ChangeListManager">
     <list default="true" id="5564fcd0-ada6-4070-859d-e173da57fb61" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1066 ModricWang的水系法术.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1066 ModricWang的水系法术.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1085 难题·AlvinZH的青春记忆III.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1085 难题·AlvinZH的青春记忆III匈牙利.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/191 零崎的悠哉日常Ⅱ.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/191 零崎的悠哉日常Ⅱ.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/244 听说你会打地鼠.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/359 传纸条.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/900 又掉坑.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2001~3000/2705 婚车EK.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/705 Gzh最后一次上自习 递推式结论 快读快写.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/705 Gzh最后一次上自习 递推式结论 快读快写.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/705 gzh最后一次上自习 数学推导 计数dp 快读快写.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/705 gzh最后一次上自习 数学推导 计数dp 快读快写.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/730 Gzh之返老还童II 二阶前缀和 数学规律推导 二分答案.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/730 Gzh之返老还童II 二阶前缀和 数学规律推导 二分答案.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
@@ -67,12 +60,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -96,6 +89,7 @@
       <workItem from="1629188732743" duration="1968000" />
       <workItem from="1629201492274" duration="809000" />
       <workItem from="1629277366055" duration="1140000" />
+      <workItem from="1629279597492" duration="767000" />
     </task>
     <servers />
   </component>
