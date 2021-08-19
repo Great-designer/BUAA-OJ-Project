@@ -128,6 +128,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/build
 .PHONY : BUAA_OJ_Project/fast
 
+1001~2000/1025_Statistics.obj: 1001~2000/1025_Statistics.c.obj
+.PHONY : 1001~2000/1025_Statistics.obj
+
+# target to build an object file
+1001~2000/1025_Statistics.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1025_Statistics.c.obj
+.PHONY : 1001~2000/1025_Statistics.c.obj
+
+1001~2000/1025_Statistics.i: 1001~2000/1025_Statistics.c.i
+.PHONY : 1001~2000/1025_Statistics.i
+
+# target to preprocess a source file
+1001~2000/1025_Statistics.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1025_Statistics.c.i
+.PHONY : 1001~2000/1025_Statistics.c.i
+
+1001~2000/1025_Statistics.s: 1001~2000/1025_Statistics.c.s
+.PHONY : 1001~2000/1025_Statistics.s
+
+# target to generate assembly for a file
+1001~2000/1025_Statistics.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1025_Statistics.c.s
+.PHONY : 1001~2000/1025_Statistics.c.s
+
 1001~2000/1026_向量内积.obj: 1001~2000/1026_向量内积.c.obj
 .PHONY : 1001~2000/1026_向量内积.obj
 
@@ -152,6 +176,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1026_向量内积.c.s
 .PHONY : 1001~2000/1026_向量内积.c.s
 
+1001~2000/1027_孤独的数.obj: 1001~2000/1027_孤独的数.c.obj
+.PHONY : 1001~2000/1027_孤独的数.obj
+
+# target to build an object file
+1001~2000/1027_孤独的数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1027_孤独的数.c.obj
+.PHONY : 1001~2000/1027_孤独的数.c.obj
+
+1001~2000/1027_孤独的数.i: 1001~2000/1027_孤独的数.c.i
+.PHONY : 1001~2000/1027_孤独的数.i
+
+# target to preprocess a source file
+1001~2000/1027_孤独的数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1027_孤独的数.c.i
+.PHONY : 1001~2000/1027_孤独的数.c.i
+
+1001~2000/1027_孤独的数.s: 1001~2000/1027_孤独的数.c.s
+.PHONY : 1001~2000/1027_孤独的数.s
+
+# target to generate assembly for a file
+1001~2000/1027_孤独的数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1027_孤独的数.c.s
+.PHONY : 1001~2000/1027_孤独的数.c.s
+
 1001~2000/1028_数组漂移.obj: 1001~2000/1028_数组漂移.c.obj
 .PHONY : 1001~2000/1028_数组漂移.obj
 
@@ -175,6 +223,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1028_数组漂移.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1028_数组漂移.c.s
 .PHONY : 1001~2000/1028_数组漂移.c.s
+
+1001~2000/1029_字符串旋转.obj: 1001~2000/1029_字符串旋转.c.obj
+.PHONY : 1001~2000/1029_字符串旋转.obj
+
+# target to build an object file
+1001~2000/1029_字符串旋转.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1029_字符串旋转.c.obj
+.PHONY : 1001~2000/1029_字符串旋转.c.obj
+
+1001~2000/1029_字符串旋转.i: 1001~2000/1029_字符串旋转.c.i
+.PHONY : 1001~2000/1029_字符串旋转.i
+
+# target to preprocess a source file
+1001~2000/1029_字符串旋转.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1029_字符串旋转.c.i
+.PHONY : 1001~2000/1029_字符串旋转.c.i
+
+1001~2000/1029_字符串旋转.s: 1001~2000/1029_字符串旋转.c.s
+.PHONY : 1001~2000/1029_字符串旋转.s
+
+# target to generate assembly for a file
+1001~2000/1029_字符串旋转.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1029_字符串旋转.c.s
+.PHONY : 1001~2000/1029_字符串旋转.c.s
 
 1001~2000/1030_统计质数_埃式筛法.obj: 1001~2000/1030_统计质数_埃式筛法.c.obj
 .PHONY : 1001~2000/1030_统计质数_埃式筛法.obj
@@ -29201,12 +29273,21 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... BUAA_OJ_Project
+	@echo ... 1001~2000/1025_Statistics.obj
+	@echo ... 1001~2000/1025_Statistics.i
+	@echo ... 1001~2000/1025_Statistics.s
 	@echo ... 1001~2000/1026_向量内积.obj
 	@echo ... 1001~2000/1026_向量内积.i
 	@echo ... 1001~2000/1026_向量内积.s
+	@echo ... 1001~2000/1027_孤独的数.obj
+	@echo ... 1001~2000/1027_孤独的数.i
+	@echo ... 1001~2000/1027_孤独的数.s
 	@echo ... 1001~2000/1028_数组漂移.obj
 	@echo ... 1001~2000/1028_数组漂移.i
 	@echo ... 1001~2000/1028_数组漂移.s
+	@echo ... 1001~2000/1029_字符串旋转.obj
+	@echo ... 1001~2000/1029_字符串旋转.i
+	@echo ... 1001~2000/1029_字符串旋转.s
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.obj
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.i
 	@echo ... 1001~2000/1030_统计质数_埃式筛法.s

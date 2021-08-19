@@ -9,8 +9,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "E:/程序/BUAA-OJ-Project/1001~2000/1025 Statistics.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1025_Statistics.c.obj"
   "E:/程序/BUAA-OJ-Project/1001~2000/1026 向量内积.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1026_向量内积.c.obj"
+  "E:/程序/BUAA-OJ-Project/1001~2000/1027 孤独的数.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1027_孤独的数.c.obj"
   "E:/程序/BUAA-OJ-Project/1001~2000/1028 数组漂移.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1028_数组漂移.c.obj"
+  "E:/程序/BUAA-OJ-Project/1001~2000/1029 字符串旋转.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1029_字符串旋转.c.obj"
   "E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 埃式筛法.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_埃式筛法.c.obj"
   "E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 线性筛.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_线性筛.c.obj"
   "E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 高度优化的埃氏筛法.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_高度优化的埃氏筛法.c.obj"

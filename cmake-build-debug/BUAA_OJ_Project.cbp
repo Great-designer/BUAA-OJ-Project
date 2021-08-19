@@ -114,10 +114,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1025 Statistics.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1026 向量内积.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1027 孤独的数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1028 数组漂移.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1029 字符串旋转.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 埃式筛法.c">

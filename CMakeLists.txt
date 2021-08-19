@@ -22,8 +22,11 @@ include_directories(map)
 include_directories(others-cpp)
 
 add_executable(BUAA_OJ_Project
+        "1001~2000/1025 Statistics.c"
         "1001~2000/1026 向量内积.c"
+        "1001~2000/1027 孤独的数.c"
         "1001~2000/1028 数组漂移.c"
+        "1001~2000/1029 字符串旋转.c"
         "1001~2000/1030 统计质数 高度优化的埃氏筛法.c"
         "1001~2000/1030 统计质数 埃式筛法.c"
         "1001~2000/1030 统计质数 线性筛.c"
