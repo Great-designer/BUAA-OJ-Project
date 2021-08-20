@@ -7,7 +7,7 @@ char rd(int *s)
 {
 	if (eof_flag)
 		return 0;
-	int k = 0, f = 1;
+	int k, f;
 	char c = getchar();
 	while (c != '-' && (c < '0' || c > '9'))
 	{

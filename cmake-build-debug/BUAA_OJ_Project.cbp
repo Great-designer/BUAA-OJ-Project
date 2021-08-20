@@ -138,6 +138,18 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1030 统计质数 高度优化的埃氏筛法.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1033 蛇形矩阵.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1034 马鞍数.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1035 约瑟夫问题.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1036 子序列.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1042 角谷定理（伪） 随机数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>

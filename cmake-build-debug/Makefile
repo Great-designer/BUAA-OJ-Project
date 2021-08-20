@@ -320,6 +320,102 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1030_统计质数_高度优化的埃氏筛法.c.s
 .PHONY : 1001~2000/1030_统计质数_高度优化的埃氏筛法.c.s
 
+1001~2000/1033_蛇形矩阵.obj: 1001~2000/1033_蛇形矩阵.c.obj
+.PHONY : 1001~2000/1033_蛇形矩阵.obj
+
+# target to build an object file
+1001~2000/1033_蛇形矩阵.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1033_蛇形矩阵.c.obj
+.PHONY : 1001~2000/1033_蛇形矩阵.c.obj
+
+1001~2000/1033_蛇形矩阵.i: 1001~2000/1033_蛇形矩阵.c.i
+.PHONY : 1001~2000/1033_蛇形矩阵.i
+
+# target to preprocess a source file
+1001~2000/1033_蛇形矩阵.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1033_蛇形矩阵.c.i
+.PHONY : 1001~2000/1033_蛇形矩阵.c.i
+
+1001~2000/1033_蛇形矩阵.s: 1001~2000/1033_蛇形矩阵.c.s
+.PHONY : 1001~2000/1033_蛇形矩阵.s
+
+# target to generate assembly for a file
+1001~2000/1033_蛇形矩阵.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1033_蛇形矩阵.c.s
+.PHONY : 1001~2000/1033_蛇形矩阵.c.s
+
+1001~2000/1034_马鞍数.obj: 1001~2000/1034_马鞍数.c.obj
+.PHONY : 1001~2000/1034_马鞍数.obj
+
+# target to build an object file
+1001~2000/1034_马鞍数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1034_马鞍数.c.obj
+.PHONY : 1001~2000/1034_马鞍数.c.obj
+
+1001~2000/1034_马鞍数.i: 1001~2000/1034_马鞍数.c.i
+.PHONY : 1001~2000/1034_马鞍数.i
+
+# target to preprocess a source file
+1001~2000/1034_马鞍数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1034_马鞍数.c.i
+.PHONY : 1001~2000/1034_马鞍数.c.i
+
+1001~2000/1034_马鞍数.s: 1001~2000/1034_马鞍数.c.s
+.PHONY : 1001~2000/1034_马鞍数.s
+
+# target to generate assembly for a file
+1001~2000/1034_马鞍数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1034_马鞍数.c.s
+.PHONY : 1001~2000/1034_马鞍数.c.s
+
+1001~2000/1035_约瑟夫问题.obj: 1001~2000/1035_约瑟夫问题.c.obj
+.PHONY : 1001~2000/1035_约瑟夫问题.obj
+
+# target to build an object file
+1001~2000/1035_约瑟夫问题.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1035_约瑟夫问题.c.obj
+.PHONY : 1001~2000/1035_约瑟夫问题.c.obj
+
+1001~2000/1035_约瑟夫问题.i: 1001~2000/1035_约瑟夫问题.c.i
+.PHONY : 1001~2000/1035_约瑟夫问题.i
+
+# target to preprocess a source file
+1001~2000/1035_约瑟夫问题.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1035_约瑟夫问题.c.i
+.PHONY : 1001~2000/1035_约瑟夫问题.c.i
+
+1001~2000/1035_约瑟夫问题.s: 1001~2000/1035_约瑟夫问题.c.s
+.PHONY : 1001~2000/1035_约瑟夫问题.s
+
+# target to generate assembly for a file
+1001~2000/1035_约瑟夫问题.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1035_约瑟夫问题.c.s
+.PHONY : 1001~2000/1035_约瑟夫问题.c.s
+
+1001~2000/1036_子序列.obj: 1001~2000/1036_子序列.c.obj
+.PHONY : 1001~2000/1036_子序列.obj
+
+# target to build an object file
+1001~2000/1036_子序列.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1036_子序列.c.obj
+.PHONY : 1001~2000/1036_子序列.c.obj
+
+1001~2000/1036_子序列.i: 1001~2000/1036_子序列.c.i
+.PHONY : 1001~2000/1036_子序列.i
+
+# target to preprocess a source file
+1001~2000/1036_子序列.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1036_子序列.c.i
+.PHONY : 1001~2000/1036_子序列.c.i
+
+1001~2000/1036_子序列.s: 1001~2000/1036_子序列.c.s
+.PHONY : 1001~2000/1036_子序列.s
+
+# target to generate assembly for a file
+1001~2000/1036_子序列.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1036_子序列.c.s
+.PHONY : 1001~2000/1036_子序列.c.s
+
 1001~2000/1042_角谷定理（伪）_随机数.obj: 1001~2000/1042_角谷定理（伪）_随机数.c.obj
 .PHONY : 1001~2000/1042_角谷定理（伪）_随机数.obj
 
@@ -29297,6 +29393,18 @@ help:
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.obj
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.i
 	@echo ... 1001~2000/1030_统计质数_高度优化的埃氏筛法.s
+	@echo ... 1001~2000/1033_蛇形矩阵.obj
+	@echo ... 1001~2000/1033_蛇形矩阵.i
+	@echo ... 1001~2000/1033_蛇形矩阵.s
+	@echo ... 1001~2000/1034_马鞍数.obj
+	@echo ... 1001~2000/1034_马鞍数.i
+	@echo ... 1001~2000/1034_马鞍数.s
+	@echo ... 1001~2000/1035_约瑟夫问题.obj
+	@echo ... 1001~2000/1035_约瑟夫问题.i
+	@echo ... 1001~2000/1035_约瑟夫问题.s
+	@echo ... 1001~2000/1036_子序列.obj
+	@echo ... 1001~2000/1036_子序列.i
+	@echo ... 1001~2000/1036_子序列.s
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.obj
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.i
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.s

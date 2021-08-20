@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<limits.h>
 
 int a[510];
 
@@ -30,8 +31,8 @@ int main()
 		scanf("%d", a + i);
 	}
 	qsort(a,n,sizeof(int),compare);
-	int ans;
-	int duplicate = 2147483648;
+	int ans = 0;
+	int duplicate = INT_MAX;
 	for (int i = 0; i < n; ++i)
 	{
 		if (a[i + 1] == a[i])
