@@ -13,8 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10dec36e-1fae-4cdd-9a2a-e0df69b2564d" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1001~2000/1027 孤独的数.c" beforeDir="false" afterPath="$PROJECT_DIR$/1001~2000/1027 孤独的数.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/753 来一场华丽的学级裁判吧.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/753 来一场华丽的学级裁判吧.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/733 Gzh渣基三.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/733 Gzh渣基三.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
@@ -39,7 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
+    <option name="selectedIndex" value="3" />
   </component>
   <component name="ProjectId" id="1wvqqsuGPv3bwzn5Md3QVCJtHt6" />
   <component name="ProjectViewState">
@@ -58,12 +57,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -84,6 +83,7 @@
       <updated>1629349607814</updated>
       <workItem from="1629349610776" duration="496000" />
       <workItem from="1629445817504" duration="740000" />
+      <workItem from="1629532134492" duration="1720000" />
     </task>
     <servers />
   </component>

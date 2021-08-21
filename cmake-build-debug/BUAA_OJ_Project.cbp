@@ -150,6 +150,18 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1036 子序列.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1037 韩信点兵 中国剩余定理.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1037 韩信点兵.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1038 狐狸捉兔子.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1040 回文串判断.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1042 角谷定理（伪） 随机数.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>

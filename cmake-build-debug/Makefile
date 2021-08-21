@@ -416,6 +416,102 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1036_子序列.c.s
 .PHONY : 1001~2000/1036_子序列.c.s
 
+1001~2000/1037_韩信点兵.obj: 1001~2000/1037_韩信点兵.c.obj
+.PHONY : 1001~2000/1037_韩信点兵.obj
+
+# target to build an object file
+1001~2000/1037_韩信点兵.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵.c.obj
+.PHONY : 1001~2000/1037_韩信点兵.c.obj
+
+1001~2000/1037_韩信点兵.i: 1001~2000/1037_韩信点兵.c.i
+.PHONY : 1001~2000/1037_韩信点兵.i
+
+# target to preprocess a source file
+1001~2000/1037_韩信点兵.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵.c.i
+.PHONY : 1001~2000/1037_韩信点兵.c.i
+
+1001~2000/1037_韩信点兵.s: 1001~2000/1037_韩信点兵.c.s
+.PHONY : 1001~2000/1037_韩信点兵.s
+
+# target to generate assembly for a file
+1001~2000/1037_韩信点兵.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵.c.s
+.PHONY : 1001~2000/1037_韩信点兵.c.s
+
+1001~2000/1037_韩信点兵_中国剩余定理.obj: 1001~2000/1037_韩信点兵_中国剩余定理.c.obj
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.obj
+
+# target to build an object file
+1001~2000/1037_韩信点兵_中国剩余定理.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵_中国剩余定理.c.obj
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.c.obj
+
+1001~2000/1037_韩信点兵_中国剩余定理.i: 1001~2000/1037_韩信点兵_中国剩余定理.c.i
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.i
+
+# target to preprocess a source file
+1001~2000/1037_韩信点兵_中国剩余定理.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵_中国剩余定理.c.i
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.c.i
+
+1001~2000/1037_韩信点兵_中国剩余定理.s: 1001~2000/1037_韩信点兵_中国剩余定理.c.s
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.s
+
+# target to generate assembly for a file
+1001~2000/1037_韩信点兵_中国剩余定理.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1037_韩信点兵_中国剩余定理.c.s
+.PHONY : 1001~2000/1037_韩信点兵_中国剩余定理.c.s
+
+1001~2000/1038_狐狸捉兔子.obj: 1001~2000/1038_狐狸捉兔子.c.obj
+.PHONY : 1001~2000/1038_狐狸捉兔子.obj
+
+# target to build an object file
+1001~2000/1038_狐狸捉兔子.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1038_狐狸捉兔子.c.obj
+.PHONY : 1001~2000/1038_狐狸捉兔子.c.obj
+
+1001~2000/1038_狐狸捉兔子.i: 1001~2000/1038_狐狸捉兔子.c.i
+.PHONY : 1001~2000/1038_狐狸捉兔子.i
+
+# target to preprocess a source file
+1001~2000/1038_狐狸捉兔子.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1038_狐狸捉兔子.c.i
+.PHONY : 1001~2000/1038_狐狸捉兔子.c.i
+
+1001~2000/1038_狐狸捉兔子.s: 1001~2000/1038_狐狸捉兔子.c.s
+.PHONY : 1001~2000/1038_狐狸捉兔子.s
+
+# target to generate assembly for a file
+1001~2000/1038_狐狸捉兔子.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1038_狐狸捉兔子.c.s
+.PHONY : 1001~2000/1038_狐狸捉兔子.c.s
+
+1001~2000/1040_回文串判断.obj: 1001~2000/1040_回文串判断.c.obj
+.PHONY : 1001~2000/1040_回文串判断.obj
+
+# target to build an object file
+1001~2000/1040_回文串判断.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1040_回文串判断.c.obj
+.PHONY : 1001~2000/1040_回文串判断.c.obj
+
+1001~2000/1040_回文串判断.i: 1001~2000/1040_回文串判断.c.i
+.PHONY : 1001~2000/1040_回文串判断.i
+
+# target to preprocess a source file
+1001~2000/1040_回文串判断.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1040_回文串判断.c.i
+.PHONY : 1001~2000/1040_回文串判断.c.i
+
+1001~2000/1040_回文串判断.s: 1001~2000/1040_回文串判断.c.s
+.PHONY : 1001~2000/1040_回文串判断.s
+
+# target to generate assembly for a file
+1001~2000/1040_回文串判断.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1040_回文串判断.c.s
+.PHONY : 1001~2000/1040_回文串判断.c.s
+
 1001~2000/1042_角谷定理（伪）_随机数.obj: 1001~2000/1042_角谷定理（伪）_随机数.c.obj
 .PHONY : 1001~2000/1042_角谷定理（伪）_随机数.obj
 
@@ -29405,6 +29501,18 @@ help:
 	@echo ... 1001~2000/1036_子序列.obj
 	@echo ... 1001~2000/1036_子序列.i
 	@echo ... 1001~2000/1036_子序列.s
+	@echo ... 1001~2000/1037_韩信点兵.obj
+	@echo ... 1001~2000/1037_韩信点兵.i
+	@echo ... 1001~2000/1037_韩信点兵.s
+	@echo ... 1001~2000/1037_韩信点兵_中国剩余定理.obj
+	@echo ... 1001~2000/1037_韩信点兵_中国剩余定理.i
+	@echo ... 1001~2000/1037_韩信点兵_中国剩余定理.s
+	@echo ... 1001~2000/1038_狐狸捉兔子.obj
+	@echo ... 1001~2000/1038_狐狸捉兔子.i
+	@echo ... 1001~2000/1038_狐狸捉兔子.s
+	@echo ... 1001~2000/1040_回文串判断.obj
+	@echo ... 1001~2000/1040_回文串判断.i
+	@echo ... 1001~2000/1040_回文串判断.s
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.obj
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.i
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.s

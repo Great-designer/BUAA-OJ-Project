@@ -106,6 +106,8 @@ void destroyQueue(struct LinkQueue *q)
 	}
 }
 
+char str[220];
+
 int main()
 {
 	int n;
@@ -120,7 +122,6 @@ int main()
 			scanf("%s",opera);
 			if(strcmp(opera,"add")==0)
 			{
-				char str[220];
 				scanf("%s",str);
 				if(queueSize(&q)>=25)
 				{
