@@ -512,6 +512,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1040_回文串判断.c.s
 .PHONY : 1001~2000/1040_回文串判断.c.s
 
+1001~2000/1041_计算行列式的值.obj: 1001~2000/1041_计算行列式的值.c.obj
+.PHONY : 1001~2000/1041_计算行列式的值.obj
+
+# target to build an object file
+1001~2000/1041_计算行列式的值.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1041_计算行列式的值.c.obj
+.PHONY : 1001~2000/1041_计算行列式的值.c.obj
+
+1001~2000/1041_计算行列式的值.i: 1001~2000/1041_计算行列式的值.c.i
+.PHONY : 1001~2000/1041_计算行列式的值.i
+
+# target to preprocess a source file
+1001~2000/1041_计算行列式的值.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1041_计算行列式的值.c.i
+.PHONY : 1001~2000/1041_计算行列式的值.c.i
+
+1001~2000/1041_计算行列式的值.s: 1001~2000/1041_计算行列式的值.c.s
+.PHONY : 1001~2000/1041_计算行列式的值.s
+
+# target to generate assembly for a file
+1001~2000/1041_计算行列式的值.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1041_计算行列式的值.c.s
+.PHONY : 1001~2000/1041_计算行列式的值.c.s
+
 1001~2000/1042_角谷定理（伪）_随机数.obj: 1001~2000/1042_角谷定理（伪）_随机数.c.obj
 .PHONY : 1001~2000/1042_角谷定理（伪）_随机数.obj
 
@@ -535,6 +559,54 @@ BUAA_OJ_Project/fast:
 1001~2000/1042_角谷定理（伪）_随机数.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1042_角谷定理（伪）_随机数.c.s
 .PHONY : 1001~2000/1042_角谷定理（伪）_随机数.c.s
+
+1001~2000/1044_粒子加速.obj: 1001~2000/1044_粒子加速.c.obj
+.PHONY : 1001~2000/1044_粒子加速.obj
+
+# target to build an object file
+1001~2000/1044_粒子加速.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1044_粒子加速.c.obj
+.PHONY : 1001~2000/1044_粒子加速.c.obj
+
+1001~2000/1044_粒子加速.i: 1001~2000/1044_粒子加速.c.i
+.PHONY : 1001~2000/1044_粒子加速.i
+
+# target to preprocess a source file
+1001~2000/1044_粒子加速.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1044_粒子加速.c.i
+.PHONY : 1001~2000/1044_粒子加速.c.i
+
+1001~2000/1044_粒子加速.s: 1001~2000/1044_粒子加速.c.s
+.PHONY : 1001~2000/1044_粒子加速.s
+
+# target to generate assembly for a file
+1001~2000/1044_粒子加速.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1044_粒子加速.c.s
+.PHONY : 1001~2000/1044_粒子加速.c.s
+
+1001~2000/1045_成绩统计.obj: 1001~2000/1045_成绩统计.c.obj
+.PHONY : 1001~2000/1045_成绩统计.obj
+
+# target to build an object file
+1001~2000/1045_成绩统计.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1045_成绩统计.c.obj
+.PHONY : 1001~2000/1045_成绩统计.c.obj
+
+1001~2000/1045_成绩统计.i: 1001~2000/1045_成绩统计.c.i
+.PHONY : 1001~2000/1045_成绩统计.i
+
+# target to preprocess a source file
+1001~2000/1045_成绩统计.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1045_成绩统计.c.i
+.PHONY : 1001~2000/1045_成绩统计.c.i
+
+1001~2000/1045_成绩统计.s: 1001~2000/1045_成绩统计.c.s
+.PHONY : 1001~2000/1045_成绩统计.s
+
+# target to generate assembly for a file
+1001~2000/1045_成绩统计.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1045_成绩统计.c.s
+.PHONY : 1001~2000/1045_成绩统计.c.s
 
 1001~2000/1057_弱化高精度减法.obj: 1001~2000/1057_弱化高精度减法.c.obj
 .PHONY : 1001~2000/1057_弱化高精度减法.obj
@@ -27080,6 +27152,30 @@ nth_element/98_第三小整数.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/nth_element/98_第三小整数.cpp.s
 .PHONY : nth_element/98_第三小整数.cpp.s
 
+others-cpp/1041_计算行列式的值_高斯消元swap.obj: others-cpp/1041_计算行列式的值_高斯消元swap.cpp.obj
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.obj
+
+# target to build an object file
+others-cpp/1041_计算行列式的值_高斯消元swap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1041_计算行列式的值_高斯消元swap.cpp.obj
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.cpp.obj
+
+others-cpp/1041_计算行列式的值_高斯消元swap.i: others-cpp/1041_计算行列式的值_高斯消元swap.cpp.i
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.i
+
+# target to preprocess a source file
+others-cpp/1041_计算行列式的值_高斯消元swap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1041_计算行列式的值_高斯消元swap.cpp.i
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.cpp.i
+
+others-cpp/1041_计算行列式的值_高斯消元swap.s: others-cpp/1041_计算行列式的值_高斯消元swap.cpp.s
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.s
+
+# target to generate assembly for a file
+others-cpp/1041_计算行列式的值_高斯消元swap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1041_计算行列式的值_高斯消元swap.cpp.s
+.PHONY : others-cpp/1041_计算行列式的值_高斯消元swap.cpp.s
+
 others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.obj: others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.cpp.obj
 .PHONY : others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.obj
 
@@ -29513,9 +29609,18 @@ help:
 	@echo ... 1001~2000/1040_回文串判断.obj
 	@echo ... 1001~2000/1040_回文串判断.i
 	@echo ... 1001~2000/1040_回文串判断.s
+	@echo ... 1001~2000/1041_计算行列式的值.obj
+	@echo ... 1001~2000/1041_计算行列式的值.i
+	@echo ... 1001~2000/1041_计算行列式的值.s
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.obj
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.i
 	@echo ... 1001~2000/1042_角谷定理（伪）_随机数.s
+	@echo ... 1001~2000/1044_粒子加速.obj
+	@echo ... 1001~2000/1044_粒子加速.i
+	@echo ... 1001~2000/1044_粒子加速.s
+	@echo ... 1001~2000/1045_成绩统计.obj
+	@echo ... 1001~2000/1045_成绩统计.i
+	@echo ... 1001~2000/1045_成绩统计.s
 	@echo ... 1001~2000/1057_弱化高精度减法.obj
 	@echo ... 1001~2000/1057_弱化高精度减法.i
 	@echo ... 1001~2000/1057_弱化高精度减法.s
@@ -32834,6 +32939,9 @@ help:
 	@echo ... nth_element/98_第三小整数.obj
 	@echo ... nth_element/98_第三小整数.i
 	@echo ... nth_element/98_第三小整数.s
+	@echo ... others-cpp/1041_计算行列式的值_高斯消元swap.obj
+	@echo ... others-cpp/1041_计算行列式的值_高斯消元swap.i
+	@echo ... others-cpp/1041_计算行列式的值_高斯消元swap.s
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.obj
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.i
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_HLPP预流推进_list.s

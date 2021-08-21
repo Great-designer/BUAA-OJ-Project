@@ -11,9 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10dec36e-1fae-4cdd-9a2a-e0df69b2564d" name="更改" comment="">
+    <list default="true" id="ef5b709d-d9ce-4544-8126-37d64dece249" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/733 Gzh渣基三.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/733 Gzh渣基三.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
@@ -24,6 +23,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/python/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set/3014 奇怪的排序 序列操作 Splay.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/set/3014 奇怪的排序 序列操作 Splay.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +39,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="3" />
+    <option name="selectedIndex" value="2" />
   </component>
-  <component name="ProjectId" id="1wvqqsuGPv3bwzn5Md3QVCJtHt6" />
+  <component name="ProjectId" id="1x2htajEoRp6IMHmt4XeXCuY5sb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,14 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="10dec36e-1fae-4cdd-9a2a-e0df69b2564d" name="更改" comment="" />
-      <created>1629349607814</created>
+      <changelist id="ef5b709d-d9ce-4544-8126-37d64dece249" name="更改" comment="" />
+      <created>1629559307646</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1629349607814</updated>
-      <workItem from="1629349610776" duration="496000" />
-      <workItem from="1629445817504" duration="740000" />
-      <workItem from="1629532134492" duration="1720000" />
+      <updated>1629559307646</updated>
+      <workItem from="1629559310214" duration="4190000" />
     </task>
     <servers />
   </component>
