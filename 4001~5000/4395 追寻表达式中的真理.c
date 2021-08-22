@@ -32,12 +32,6 @@ void clear(struct parse_tree_node * x)
 	x->child_cnt = 0;
 }
 
-void add_child(struct parse_tree_node * x, int a)
-{
-	x->child_index[x->child_cnt] = a;
-	x->child_cnt++;
-}
-
 int is_leaf(struct parse_tree_node * x)
 {
 	int i;
@@ -184,38 +178,13 @@ int get_member_func(int l, int r)
 	return -1;
 }
 
-int is_stadard_func(int l, int r)
+int isStandardFunc(int l, int r)
 {
 	if (r - l + 1 <= 3)
 	{
 		return 0;
 	}
 	return islower(input[l]) && input[l + 1] == '(' && input[r] == ')';
-}
-
-int* get_all_comma(int l, int r)
-{
-	int* ret;
-	ret = (int*)malloc(sizeof(int) * 130);
-	memset(ret, -1, sizeof(int) * 130);
-	int cnt = 0;
-	int in = 0;
-	int i;
-	for (i = l; i <= r; ++i)
-	{
-		in += input[i] == '(';
-		in -= input[i] == ')';
-		if (in)
-		{
-			continue;
-		}
-		if (input[i] == ',')
-		{
-			ret[cnt] = i;
-			cnt++;
-		}
-	}
-	return ret;
 }
 
 int build(int l, int r)
@@ -242,8 +211,10 @@ int build(int l, int r)
 	if (pos != -1)
 	{
 		memory_pool[ptn].key_link = input[pos];
-		add_child(&memory_pool[ptn], build(l, pos - 1));
-		add_child(&memory_pool[ptn], build(pos + 1, r));
+		memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(l, pos - 1);
+		memory_pool[ptn].child_cnt++;
+		memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(pos + 1, r);
+		memory_pool[ptn].child_cnt++;
 		return ptn;
 	}
 	//priority 2 : 乘除符
@@ -251,8 +222,10 @@ int build(int l, int r)
 	if (pos != -1)
 	{
 		memory_pool[ptn].key_link = input[pos];
-		add_child(&memory_pool[ptn], build(l, pos - 1));
-		add_child(&memory_pool[ptn], build(pos + 1, r));
+		memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(l, pos - 1);
+		memory_pool[ptn].child_cnt++;
+		memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(pos + 1, r);
+		memory_pool[ptn].child_cnt++;
 		return ptn;
 	}
 	//priority 3 : 成员函数
@@ -260,8 +233,28 @@ int build(int l, int r)
 	if (pos != -1)
 	{
 		memory_pool[ptn].key_link = input[pos + 1];//注意字母在'.'后面
-		add_child(&memory_pool[ptn], build(l, pos - 1));
-		int* commas = get_all_comma(pos + 3, r - 1);
+		memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(l, pos - 1);
+		memory_pool[ptn].child_cnt++;
+		int* commas;
+		commas = (int*)malloc(sizeof(int) * 130);
+		memset(commas, -1, sizeof(int) * 130);
+		int cnt = 0;
+		int in = 0;
+		int i;
+		for(i=pos+3; i<=r-1; ++i)
+		{
+			in += input[i] == '(';
+			in -= input[i] == ')';
+			if (in)
+			{
+				continue;
+			}
+			if (input[i] == ',')
+			{
+				commas[cnt] = i;
+				cnt++;
+			}
+		}
 		int commas_size = 0;
 		while (commas[commas_size] >= 0)
 		{
@@ -269,21 +262,40 @@ int build(int l, int r)
 		}
 		commas[commas_size] = r;
 		commas_size++;
-		int start = pos + 3, i;
+		int start = pos + 3;
 		for (i = 0; i < commas_size; ++i)
 		{
-			add_child(&memory_pool[ptn], build(start, commas[i] - 1));
+		    memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(start, commas[i] - 1);
+			memory_pool[ptn].child_cnt++;
 			start = commas[i] + 1;
 		}
-		free(commas);
 		return ptn;
 	}
 	//priority 4 : 普通函数
-	pos = is_stadard_func(l, r);
+	pos = isStandardFunc(l, r);
 	if (pos)
 	{
 		memory_pool[ptn].key_link = input[l];
-		int* commas = get_all_comma(l + 2, r - 1);
+		int* commas;
+		commas = (int*)malloc(sizeof(int) * 130);
+		memset(commas, -1, sizeof(int) * 130);
+		int cnt = 0;
+		int in = 0;
+		int i;
+		for(i=l+2; i<=r-1; ++i)
+		{
+			in += input[i] == '(';
+			in -= input[i] == ')';
+			if (in)
+			{
+				continue;
+			}
+			if (input[i] == ',')
+			{
+				commas[cnt] = i;
+				cnt++;
+			}
+		}
 		int commas_size = 0;
 		while (commas[commas_size] >= 0)
 		{
@@ -291,13 +303,13 @@ int build(int l, int r)
 		}
 		commas[commas_size] = r;
 		commas_size++;
-		int start = l + 2, i;
+		int start = l + 2;
 		for (i = 0; i < commas_size; ++i)
 		{
-			add_child(&memory_pool[ptn], build(start, commas[i] - 1));
+		    memory_pool[ptn].child_index[memory_pool[ptn].child_cnt] = build(start, commas[i] - 1);
+			memory_pool[ptn].child_cnt++;
 			start = commas[i] + 1;
 		}
-		free(commas);
 		return ptn;
 	}
 	return 0;
@@ -308,7 +320,7 @@ int main()
 	while (scanf("%s", input) != EOF)
 	{
 		init();
-		len = strlen(input);
+		len = (int)strlen(input);
 		root = build(0, len - 1);
 		back_trace(root);
 		int i;

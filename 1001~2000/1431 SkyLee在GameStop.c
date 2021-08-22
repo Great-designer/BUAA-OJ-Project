@@ -1,17 +1,17 @@
 #include<stdio.h>
 
-void hanoi1(int n,char from,char mid,char to) 
+void hanoi1(int n,char mid,char from,char to)
 {
 	if(n==1)
 	{
-		printf("get game from board %c\n",from);
+	    printf("get game from board %c\n",mid);
 		printf("put game to board %c\n",to);
 		return;
 	}
-	hanoi1(n-1,from,to,mid);
-	printf("get game from board %c\n",from);
+	hanoi1(n-1,mid,to,from);
+	printf("get game from board %c\n",mid);
 	printf("put game to board %c\n",to);
-	hanoi1(n-1,mid,from,to);
+	hanoi1(n-1,from,mid,to);
 }
 
 void hanoi(int n,char from,char mid,char to) 
@@ -37,7 +37,10 @@ int main()
 	{
 		if(n>2) 
 		{
-			hanoi(n-2,'1','3','2');
+		    char from='1';
+		    char mid='3';
+		    char to='2';
+		    hanoi(n-2,from,mid,to);
 			printf("get game from board 1\n");
 			printf("playing\n");
 			printf("put game to board 3\n");

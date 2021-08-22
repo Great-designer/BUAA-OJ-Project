@@ -608,6 +608,54 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1045_成绩统计.c.s
 .PHONY : 1001~2000/1045_成绩统计.c.s
 
+1001~2000/1055_十进制转二进制.obj: 1001~2000/1055_十进制转二进制.c.obj
+.PHONY : 1001~2000/1055_十进制转二进制.obj
+
+# target to build an object file
+1001~2000/1055_十进制转二进制.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1055_十进制转二进制.c.obj
+.PHONY : 1001~2000/1055_十进制转二进制.c.obj
+
+1001~2000/1055_十进制转二进制.i: 1001~2000/1055_十进制转二进制.c.i
+.PHONY : 1001~2000/1055_十进制转二进制.i
+
+# target to preprocess a source file
+1001~2000/1055_十进制转二进制.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1055_十进制转二进制.c.i
+.PHONY : 1001~2000/1055_十进制转二进制.c.i
+
+1001~2000/1055_十进制转二进制.s: 1001~2000/1055_十进制转二进制.c.s
+.PHONY : 1001~2000/1055_十进制转二进制.s
+
+# target to generate assembly for a file
+1001~2000/1055_十进制转二进制.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1055_十进制转二进制.c.s
+.PHONY : 1001~2000/1055_十进制转二进制.c.s
+
+1001~2000/1056_数字三角形.obj: 1001~2000/1056_数字三角形.c.obj
+.PHONY : 1001~2000/1056_数字三角形.obj
+
+# target to build an object file
+1001~2000/1056_数字三角形.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1056_数字三角形.c.obj
+.PHONY : 1001~2000/1056_数字三角形.c.obj
+
+1001~2000/1056_数字三角形.i: 1001~2000/1056_数字三角形.c.i
+.PHONY : 1001~2000/1056_数字三角形.i
+
+# target to preprocess a source file
+1001~2000/1056_数字三角形.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1056_数字三角形.c.i
+.PHONY : 1001~2000/1056_数字三角形.c.i
+
+1001~2000/1056_数字三角形.s: 1001~2000/1056_数字三角形.c.s
+.PHONY : 1001~2000/1056_数字三角形.s
+
+# target to generate assembly for a file
+1001~2000/1056_数字三角形.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1056_数字三角形.c.s
+.PHONY : 1001~2000/1056_数字三角形.c.s
+
 1001~2000/1057_弱化高精度减法.obj: 1001~2000/1057_弱化高精度减法.c.obj
 .PHONY : 1001~2000/1057_弱化高精度减法.obj
 
@@ -631,6 +679,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1057_弱化高精度减法.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1057_弱化高精度减法.c.s
 .PHONY : 1001~2000/1057_弱化高精度减法.c.s
+
+1001~2000/1058_重排字符串.obj: 1001~2000/1058_重排字符串.c.obj
+.PHONY : 1001~2000/1058_重排字符串.obj
+
+# target to build an object file
+1001~2000/1058_重排字符串.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1058_重排字符串.c.obj
+.PHONY : 1001~2000/1058_重排字符串.c.obj
+
+1001~2000/1058_重排字符串.i: 1001~2000/1058_重排字符串.c.i
+.PHONY : 1001~2000/1058_重排字符串.i
+
+# target to preprocess a source file
+1001~2000/1058_重排字符串.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1058_重排字符串.c.i
+.PHONY : 1001~2000/1058_重排字符串.c.i
+
+1001~2000/1058_重排字符串.s: 1001~2000/1058_重排字符串.c.s
+.PHONY : 1001~2000/1058_重排字符串.s
+
+# target to generate assembly for a file
+1001~2000/1058_重排字符串.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1058_重排字符串.c.s
+.PHONY : 1001~2000/1058_重排字符串.c.s
 
 1001~2000/1059_选择排列.obj: 1001~2000/1059_选择排列.c.obj
 .PHONY : 1001~2000/1059_选择排列.obj
@@ -704,6 +776,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1066_ModricWang的水系法术.c.s
 .PHONY : 1001~2000/1066_ModricWang的水系法术.c.s
 
+1001~2000/1067_超简单表达式计算.obj: 1001~2000/1067_超简单表达式计算.c.obj
+.PHONY : 1001~2000/1067_超简单表达式计算.obj
+
+# target to build an object file
+1001~2000/1067_超简单表达式计算.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1067_超简单表达式计算.c.obj
+.PHONY : 1001~2000/1067_超简单表达式计算.c.obj
+
+1001~2000/1067_超简单表达式计算.i: 1001~2000/1067_超简单表达式计算.c.i
+.PHONY : 1001~2000/1067_超简单表达式计算.i
+
+# target to preprocess a source file
+1001~2000/1067_超简单表达式计算.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1067_超简单表达式计算.c.i
+.PHONY : 1001~2000/1067_超简单表达式计算.c.i
+
+1001~2000/1067_超简单表达式计算.s: 1001~2000/1067_超简单表达式计算.c.s
+.PHONY : 1001~2000/1067_超简单表达式计算.s
+
+# target to generate assembly for a file
+1001~2000/1067_超简单表达式计算.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1067_超简单表达式计算.c.s
+.PHONY : 1001~2000/1067_超简单表达式计算.c.s
+
 1001~2000/1068_双阶乘.obj: 1001~2000/1068_双阶乘.c.obj
 .PHONY : 1001~2000/1068_双阶乘.obj
 
@@ -775,6 +871,198 @@ BUAA_OJ_Project/fast:
 1001~2000/1070_Parallel_Sort(伪).c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1070_Parallel_Sort(伪).c.s
 .PHONY : 1001~2000/1070_Parallel_Sort(伪).c.s
+
+1001~2000/1071_debug_字符串处理.obj: 1001~2000/1071_debug_字符串处理.c.obj
+.PHONY : 1001~2000/1071_debug_字符串处理.obj
+
+# target to build an object file
+1001~2000/1071_debug_字符串处理.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1071_debug_字符串处理.c.obj
+.PHONY : 1001~2000/1071_debug_字符串处理.c.obj
+
+1001~2000/1071_debug_字符串处理.i: 1001~2000/1071_debug_字符串处理.c.i
+.PHONY : 1001~2000/1071_debug_字符串处理.i
+
+# target to preprocess a source file
+1001~2000/1071_debug_字符串处理.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1071_debug_字符串处理.c.i
+.PHONY : 1001~2000/1071_debug_字符串处理.c.i
+
+1001~2000/1071_debug_字符串处理.s: 1001~2000/1071_debug_字符串处理.c.s
+.PHONY : 1001~2000/1071_debug_字符串处理.s
+
+# target to generate assembly for a file
+1001~2000/1071_debug_字符串处理.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1071_debug_字符串处理.c.s
+.PHONY : 1001~2000/1071_debug_字符串处理.c.s
+
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.obj: 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.obj
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.obj
+
+# target to build an object file
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.obj
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.obj
+
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.i: 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.i
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.i
+
+# target to preprocess a source file
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.i
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.i
+
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.s: 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.s
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.s
+
+# target to generate assembly for a file
+1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.s
+.PHONY : 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.c.s
+
+1001~2000/1073_Hanoi_Again.obj: 1001~2000/1073_Hanoi_Again.c.obj
+.PHONY : 1001~2000/1073_Hanoi_Again.obj
+
+# target to build an object file
+1001~2000/1073_Hanoi_Again.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1073_Hanoi_Again.c.obj
+.PHONY : 1001~2000/1073_Hanoi_Again.c.obj
+
+1001~2000/1073_Hanoi_Again.i: 1001~2000/1073_Hanoi_Again.c.i
+.PHONY : 1001~2000/1073_Hanoi_Again.i
+
+# target to preprocess a source file
+1001~2000/1073_Hanoi_Again.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1073_Hanoi_Again.c.i
+.PHONY : 1001~2000/1073_Hanoi_Again.c.i
+
+1001~2000/1073_Hanoi_Again.s: 1001~2000/1073_Hanoi_Again.c.s
+.PHONY : 1001~2000/1073_Hanoi_Again.s
+
+# target to generate assembly for a file
+1001~2000/1073_Hanoi_Again.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1073_Hanoi_Again.c.s
+.PHONY : 1001~2000/1073_Hanoi_Again.c.s
+
+1001~2000/1074_rua.obj: 1001~2000/1074_rua.c.obj
+.PHONY : 1001~2000/1074_rua.obj
+
+# target to build an object file
+1001~2000/1074_rua.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1074_rua.c.obj
+.PHONY : 1001~2000/1074_rua.c.obj
+
+1001~2000/1074_rua.i: 1001~2000/1074_rua.c.i
+.PHONY : 1001~2000/1074_rua.i
+
+# target to preprocess a source file
+1001~2000/1074_rua.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1074_rua.c.i
+.PHONY : 1001~2000/1074_rua.c.i
+
+1001~2000/1074_rua.s: 1001~2000/1074_rua.c.s
+.PHONY : 1001~2000/1074_rua.s
+
+# target to generate assembly for a file
+1001~2000/1074_rua.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1074_rua.c.s
+.PHONY : 1001~2000/1074_rua.c.s
+
+1001~2000/1075_ruaa.obj: 1001~2000/1075_ruaa.c.obj
+.PHONY : 1001~2000/1075_ruaa.obj
+
+# target to build an object file
+1001~2000/1075_ruaa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1075_ruaa.c.obj
+.PHONY : 1001~2000/1075_ruaa.c.obj
+
+1001~2000/1075_ruaa.i: 1001~2000/1075_ruaa.c.i
+.PHONY : 1001~2000/1075_ruaa.i
+
+# target to preprocess a source file
+1001~2000/1075_ruaa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1075_ruaa.c.i
+.PHONY : 1001~2000/1075_ruaa.c.i
+
+1001~2000/1075_ruaa.s: 1001~2000/1075_ruaa.c.s
+.PHONY : 1001~2000/1075_ruaa.s
+
+# target to generate assembly for a file
+1001~2000/1075_ruaa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1075_ruaa.c.s
+.PHONY : 1001~2000/1075_ruaa.c.s
+
+1001~2000/1076_ruaaaa_KMP.obj: 1001~2000/1076_ruaaaa_KMP.c.obj
+.PHONY : 1001~2000/1076_ruaaaa_KMP.obj
+
+# target to build an object file
+1001~2000/1076_ruaaaa_KMP.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1076_ruaaaa_KMP.c.obj
+.PHONY : 1001~2000/1076_ruaaaa_KMP.c.obj
+
+1001~2000/1076_ruaaaa_KMP.i: 1001~2000/1076_ruaaaa_KMP.c.i
+.PHONY : 1001~2000/1076_ruaaaa_KMP.i
+
+# target to preprocess a source file
+1001~2000/1076_ruaaaa_KMP.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1076_ruaaaa_KMP.c.i
+.PHONY : 1001~2000/1076_ruaaaa_KMP.c.i
+
+1001~2000/1076_ruaaaa_KMP.s: 1001~2000/1076_ruaaaa_KMP.c.s
+.PHONY : 1001~2000/1076_ruaaaa_KMP.s
+
+# target to generate assembly for a file
+1001~2000/1076_ruaaaa_KMP.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1076_ruaaaa_KMP.c.s
+.PHONY : 1001~2000/1076_ruaaaa_KMP.c.s
+
+1001~2000/1077_ruaaaaaaa.obj: 1001~2000/1077_ruaaaaaaa.c.obj
+.PHONY : 1001~2000/1077_ruaaaaaaa.obj
+
+# target to build an object file
+1001~2000/1077_ruaaaaaaa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1077_ruaaaaaaa.c.obj
+.PHONY : 1001~2000/1077_ruaaaaaaa.c.obj
+
+1001~2000/1077_ruaaaaaaa.i: 1001~2000/1077_ruaaaaaaa.c.i
+.PHONY : 1001~2000/1077_ruaaaaaaa.i
+
+# target to preprocess a source file
+1001~2000/1077_ruaaaaaaa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1077_ruaaaaaaa.c.i
+.PHONY : 1001~2000/1077_ruaaaaaaa.c.i
+
+1001~2000/1077_ruaaaaaaa.s: 1001~2000/1077_ruaaaaaaa.c.s
+.PHONY : 1001~2000/1077_ruaaaaaaa.s
+
+# target to generate assembly for a file
+1001~2000/1077_ruaaaaaaa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1077_ruaaaaaaa.c.s
+.PHONY : 1001~2000/1077_ruaaaaaaa.c.s
+
+1001~2000/1079_ruaaaaa.obj: 1001~2000/1079_ruaaaaa.c.obj
+.PHONY : 1001~2000/1079_ruaaaaa.obj
+
+# target to build an object file
+1001~2000/1079_ruaaaaa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1079_ruaaaaa.c.obj
+.PHONY : 1001~2000/1079_ruaaaaa.c.obj
+
+1001~2000/1079_ruaaaaa.i: 1001~2000/1079_ruaaaaa.c.i
+.PHONY : 1001~2000/1079_ruaaaaa.i
+
+# target to preprocess a source file
+1001~2000/1079_ruaaaaa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1079_ruaaaaa.c.i
+.PHONY : 1001~2000/1079_ruaaaaa.c.i
+
+1001~2000/1079_ruaaaaa.s: 1001~2000/1079_ruaaaaa.c.s
+.PHONY : 1001~2000/1079_ruaaaaa.s
+
+# target to generate assembly for a file
+1001~2000/1079_ruaaaaa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1079_ruaaaaa.c.s
+.PHONY : 1001~2000/1079_ruaaaaa.c.s
 
 1001~2000/1080_ruaaa.obj: 1001~2000/1080_ruaaa.c.obj
 .PHONY : 1001~2000/1080_ruaaa.obj
@@ -27224,6 +27512,54 @@ others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.cpp.s
 .PHONY : others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.cpp.s
 
+others-cpp/1076_ruaaaa.obj: others-cpp/1076_ruaaaa.cpp.obj
+.PHONY : others-cpp/1076_ruaaaa.obj
+
+# target to build an object file
+others-cpp/1076_ruaaaa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1076_ruaaaa.cpp.obj
+.PHONY : others-cpp/1076_ruaaaa.cpp.obj
+
+others-cpp/1076_ruaaaa.i: others-cpp/1076_ruaaaa.cpp.i
+.PHONY : others-cpp/1076_ruaaaa.i
+
+# target to preprocess a source file
+others-cpp/1076_ruaaaa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1076_ruaaaa.cpp.i
+.PHONY : others-cpp/1076_ruaaaa.cpp.i
+
+others-cpp/1076_ruaaaa.s: others-cpp/1076_ruaaaa.cpp.s
+.PHONY : others-cpp/1076_ruaaaa.s
+
+# target to generate assembly for a file
+others-cpp/1076_ruaaaa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1076_ruaaaa.cpp.s
+.PHONY : others-cpp/1076_ruaaaa.cpp.s
+
+others-cpp/1078_ruaaaaaa.obj: others-cpp/1078_ruaaaaaa.cpp.obj
+.PHONY : others-cpp/1078_ruaaaaaa.obj
+
+# target to build an object file
+others-cpp/1078_ruaaaaaa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1078_ruaaaaaa.cpp.obj
+.PHONY : others-cpp/1078_ruaaaaaa.cpp.obj
+
+others-cpp/1078_ruaaaaaa.i: others-cpp/1078_ruaaaaaa.cpp.i
+.PHONY : others-cpp/1078_ruaaaaaa.i
+
+# target to preprocess a source file
+others-cpp/1078_ruaaaaaa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1078_ruaaaaaa.cpp.i
+.PHONY : others-cpp/1078_ruaaaaaa.cpp.i
+
+others-cpp/1078_ruaaaaaa.s: others-cpp/1078_ruaaaaaa.cpp.s
+.PHONY : others-cpp/1078_ruaaaaaa.s
+
+# target to generate assembly for a file
+others-cpp/1078_ruaaaaaa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/1078_ruaaaaaa.cpp.s
+.PHONY : others-cpp/1078_ruaaaaaa.cpp.s
+
 others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.obj: others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.cpp.obj
 .PHONY : others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.obj
 
@@ -29621,9 +29957,18 @@ help:
 	@echo ... 1001~2000/1045_成绩统计.obj
 	@echo ... 1001~2000/1045_成绩统计.i
 	@echo ... 1001~2000/1045_成绩统计.s
+	@echo ... 1001~2000/1055_十进制转二进制.obj
+	@echo ... 1001~2000/1055_十进制转二进制.i
+	@echo ... 1001~2000/1055_十进制转二进制.s
+	@echo ... 1001~2000/1056_数字三角形.obj
+	@echo ... 1001~2000/1056_数字三角形.i
+	@echo ... 1001~2000/1056_数字三角形.s
 	@echo ... 1001~2000/1057_弱化高精度减法.obj
 	@echo ... 1001~2000/1057_弱化高精度减法.i
 	@echo ... 1001~2000/1057_弱化高精度减法.s
+	@echo ... 1001~2000/1058_重排字符串.obj
+	@echo ... 1001~2000/1058_重排字符串.i
+	@echo ... 1001~2000/1058_重排字符串.s
 	@echo ... 1001~2000/1059_选择排列.obj
 	@echo ... 1001~2000/1059_选择排列.i
 	@echo ... 1001~2000/1059_选择排列.s
@@ -29633,6 +29978,9 @@ help:
 	@echo ... 1001~2000/1066_ModricWang的水系法术.obj
 	@echo ... 1001~2000/1066_ModricWang的水系法术.i
 	@echo ... 1001~2000/1066_ModricWang的水系法术.s
+	@echo ... 1001~2000/1067_超简单表达式计算.obj
+	@echo ... 1001~2000/1067_超简单表达式计算.i
+	@echo ... 1001~2000/1067_超简单表达式计算.s
 	@echo ... 1001~2000/1068_双阶乘.obj
 	@echo ... 1001~2000/1068_双阶乘.i
 	@echo ... 1001~2000/1068_双阶乘.s
@@ -29642,6 +29990,30 @@ help:
 	@echo ... 1001~2000/1070_Parallel_Sort(伪).obj
 	@echo ... 1001~2000/1070_Parallel_Sort(伪).i
 	@echo ... 1001~2000/1070_Parallel_Sort(伪).s
+	@echo ... 1001~2000/1071_debug_字符串处理.obj
+	@echo ... 1001~2000/1071_debug_字符串处理.i
+	@echo ... 1001~2000/1071_debug_字符串处理.s
+	@echo ... 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.obj
+	@echo ... 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.i
+	@echo ... 1001~2000/1072_动了手脚的Fibonacci_斐波那契数列.s
+	@echo ... 1001~2000/1073_Hanoi_Again.obj
+	@echo ... 1001~2000/1073_Hanoi_Again.i
+	@echo ... 1001~2000/1073_Hanoi_Again.s
+	@echo ... 1001~2000/1074_rua.obj
+	@echo ... 1001~2000/1074_rua.i
+	@echo ... 1001~2000/1074_rua.s
+	@echo ... 1001~2000/1075_ruaa.obj
+	@echo ... 1001~2000/1075_ruaa.i
+	@echo ... 1001~2000/1075_ruaa.s
+	@echo ... 1001~2000/1076_ruaaaa_KMP.obj
+	@echo ... 1001~2000/1076_ruaaaa_KMP.i
+	@echo ... 1001~2000/1076_ruaaaa_KMP.s
+	@echo ... 1001~2000/1077_ruaaaaaaa.obj
+	@echo ... 1001~2000/1077_ruaaaaaaa.i
+	@echo ... 1001~2000/1077_ruaaaaaaa.s
+	@echo ... 1001~2000/1079_ruaaaaa.obj
+	@echo ... 1001~2000/1079_ruaaaaa.i
+	@echo ... 1001~2000/1079_ruaaaaa.s
 	@echo ... 1001~2000/1080_ruaaa.obj
 	@echo ... 1001~2000/1080_ruaaa.i
 	@echo ... 1001~2000/1080_ruaaa.s
@@ -32948,6 +33320,12 @@ help:
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.obj
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.i
 	@echo ... others-cpp/1066_ModricWang的水系法术_无向图最大流_ISAP.s
+	@echo ... others-cpp/1076_ruaaaa.obj
+	@echo ... others-cpp/1076_ruaaaa.i
+	@echo ... others-cpp/1076_ruaaaa.s
+	@echo ... others-cpp/1078_ruaaaaaa.obj
+	@echo ... others-cpp/1078_ruaaaaaa.i
+	@echo ... others-cpp/1078_ruaaaaaa.s
 	@echo ... others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.obj
 	@echo ... others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.i
 	@echo ... others-cpp/1085_难题·AlvinZH的青春记忆III_最大流_ISAP.s
