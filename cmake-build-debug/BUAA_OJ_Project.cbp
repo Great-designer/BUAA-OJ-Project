@@ -2637,7 +2637,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2743 C5-图3 dinic.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2744 幸运盒 期望dp 概率dp.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2759 k关键字排序.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2916 手机靓号 数位dp 记忆化搜索.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 另解.c">
@@ -3573,6 +3579,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2743 C5-图3 最小生成树原理 最小割.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2919 跳方格 dfs 判断环.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2922 网络吞吐量 最短路 最大流.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3628,6 +3637,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/2375 生日宴会.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/2525 C2-Zexal叒排座位.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/priority_queue/253 难题——再见了，大活 链表+可撤回贪心.cpp">

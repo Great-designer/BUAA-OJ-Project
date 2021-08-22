@@ -20312,6 +20312,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2743_C5-图3_dinic.c.s
 .PHONY : 2001~3000/2743_C5-图3_dinic.c.s
 
+2001~3000/2744_幸运盒_期望dp_概率dp.obj: 2001~3000/2744_幸运盒_期望dp_概率dp.c.obj
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.obj
+
+# target to build an object file
+2001~3000/2744_幸运盒_期望dp_概率dp.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2744_幸运盒_期望dp_概率dp.c.obj
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.c.obj
+
+2001~3000/2744_幸运盒_期望dp_概率dp.i: 2001~3000/2744_幸运盒_期望dp_概率dp.c.i
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.i
+
+# target to preprocess a source file
+2001~3000/2744_幸运盒_期望dp_概率dp.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2744_幸运盒_期望dp_概率dp.c.i
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.c.i
+
+2001~3000/2744_幸运盒_期望dp_概率dp.s: 2001~3000/2744_幸运盒_期望dp_概率dp.c.s
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.s
+
+# target to generate assembly for a file
+2001~3000/2744_幸运盒_期望dp_概率dp.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2744_幸运盒_期望dp_概率dp.c.s
+.PHONY : 2001~3000/2744_幸运盒_期望dp_概率dp.c.s
+
 2001~3000/2759_k关键字排序.obj: 2001~3000/2759_k关键字排序.c.obj
 .PHONY : 2001~3000/2759_k关键字排序.obj
 
@@ -20335,6 +20359,30 @@ BUAA_OJ_Project/fast:
 2001~3000/2759_k关键字排序.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.s
 .PHONY : 2001~3000/2759_k关键字排序.c.s
+
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj: 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.obj
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj
+
+# target to build an object file
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.obj
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.obj
+
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.i: 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.i
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.i
+
+# target to preprocess a source file
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.i
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.i
+
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.s: 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.s
+
+# target to generate assembly for a file
+2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s
+.PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s
 
 3001~4000/3014_奇怪的排序_另解.obj: 3001~4000/3014_奇怪的排序_另解.c.obj
 .PHONY : 3001~4000/3014_奇怪的排序_另解.obj
@@ -27800,6 +27848,30 @@ others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s
 .PHONY : others-cpp/2743_C5-图3_最小生成树原理_最小割.cpp.s
 
+others-cpp/2919_跳方格_dfs_判断环.obj: others-cpp/2919_跳方格_dfs_判断环.cpp.obj
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.obj
+
+# target to build an object file
+others-cpp/2919_跳方格_dfs_判断环.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2919_跳方格_dfs_判断环.cpp.obj
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.cpp.obj
+
+others-cpp/2919_跳方格_dfs_判断环.i: others-cpp/2919_跳方格_dfs_判断环.cpp.i
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.i
+
+# target to preprocess a source file
+others-cpp/2919_跳方格_dfs_判断环.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2919_跳方格_dfs_判断环.cpp.i
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.cpp.i
+
+others-cpp/2919_跳方格_dfs_判断环.s: others-cpp/2919_跳方格_dfs_判断环.cpp.s
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.s
+
+# target to generate assembly for a file
+others-cpp/2919_跳方格_dfs_判断环.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2919_跳方格_dfs_判断环.cpp.s
+.PHONY : others-cpp/2919_跳方格_dfs_判断环.cpp.s
+
 others-cpp/2922_网络吞吐量_最短路_最大流.obj: others-cpp/2922_网络吞吐量_最短路_最大流.cpp.obj
 .PHONY : others-cpp/2922_网络吞吐量_最短路_最大流.obj
 
@@ -28255,6 +28327,30 @@ priority_queue/2375_生日宴会.s: priority_queue/2375_生日宴会.cpp.s
 priority_queue/2375_生日宴会.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2375_生日宴会.cpp.s
 .PHONY : priority_queue/2375_生日宴会.cpp.s
+
+priority_queue/2525_C2-Zexal叒排座位.obj: priority_queue/2525_C2-Zexal叒排座位.cpp.obj
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.obj
+
+# target to build an object file
+priority_queue/2525_C2-Zexal叒排座位.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2525_C2-Zexal叒排座位.cpp.obj
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.cpp.obj
+
+priority_queue/2525_C2-Zexal叒排座位.i: priority_queue/2525_C2-Zexal叒排座位.cpp.i
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.i
+
+# target to preprocess a source file
+priority_queue/2525_C2-Zexal叒排座位.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2525_C2-Zexal叒排座位.cpp.i
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.cpp.i
+
+priority_queue/2525_C2-Zexal叒排座位.s: priority_queue/2525_C2-Zexal叒排座位.cpp.s
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.s
+
+# target to generate assembly for a file
+priority_queue/2525_C2-Zexal叒排座位.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/priority_queue/2525_C2-Zexal叒排座位.cpp.s
+.PHONY : priority_queue/2525_C2-Zexal叒排座位.cpp.s
 
 priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj: priority_queue/253_难题——再见了，大活_链表+可撤回贪心.cpp.obj
 .PHONY : priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj
@@ -32420,9 +32516,15 @@ help:
 	@echo ... 2001~3000/2743_C5-图3_dinic.obj
 	@echo ... 2001~3000/2743_C5-图3_dinic.i
 	@echo ... 2001~3000/2743_C5-图3_dinic.s
+	@echo ... 2001~3000/2744_幸运盒_期望dp_概率dp.obj
+	@echo ... 2001~3000/2744_幸运盒_期望dp_概率dp.i
+	@echo ... 2001~3000/2744_幸运盒_期望dp_概率dp.s
 	@echo ... 2001~3000/2759_k关键字排序.obj
 	@echo ... 2001~3000/2759_k关键字排序.i
 	@echo ... 2001~3000/2759_k关键字排序.s
+	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj
+	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.i
+	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.s
 	@echo ... 3001~4000/3014_奇怪的排序_另解.obj
 	@echo ... 3001~4000/3014_奇怪的排序_另解.i
 	@echo ... 3001~4000/3014_奇怪的排序_另解.s
@@ -33356,6 +33458,9 @@ help:
 	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.obj
 	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.i
 	@echo ... others-cpp/2743_C5-图3_最小生成树原理_最小割.s
+	@echo ... others-cpp/2919_跳方格_dfs_判断环.obj
+	@echo ... others-cpp/2919_跳方格_dfs_判断环.i
+	@echo ... others-cpp/2919_跳方格_dfs_判断环.s
 	@echo ... others-cpp/2922_网络吞吐量_最短路_最大流.obj
 	@echo ... others-cpp/2922_网络吞吐量_最短路_最大流.i
 	@echo ... others-cpp/2922_网络吞吐量_最短路_最大流.s
@@ -33413,6 +33518,9 @@ help:
 	@echo ... priority_queue/2375_生日宴会.obj
 	@echo ... priority_queue/2375_生日宴会.i
 	@echo ... priority_queue/2375_生日宴会.s
+	@echo ... priority_queue/2525_C2-Zexal叒排座位.obj
+	@echo ... priority_queue/2525_C2-Zexal叒排座位.i
+	@echo ... priority_queue/2525_C2-Zexal叒排座位.s
 	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.obj
 	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.i
 	@echo ... priority_queue/253_难题——再见了，大活_链表+可撤回贪心.s
