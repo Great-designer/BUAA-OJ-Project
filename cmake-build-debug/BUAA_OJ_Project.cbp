@@ -2454,6 +2454,24 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/996 折半查找.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2165 维修数列 链表.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2193 题目F交作业计划.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2218 题目N涂鸦.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2219 题目O合理分配.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2227 题目P轰炸坦克.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2228 题目Q合数分解.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/2355 完全图生成树特殊.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2665,6 +2683,18 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4120 （中等题）W形串.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4167 Nero&apos;s Key Board.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4169 Weidong&apos;s minimum working hours 二分答案.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4171 Optimization on matrices multiplication 矩阵链乘.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4173 Minimal edit distance to a string&apos;s prefix dp 编辑距离.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4182 返航小统计（数组）.c">
@@ -3567,6 +3597,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/191 零崎的悠哉日常Ⅱ 网络流 多组查询.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2230 题目S试毒.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2371 Zexal的拯救世界 线段树.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3595,6 +3628,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/4165 DS = Data structure of Shawn&apos;s 线段树 除法分块.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/4166 Find Good Reverse Tuple.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/424 jhljx上大学学数学 数论扩域.cpp">

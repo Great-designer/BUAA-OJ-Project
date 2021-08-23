@@ -18848,6 +18848,150 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/9_零崎的人间冒险Ⅰ.c.s
 .PHONY : 1~1000/9_零崎的人间冒险Ⅰ.c.s
 
+2001~3000/2165_维修数列_链表.obj: 2001~3000/2165_维修数列_链表.c.obj
+.PHONY : 2001~3000/2165_维修数列_链表.obj
+
+# target to build an object file
+2001~3000/2165_维修数列_链表.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2165_维修数列_链表.c.obj
+.PHONY : 2001~3000/2165_维修数列_链表.c.obj
+
+2001~3000/2165_维修数列_链表.i: 2001~3000/2165_维修数列_链表.c.i
+.PHONY : 2001~3000/2165_维修数列_链表.i
+
+# target to preprocess a source file
+2001~3000/2165_维修数列_链表.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2165_维修数列_链表.c.i
+.PHONY : 2001~3000/2165_维修数列_链表.c.i
+
+2001~3000/2165_维修数列_链表.s: 2001~3000/2165_维修数列_链表.c.s
+.PHONY : 2001~3000/2165_维修数列_链表.s
+
+# target to generate assembly for a file
+2001~3000/2165_维修数列_链表.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2165_维修数列_链表.c.s
+.PHONY : 2001~3000/2165_维修数列_链表.c.s
+
+2001~3000/2193_题目F交作业计划.obj: 2001~3000/2193_题目F交作业计划.c.obj
+.PHONY : 2001~3000/2193_题目F交作业计划.obj
+
+# target to build an object file
+2001~3000/2193_题目F交作业计划.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2193_题目F交作业计划.c.obj
+.PHONY : 2001~3000/2193_题目F交作业计划.c.obj
+
+2001~3000/2193_题目F交作业计划.i: 2001~3000/2193_题目F交作业计划.c.i
+.PHONY : 2001~3000/2193_题目F交作业计划.i
+
+# target to preprocess a source file
+2001~3000/2193_题目F交作业计划.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2193_题目F交作业计划.c.i
+.PHONY : 2001~3000/2193_题目F交作业计划.c.i
+
+2001~3000/2193_题目F交作业计划.s: 2001~3000/2193_题目F交作业计划.c.s
+.PHONY : 2001~3000/2193_题目F交作业计划.s
+
+# target to generate assembly for a file
+2001~3000/2193_题目F交作业计划.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2193_题目F交作业计划.c.s
+.PHONY : 2001~3000/2193_题目F交作业计划.c.s
+
+2001~3000/2218_题目N涂鸦.obj: 2001~3000/2218_题目N涂鸦.c.obj
+.PHONY : 2001~3000/2218_题目N涂鸦.obj
+
+# target to build an object file
+2001~3000/2218_题目N涂鸦.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2218_题目N涂鸦.c.obj
+.PHONY : 2001~3000/2218_题目N涂鸦.c.obj
+
+2001~3000/2218_题目N涂鸦.i: 2001~3000/2218_题目N涂鸦.c.i
+.PHONY : 2001~3000/2218_题目N涂鸦.i
+
+# target to preprocess a source file
+2001~3000/2218_题目N涂鸦.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2218_题目N涂鸦.c.i
+.PHONY : 2001~3000/2218_题目N涂鸦.c.i
+
+2001~3000/2218_题目N涂鸦.s: 2001~3000/2218_题目N涂鸦.c.s
+.PHONY : 2001~3000/2218_题目N涂鸦.s
+
+# target to generate assembly for a file
+2001~3000/2218_题目N涂鸦.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2218_题目N涂鸦.c.s
+.PHONY : 2001~3000/2218_题目N涂鸦.c.s
+
+2001~3000/2219_题目O合理分配.obj: 2001~3000/2219_题目O合理分配.c.obj
+.PHONY : 2001~3000/2219_题目O合理分配.obj
+
+# target to build an object file
+2001~3000/2219_题目O合理分配.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2219_题目O合理分配.c.obj
+.PHONY : 2001~3000/2219_题目O合理分配.c.obj
+
+2001~3000/2219_题目O合理分配.i: 2001~3000/2219_题目O合理分配.c.i
+.PHONY : 2001~3000/2219_题目O合理分配.i
+
+# target to preprocess a source file
+2001~3000/2219_题目O合理分配.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2219_题目O合理分配.c.i
+.PHONY : 2001~3000/2219_题目O合理分配.c.i
+
+2001~3000/2219_题目O合理分配.s: 2001~3000/2219_题目O合理分配.c.s
+.PHONY : 2001~3000/2219_题目O合理分配.s
+
+# target to generate assembly for a file
+2001~3000/2219_题目O合理分配.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2219_题目O合理分配.c.s
+.PHONY : 2001~3000/2219_题目O合理分配.c.s
+
+2001~3000/2227_题目P轰炸坦克.obj: 2001~3000/2227_题目P轰炸坦克.c.obj
+.PHONY : 2001~3000/2227_题目P轰炸坦克.obj
+
+# target to build an object file
+2001~3000/2227_题目P轰炸坦克.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2227_题目P轰炸坦克.c.obj
+.PHONY : 2001~3000/2227_题目P轰炸坦克.c.obj
+
+2001~3000/2227_题目P轰炸坦克.i: 2001~3000/2227_题目P轰炸坦克.c.i
+.PHONY : 2001~3000/2227_题目P轰炸坦克.i
+
+# target to preprocess a source file
+2001~3000/2227_题目P轰炸坦克.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2227_题目P轰炸坦克.c.i
+.PHONY : 2001~3000/2227_题目P轰炸坦克.c.i
+
+2001~3000/2227_题目P轰炸坦克.s: 2001~3000/2227_题目P轰炸坦克.c.s
+.PHONY : 2001~3000/2227_题目P轰炸坦克.s
+
+# target to generate assembly for a file
+2001~3000/2227_题目P轰炸坦克.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2227_题目P轰炸坦克.c.s
+.PHONY : 2001~3000/2227_题目P轰炸坦克.c.s
+
+2001~3000/2228_题目Q合数分解.obj: 2001~3000/2228_题目Q合数分解.c.obj
+.PHONY : 2001~3000/2228_题目Q合数分解.obj
+
+# target to build an object file
+2001~3000/2228_题目Q合数分解.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2228_题目Q合数分解.c.obj
+.PHONY : 2001~3000/2228_题目Q合数分解.c.obj
+
+2001~3000/2228_题目Q合数分解.i: 2001~3000/2228_题目Q合数分解.c.i
+.PHONY : 2001~3000/2228_题目Q合数分解.i
+
+# target to preprocess a source file
+2001~3000/2228_题目Q合数分解.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2228_题目Q合数分解.c.i
+.PHONY : 2001~3000/2228_题目Q合数分解.c.i
+
+2001~3000/2228_题目Q合数分解.s: 2001~3000/2228_题目Q合数分解.c.s
+.PHONY : 2001~3000/2228_题目Q合数分解.s
+
+# target to generate assembly for a file
+2001~3000/2228_题目Q合数分解.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2228_题目Q合数分解.c.s
+.PHONY : 2001~3000/2228_题目Q合数分解.c.s
+
 2001~3000/2355_完全图生成树特殊.obj: 2001~3000/2355_完全图生成树特殊.c.obj
 .PHONY : 2001~3000/2355_完全图生成树特殊.obj
 
@@ -20551,6 +20695,102 @@ BUAA_OJ_Project/fast:
 4001~5000/4120_（中等题）W形串.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4120_（中等题）W形串.c.s
 .PHONY : 4001~5000/4120_（中等题）W形串.c.s
+
+4001~5000/4167_Nero's_Key_Board.obj: 4001~5000/4167_Nero's_Key_Board.c.obj
+.PHONY : 4001~5000/4167_Nero's_Key_Board.obj
+
+# target to build an object file
+4001~5000/4167_Nero's_Key_Board.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4167_Nero's_Key_Board.c.obj"
+.PHONY : 4001~5000/4167_Nero's_Key_Board.c.obj
+
+4001~5000/4167_Nero's_Key_Board.i: 4001~5000/4167_Nero's_Key_Board.c.i
+.PHONY : 4001~5000/4167_Nero's_Key_Board.i
+
+# target to preprocess a source file
+4001~5000/4167_Nero's_Key_Board.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4167_Nero's_Key_Board.c.i"
+.PHONY : 4001~5000/4167_Nero's_Key_Board.c.i
+
+4001~5000/4167_Nero's_Key_Board.s: 4001~5000/4167_Nero's_Key_Board.c.s
+.PHONY : 4001~5000/4167_Nero's_Key_Board.s
+
+# target to generate assembly for a file
+4001~5000/4167_Nero's_Key_Board.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4167_Nero's_Key_Board.c.s"
+.PHONY : 4001~5000/4167_Nero's_Key_Board.c.s
+
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.obj: 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.obj
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.obj
+
+# target to build an object file
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.obj"
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.obj
+
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.i: 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.i
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.i
+
+# target to preprocess a source file
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.i"
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.i
+
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.s: 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.s
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.s
+
+# target to generate assembly for a file
+4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.s"
+.PHONY : 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.c.s
+
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.obj: 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.obj
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.obj
+
+# target to build an object file
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.obj
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.obj
+
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.i: 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.i
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.i
+
+# target to preprocess a source file
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.i
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.i
+
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.s: 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.s
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.s
+
+# target to generate assembly for a file
+4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.s
+.PHONY : 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.c.s
+
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.obj: 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.obj
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.obj
+
+# target to build an object file
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.obj"
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.obj
+
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.i: 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.i
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.i
+
+# target to preprocess a source file
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.i"
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.i
+
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.s: 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.s
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.s
+
+# target to generate assembly for a file
+4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.s"
+.PHONY : 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.c.s
 
 4001~5000/4182_返航小统计（数组）.obj: 4001~5000/4182_返航小统计（数组）.c.obj
 .PHONY : 4001~5000/4182_返航小统计（数组）.obj
@@ -27752,6 +27992,30 @@ others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.cpp.s
 .PHONY : others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.cpp.s
 
+others-cpp/2230_题目S试毒.obj: others-cpp/2230_题目S试毒.cpp.obj
+.PHONY : others-cpp/2230_题目S试毒.obj
+
+# target to build an object file
+others-cpp/2230_题目S试毒.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2230_题目S试毒.cpp.obj
+.PHONY : others-cpp/2230_题目S试毒.cpp.obj
+
+others-cpp/2230_题目S试毒.i: others-cpp/2230_题目S试毒.cpp.i
+.PHONY : others-cpp/2230_题目S试毒.i
+
+# target to preprocess a source file
+others-cpp/2230_题目S试毒.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2230_题目S试毒.cpp.i
+.PHONY : others-cpp/2230_题目S试毒.cpp.i
+
+others-cpp/2230_题目S试毒.s: others-cpp/2230_题目S试毒.cpp.s
+.PHONY : others-cpp/2230_题目S试毒.s
+
+# target to generate assembly for a file
+others-cpp/2230_题目S试毒.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2230_题目S试毒.cpp.s
+.PHONY : others-cpp/2230_题目S试毒.cpp.s
+
 others-cpp/2371_Zexal的拯救世界_线段树.obj: others-cpp/2371_Zexal的拯救世界_线段树.cpp.obj
 .PHONY : others-cpp/2371_Zexal的拯救世界_线段树.obj
 
@@ -27991,6 +28255,30 @@ others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.s:
 others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.s"
 .PHONY : others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.s
+
+others-cpp/4166_Find_Good_Reverse_Tuple.obj: others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.obj
+
+# target to build an object file
+others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj
+
+others-cpp/4166_Find_Good_Reverse_Tuple.i: others-cpp/4166_Find_Good_Reverse_Tuple.cpp.i
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.i
+
+# target to preprocess a source file
+others-cpp/4166_Find_Good_Reverse_Tuple.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.i
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.cpp.i
+
+others-cpp/4166_Find_Good_Reverse_Tuple.s: others-cpp/4166_Find_Good_Reverse_Tuple.cpp.s
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.s
+
+# target to generate assembly for a file
+others-cpp/4166_Find_Good_Reverse_Tuple.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.s
+.PHONY : others-cpp/4166_Find_Good_Reverse_Tuple.cpp.s
 
 others-cpp/424_jhljx上大学学数学_数论扩域.obj: others-cpp/424_jhljx上大学学数学_数论扩域.cpp.obj
 .PHONY : others-cpp/424_jhljx上大学学数学_数论扩域.obj
@@ -32333,6 +32621,24 @@ help:
 	@echo ... 1~1000/9_零崎的人间冒险Ⅰ.obj
 	@echo ... 1~1000/9_零崎的人间冒险Ⅰ.i
 	@echo ... 1~1000/9_零崎的人间冒险Ⅰ.s
+	@echo ... 2001~3000/2165_维修数列_链表.obj
+	@echo ... 2001~3000/2165_维修数列_链表.i
+	@echo ... 2001~3000/2165_维修数列_链表.s
+	@echo ... 2001~3000/2193_题目F交作业计划.obj
+	@echo ... 2001~3000/2193_题目F交作业计划.i
+	@echo ... 2001~3000/2193_题目F交作业计划.s
+	@echo ... 2001~3000/2218_题目N涂鸦.obj
+	@echo ... 2001~3000/2218_题目N涂鸦.i
+	@echo ... 2001~3000/2218_题目N涂鸦.s
+	@echo ... 2001~3000/2219_题目O合理分配.obj
+	@echo ... 2001~3000/2219_题目O合理分配.i
+	@echo ... 2001~3000/2219_题目O合理分配.s
+	@echo ... 2001~3000/2227_题目P轰炸坦克.obj
+	@echo ... 2001~3000/2227_题目P轰炸坦克.i
+	@echo ... 2001~3000/2227_题目P轰炸坦克.s
+	@echo ... 2001~3000/2228_题目Q合数分解.obj
+	@echo ... 2001~3000/2228_题目Q合数分解.i
+	@echo ... 2001~3000/2228_题目Q合数分解.s
 	@echo ... 2001~3000/2355_完全图生成树特殊.obj
 	@echo ... 2001~3000/2355_完全图生成树特殊.i
 	@echo ... 2001~3000/2355_完全图生成树特殊.s
@@ -32546,6 +32852,18 @@ help:
 	@echo ... 4001~5000/4120_（中等题）W形串.obj
 	@echo ... 4001~5000/4120_（中等题）W形串.i
 	@echo ... 4001~5000/4120_（中等题）W形串.s
+	@echo ... 4001~5000/4167_Nero's_Key_Board.obj
+	@echo ... 4001~5000/4167_Nero's_Key_Board.i
+	@echo ... 4001~5000/4167_Nero's_Key_Board.s
+	@echo ... 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.obj
+	@echo ... 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.i
+	@echo ... 4001~5000/4169_Weidong's_minimum_working_hours_二分答案.s
+	@echo ... 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.obj
+	@echo ... 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.i
+	@echo ... 4001~5000/4171_Optimization_on_matrices_multiplication_矩阵链乘.s
+	@echo ... 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.obj
+	@echo ... 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.i
+	@echo ... 4001~5000/4173_Minimal_edit_distance_to_a_string's_prefix_dp_编辑距离.s
 	@echo ... 4001~5000/4182_返航小统计（数组）.obj
 	@echo ... 4001~5000/4182_返航小统计（数组）.i
 	@echo ... 4001~5000/4182_返航小统计（数组）.s
@@ -33446,6 +33764,9 @@ help:
 	@echo ... others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.obj
 	@echo ... others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.i
 	@echo ... others-cpp/191_零崎的悠哉日常Ⅱ_网络流_多组查询.s
+	@echo ... others-cpp/2230_题目S试毒.obj
+	@echo ... others-cpp/2230_题目S试毒.i
+	@echo ... others-cpp/2230_题目S试毒.s
 	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.obj
 	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.i
 	@echo ... others-cpp/2371_Zexal的拯救世界_线段树.s
@@ -33476,6 +33797,9 @@ help:
 	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.obj
 	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.i
 	@echo ... others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.s
+	@echo ... others-cpp/4166_Find_Good_Reverse_Tuple.obj
+	@echo ... others-cpp/4166_Find_Good_Reverse_Tuple.i
+	@echo ... others-cpp/4166_Find_Good_Reverse_Tuple.s
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.obj
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.i
 	@echo ... others-cpp/424_jhljx上大学学数学_数论扩域.s
