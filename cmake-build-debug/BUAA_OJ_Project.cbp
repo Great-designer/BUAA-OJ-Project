@@ -2682,6 +2682,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3347 蟠桃大会.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3359 jqe的数列.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4120 （中等题）W形串.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3657,6 +3660,12 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/2992 隔离 计算几何.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/3013 大数 popcount 高精度进制转换.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/3362 Serein的扫雷游戏 bfs.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/359 传纸条 最大费用最大流.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3831,7 +3840,25 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/175 成绩统计II.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3009 能和本大爷玩游戏的竟然只有你一个 大模拟+基础数据结构list.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3015 AC coding 字符串处理.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/321 microhhh的字符串综合训练1.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3342 智能复读机 字符串处理.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3348 计算字符串匹配度 字符串处理.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3349 split 字符串处理.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/3366 你最好在天黑前找点吃的 大模拟.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/340 AZY&apos;s Xscapesstream.cpp">

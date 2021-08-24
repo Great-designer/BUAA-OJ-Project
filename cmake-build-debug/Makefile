@@ -20672,6 +20672,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.s
 .PHONY : 3001~4000/3347_蟠桃大会.c.s
 
+3001~4000/3359_jqe的数列.obj: 3001~4000/3359_jqe的数列.c.obj
+.PHONY : 3001~4000/3359_jqe的数列.obj
+
+# target to build an object file
+3001~4000/3359_jqe的数列.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3359_jqe的数列.c.obj
+.PHONY : 3001~4000/3359_jqe的数列.c.obj
+
+3001~4000/3359_jqe的数列.i: 3001~4000/3359_jqe的数列.c.i
+.PHONY : 3001~4000/3359_jqe的数列.i
+
+# target to preprocess a source file
+3001~4000/3359_jqe的数列.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3359_jqe的数列.c.i
+.PHONY : 3001~4000/3359_jqe的数列.c.i
+
+3001~4000/3359_jqe的数列.s: 3001~4000/3359_jqe的数列.c.s
+.PHONY : 3001~4000/3359_jqe的数列.s
+
+# target to generate assembly for a file
+3001~4000/3359_jqe的数列.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3359_jqe的数列.c.s
+.PHONY : 3001~4000/3359_jqe的数列.c.s
+
 4001~5000/4120_（中等题）W形串.obj: 4001~5000/4120_（中等题）W形串.c.obj
 .PHONY : 4001~5000/4120_（中等题）W形串.obj
 
@@ -28472,6 +28496,54 @@ others-cpp/2992_隔离_计算几何.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.s
 .PHONY : others-cpp/2992_隔离_计算几何.cpp.s
 
+others-cpp/3013_大数_popcount_高精度进制转换.obj: others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.obj
+
+# target to build an object file
+others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj
+
+others-cpp/3013_大数_popcount_高精度进制转换.i: others-cpp/3013_大数_popcount_高精度进制转换.cpp.i
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.i
+
+# target to preprocess a source file
+others-cpp/3013_大数_popcount_高精度进制转换.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.i
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.cpp.i
+
+others-cpp/3013_大数_popcount_高精度进制转换.s: others-cpp/3013_大数_popcount_高精度进制转换.cpp.s
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.s
+
+# target to generate assembly for a file
+others-cpp/3013_大数_popcount_高精度进制转换.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.s
+.PHONY : others-cpp/3013_大数_popcount_高精度进制转换.cpp.s
+
+others-cpp/3362_Serein的扫雷游戏_bfs.obj: others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.obj
+
+# target to build an object file
+others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj
+
+others-cpp/3362_Serein的扫雷游戏_bfs.i: others-cpp/3362_Serein的扫雷游戏_bfs.cpp.i
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.i
+
+# target to preprocess a source file
+others-cpp/3362_Serein的扫雷游戏_bfs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.i
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.cpp.i
+
+others-cpp/3362_Serein的扫雷游戏_bfs.s: others-cpp/3362_Serein的扫雷游戏_bfs.cpp.s
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.s
+
+# target to generate assembly for a file
+others-cpp/3362_Serein的扫雷游戏_bfs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.s
+.PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.cpp.s
+
 others-cpp/359_传纸条_最大费用最大流.obj: others-cpp/359_传纸条_最大费用最大流.cpp.obj
 .PHONY : others-cpp/359_传纸条_最大费用最大流.obj
 
@@ -29864,6 +29936,54 @@ string/175_成绩统计II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/175_成绩统计II.cpp.s
 .PHONY : string/175_成绩统计II.cpp.s
 
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.obj: string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.obj
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.obj
+
+# target to build an object file
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.obj
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.obj
+
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.i: string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.i
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.i
+
+# target to preprocess a source file
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.i
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.i
+
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.s: string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.s
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.s
+
+# target to generate assembly for a file
+string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.s
+.PHONY : string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.cpp.s
+
+string/3015_AC_coding_字符串处理.obj: string/3015_AC_coding_字符串处理.cpp.obj
+.PHONY : string/3015_AC_coding_字符串处理.obj
+
+# target to build an object file
+string/3015_AC_coding_字符串处理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3015_AC_coding_字符串处理.cpp.obj
+.PHONY : string/3015_AC_coding_字符串处理.cpp.obj
+
+string/3015_AC_coding_字符串处理.i: string/3015_AC_coding_字符串处理.cpp.i
+.PHONY : string/3015_AC_coding_字符串处理.i
+
+# target to preprocess a source file
+string/3015_AC_coding_字符串处理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3015_AC_coding_字符串处理.cpp.i
+.PHONY : string/3015_AC_coding_字符串处理.cpp.i
+
+string/3015_AC_coding_字符串处理.s: string/3015_AC_coding_字符串处理.cpp.s
+.PHONY : string/3015_AC_coding_字符串处理.s
+
+# target to generate assembly for a file
+string/3015_AC_coding_字符串处理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3015_AC_coding_字符串处理.cpp.s
+.PHONY : string/3015_AC_coding_字符串处理.cpp.s
+
 string/321_microhhh的字符串综合训练1.obj: string/321_microhhh的字符串综合训练1.cpp.obj
 .PHONY : string/321_microhhh的字符串综合训练1.obj
 
@@ -29887,6 +30007,102 @@ string/321_microhhh的字符串综合训练1.s: string/321_microhhh的字符串�
 string/321_microhhh的字符串综合训练1.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/321_microhhh的字符串综合训练1.cpp.s
 .PHONY : string/321_microhhh的字符串综合训练1.cpp.s
+
+string/3342_智能复读机_字符串处理.obj: string/3342_智能复读机_字符串处理.cpp.obj
+.PHONY : string/3342_智能复读机_字符串处理.obj
+
+# target to build an object file
+string/3342_智能复读机_字符串处理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3342_智能复读机_字符串处理.cpp.obj
+.PHONY : string/3342_智能复读机_字符串处理.cpp.obj
+
+string/3342_智能复读机_字符串处理.i: string/3342_智能复读机_字符串处理.cpp.i
+.PHONY : string/3342_智能复读机_字符串处理.i
+
+# target to preprocess a source file
+string/3342_智能复读机_字符串处理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3342_智能复读机_字符串处理.cpp.i
+.PHONY : string/3342_智能复读机_字符串处理.cpp.i
+
+string/3342_智能复读机_字符串处理.s: string/3342_智能复读机_字符串处理.cpp.s
+.PHONY : string/3342_智能复读机_字符串处理.s
+
+# target to generate assembly for a file
+string/3342_智能复读机_字符串处理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3342_智能复读机_字符串处理.cpp.s
+.PHONY : string/3342_智能复读机_字符串处理.cpp.s
+
+string/3348_计算字符串匹配度_字符串处理.obj: string/3348_计算字符串匹配度_字符串处理.cpp.obj
+.PHONY : string/3348_计算字符串匹配度_字符串处理.obj
+
+# target to build an object file
+string/3348_计算字符串匹配度_字符串处理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3348_计算字符串匹配度_字符串处理.cpp.obj
+.PHONY : string/3348_计算字符串匹配度_字符串处理.cpp.obj
+
+string/3348_计算字符串匹配度_字符串处理.i: string/3348_计算字符串匹配度_字符串处理.cpp.i
+.PHONY : string/3348_计算字符串匹配度_字符串处理.i
+
+# target to preprocess a source file
+string/3348_计算字符串匹配度_字符串处理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3348_计算字符串匹配度_字符串处理.cpp.i
+.PHONY : string/3348_计算字符串匹配度_字符串处理.cpp.i
+
+string/3348_计算字符串匹配度_字符串处理.s: string/3348_计算字符串匹配度_字符串处理.cpp.s
+.PHONY : string/3348_计算字符串匹配度_字符串处理.s
+
+# target to generate assembly for a file
+string/3348_计算字符串匹配度_字符串处理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3348_计算字符串匹配度_字符串处理.cpp.s
+.PHONY : string/3348_计算字符串匹配度_字符串处理.cpp.s
+
+string/3349_split_字符串处理.obj: string/3349_split_字符串处理.cpp.obj
+.PHONY : string/3349_split_字符串处理.obj
+
+# target to build an object file
+string/3349_split_字符串处理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3349_split_字符串处理.cpp.obj
+.PHONY : string/3349_split_字符串处理.cpp.obj
+
+string/3349_split_字符串处理.i: string/3349_split_字符串处理.cpp.i
+.PHONY : string/3349_split_字符串处理.i
+
+# target to preprocess a source file
+string/3349_split_字符串处理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3349_split_字符串处理.cpp.i
+.PHONY : string/3349_split_字符串处理.cpp.i
+
+string/3349_split_字符串处理.s: string/3349_split_字符串处理.cpp.s
+.PHONY : string/3349_split_字符串处理.s
+
+# target to generate assembly for a file
+string/3349_split_字符串处理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3349_split_字符串处理.cpp.s
+.PHONY : string/3349_split_字符串处理.cpp.s
+
+string/3366_你最好在天黑前找点吃的_大模拟.obj: string/3366_你最好在天黑前找点吃的_大模拟.cpp.obj
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.obj
+
+# target to build an object file
+string/3366_你最好在天黑前找点吃的_大模拟.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3366_你最好在天黑前找点吃的_大模拟.cpp.obj
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.cpp.obj
+
+string/3366_你最好在天黑前找点吃的_大模拟.i: string/3366_你最好在天黑前找点吃的_大模拟.cpp.i
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.i
+
+# target to preprocess a source file
+string/3366_你最好在天黑前找点吃的_大模拟.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3366_你最好在天黑前找点吃的_大模拟.cpp.i
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.cpp.i
+
+string/3366_你最好在天黑前找点吃的_大模拟.s: string/3366_你最好在天黑前找点吃的_大模拟.cpp.s
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.s
+
+# target to generate assembly for a file
+string/3366_你最好在天黑前找点吃的_大模拟.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/3366_你最好在天黑前找点吃的_大模拟.cpp.s
+.PHONY : string/3366_你最好在天黑前找点吃的_大模拟.cpp.s
 
 string/340_AZY's_Xscapesstream.obj: string/340_AZY's_Xscapesstream.cpp.obj
 .PHONY : string/340_AZY's_Xscapesstream.obj
@@ -33305,6 +33521,9 @@ help:
 	@echo ... 3001~4000/3347_蟠桃大会.obj
 	@echo ... 3001~4000/3347_蟠桃大会.i
 	@echo ... 3001~4000/3347_蟠桃大会.s
+	@echo ... 3001~4000/3359_jqe的数列.obj
+	@echo ... 3001~4000/3359_jqe的数列.i
+	@echo ... 3001~4000/3359_jqe的数列.s
 	@echo ... 4001~5000/4120_（中等题）W形串.obj
 	@echo ... 4001~5000/4120_（中等题）W形串.i
 	@echo ... 4001~5000/4120_（中等题）W形串.s
@@ -34280,6 +34499,12 @@ help:
 	@echo ... others-cpp/2992_隔离_计算几何.obj
 	@echo ... others-cpp/2992_隔离_计算几何.i
 	@echo ... others-cpp/2992_隔离_计算几何.s
+	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.obj
+	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.i
+	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.s
+	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.obj
+	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.i
+	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.s
 	@echo ... others-cpp/359_传纸条_最大费用最大流.obj
 	@echo ... others-cpp/359_传纸条_最大费用最大流.i
 	@echo ... others-cpp/359_传纸条_最大费用最大流.s
@@ -34454,9 +34679,27 @@ help:
 	@echo ... string/175_成绩统计II.obj
 	@echo ... string/175_成绩统计II.i
 	@echo ... string/175_成绩统计II.s
+	@echo ... string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.obj
+	@echo ... string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.i
+	@echo ... string/3009_能和本大爷玩游戏的竟然只有你一个_大模拟+基础数据结构list.s
+	@echo ... string/3015_AC_coding_字符串处理.obj
+	@echo ... string/3015_AC_coding_字符串处理.i
+	@echo ... string/3015_AC_coding_字符串处理.s
 	@echo ... string/321_microhhh的字符串综合训练1.obj
 	@echo ... string/321_microhhh的字符串综合训练1.i
 	@echo ... string/321_microhhh的字符串综合训练1.s
+	@echo ... string/3342_智能复读机_字符串处理.obj
+	@echo ... string/3342_智能复读机_字符串处理.i
+	@echo ... string/3342_智能复读机_字符串处理.s
+	@echo ... string/3348_计算字符串匹配度_字符串处理.obj
+	@echo ... string/3348_计算字符串匹配度_字符串处理.i
+	@echo ... string/3348_计算字符串匹配度_字符串处理.s
+	@echo ... string/3349_split_字符串处理.obj
+	@echo ... string/3349_split_字符串处理.i
+	@echo ... string/3349_split_字符串处理.s
+	@echo ... string/3366_你最好在天黑前找点吃的_大模拟.obj
+	@echo ... string/3366_你最好在天黑前找点吃的_大模拟.i
+	@echo ... string/3366_你最好在天黑前找点吃的_大模拟.s
 	@echo ... string/340_AZY's_Xscapesstream.obj
 	@echo ... string/340_AZY's_Xscapesstream.i
 	@echo ... string/340_AZY's_Xscapesstream.s
