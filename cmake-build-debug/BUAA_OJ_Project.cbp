@@ -3066,6 +3066,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4311 朵朵验证哥德巴赫猜想 方法2.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4312 五子棋大师 模拟.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4313 简单的递归函数~ 方法1.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3150,7 +3153,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4349 有点“新意“的签到题？.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4350 众志成城 费马小定理 快速幂.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4351 JJ照镜子.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4353 猜拳擂台.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4355 旗开得胜.c">
@@ -3175,6 +3184,12 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4364 字符串库函数测试.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4376 杨辉三角前n行 dp.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4377 cbj统计很多个班的成绩 一行不定组输入.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4378 [题目标题敏感] 解析文本为UTF-8码并输出.c">
@@ -3205,6 +3220,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4386 另类合成.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4387 合成OJ排行榜（青春版）.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4389 旗鼓相当的对手 方法1.c">
@@ -3240,7 +3258,25 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4401 小迷弟的灵光三现.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4402 we have a city to burn 暴力搜索.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4403 小迷弟的灵光两现.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4404 寻找落单战士 快读 位运算.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4405 井字棋大师2.0 minimax对抗搜索 记忆化.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4406 地下交流 双向链表模拟.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4407 共产主义 记忆化搜索.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4408 加密通话 模拟.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4409 名字的奥妙.c">
@@ -3799,6 +3835,27 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/340 AZY&apos;s Xscapesstream.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4360 容器盛水 单调栈.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4360 容器盛水 模拟.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4368 判断字符串是否为完整串(easy).cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4369 判断字符串是否为完整串.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4370 最大个数.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4371 雪糕最大个数 01背包.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/string/4372 不重最长子串 记忆化 字符串.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/string/603 火柴棍摆数字.cpp">

@@ -23744,6 +23744,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.s
 .PHONY : 4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.c.s
 
+4001~5000/4312_五子棋大师_模拟.obj: 4001~5000/4312_五子棋大师_模拟.c.obj
+.PHONY : 4001~5000/4312_五子棋大师_模拟.obj
+
+# target to build an object file
+4001~5000/4312_五子棋大师_模拟.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4312_五子棋大师_模拟.c.obj
+.PHONY : 4001~5000/4312_五子棋大师_模拟.c.obj
+
+4001~5000/4312_五子棋大师_模拟.i: 4001~5000/4312_五子棋大师_模拟.c.i
+.PHONY : 4001~5000/4312_五子棋大师_模拟.i
+
+# target to preprocess a source file
+4001~5000/4312_五子棋大师_模拟.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4312_五子棋大师_模拟.c.i
+.PHONY : 4001~5000/4312_五子棋大师_模拟.c.i
+
+4001~5000/4312_五子棋大师_模拟.s: 4001~5000/4312_五子棋大师_模拟.c.s
+.PHONY : 4001~5000/4312_五子棋大师_模拟.s
+
+# target to generate assembly for a file
+4001~5000/4312_五子棋大师_模拟.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4312_五子棋大师_模拟.c.s
+.PHONY : 4001~5000/4312_五子棋大师_模拟.c.s
+
 4001~5000/4313_简单的递归函数~_方法1.obj: 4001~5000/4313_简单的递归函数~_方法1.c.obj
 .PHONY : 4001~5000/4313_简单的递归函数~_方法1.obj
 
@@ -24416,6 +24440,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4349_有点“新意“的签到题？.c.s
 .PHONY : 4001~5000/4349_有点“新意“的签到题？.c.s
 
+4001~5000/4350_众志成城_费马小定理_快速幂.obj: 4001~5000/4350_众志成城_费马小定理_快速幂.c.obj
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.obj
+
+# target to build an object file
+4001~5000/4350_众志成城_费马小定理_快速幂.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4350_众志成城_费马小定理_快速幂.c.obj
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.c.obj
+
+4001~5000/4350_众志成城_费马小定理_快速幂.i: 4001~5000/4350_众志成城_费马小定理_快速幂.c.i
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.i
+
+# target to preprocess a source file
+4001~5000/4350_众志成城_费马小定理_快速幂.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4350_众志成城_费马小定理_快速幂.c.i
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.c.i
+
+4001~5000/4350_众志成城_费马小定理_快速幂.s: 4001~5000/4350_众志成城_费马小定理_快速幂.c.s
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.s
+
+# target to generate assembly for a file
+4001~5000/4350_众志成城_费马小定理_快速幂.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4350_众志成城_费马小定理_快速幂.c.s
+.PHONY : 4001~5000/4350_众志成城_费马小定理_快速幂.c.s
+
 4001~5000/4351_JJ照镜子.obj: 4001~5000/4351_JJ照镜子.c.obj
 .PHONY : 4001~5000/4351_JJ照镜子.obj
 
@@ -24439,6 +24487,30 @@ BUAA_OJ_Project/fast:
 4001~5000/4351_JJ照镜子.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4351_JJ照镜子.c.s
 .PHONY : 4001~5000/4351_JJ照镜子.c.s
+
+4001~5000/4353_猜拳擂台.obj: 4001~5000/4353_猜拳擂台.c.obj
+.PHONY : 4001~5000/4353_猜拳擂台.obj
+
+# target to build an object file
+4001~5000/4353_猜拳擂台.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4353_猜拳擂台.c.obj
+.PHONY : 4001~5000/4353_猜拳擂台.c.obj
+
+4001~5000/4353_猜拳擂台.i: 4001~5000/4353_猜拳擂台.c.i
+.PHONY : 4001~5000/4353_猜拳擂台.i
+
+# target to preprocess a source file
+4001~5000/4353_猜拳擂台.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4353_猜拳擂台.c.i
+.PHONY : 4001~5000/4353_猜拳擂台.c.i
+
+4001~5000/4353_猜拳擂台.s: 4001~5000/4353_猜拳擂台.c.s
+.PHONY : 4001~5000/4353_猜拳擂台.s
+
+# target to generate assembly for a file
+4001~5000/4353_猜拳擂台.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4353_猜拳擂台.c.s
+.PHONY : 4001~5000/4353_猜拳擂台.c.s
 
 4001~5000/4355_旗开得胜.obj: 4001~5000/4355_旗开得胜.c.obj
 .PHONY : 4001~5000/4355_旗开得胜.obj
@@ -24631,6 +24703,54 @@ BUAA_OJ_Project/fast:
 4001~5000/4364_字符串库函数测试.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4364_字符串库函数测试.c.s
 .PHONY : 4001~5000/4364_字符串库函数测试.c.s
+
+4001~5000/4376_杨辉三角前n行_dp.obj: 4001~5000/4376_杨辉三角前n行_dp.c.obj
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.obj
+
+# target to build an object file
+4001~5000/4376_杨辉三角前n行_dp.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4376_杨辉三角前n行_dp.c.obj
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.c.obj
+
+4001~5000/4376_杨辉三角前n行_dp.i: 4001~5000/4376_杨辉三角前n行_dp.c.i
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.i
+
+# target to preprocess a source file
+4001~5000/4376_杨辉三角前n行_dp.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4376_杨辉三角前n行_dp.c.i
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.c.i
+
+4001~5000/4376_杨辉三角前n行_dp.s: 4001~5000/4376_杨辉三角前n行_dp.c.s
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.s
+
+# target to generate assembly for a file
+4001~5000/4376_杨辉三角前n行_dp.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4376_杨辉三角前n行_dp.c.s
+.PHONY : 4001~5000/4376_杨辉三角前n行_dp.c.s
+
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.obj: 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.obj
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.obj
+
+# target to build an object file
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.obj
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.obj
+
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.i: 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.i
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.i
+
+# target to preprocess a source file
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.i
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.i
+
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.s: 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.s
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.s
+
+# target to generate assembly for a file
+4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.s
+.PHONY : 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.c.s
 
 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.obj: 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.c.obj
 .PHONY : 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.obj
@@ -24871,6 +24991,30 @@ BUAA_OJ_Project/fast:
 4001~5000/4386_另类合成.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4386_另类合成.c.s
 .PHONY : 4001~5000/4386_另类合成.c.s
+
+4001~5000/4387_合成OJ排行榜（青春版）.obj: 4001~5000/4387_合成OJ排行榜（青春版）.c.obj
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.obj
+
+# target to build an object file
+4001~5000/4387_合成OJ排行榜（青春版）.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4387_合成OJ排行榜（青春版）.c.obj
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.c.obj
+
+4001~5000/4387_合成OJ排行榜（青春版）.i: 4001~5000/4387_合成OJ排行榜（青春版）.c.i
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.i
+
+# target to preprocess a source file
+4001~5000/4387_合成OJ排行榜（青春版）.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4387_合成OJ排行榜（青春版）.c.i
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.c.i
+
+4001~5000/4387_合成OJ排行榜（青春版）.s: 4001~5000/4387_合成OJ排行榜（青春版）.c.s
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.s
+
+# target to generate assembly for a file
+4001~5000/4387_合成OJ排行榜（青春版）.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4387_合成OJ排行榜（青春版）.c.s
+.PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.c.s
 
 4001~5000/4389_旗鼓相当的对手_方法1.obj: 4001~5000/4389_旗鼓相当的对手_方法1.c.obj
 .PHONY : 4001~5000/4389_旗鼓相当的对手_方法1.obj
@@ -25136,6 +25280,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4401_小迷弟的灵光三现.c.s
 .PHONY : 4001~5000/4401_小迷弟的灵光三现.c.s
 
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.obj: 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.obj
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.obj
+
+# target to build an object file
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.obj
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.obj
+
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.i: 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.i
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.i
+
+# target to preprocess a source file
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.i
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.i
+
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.s: 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.s
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.s
+
+# target to generate assembly for a file
+4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.s
+.PHONY : 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.c.s
+
 4001~5000/4403_小迷弟的灵光两现.obj: 4001~5000/4403_小迷弟的灵光两现.c.obj
 .PHONY : 4001~5000/4403_小迷弟的灵光两现.obj
 
@@ -25159,6 +25327,126 @@ BUAA_OJ_Project/fast:
 4001~5000/4403_小迷弟的灵光两现.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4403_小迷弟的灵光两现.c.s
 .PHONY : 4001~5000/4403_小迷弟的灵光两现.c.s
+
+4001~5000/4404_寻找落单战士_快读_位运算.obj: 4001~5000/4404_寻找落单战士_快读_位运算.c.obj
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.obj
+
+# target to build an object file
+4001~5000/4404_寻找落单战士_快读_位运算.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4404_寻找落单战士_快读_位运算.c.obj
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.c.obj
+
+4001~5000/4404_寻找落单战士_快读_位运算.i: 4001~5000/4404_寻找落单战士_快读_位运算.c.i
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.i
+
+# target to preprocess a source file
+4001~5000/4404_寻找落单战士_快读_位运算.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4404_寻找落单战士_快读_位运算.c.i
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.c.i
+
+4001~5000/4404_寻找落单战士_快读_位运算.s: 4001~5000/4404_寻找落单战士_快读_位运算.c.s
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.s
+
+# target to generate assembly for a file
+4001~5000/4404_寻找落单战士_快读_位运算.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4404_寻找落单战士_快读_位运算.c.s
+.PHONY : 4001~5000/4404_寻找落单战士_快读_位运算.c.s
+
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.obj: 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.obj
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.obj
+
+# target to build an object file
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.obj
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.obj
+
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.i: 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.i
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.i
+
+# target to preprocess a source file
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.i
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.i
+
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.s: 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.s
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.s
+
+# target to generate assembly for a file
+4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.s
+.PHONY : 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.c.s
+
+4001~5000/4406_地下交流_双向链表模拟.obj: 4001~5000/4406_地下交流_双向链表模拟.c.obj
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.obj
+
+# target to build an object file
+4001~5000/4406_地下交流_双向链表模拟.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4406_地下交流_双向链表模拟.c.obj
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.c.obj
+
+4001~5000/4406_地下交流_双向链表模拟.i: 4001~5000/4406_地下交流_双向链表模拟.c.i
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.i
+
+# target to preprocess a source file
+4001~5000/4406_地下交流_双向链表模拟.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4406_地下交流_双向链表模拟.c.i
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.c.i
+
+4001~5000/4406_地下交流_双向链表模拟.s: 4001~5000/4406_地下交流_双向链表模拟.c.s
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.s
+
+# target to generate assembly for a file
+4001~5000/4406_地下交流_双向链表模拟.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4406_地下交流_双向链表模拟.c.s
+.PHONY : 4001~5000/4406_地下交流_双向链表模拟.c.s
+
+4001~5000/4407_共产主义_记忆化搜索.obj: 4001~5000/4407_共产主义_记忆化搜索.c.obj
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.obj
+
+# target to build an object file
+4001~5000/4407_共产主义_记忆化搜索.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4407_共产主义_记忆化搜索.c.obj
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.c.obj
+
+4001~5000/4407_共产主义_记忆化搜索.i: 4001~5000/4407_共产主义_记忆化搜索.c.i
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.i
+
+# target to preprocess a source file
+4001~5000/4407_共产主义_记忆化搜索.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4407_共产主义_记忆化搜索.c.i
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.c.i
+
+4001~5000/4407_共产主义_记忆化搜索.s: 4001~5000/4407_共产主义_记忆化搜索.c.s
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.s
+
+# target to generate assembly for a file
+4001~5000/4407_共产主义_记忆化搜索.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4407_共产主义_记忆化搜索.c.s
+.PHONY : 4001~5000/4407_共产主义_记忆化搜索.c.s
+
+4001~5000/4408_加密通话_模拟.obj: 4001~5000/4408_加密通话_模拟.c.obj
+.PHONY : 4001~5000/4408_加密通话_模拟.obj
+
+# target to build an object file
+4001~5000/4408_加密通话_模拟.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4408_加密通话_模拟.c.obj
+.PHONY : 4001~5000/4408_加密通话_模拟.c.obj
+
+4001~5000/4408_加密通话_模拟.i: 4001~5000/4408_加密通话_模拟.c.i
+.PHONY : 4001~5000/4408_加密通话_模拟.i
+
+# target to preprocess a source file
+4001~5000/4408_加密通话_模拟.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4408_加密通话_模拟.c.i
+.PHONY : 4001~5000/4408_加密通话_模拟.c.i
+
+4001~5000/4408_加密通话_模拟.s: 4001~5000/4408_加密通话_模拟.c.s
+.PHONY : 4001~5000/4408_加密通话_模拟.s
+
+# target to generate assembly for a file
+4001~5000/4408_加密通话_模拟.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4408_加密通话_模拟.c.s
+.PHONY : 4001~5000/4408_加密通话_模拟.c.s
 
 4001~5000/4409_名字的奥妙.obj: 4001~5000/4409_名字的奥妙.c.obj
 .PHONY : 4001~5000/4409_名字的奥妙.obj
@@ -29624,6 +29912,174 @@ string/340_AZY's_Xscapesstream.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/string/340_AZY's_Xscapesstream.cpp.s"
 .PHONY : string/340_AZY's_Xscapesstream.cpp.s
 
+string/4360_容器盛水_单调栈.obj: string/4360_容器盛水_单调栈.cpp.obj
+.PHONY : string/4360_容器盛水_单调栈.obj
+
+# target to build an object file
+string/4360_容器盛水_单调栈.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_单调栈.cpp.obj
+.PHONY : string/4360_容器盛水_单调栈.cpp.obj
+
+string/4360_容器盛水_单调栈.i: string/4360_容器盛水_单调栈.cpp.i
+.PHONY : string/4360_容器盛水_单调栈.i
+
+# target to preprocess a source file
+string/4360_容器盛水_单调栈.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_单调栈.cpp.i
+.PHONY : string/4360_容器盛水_单调栈.cpp.i
+
+string/4360_容器盛水_单调栈.s: string/4360_容器盛水_单调栈.cpp.s
+.PHONY : string/4360_容器盛水_单调栈.s
+
+# target to generate assembly for a file
+string/4360_容器盛水_单调栈.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_单调栈.cpp.s
+.PHONY : string/4360_容器盛水_单调栈.cpp.s
+
+string/4360_容器盛水_模拟.obj: string/4360_容器盛水_模拟.cpp.obj
+.PHONY : string/4360_容器盛水_模拟.obj
+
+# target to build an object file
+string/4360_容器盛水_模拟.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_模拟.cpp.obj
+.PHONY : string/4360_容器盛水_模拟.cpp.obj
+
+string/4360_容器盛水_模拟.i: string/4360_容器盛水_模拟.cpp.i
+.PHONY : string/4360_容器盛水_模拟.i
+
+# target to preprocess a source file
+string/4360_容器盛水_模拟.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_模拟.cpp.i
+.PHONY : string/4360_容器盛水_模拟.cpp.i
+
+string/4360_容器盛水_模拟.s: string/4360_容器盛水_模拟.cpp.s
+.PHONY : string/4360_容器盛水_模拟.s
+
+# target to generate assembly for a file
+string/4360_容器盛水_模拟.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4360_容器盛水_模拟.cpp.s
+.PHONY : string/4360_容器盛水_模拟.cpp.s
+
+string/4368_判断字符串是否为完整串(easy).obj: string/4368_判断字符串是否为完整串(easy).cpp.obj
+.PHONY : string/4368_判断字符串是否为完整串(easy).obj
+
+# target to build an object file
+string/4368_判断字符串是否为完整串(easy).cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4368_判断字符串是否为完整串(easy).cpp.obj
+.PHONY : string/4368_判断字符串是否为完整串(easy).cpp.obj
+
+string/4368_判断字符串是否为完整串(easy).i: string/4368_判断字符串是否为完整串(easy).cpp.i
+.PHONY : string/4368_判断字符串是否为完整串(easy).i
+
+# target to preprocess a source file
+string/4368_判断字符串是否为完整串(easy).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4368_判断字符串是否为完整串(easy).cpp.i
+.PHONY : string/4368_判断字符串是否为完整串(easy).cpp.i
+
+string/4368_判断字符串是否为完整串(easy).s: string/4368_判断字符串是否为完整串(easy).cpp.s
+.PHONY : string/4368_判断字符串是否为完整串(easy).s
+
+# target to generate assembly for a file
+string/4368_判断字符串是否为完整串(easy).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4368_判断字符串是否为完整串(easy).cpp.s
+.PHONY : string/4368_判断字符串是否为完整串(easy).cpp.s
+
+string/4369_判断字符串是否为完整串.obj: string/4369_判断字符串是否为完整串.cpp.obj
+.PHONY : string/4369_判断字符串是否为完整串.obj
+
+# target to build an object file
+string/4369_判断字符串是否为完整串.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4369_判断字符串是否为完整串.cpp.obj
+.PHONY : string/4369_判断字符串是否为完整串.cpp.obj
+
+string/4369_判断字符串是否为完整串.i: string/4369_判断字符串是否为完整串.cpp.i
+.PHONY : string/4369_判断字符串是否为完整串.i
+
+# target to preprocess a source file
+string/4369_判断字符串是否为完整串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4369_判断字符串是否为完整串.cpp.i
+.PHONY : string/4369_判断字符串是否为完整串.cpp.i
+
+string/4369_判断字符串是否为完整串.s: string/4369_判断字符串是否为完整串.cpp.s
+.PHONY : string/4369_判断字符串是否为完整串.s
+
+# target to generate assembly for a file
+string/4369_判断字符串是否为完整串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4369_判断字符串是否为完整串.cpp.s
+.PHONY : string/4369_判断字符串是否为完整串.cpp.s
+
+string/4370_最大个数.obj: string/4370_最大个数.cpp.obj
+.PHONY : string/4370_最大个数.obj
+
+# target to build an object file
+string/4370_最大个数.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4370_最大个数.cpp.obj
+.PHONY : string/4370_最大个数.cpp.obj
+
+string/4370_最大个数.i: string/4370_最大个数.cpp.i
+.PHONY : string/4370_最大个数.i
+
+# target to preprocess a source file
+string/4370_最大个数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4370_最大个数.cpp.i
+.PHONY : string/4370_最大个数.cpp.i
+
+string/4370_最大个数.s: string/4370_最大个数.cpp.s
+.PHONY : string/4370_最大个数.s
+
+# target to generate assembly for a file
+string/4370_最大个数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4370_最大个数.cpp.s
+.PHONY : string/4370_最大个数.cpp.s
+
+string/4371_雪糕最大个数_01背包.obj: string/4371_雪糕最大个数_01背包.cpp.obj
+.PHONY : string/4371_雪糕最大个数_01背包.obj
+
+# target to build an object file
+string/4371_雪糕最大个数_01背包.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4371_雪糕最大个数_01背包.cpp.obj
+.PHONY : string/4371_雪糕最大个数_01背包.cpp.obj
+
+string/4371_雪糕最大个数_01背包.i: string/4371_雪糕最大个数_01背包.cpp.i
+.PHONY : string/4371_雪糕最大个数_01背包.i
+
+# target to preprocess a source file
+string/4371_雪糕最大个数_01背包.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4371_雪糕最大个数_01背包.cpp.i
+.PHONY : string/4371_雪糕最大个数_01背包.cpp.i
+
+string/4371_雪糕最大个数_01背包.s: string/4371_雪糕最大个数_01背包.cpp.s
+.PHONY : string/4371_雪糕最大个数_01背包.s
+
+# target to generate assembly for a file
+string/4371_雪糕最大个数_01背包.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4371_雪糕最大个数_01背包.cpp.s
+.PHONY : string/4371_雪糕最大个数_01背包.cpp.s
+
+string/4372_不重最长子串_记忆化_字符串.obj: string/4372_不重最长子串_记忆化_字符串.cpp.obj
+.PHONY : string/4372_不重最长子串_记忆化_字符串.obj
+
+# target to build an object file
+string/4372_不重最长子串_记忆化_字符串.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4372_不重最长子串_记忆化_字符串.cpp.obj
+.PHONY : string/4372_不重最长子串_记忆化_字符串.cpp.obj
+
+string/4372_不重最长子串_记忆化_字符串.i: string/4372_不重最长子串_记忆化_字符串.cpp.i
+.PHONY : string/4372_不重最长子串_记忆化_字符串.i
+
+# target to preprocess a source file
+string/4372_不重最长子串_记忆化_字符串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4372_不重最长子串_记忆化_字符串.cpp.i
+.PHONY : string/4372_不重最长子串_记忆化_字符串.cpp.i
+
+string/4372_不重最长子串_记忆化_字符串.s: string/4372_不重最长子串_记忆化_字符串.cpp.s
+.PHONY : string/4372_不重最长子串_记忆化_字符串.s
+
+# target to generate assembly for a file
+string/4372_不重最长子串_记忆化_字符串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/string/4372_不重最长子串_记忆化_字符串.cpp.s
+.PHONY : string/4372_不重最长子串_记忆化_字符串.cpp.s
+
 string/603_火柴棍摆数字.obj: string/603_火柴棍摆数字.cpp.obj
 .PHONY : string/603_火柴棍摆数字.obj
 
@@ -33233,6 +33689,9 @@ help:
 	@echo ... 4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.obj
 	@echo ... 4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.i
 	@echo ... 4001~5000/4311_朵朵验证哥德巴赫猜想_方法2.s
+	@echo ... 4001~5000/4312_五子棋大师_模拟.obj
+	@echo ... 4001~5000/4312_五子棋大师_模拟.i
+	@echo ... 4001~5000/4312_五子棋大师_模拟.s
 	@echo ... 4001~5000/4313_简单的递归函数~_方法1.obj
 	@echo ... 4001~5000/4313_简单的递归函数~_方法1.i
 	@echo ... 4001~5000/4313_简单的递归函数~_方法1.s
@@ -33317,9 +33776,15 @@ help:
 	@echo ... 4001~5000/4349_有点“新意“的签到题？.obj
 	@echo ... 4001~5000/4349_有点“新意“的签到题？.i
 	@echo ... 4001~5000/4349_有点“新意“的签到题？.s
+	@echo ... 4001~5000/4350_众志成城_费马小定理_快速幂.obj
+	@echo ... 4001~5000/4350_众志成城_费马小定理_快速幂.i
+	@echo ... 4001~5000/4350_众志成城_费马小定理_快速幂.s
 	@echo ... 4001~5000/4351_JJ照镜子.obj
 	@echo ... 4001~5000/4351_JJ照镜子.i
 	@echo ... 4001~5000/4351_JJ照镜子.s
+	@echo ... 4001~5000/4353_猜拳擂台.obj
+	@echo ... 4001~5000/4353_猜拳擂台.i
+	@echo ... 4001~5000/4353_猜拳擂台.s
 	@echo ... 4001~5000/4355_旗开得胜.obj
 	@echo ... 4001~5000/4355_旗开得胜.i
 	@echo ... 4001~5000/4355_旗开得胜.s
@@ -33344,6 +33809,12 @@ help:
 	@echo ... 4001~5000/4364_字符串库函数测试.obj
 	@echo ... 4001~5000/4364_字符串库函数测试.i
 	@echo ... 4001~5000/4364_字符串库函数测试.s
+	@echo ... 4001~5000/4376_杨辉三角前n行_dp.obj
+	@echo ... 4001~5000/4376_杨辉三角前n行_dp.i
+	@echo ... 4001~5000/4376_杨辉三角前n行_dp.s
+	@echo ... 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.obj
+	@echo ... 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.i
+	@echo ... 4001~5000/4377_cbj统计很多个班的成绩_一行不定组输入.s
 	@echo ... 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.obj
 	@echo ... 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.i
 	@echo ... 4001~5000/4378_[题目标题敏感]_解析文本为UTF-8码并输出.s
@@ -33374,6 +33845,9 @@ help:
 	@echo ... 4001~5000/4386_另类合成.obj
 	@echo ... 4001~5000/4386_另类合成.i
 	@echo ... 4001~5000/4386_另类合成.s
+	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.obj
+	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.i
+	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.s
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.obj
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.i
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.s
@@ -33407,9 +33881,27 @@ help:
 	@echo ... 4001~5000/4401_小迷弟的灵光三现.obj
 	@echo ... 4001~5000/4401_小迷弟的灵光三现.i
 	@echo ... 4001~5000/4401_小迷弟的灵光三现.s
+	@echo ... 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.obj
+	@echo ... 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.i
+	@echo ... 4001~5000/4402_we_have_a_city_to_burn_暴力搜索.s
 	@echo ... 4001~5000/4403_小迷弟的灵光两现.obj
 	@echo ... 4001~5000/4403_小迷弟的灵光两现.i
 	@echo ... 4001~5000/4403_小迷弟的灵光两现.s
+	@echo ... 4001~5000/4404_寻找落单战士_快读_位运算.obj
+	@echo ... 4001~5000/4404_寻找落单战士_快读_位运算.i
+	@echo ... 4001~5000/4404_寻找落单战士_快读_位运算.s
+	@echo ... 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.obj
+	@echo ... 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.i
+	@echo ... 4001~5000/4405_井字棋大师2.0_minimax对抗搜索_记忆化.s
+	@echo ... 4001~5000/4406_地下交流_双向链表模拟.obj
+	@echo ... 4001~5000/4406_地下交流_双向链表模拟.i
+	@echo ... 4001~5000/4406_地下交流_双向链表模拟.s
+	@echo ... 4001~5000/4407_共产主义_记忆化搜索.obj
+	@echo ... 4001~5000/4407_共产主义_记忆化搜索.i
+	@echo ... 4001~5000/4407_共产主义_记忆化搜索.s
+	@echo ... 4001~5000/4408_加密通话_模拟.obj
+	@echo ... 4001~5000/4408_加密通话_模拟.i
+	@echo ... 4001~5000/4408_加密通话_模拟.s
 	@echo ... 4001~5000/4409_名字的奥妙.obj
 	@echo ... 4001~5000/4409_名字的奥妙.i
 	@echo ... 4001~5000/4409_名字的奥妙.s
@@ -33968,6 +34460,27 @@ help:
 	@echo ... string/340_AZY's_Xscapesstream.obj
 	@echo ... string/340_AZY's_Xscapesstream.i
 	@echo ... string/340_AZY's_Xscapesstream.s
+	@echo ... string/4360_容器盛水_单调栈.obj
+	@echo ... string/4360_容器盛水_单调栈.i
+	@echo ... string/4360_容器盛水_单调栈.s
+	@echo ... string/4360_容器盛水_模拟.obj
+	@echo ... string/4360_容器盛水_模拟.i
+	@echo ... string/4360_容器盛水_模拟.s
+	@echo ... string/4368_判断字符串是否为完整串(easy).obj
+	@echo ... string/4368_判断字符串是否为完整串(easy).i
+	@echo ... string/4368_判断字符串是否为完整串(easy).s
+	@echo ... string/4369_判断字符串是否为完整串.obj
+	@echo ... string/4369_判断字符串是否为完整串.i
+	@echo ... string/4369_判断字符串是否为完整串.s
+	@echo ... string/4370_最大个数.obj
+	@echo ... string/4370_最大个数.i
+	@echo ... string/4370_最大个数.s
+	@echo ... string/4371_雪糕最大个数_01背包.obj
+	@echo ... string/4371_雪糕最大个数_01背包.i
+	@echo ... string/4371_雪糕最大个数_01背包.s
+	@echo ... string/4372_不重最长子串_记忆化_字符串.obj
+	@echo ... string/4372_不重最长子串_记忆化_字符串.i
+	@echo ... string/4372_不重最长子串_记忆化_字符串.s
 	@echo ... string/603_火柴棍摆数字.obj
 	@echo ... string/603_火柴棍摆数字.i
 	@echo ... string/603_火柴棍摆数字.s
