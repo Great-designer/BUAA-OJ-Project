@@ -20528,6 +20528,222 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s
 .PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.s
 
+2001~3000/2990_统计感染者.obj: 2001~3000/2990_统计感染者.c.obj
+.PHONY : 2001~3000/2990_统计感染者.obj
+
+# target to build an object file
+2001~3000/2990_统计感染者.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2990_统计感染者.c.obj
+.PHONY : 2001~3000/2990_统计感染者.c.obj
+
+2001~3000/2990_统计感染者.i: 2001~3000/2990_统计感染者.c.i
+.PHONY : 2001~3000/2990_统计感染者.i
+
+# target to preprocess a source file
+2001~3000/2990_统计感染者.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2990_统计感染者.c.i
+.PHONY : 2001~3000/2990_统计感染者.c.i
+
+2001~3000/2990_统计感染者.s: 2001~3000/2990_统计感染者.c.s
+.PHONY : 2001~3000/2990_统计感染者.s
+
+# target to generate assembly for a file
+2001~3000/2990_统计感染者.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2990_统计感染者.c.s
+.PHONY : 2001~3000/2990_统计感染者.c.s
+
+2001~3000/2991_消毒_思维.obj: 2001~3000/2991_消毒_思维.c.obj
+.PHONY : 2001~3000/2991_消毒_思维.obj
+
+# target to build an object file
+2001~3000/2991_消毒_思维.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2991_消毒_思维.c.obj
+.PHONY : 2001~3000/2991_消毒_思维.c.obj
+
+2001~3000/2991_消毒_思维.i: 2001~3000/2991_消毒_思维.c.i
+.PHONY : 2001~3000/2991_消毒_思维.i
+
+# target to preprocess a source file
+2001~3000/2991_消毒_思维.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2991_消毒_思维.c.i
+.PHONY : 2001~3000/2991_消毒_思维.c.i
+
+2001~3000/2991_消毒_思维.s: 2001~3000/2991_消毒_思维.c.s
+.PHONY : 2001~3000/2991_消毒_思维.s
+
+# target to generate assembly for a file
+2001~3000/2991_消毒_思维.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2991_消毒_思维.c.s
+.PHONY : 2001~3000/2991_消毒_思维.c.s
+
+2001~3000/2993_2019-nCoV.obj: 2001~3000/2993_2019-nCoV.c.obj
+.PHONY : 2001~3000/2993_2019-nCoV.obj
+
+# target to build an object file
+2001~3000/2993_2019-nCoV.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2993_2019-nCoV.c.obj
+.PHONY : 2001~3000/2993_2019-nCoV.c.obj
+
+2001~3000/2993_2019-nCoV.i: 2001~3000/2993_2019-nCoV.c.i
+.PHONY : 2001~3000/2993_2019-nCoV.i
+
+# target to preprocess a source file
+2001~3000/2993_2019-nCoV.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2993_2019-nCoV.c.i
+.PHONY : 2001~3000/2993_2019-nCoV.c.i
+
+2001~3000/2993_2019-nCoV.s: 2001~3000/2993_2019-nCoV.c.s
+.PHONY : 2001~3000/2993_2019-nCoV.s
+
+# target to generate assembly for a file
+2001~3000/2993_2019-nCoV.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2993_2019-nCoV.c.s
+.PHONY : 2001~3000/2993_2019-nCoV.c.s
+
+2001~3000/2995_配送口罩.obj: 2001~3000/2995_配送口罩.c.obj
+.PHONY : 2001~3000/2995_配送口罩.obj
+
+# target to build an object file
+2001~3000/2995_配送口罩.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2995_配送口罩.c.obj
+.PHONY : 2001~3000/2995_配送口罩.c.obj
+
+2001~3000/2995_配送口罩.i: 2001~3000/2995_配送口罩.c.i
+.PHONY : 2001~3000/2995_配送口罩.i
+
+# target to preprocess a source file
+2001~3000/2995_配送口罩.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2995_配送口罩.c.i
+.PHONY : 2001~3000/2995_配送口罩.c.i
+
+2001~3000/2995_配送口罩.s: 2001~3000/2995_配送口罩.c.s
+.PHONY : 2001~3000/2995_配送口罩.s
+
+# target to generate assembly for a file
+2001~3000/2995_配送口罩.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2995_配送口罩.c.s
+.PHONY : 2001~3000/2995_配送口罩.c.s
+
+2001~3000/2996_Fight_against_2019-nCoV!.obj: 2001~3000/2996_Fight_against_2019-nCoV!.c.obj
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.obj
+
+# target to build an object file
+2001~3000/2996_Fight_against_2019-nCoV!.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2996_Fight_against_2019-nCoV!.c.obj
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.c.obj
+
+2001~3000/2996_Fight_against_2019-nCoV!.i: 2001~3000/2996_Fight_against_2019-nCoV!.c.i
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.i
+
+# target to preprocess a source file
+2001~3000/2996_Fight_against_2019-nCoV!.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2996_Fight_against_2019-nCoV!.c.i
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.c.i
+
+2001~3000/2996_Fight_against_2019-nCoV!.s: 2001~3000/2996_Fight_against_2019-nCoV!.c.s
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.s
+
+# target to generate assembly for a file
+2001~3000/2996_Fight_against_2019-nCoV!.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2996_Fight_against_2019-nCoV!.c.s
+.PHONY : 2001~3000/2996_Fight_against_2019-nCoV!.c.s
+
+2001~3000/2997_小文搜文献.obj: 2001~3000/2997_小文搜文献.c.obj
+.PHONY : 2001~3000/2997_小文搜文献.obj
+
+# target to build an object file
+2001~3000/2997_小文搜文献.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2997_小文搜文献.c.obj
+.PHONY : 2001~3000/2997_小文搜文献.c.obj
+
+2001~3000/2997_小文搜文献.i: 2001~3000/2997_小文搜文献.c.i
+.PHONY : 2001~3000/2997_小文搜文献.i
+
+# target to preprocess a source file
+2001~3000/2997_小文搜文献.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2997_小文搜文献.c.i
+.PHONY : 2001~3000/2997_小文搜文献.c.i
+
+2001~3000/2997_小文搜文献.s: 2001~3000/2997_小文搜文献.c.s
+.PHONY : 2001~3000/2997_小文搜文献.s
+
+# target to generate assembly for a file
+2001~3000/2997_小文搜文献.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2997_小文搜文献.c.s
+.PHONY : 2001~3000/2997_小文搜文献.c.s
+
+2001~3000/2998_龙龙与指针.obj: 2001~3000/2998_龙龙与指针.c.obj
+.PHONY : 2001~3000/2998_龙龙与指针.obj
+
+# target to build an object file
+2001~3000/2998_龙龙与指针.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2998_龙龙与指针.c.obj
+.PHONY : 2001~3000/2998_龙龙与指针.c.obj
+
+2001~3000/2998_龙龙与指针.i: 2001~3000/2998_龙龙与指针.c.i
+.PHONY : 2001~3000/2998_龙龙与指针.i
+
+# target to preprocess a source file
+2001~3000/2998_龙龙与指针.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2998_龙龙与指针.c.i
+.PHONY : 2001~3000/2998_龙龙与指针.c.i
+
+2001~3000/2998_龙龙与指针.s: 2001~3000/2998_龙龙与指针.c.s
+.PHONY : 2001~3000/2998_龙龙与指针.s
+
+# target to generate assembly for a file
+2001~3000/2998_龙龙与指针.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2998_龙龙与指针.c.s
+.PHONY : 2001~3000/2998_龙龙与指针.c.s
+
+2001~3000/2999_小明嗑瓜子.obj: 2001~3000/2999_小明嗑瓜子.c.obj
+.PHONY : 2001~3000/2999_小明嗑瓜子.obj
+
+# target to build an object file
+2001~3000/2999_小明嗑瓜子.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2999_小明嗑瓜子.c.obj
+.PHONY : 2001~3000/2999_小明嗑瓜子.c.obj
+
+2001~3000/2999_小明嗑瓜子.i: 2001~3000/2999_小明嗑瓜子.c.i
+.PHONY : 2001~3000/2999_小明嗑瓜子.i
+
+# target to preprocess a source file
+2001~3000/2999_小明嗑瓜子.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2999_小明嗑瓜子.c.i
+.PHONY : 2001~3000/2999_小明嗑瓜子.c.i
+
+2001~3000/2999_小明嗑瓜子.s: 2001~3000/2999_小明嗑瓜子.c.s
+.PHONY : 2001~3000/2999_小明嗑瓜子.s
+
+# target to generate assembly for a file
+2001~3000/2999_小明嗑瓜子.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2999_小明嗑瓜子.c.s
+.PHONY : 2001~3000/2999_小明嗑瓜子.c.s
+
+2001~3000/3000_在家也能学编程.obj: 2001~3000/3000_在家也能学编程.c.obj
+.PHONY : 2001~3000/3000_在家也能学编程.obj
+
+# target to build an object file
+2001~3000/3000_在家也能学编程.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/3000_在家也能学编程.c.obj
+.PHONY : 2001~3000/3000_在家也能学编程.c.obj
+
+2001~3000/3000_在家也能学编程.i: 2001~3000/3000_在家也能学编程.c.i
+.PHONY : 2001~3000/3000_在家也能学编程.i
+
+# target to preprocess a source file
+2001~3000/3000_在家也能学编程.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/3000_在家也能学编程.c.i
+.PHONY : 2001~3000/3000_在家也能学编程.c.i
+
+2001~3000/3000_在家也能学编程.s: 2001~3000/3000_在家也能学编程.c.s
+.PHONY : 2001~3000/3000_在家也能学编程.s
+
+# target to generate assembly for a file
+2001~3000/3000_在家也能学编程.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/3000_在家也能学编程.c.s
+.PHONY : 2001~3000/3000_在家也能学编程.c.s
+
 3001~4000/3014_奇怪的排序_另解.obj: 3001~4000/3014_奇怪的排序_另解.c.obj
 .PHONY : 3001~4000/3014_奇怪的排序_另解.obj
 
@@ -33503,6 +33719,33 @@ help:
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.i
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.s
+	@echo ... 2001~3000/2990_统计感染者.obj
+	@echo ... 2001~3000/2990_统计感染者.i
+	@echo ... 2001~3000/2990_统计感染者.s
+	@echo ... 2001~3000/2991_消毒_思维.obj
+	@echo ... 2001~3000/2991_消毒_思维.i
+	@echo ... 2001~3000/2991_消毒_思维.s
+	@echo ... 2001~3000/2993_2019-nCoV.obj
+	@echo ... 2001~3000/2993_2019-nCoV.i
+	@echo ... 2001~3000/2993_2019-nCoV.s
+	@echo ... 2001~3000/2995_配送口罩.obj
+	@echo ... 2001~3000/2995_配送口罩.i
+	@echo ... 2001~3000/2995_配送口罩.s
+	@echo ... 2001~3000/2996_Fight_against_2019-nCoV!.obj
+	@echo ... 2001~3000/2996_Fight_against_2019-nCoV!.i
+	@echo ... 2001~3000/2996_Fight_against_2019-nCoV!.s
+	@echo ... 2001~3000/2997_小文搜文献.obj
+	@echo ... 2001~3000/2997_小文搜文献.i
+	@echo ... 2001~3000/2997_小文搜文献.s
+	@echo ... 2001~3000/2998_龙龙与指针.obj
+	@echo ... 2001~3000/2998_龙龙与指针.i
+	@echo ... 2001~3000/2998_龙龙与指针.s
+	@echo ... 2001~3000/2999_小明嗑瓜子.obj
+	@echo ... 2001~3000/2999_小明嗑瓜子.i
+	@echo ... 2001~3000/2999_小明嗑瓜子.s
+	@echo ... 2001~3000/3000_在家也能学编程.obj
+	@echo ... 2001~3000/3000_在家也能学编程.i
+	@echo ... 2001~3000/3000_在家也能学编程.s
 	@echo ... 3001~4000/3014_奇怪的排序_另解.obj
 	@echo ... 3001~4000/3014_奇怪的排序_另解.i
 	@echo ... 3001~4000/3014_奇怪的排序_另解.s

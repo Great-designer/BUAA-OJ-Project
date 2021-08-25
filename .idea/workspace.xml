@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/string/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +56,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -82,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629816962344</updated>
       <workItem from="1629816964671" duration="661000" />
+      <workItem from="1629874279341" duration="705000" />
     </task>
     <servers />
   </component>
