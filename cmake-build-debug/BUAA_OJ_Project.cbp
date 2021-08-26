@@ -2691,10 +2691,25 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/2001~3000/3000 在家也能学编程.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3002 艾可雪戴口罩.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3004 雪萌萌的围棋 dfs求连通块.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3007 怎么会有那么多病毒.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3012 二极管 数学结论.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 另解.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3014 奇怪的排序 数组思维操作.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3327 谁是19王 n错排问题.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3333 monotonicity 尺取法.c">
@@ -2706,10 +2721,25 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3339 填报高考志愿.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3340 爬爬爬 哈希记忆化 最长无重复子串.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3341 数字点读机 字符串模拟.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3346 djj的异或序列 异或前缀和.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3347 蟠桃大会.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3353 午间 差分.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3359 jqe的数列.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/3001~4000/3364 遥不可及的军训 贪心.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4120 （中等题）W形串.c">

@@ -20744,6 +20744,102 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/3000_在家也能学编程.c.s
 .PHONY : 2001~3000/3000_在家也能学编程.c.s
 
+3001~4000/3002_艾可雪戴口罩.obj: 3001~4000/3002_艾可雪戴口罩.c.obj
+.PHONY : 3001~4000/3002_艾可雪戴口罩.obj
+
+# target to build an object file
+3001~4000/3002_艾可雪戴口罩.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3002_艾可雪戴口罩.c.obj
+.PHONY : 3001~4000/3002_艾可雪戴口罩.c.obj
+
+3001~4000/3002_艾可雪戴口罩.i: 3001~4000/3002_艾可雪戴口罩.c.i
+.PHONY : 3001~4000/3002_艾可雪戴口罩.i
+
+# target to preprocess a source file
+3001~4000/3002_艾可雪戴口罩.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3002_艾可雪戴口罩.c.i
+.PHONY : 3001~4000/3002_艾可雪戴口罩.c.i
+
+3001~4000/3002_艾可雪戴口罩.s: 3001~4000/3002_艾可雪戴口罩.c.s
+.PHONY : 3001~4000/3002_艾可雪戴口罩.s
+
+# target to generate assembly for a file
+3001~4000/3002_艾可雪戴口罩.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3002_艾可雪戴口罩.c.s
+.PHONY : 3001~4000/3002_艾可雪戴口罩.c.s
+
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.obj: 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.obj
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.obj
+
+# target to build an object file
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.obj
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.obj
+
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.i: 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.i
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.i
+
+# target to preprocess a source file
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.i
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.i
+
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.s: 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.s
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.s
+
+# target to generate assembly for a file
+3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.s
+.PHONY : 3001~4000/3004_雪萌萌的围棋_dfs求连通块.c.s
+
+3001~4000/3007_怎么会有那么多病毒.obj: 3001~4000/3007_怎么会有那么多病毒.c.obj
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.obj
+
+# target to build an object file
+3001~4000/3007_怎么会有那么多病毒.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3007_怎么会有那么多病毒.c.obj
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.c.obj
+
+3001~4000/3007_怎么会有那么多病毒.i: 3001~4000/3007_怎么会有那么多病毒.c.i
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.i
+
+# target to preprocess a source file
+3001~4000/3007_怎么会有那么多病毒.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3007_怎么会有那么多病毒.c.i
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.c.i
+
+3001~4000/3007_怎么会有那么多病毒.s: 3001~4000/3007_怎么会有那么多病毒.c.s
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.s
+
+# target to generate assembly for a file
+3001~4000/3007_怎么会有那么多病毒.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3007_怎么会有那么多病毒.c.s
+.PHONY : 3001~4000/3007_怎么会有那么多病毒.c.s
+
+3001~4000/3012_二极管_数学结论.obj: 3001~4000/3012_二极管_数学结论.c.obj
+.PHONY : 3001~4000/3012_二极管_数学结论.obj
+
+# target to build an object file
+3001~4000/3012_二极管_数学结论.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3012_二极管_数学结论.c.obj
+.PHONY : 3001~4000/3012_二极管_数学结论.c.obj
+
+3001~4000/3012_二极管_数学结论.i: 3001~4000/3012_二极管_数学结论.c.i
+.PHONY : 3001~4000/3012_二极管_数学结论.i
+
+# target to preprocess a source file
+3001~4000/3012_二极管_数学结论.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3012_二极管_数学结论.c.i
+.PHONY : 3001~4000/3012_二极管_数学结论.c.i
+
+3001~4000/3012_二极管_数学结论.s: 3001~4000/3012_二极管_数学结论.c.s
+.PHONY : 3001~4000/3012_二极管_数学结论.s
+
+# target to generate assembly for a file
+3001~4000/3012_二极管_数学结论.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3012_二极管_数学结论.c.s
+.PHONY : 3001~4000/3012_二极管_数学结论.c.s
+
 3001~4000/3014_奇怪的排序_另解.obj: 3001~4000/3014_奇怪的排序_另解.c.obj
 .PHONY : 3001~4000/3014_奇怪的排序_另解.obj
 
@@ -20791,6 +20887,30 @@ BUAA_OJ_Project/fast:
 3001~4000/3014_奇怪的排序_数组思维操作.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3014_奇怪的排序_数组思维操作.c.s
 .PHONY : 3001~4000/3014_奇怪的排序_数组思维操作.c.s
+
+3001~4000/3327_谁是19王_n错排问题.obj: 3001~4000/3327_谁是19王_n错排问题.c.obj
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.obj
+
+# target to build an object file
+3001~4000/3327_谁是19王_n错排问题.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3327_谁是19王_n错排问题.c.obj
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.c.obj
+
+3001~4000/3327_谁是19王_n错排问题.i: 3001~4000/3327_谁是19王_n错排问题.c.i
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.i
+
+# target to preprocess a source file
+3001~4000/3327_谁是19王_n错排问题.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3327_谁是19王_n错排问题.c.i
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.c.i
+
+3001~4000/3327_谁是19王_n错排问题.s: 3001~4000/3327_谁是19王_n错排问题.c.s
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.s
+
+# target to generate assembly for a file
+3001~4000/3327_谁是19王_n错排问题.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3327_谁是19王_n错排问题.c.s
+.PHONY : 3001~4000/3327_谁是19王_n错排问题.c.s
 
 3001~4000/3333_monotonicity_尺取法.obj: 3001~4000/3333_monotonicity_尺取法.c.obj
 .PHONY : 3001~4000/3333_monotonicity_尺取法.obj
@@ -20864,6 +20984,78 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3339_填报高考志愿.c.s
 .PHONY : 3001~4000/3339_填报高考志愿.c.s
 
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.obj: 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.obj
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.obj
+
+# target to build an object file
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.obj
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.obj
+
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.i: 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.i
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.i
+
+# target to preprocess a source file
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.i
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.i
+
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.s: 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.s
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.s
+
+# target to generate assembly for a file
+3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.s
+.PHONY : 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.c.s
+
+3001~4000/3341_数字点读机_字符串模拟.obj: 3001~4000/3341_数字点读机_字符串模拟.c.obj
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.obj
+
+# target to build an object file
+3001~4000/3341_数字点读机_字符串模拟.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3341_数字点读机_字符串模拟.c.obj
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.c.obj
+
+3001~4000/3341_数字点读机_字符串模拟.i: 3001~4000/3341_数字点读机_字符串模拟.c.i
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.i
+
+# target to preprocess a source file
+3001~4000/3341_数字点读机_字符串模拟.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3341_数字点读机_字符串模拟.c.i
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.c.i
+
+3001~4000/3341_数字点读机_字符串模拟.s: 3001~4000/3341_数字点读机_字符串模拟.c.s
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.s
+
+# target to generate assembly for a file
+3001~4000/3341_数字点读机_字符串模拟.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3341_数字点读机_字符串模拟.c.s
+.PHONY : 3001~4000/3341_数字点读机_字符串模拟.c.s
+
+3001~4000/3346_djj的异或序列_异或前缀和.obj: 3001~4000/3346_djj的异或序列_异或前缀和.c.obj
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.obj
+
+# target to build an object file
+3001~4000/3346_djj的异或序列_异或前缀和.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3346_djj的异或序列_异或前缀和.c.obj
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.c.obj
+
+3001~4000/3346_djj的异或序列_异或前缀和.i: 3001~4000/3346_djj的异或序列_异或前缀和.c.i
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.i
+
+# target to preprocess a source file
+3001~4000/3346_djj的异或序列_异或前缀和.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3346_djj的异或序列_异或前缀和.c.i
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.c.i
+
+3001~4000/3346_djj的异或序列_异或前缀和.s: 3001~4000/3346_djj的异或序列_异或前缀和.c.s
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.s
+
+# target to generate assembly for a file
+3001~4000/3346_djj的异或序列_异或前缀和.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3346_djj的异或序列_异或前缀和.c.s
+.PHONY : 3001~4000/3346_djj的异或序列_异或前缀和.c.s
+
 3001~4000/3347_蟠桃大会.obj: 3001~4000/3347_蟠桃大会.c.obj
 .PHONY : 3001~4000/3347_蟠桃大会.obj
 
@@ -20888,6 +21080,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3347_蟠桃大会.c.s
 .PHONY : 3001~4000/3347_蟠桃大会.c.s
 
+3001~4000/3353_午间_差分.obj: 3001~4000/3353_午间_差分.c.obj
+.PHONY : 3001~4000/3353_午间_差分.obj
+
+# target to build an object file
+3001~4000/3353_午间_差分.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3353_午间_差分.c.obj
+.PHONY : 3001~4000/3353_午间_差分.c.obj
+
+3001~4000/3353_午间_差分.i: 3001~4000/3353_午间_差分.c.i
+.PHONY : 3001~4000/3353_午间_差分.i
+
+# target to preprocess a source file
+3001~4000/3353_午间_差分.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3353_午间_差分.c.i
+.PHONY : 3001~4000/3353_午间_差分.c.i
+
+3001~4000/3353_午间_差分.s: 3001~4000/3353_午间_差分.c.s
+.PHONY : 3001~4000/3353_午间_差分.s
+
+# target to generate assembly for a file
+3001~4000/3353_午间_差分.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3353_午间_差分.c.s
+.PHONY : 3001~4000/3353_午间_差分.c.s
+
 3001~4000/3359_jqe的数列.obj: 3001~4000/3359_jqe的数列.c.obj
 .PHONY : 3001~4000/3359_jqe的数列.obj
 
@@ -20911,6 +21127,30 @@ BUAA_OJ_Project/fast:
 3001~4000/3359_jqe的数列.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3359_jqe的数列.c.s
 .PHONY : 3001~4000/3359_jqe的数列.c.s
+
+3001~4000/3364_遥不可及的军训_贪心.obj: 3001~4000/3364_遥不可及的军训_贪心.c.obj
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.obj
+
+# target to build an object file
+3001~4000/3364_遥不可及的军训_贪心.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3364_遥不可及的军训_贪心.c.obj
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.c.obj
+
+3001~4000/3364_遥不可及的军训_贪心.i: 3001~4000/3364_遥不可及的军训_贪心.c.i
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.i
+
+# target to preprocess a source file
+3001~4000/3364_遥不可及的军训_贪心.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3364_遥不可及的军训_贪心.c.i
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.c.i
+
+3001~4000/3364_遥不可及的军训_贪心.s: 3001~4000/3364_遥不可及的军训_贪心.c.s
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.s
+
+# target to generate assembly for a file
+3001~4000/3364_遥不可及的军训_贪心.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/3001~4000/3364_遥不可及的军训_贪心.c.s
+.PHONY : 3001~4000/3364_遥不可及的军训_贪心.c.s
 
 4001~5000/4120_（中等题）W形串.obj: 4001~5000/4120_（中等题）W形串.c.obj
 .PHONY : 4001~5000/4120_（中等题）W形串.obj
@@ -33746,12 +33986,27 @@ help:
 	@echo ... 2001~3000/3000_在家也能学编程.obj
 	@echo ... 2001~3000/3000_在家也能学编程.i
 	@echo ... 2001~3000/3000_在家也能学编程.s
+	@echo ... 3001~4000/3002_艾可雪戴口罩.obj
+	@echo ... 3001~4000/3002_艾可雪戴口罩.i
+	@echo ... 3001~4000/3002_艾可雪戴口罩.s
+	@echo ... 3001~4000/3004_雪萌萌的围棋_dfs求连通块.obj
+	@echo ... 3001~4000/3004_雪萌萌的围棋_dfs求连通块.i
+	@echo ... 3001~4000/3004_雪萌萌的围棋_dfs求连通块.s
+	@echo ... 3001~4000/3007_怎么会有那么多病毒.obj
+	@echo ... 3001~4000/3007_怎么会有那么多病毒.i
+	@echo ... 3001~4000/3007_怎么会有那么多病毒.s
+	@echo ... 3001~4000/3012_二极管_数学结论.obj
+	@echo ... 3001~4000/3012_二极管_数学结论.i
+	@echo ... 3001~4000/3012_二极管_数学结论.s
 	@echo ... 3001~4000/3014_奇怪的排序_另解.obj
 	@echo ... 3001~4000/3014_奇怪的排序_另解.i
 	@echo ... 3001~4000/3014_奇怪的排序_另解.s
 	@echo ... 3001~4000/3014_奇怪的排序_数组思维操作.obj
 	@echo ... 3001~4000/3014_奇怪的排序_数组思维操作.i
 	@echo ... 3001~4000/3014_奇怪的排序_数组思维操作.s
+	@echo ... 3001~4000/3327_谁是19王_n错排问题.obj
+	@echo ... 3001~4000/3327_谁是19王_n错排问题.i
+	@echo ... 3001~4000/3327_谁是19王_n错排问题.s
 	@echo ... 3001~4000/3333_monotonicity_尺取法.obj
 	@echo ... 3001~4000/3333_monotonicity_尺取法.i
 	@echo ... 3001~4000/3333_monotonicity_尺取法.s
@@ -33761,12 +34016,27 @@ help:
 	@echo ... 3001~4000/3339_填报高考志愿.obj
 	@echo ... 3001~4000/3339_填报高考志愿.i
 	@echo ... 3001~4000/3339_填报高考志愿.s
+	@echo ... 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.obj
+	@echo ... 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.i
+	@echo ... 3001~4000/3340_爬爬爬_哈希记忆化_最长无重复子串.s
+	@echo ... 3001~4000/3341_数字点读机_字符串模拟.obj
+	@echo ... 3001~4000/3341_数字点读机_字符串模拟.i
+	@echo ... 3001~4000/3341_数字点读机_字符串模拟.s
+	@echo ... 3001~4000/3346_djj的异或序列_异或前缀和.obj
+	@echo ... 3001~4000/3346_djj的异或序列_异或前缀和.i
+	@echo ... 3001~4000/3346_djj的异或序列_异或前缀和.s
 	@echo ... 3001~4000/3347_蟠桃大会.obj
 	@echo ... 3001~4000/3347_蟠桃大会.i
 	@echo ... 3001~4000/3347_蟠桃大会.s
+	@echo ... 3001~4000/3353_午间_差分.obj
+	@echo ... 3001~4000/3353_午间_差分.i
+	@echo ... 3001~4000/3353_午间_差分.s
 	@echo ... 3001~4000/3359_jqe的数列.obj
 	@echo ... 3001~4000/3359_jqe的数列.i
 	@echo ... 3001~4000/3359_jqe的数列.s
+	@echo ... 3001~4000/3364_遥不可及的军训_贪心.obj
+	@echo ... 3001~4000/3364_遥不可及的军训_贪心.i
+	@echo ... 3001~4000/3364_遥不可及的军训_贪心.s
 	@echo ... 4001~5000/4120_（中等题）W形串.obj
 	@echo ... 4001~5000/4120_（中等题）W形串.i
 	@echo ... 4001~5000/4120_（中等题）W形串.s
