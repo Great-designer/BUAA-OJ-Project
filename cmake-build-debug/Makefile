@@ -1184,6 +1184,366 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1086_难题·AlvinZH的青春记忆IV.c.s
 .PHONY : 1001~2000/1086_难题·AlvinZH的青春记忆IV.c.s
 
+1001~2000/1135_Tarpe酋长的小钱钱.obj: 1001~2000/1135_Tarpe酋长的小钱钱.c.obj
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.obj
+
+# target to build an object file
+1001~2000/1135_Tarpe酋长的小钱钱.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1135_Tarpe酋长的小钱钱.c.obj
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.c.obj
+
+1001~2000/1135_Tarpe酋长的小钱钱.i: 1001~2000/1135_Tarpe酋长的小钱钱.c.i
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.i
+
+# target to preprocess a source file
+1001~2000/1135_Tarpe酋长的小钱钱.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1135_Tarpe酋长的小钱钱.c.i
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.c.i
+
+1001~2000/1135_Tarpe酋长的小钱钱.s: 1001~2000/1135_Tarpe酋长的小钱钱.c.s
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.s
+
+# target to generate assembly for a file
+1001~2000/1135_Tarpe酋长的小钱钱.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1135_Tarpe酋长的小钱钱.c.s
+.PHONY : 1001~2000/1135_Tarpe酋长的小钱钱.c.s
+
+1001~2000/1136_梦中转义符.obj: 1001~2000/1136_梦中转义符.c.obj
+.PHONY : 1001~2000/1136_梦中转义符.obj
+
+# target to build an object file
+1001~2000/1136_梦中转义符.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1136_梦中转义符.c.obj
+.PHONY : 1001~2000/1136_梦中转义符.c.obj
+
+1001~2000/1136_梦中转义符.i: 1001~2000/1136_梦中转义符.c.i
+.PHONY : 1001~2000/1136_梦中转义符.i
+
+# target to preprocess a source file
+1001~2000/1136_梦中转义符.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1136_梦中转义符.c.i
+.PHONY : 1001~2000/1136_梦中转义符.c.i
+
+1001~2000/1136_梦中转义符.s: 1001~2000/1136_梦中转义符.c.s
+.PHONY : 1001~2000/1136_梦中转义符.s
+
+# target to generate assembly for a file
+1001~2000/1136_梦中转义符.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1136_梦中转义符.c.s
+.PHONY : 1001~2000/1136_梦中转义符.c.s
+
+1001~2000/1137_队列找字母.obj: 1001~2000/1137_队列找字母.c.obj
+.PHONY : 1001~2000/1137_队列找字母.obj
+
+# target to build an object file
+1001~2000/1137_队列找字母.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1137_队列找字母.c.obj
+.PHONY : 1001~2000/1137_队列找字母.c.obj
+
+1001~2000/1137_队列找字母.i: 1001~2000/1137_队列找字母.c.i
+.PHONY : 1001~2000/1137_队列找字母.i
+
+# target to preprocess a source file
+1001~2000/1137_队列找字母.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1137_队列找字母.c.i
+.PHONY : 1001~2000/1137_队列找字母.c.i
+
+1001~2000/1137_队列找字母.s: 1001~2000/1137_队列找字母.c.s
+.PHONY : 1001~2000/1137_队列找字母.s
+
+# target to generate assembly for a file
+1001~2000/1137_队列找字母.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1137_队列找字母.c.s
+.PHONY : 1001~2000/1137_队列找字母.c.s
+
+1001~2000/1138_有点二.obj: 1001~2000/1138_有点二.c.obj
+.PHONY : 1001~2000/1138_有点二.obj
+
+# target to build an object file
+1001~2000/1138_有点二.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1138_有点二.c.obj
+.PHONY : 1001~2000/1138_有点二.c.obj
+
+1001~2000/1138_有点二.i: 1001~2000/1138_有点二.c.i
+.PHONY : 1001~2000/1138_有点二.i
+
+# target to preprocess a source file
+1001~2000/1138_有点二.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1138_有点二.c.i
+.PHONY : 1001~2000/1138_有点二.c.i
+
+1001~2000/1138_有点二.s: 1001~2000/1138_有点二.c.s
+.PHONY : 1001~2000/1138_有点二.s
+
+# target to generate assembly for a file
+1001~2000/1138_有点二.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1138_有点二.c.s
+.PHONY : 1001~2000/1138_有点二.c.s
+
+1001~2000/1139_lucky_number方法一.obj: 1001~2000/1139_lucky_number方法一.c.obj
+.PHONY : 1001~2000/1139_lucky_number方法一.obj
+
+# target to build an object file
+1001~2000/1139_lucky_number方法一.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法一.c.obj
+.PHONY : 1001~2000/1139_lucky_number方法一.c.obj
+
+1001~2000/1139_lucky_number方法一.i: 1001~2000/1139_lucky_number方法一.c.i
+.PHONY : 1001~2000/1139_lucky_number方法一.i
+
+# target to preprocess a source file
+1001~2000/1139_lucky_number方法一.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法一.c.i
+.PHONY : 1001~2000/1139_lucky_number方法一.c.i
+
+1001~2000/1139_lucky_number方法一.s: 1001~2000/1139_lucky_number方法一.c.s
+.PHONY : 1001~2000/1139_lucky_number方法一.s
+
+# target to generate assembly for a file
+1001~2000/1139_lucky_number方法一.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法一.c.s
+.PHONY : 1001~2000/1139_lucky_number方法一.c.s
+
+1001~2000/1139_lucky_number方法二.obj: 1001~2000/1139_lucky_number方法二.c.obj
+.PHONY : 1001~2000/1139_lucky_number方法二.obj
+
+# target to build an object file
+1001~2000/1139_lucky_number方法二.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法二.c.obj
+.PHONY : 1001~2000/1139_lucky_number方法二.c.obj
+
+1001~2000/1139_lucky_number方法二.i: 1001~2000/1139_lucky_number方法二.c.i
+.PHONY : 1001~2000/1139_lucky_number方法二.i
+
+# target to preprocess a source file
+1001~2000/1139_lucky_number方法二.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法二.c.i
+.PHONY : 1001~2000/1139_lucky_number方法二.c.i
+
+1001~2000/1139_lucky_number方法二.s: 1001~2000/1139_lucky_number方法二.c.s
+.PHONY : 1001~2000/1139_lucky_number方法二.s
+
+# target to generate assembly for a file
+1001~2000/1139_lucky_number方法二.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1139_lucky_number方法二.c.s
+.PHONY : 1001~2000/1139_lucky_number方法二.c.s
+
+1001~2000/1140_分数转小数.obj: 1001~2000/1140_分数转小数.c.obj
+.PHONY : 1001~2000/1140_分数转小数.obj
+
+# target to build an object file
+1001~2000/1140_分数转小数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1140_分数转小数.c.obj
+.PHONY : 1001~2000/1140_分数转小数.c.obj
+
+1001~2000/1140_分数转小数.i: 1001~2000/1140_分数转小数.c.i
+.PHONY : 1001~2000/1140_分数转小数.i
+
+# target to preprocess a source file
+1001~2000/1140_分数转小数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1140_分数转小数.c.i
+.PHONY : 1001~2000/1140_分数转小数.c.i
+
+1001~2000/1140_分数转小数.s: 1001~2000/1140_分数转小数.c.s
+.PHONY : 1001~2000/1140_分数转小数.s
+
+# target to generate assembly for a file
+1001~2000/1140_分数转小数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1140_分数转小数.c.s
+.PHONY : 1001~2000/1140_分数转小数.c.s
+
+1001~2000/1141_圆柱体的表面积.obj: 1001~2000/1141_圆柱体的表面积.c.obj
+.PHONY : 1001~2000/1141_圆柱体的表面积.obj
+
+# target to build an object file
+1001~2000/1141_圆柱体的表面积.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1141_圆柱体的表面积.c.obj
+.PHONY : 1001~2000/1141_圆柱体的表面积.c.obj
+
+1001~2000/1141_圆柱体的表面积.i: 1001~2000/1141_圆柱体的表面积.c.i
+.PHONY : 1001~2000/1141_圆柱体的表面积.i
+
+# target to preprocess a source file
+1001~2000/1141_圆柱体的表面积.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1141_圆柱体的表面积.c.i
+.PHONY : 1001~2000/1141_圆柱体的表面积.c.i
+
+1001~2000/1141_圆柱体的表面积.s: 1001~2000/1141_圆柱体的表面积.c.s
+.PHONY : 1001~2000/1141_圆柱体的表面积.s
+
+# target to generate assembly for a file
+1001~2000/1141_圆柱体的表面积.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1141_圆柱体的表面积.c.s
+.PHONY : 1001~2000/1141_圆柱体的表面积.c.s
+
+1001~2000/1144_转起来吧方法一.obj: 1001~2000/1144_转起来吧方法一.c.obj
+.PHONY : 1001~2000/1144_转起来吧方法一.obj
+
+# target to build an object file
+1001~2000/1144_转起来吧方法一.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法一.c.obj
+.PHONY : 1001~2000/1144_转起来吧方法一.c.obj
+
+1001~2000/1144_转起来吧方法一.i: 1001~2000/1144_转起来吧方法一.c.i
+.PHONY : 1001~2000/1144_转起来吧方法一.i
+
+# target to preprocess a source file
+1001~2000/1144_转起来吧方法一.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法一.c.i
+.PHONY : 1001~2000/1144_转起来吧方法一.c.i
+
+1001~2000/1144_转起来吧方法一.s: 1001~2000/1144_转起来吧方法一.c.s
+.PHONY : 1001~2000/1144_转起来吧方法一.s
+
+# target to generate assembly for a file
+1001~2000/1144_转起来吧方法一.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法一.c.s
+.PHONY : 1001~2000/1144_转起来吧方法一.c.s
+
+1001~2000/1144_转起来吧方法二.obj: 1001~2000/1144_转起来吧方法二.c.obj
+.PHONY : 1001~2000/1144_转起来吧方法二.obj
+
+# target to build an object file
+1001~2000/1144_转起来吧方法二.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法二.c.obj
+.PHONY : 1001~2000/1144_转起来吧方法二.c.obj
+
+1001~2000/1144_转起来吧方法二.i: 1001~2000/1144_转起来吧方法二.c.i
+.PHONY : 1001~2000/1144_转起来吧方法二.i
+
+# target to preprocess a source file
+1001~2000/1144_转起来吧方法二.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法二.c.i
+.PHONY : 1001~2000/1144_转起来吧方法二.c.i
+
+1001~2000/1144_转起来吧方法二.s: 1001~2000/1144_转起来吧方法二.c.s
+.PHONY : 1001~2000/1144_转起来吧方法二.s
+
+# target to generate assembly for a file
+1001~2000/1144_转起来吧方法二.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1144_转起来吧方法二.c.s
+.PHONY : 1001~2000/1144_转起来吧方法二.c.s
+
+1001~2000/1145_Tarpe酋长的天国梦.obj: 1001~2000/1145_Tarpe酋长的天国梦.c.obj
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.obj
+
+# target to build an object file
+1001~2000/1145_Tarpe酋长的天国梦.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1145_Tarpe酋长的天国梦.c.obj
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.c.obj
+
+1001~2000/1145_Tarpe酋长的天国梦.i: 1001~2000/1145_Tarpe酋长的天国梦.c.i
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.i
+
+# target to preprocess a source file
+1001~2000/1145_Tarpe酋长的天国梦.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1145_Tarpe酋长的天国梦.c.i
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.c.i
+
+1001~2000/1145_Tarpe酋长的天国梦.s: 1001~2000/1145_Tarpe酋长的天国梦.c.s
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.s
+
+# target to generate assembly for a file
+1001~2000/1145_Tarpe酋长的天国梦.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1145_Tarpe酋长的天国梦.c.s
+.PHONY : 1001~2000/1145_Tarpe酋长的天国梦.c.s
+
+1001~2000/1147_Tarpe酋长的阿波罗计划.obj: 1001~2000/1147_Tarpe酋长的阿波罗计划.c.obj
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.obj
+
+# target to build an object file
+1001~2000/1147_Tarpe酋长的阿波罗计划.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1147_Tarpe酋长的阿波罗计划.c.obj
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.c.obj
+
+1001~2000/1147_Tarpe酋长的阿波罗计划.i: 1001~2000/1147_Tarpe酋长的阿波罗计划.c.i
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.i
+
+# target to preprocess a source file
+1001~2000/1147_Tarpe酋长的阿波罗计划.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1147_Tarpe酋长的阿波罗计划.c.i
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.c.i
+
+1001~2000/1147_Tarpe酋长的阿波罗计划.s: 1001~2000/1147_Tarpe酋长的阿波罗计划.c.s
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.s
+
+# target to generate assembly for a file
+1001~2000/1147_Tarpe酋长的阿波罗计划.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1147_Tarpe酋长的阿波罗计划.c.s
+.PHONY : 1001~2000/1147_Tarpe酋长的阿波罗计划.c.s
+
+1001~2000/1150_Terry的水仙花数.obj: 1001~2000/1150_Terry的水仙花数.c.obj
+.PHONY : 1001~2000/1150_Terry的水仙花数.obj
+
+# target to build an object file
+1001~2000/1150_Terry的水仙花数.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1150_Terry的水仙花数.c.obj
+.PHONY : 1001~2000/1150_Terry的水仙花数.c.obj
+
+1001~2000/1150_Terry的水仙花数.i: 1001~2000/1150_Terry的水仙花数.c.i
+.PHONY : 1001~2000/1150_Terry的水仙花数.i
+
+# target to preprocess a source file
+1001~2000/1150_Terry的水仙花数.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1150_Terry的水仙花数.c.i
+.PHONY : 1001~2000/1150_Terry的水仙花数.c.i
+
+1001~2000/1150_Terry的水仙花数.s: 1001~2000/1150_Terry的水仙花数.c.s
+.PHONY : 1001~2000/1150_Terry的水仙花数.s
+
+# target to generate assembly for a file
+1001~2000/1150_Terry的水仙花数.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1150_Terry的水仙花数.c.s
+.PHONY : 1001~2000/1150_Terry的水仙花数.c.s
+
+1001~2000/1156_预告片效应.obj: 1001~2000/1156_预告片效应.c.obj
+.PHONY : 1001~2000/1156_预告片效应.obj
+
+# target to build an object file
+1001~2000/1156_预告片效应.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1156_预告片效应.c.obj
+.PHONY : 1001~2000/1156_预告片效应.c.obj
+
+1001~2000/1156_预告片效应.i: 1001~2000/1156_预告片效应.c.i
+.PHONY : 1001~2000/1156_预告片效应.i
+
+# target to preprocess a source file
+1001~2000/1156_预告片效应.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1156_预告片效应.c.i
+.PHONY : 1001~2000/1156_预告片效应.c.i
+
+1001~2000/1156_预告片效应.s: 1001~2000/1156_预告片效应.c.s
+.PHONY : 1001~2000/1156_预告片效应.s
+
+# target to generate assembly for a file
+1001~2000/1156_预告片效应.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1156_预告片效应.c.s
+.PHONY : 1001~2000/1156_预告片效应.c.s
+
+1001~2000/1174_傻傻Aqi的聪明计算器.obj: 1001~2000/1174_傻傻Aqi的聪明计算器.c.obj
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.obj
+
+# target to build an object file
+1001~2000/1174_傻傻Aqi的聪明计算器.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1174_傻傻Aqi的聪明计算器.c.obj
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.c.obj
+
+1001~2000/1174_傻傻Aqi的聪明计算器.i: 1001~2000/1174_傻傻Aqi的聪明计算器.c.i
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.i
+
+# target to preprocess a source file
+1001~2000/1174_傻傻Aqi的聪明计算器.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1174_傻傻Aqi的聪明计算器.c.i
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.c.i
+
+1001~2000/1174_傻傻Aqi的聪明计算器.s: 1001~2000/1174_傻傻Aqi的聪明计算器.c.s
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.s
+
+# target to generate assembly for a file
+1001~2000/1174_傻傻Aqi的聪明计算器.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1174_傻傻Aqi的聪明计算器.c.s
+.PHONY : 1001~2000/1174_傻傻Aqi的聪明计算器.c.s
+
 1001~2000/1301_最短路.obj: 1001~2000/1301_最短路.c.obj
 .PHONY : 1001~2000/1301_最短路.obj
 
@@ -2263,6 +2623,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1505_请问你今天要来点可爱多吗.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1505_请问你今天要来点可爱多吗.c.s
 .PHONY : 1001~2000/1505_请问你今天要来点可爱多吗.c.s
+
+1001~2000/1506_向量的内积.obj: 1001~2000/1506_向量的内积.c.obj
+.PHONY : 1001~2000/1506_向量的内积.obj
+
+# target to build an object file
+1001~2000/1506_向量的内积.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1506_向量的内积.c.obj
+.PHONY : 1001~2000/1506_向量的内积.c.obj
+
+1001~2000/1506_向量的内积.i: 1001~2000/1506_向量的内积.c.i
+.PHONY : 1001~2000/1506_向量的内积.i
+
+# target to preprocess a source file
+1001~2000/1506_向量的内积.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1506_向量的内积.c.i
+.PHONY : 1001~2000/1506_向量的内积.c.i
+
+1001~2000/1506_向量的内积.s: 1001~2000/1506_向量的内积.c.s
+.PHONY : 1001~2000/1506_向量的内积.s
+
+# target to generate assembly for a file
+1001~2000/1506_向量的内积.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1506_向量的内积.c.s
+.PHONY : 1001~2000/1506_向量的内积.c.s
 
 1001~2000/1507_排序.obj: 1001~2000/1507_排序.c.obj
 .PHONY : 1001~2000/1507_排序.obj
@@ -4351,6 +4735,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1686_多简单.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1686_多简单.c.s
 .PHONY : 1001~2000/1686_多简单.c.s
+
+1001~2000/1781_float_a+b.obj: 1001~2000/1781_float_a+b.c.obj
+.PHONY : 1001~2000/1781_float_a+b.obj
+
+# target to build an object file
+1001~2000/1781_float_a+b.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1781_float_a+b.c.obj
+.PHONY : 1001~2000/1781_float_a+b.c.obj
+
+1001~2000/1781_float_a+b.i: 1001~2000/1781_float_a+b.c.i
+.PHONY : 1001~2000/1781_float_a+b.i
+
+# target to preprocess a source file
+1001~2000/1781_float_a+b.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1781_float_a+b.c.i
+.PHONY : 1001~2000/1781_float_a+b.c.i
+
+1001~2000/1781_float_a+b.s: 1001~2000/1781_float_a+b.c.s
+.PHONY : 1001~2000/1781_float_a+b.s
+
+# target to generate assembly for a file
+1001~2000/1781_float_a+b.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1781_float_a+b.c.s
+.PHONY : 1001~2000/1781_float_a+b.c.s
 
 1~1000/100_零崎的朋友很多Ⅰ.obj: 1~1000/100_零崎的朋友很多Ⅰ.c.obj
 .PHONY : 1~1000/100_零崎的朋友很多Ⅰ.obj
@@ -19304,6 +19712,54 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2425_竞赛相邻分数消失.c.s
 .PHONY : 2001~3000/2425_竞赛相邻分数消失.c.s
 
+2001~3000/2428_a+b_demo示例.obj: 2001~3000/2428_a+b_demo示例.c.obj
+.PHONY : 2001~3000/2428_a+b_demo示例.obj
+
+# target to build an object file
+2001~3000/2428_a+b_demo示例.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2428_a+b_demo示例.c.obj
+.PHONY : 2001~3000/2428_a+b_demo示例.c.obj
+
+2001~3000/2428_a+b_demo示例.i: 2001~3000/2428_a+b_demo示例.c.i
+.PHONY : 2001~3000/2428_a+b_demo示例.i
+
+# target to preprocess a source file
+2001~3000/2428_a+b_demo示例.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2428_a+b_demo示例.c.i
+.PHONY : 2001~3000/2428_a+b_demo示例.c.i
+
+2001~3000/2428_a+b_demo示例.s: 2001~3000/2428_a+b_demo示例.c.s
+.PHONY : 2001~3000/2428_a+b_demo示例.s
+
+# target to generate assembly for a file
+2001~3000/2428_a+b_demo示例.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2428_a+b_demo示例.c.s
+.PHONY : 2001~3000/2428_a+b_demo示例.c.s
+
+2001~3000/2431_十进制转三进制.obj: 2001~3000/2431_十进制转三进制.c.obj
+.PHONY : 2001~3000/2431_十进制转三进制.obj
+
+# target to build an object file
+2001~3000/2431_十进制转三进制.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2431_十进制转三进制.c.obj
+.PHONY : 2001~3000/2431_十进制转三进制.c.obj
+
+2001~3000/2431_十进制转三进制.i: 2001~3000/2431_十进制转三进制.c.i
+.PHONY : 2001~3000/2431_十进制转三进制.i
+
+# target to preprocess a source file
+2001~3000/2431_十进制转三进制.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2431_十进制转三进制.c.i
+.PHONY : 2001~3000/2431_十进制转三进制.c.i
+
+2001~3000/2431_十进制转三进制.s: 2001~3000/2431_十进制转三进制.c.s
+.PHONY : 2001~3000/2431_十进制转三进制.s
+
+# target to generate assembly for a file
+2001~3000/2431_十进制转三进制.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2431_十进制转三进制.c.s
+.PHONY : 2001~3000/2431_十进制转三进制.c.s
+
 2001~3000/2435_前缀和.obj: 2001~3000/2435_前缀和.c.obj
 .PHONY : 2001~3000/2435_前缀和.obj
 
@@ -20000,6 +20456,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2552_OBST最优二叉搜索树.c.s
 .PHONY : 2001~3000/2552_OBST最优二叉搜索树.c.s
 
+2001~3000/2559_AlvinZH的小面包.obj: 2001~3000/2559_AlvinZH的小面包.c.obj
+.PHONY : 2001~3000/2559_AlvinZH的小面包.obj
+
+# target to build an object file
+2001~3000/2559_AlvinZH的小面包.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2559_AlvinZH的小面包.c.obj
+.PHONY : 2001~3000/2559_AlvinZH的小面包.c.obj
+
+2001~3000/2559_AlvinZH的小面包.i: 2001~3000/2559_AlvinZH的小面包.c.i
+.PHONY : 2001~3000/2559_AlvinZH的小面包.i
+
+# target to preprocess a source file
+2001~3000/2559_AlvinZH的小面包.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2559_AlvinZH的小面包.c.i
+.PHONY : 2001~3000/2559_AlvinZH的小面包.c.i
+
+2001~3000/2559_AlvinZH的小面包.s: 2001~3000/2559_AlvinZH的小面包.c.s
+.PHONY : 2001~3000/2559_AlvinZH的小面包.s
+
+# target to generate assembly for a file
+2001~3000/2559_AlvinZH的小面包.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2559_AlvinZH的小面包.c.s
+.PHONY : 2001~3000/2559_AlvinZH的小面包.c.s
+
 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj: 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).c.obj
 .PHONY : 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj
 
@@ -20503,6 +20983,54 @@ BUAA_OJ_Project/fast:
 2001~3000/2759_k关键字排序.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2759_k关键字排序.c.s
 .PHONY : 2001~3000/2759_k关键字排序.c.s
+
+2001~3000/2784_直角三角形.obj: 2001~3000/2784_直角三角形.c.obj
+.PHONY : 2001~3000/2784_直角三角形.obj
+
+# target to build an object file
+2001~3000/2784_直角三角形.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2784_直角三角形.c.obj
+.PHONY : 2001~3000/2784_直角三角形.c.obj
+
+2001~3000/2784_直角三角形.i: 2001~3000/2784_直角三角形.c.i
+.PHONY : 2001~3000/2784_直角三角形.i
+
+# target to preprocess a source file
+2001~3000/2784_直角三角形.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2784_直角三角形.c.i
+.PHONY : 2001~3000/2784_直角三角形.c.i
+
+2001~3000/2784_直角三角形.s: 2001~3000/2784_直角三角形.c.s
+.PHONY : 2001~3000/2784_直角三角形.s
+
+# target to generate assembly for a file
+2001~3000/2784_直角三角形.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2784_直角三角形.c.s
+.PHONY : 2001~3000/2784_直角三角形.c.s
+
+2001~3000/2903_算算交流电.obj: 2001~3000/2903_算算交流电.c.obj
+.PHONY : 2001~3000/2903_算算交流电.obj
+
+# target to build an object file
+2001~3000/2903_算算交流电.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2903_算算交流电.c.obj
+.PHONY : 2001~3000/2903_算算交流电.c.obj
+
+2001~3000/2903_算算交流电.i: 2001~3000/2903_算算交流电.c.i
+.PHONY : 2001~3000/2903_算算交流电.i
+
+# target to preprocess a source file
+2001~3000/2903_算算交流电.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2903_算算交流电.c.i
+.PHONY : 2001~3000/2903_算算交流电.c.i
+
+2001~3000/2903_算算交流电.s: 2001~3000/2903_算算交流电.c.s
+.PHONY : 2001~3000/2903_算算交流电.s
+
+# target to generate assembly for a file
+2001~3000/2903_算算交流电.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/2001~3000/2903_算算交流电.c.s
+.PHONY : 2001~3000/2903_算算交流电.c.s
 
 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj: 2001~3000/2916_手机靓号_数位dp_记忆化搜索.c.obj
 .PHONY : 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj
@@ -25784,6 +26312,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4387_合成OJ排行榜（青春版）.c.s
 .PHONY : 4001~5000/4387_合成OJ排行榜（青春版）.c.s
 
+4001~5000/4388_合成单向链表.obj: 4001~5000/4388_合成单向链表.c.obj
+.PHONY : 4001~5000/4388_合成单向链表.obj
+
+# target to build an object file
+4001~5000/4388_合成单向链表.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4388_合成单向链表.c.obj
+.PHONY : 4001~5000/4388_合成单向链表.c.obj
+
+4001~5000/4388_合成单向链表.i: 4001~5000/4388_合成单向链表.c.i
+.PHONY : 4001~5000/4388_合成单向链表.i
+
+# target to preprocess a source file
+4001~5000/4388_合成单向链表.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4388_合成单向链表.c.i
+.PHONY : 4001~5000/4388_合成单向链表.c.i
+
+4001~5000/4388_合成单向链表.s: 4001~5000/4388_合成单向链表.c.s
+.PHONY : 4001~5000/4388_合成单向链表.s
+
+# target to generate assembly for a file
+4001~5000/4388_合成单向链表.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4388_合成单向链表.c.s
+.PHONY : 4001~5000/4388_合成单向链表.c.s
+
 4001~5000/4389_旗鼓相当的对手_方法1.obj: 4001~5000/4389_旗鼓相当的对手_方法1.c.obj
 .PHONY : 4001~5000/4389_旗鼓相当的对手_方法1.obj
 
@@ -26359,6 +26911,30 @@ BUAA_OJ_Project/fast:
 4001~5000/4414_三角形面积·改.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4414_三角形面积·改.c.s
 .PHONY : 4001~5000/4414_三角形面积·改.c.s
+
+4001~5000/4415_选择题.obj: 4001~5000/4415_选择题.c.obj
+.PHONY : 4001~5000/4415_选择题.obj
+
+# target to build an object file
+4001~5000/4415_选择题.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4415_选择题.c.obj
+.PHONY : 4001~5000/4415_选择题.c.obj
+
+4001~5000/4415_选择题.i: 4001~5000/4415_选择题.c.i
+.PHONY : 4001~5000/4415_选择题.i
+
+# target to preprocess a source file
+4001~5000/4415_选择题.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4415_选择题.c.i
+.PHONY : 4001~5000/4415_选择题.c.i
+
+4001~5000/4415_选择题.s: 4001~5000/4415_选择题.c.s
+.PHONY : 4001~5000/4415_选择题.s
+
+# target to generate assembly for a file
+4001~5000/4415_选择题.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/4001~5000/4415_选择题.c.s
+.PHONY : 4001~5000/4415_选择题.c.s
 
 4001~5000/4416_位_互_换.obj: 4001~5000/4416_位_互_换.c.obj
 .PHONY : 4001~5000/4416_位_互_换.obj
@@ -31829,6 +32405,51 @@ help:
 	@echo ... 1001~2000/1086_难题·AlvinZH的青春记忆IV.obj
 	@echo ... 1001~2000/1086_难题·AlvinZH的青春记忆IV.i
 	@echo ... 1001~2000/1086_难题·AlvinZH的青春记忆IV.s
+	@echo ... 1001~2000/1135_Tarpe酋长的小钱钱.obj
+	@echo ... 1001~2000/1135_Tarpe酋长的小钱钱.i
+	@echo ... 1001~2000/1135_Tarpe酋长的小钱钱.s
+	@echo ... 1001~2000/1136_梦中转义符.obj
+	@echo ... 1001~2000/1136_梦中转义符.i
+	@echo ... 1001~2000/1136_梦中转义符.s
+	@echo ... 1001~2000/1137_队列找字母.obj
+	@echo ... 1001~2000/1137_队列找字母.i
+	@echo ... 1001~2000/1137_队列找字母.s
+	@echo ... 1001~2000/1138_有点二.obj
+	@echo ... 1001~2000/1138_有点二.i
+	@echo ... 1001~2000/1138_有点二.s
+	@echo ... 1001~2000/1139_lucky_number方法一.obj
+	@echo ... 1001~2000/1139_lucky_number方法一.i
+	@echo ... 1001~2000/1139_lucky_number方法一.s
+	@echo ... 1001~2000/1139_lucky_number方法二.obj
+	@echo ... 1001~2000/1139_lucky_number方法二.i
+	@echo ... 1001~2000/1139_lucky_number方法二.s
+	@echo ... 1001~2000/1140_分数转小数.obj
+	@echo ... 1001~2000/1140_分数转小数.i
+	@echo ... 1001~2000/1140_分数转小数.s
+	@echo ... 1001~2000/1141_圆柱体的表面积.obj
+	@echo ... 1001~2000/1141_圆柱体的表面积.i
+	@echo ... 1001~2000/1141_圆柱体的表面积.s
+	@echo ... 1001~2000/1144_转起来吧方法一.obj
+	@echo ... 1001~2000/1144_转起来吧方法一.i
+	@echo ... 1001~2000/1144_转起来吧方法一.s
+	@echo ... 1001~2000/1144_转起来吧方法二.obj
+	@echo ... 1001~2000/1144_转起来吧方法二.i
+	@echo ... 1001~2000/1144_转起来吧方法二.s
+	@echo ... 1001~2000/1145_Tarpe酋长的天国梦.obj
+	@echo ... 1001~2000/1145_Tarpe酋长的天国梦.i
+	@echo ... 1001~2000/1145_Tarpe酋长的天国梦.s
+	@echo ... 1001~2000/1147_Tarpe酋长的阿波罗计划.obj
+	@echo ... 1001~2000/1147_Tarpe酋长的阿波罗计划.i
+	@echo ... 1001~2000/1147_Tarpe酋长的阿波罗计划.s
+	@echo ... 1001~2000/1150_Terry的水仙花数.obj
+	@echo ... 1001~2000/1150_Terry的水仙花数.i
+	@echo ... 1001~2000/1150_Terry的水仙花数.s
+	@echo ... 1001~2000/1156_预告片效应.obj
+	@echo ... 1001~2000/1156_预告片效应.i
+	@echo ... 1001~2000/1156_预告片效应.s
+	@echo ... 1001~2000/1174_傻傻Aqi的聪明计算器.obj
+	@echo ... 1001~2000/1174_傻傻Aqi的聪明计算器.i
+	@echo ... 1001~2000/1174_傻傻Aqi的聪明计算器.s
 	@echo ... 1001~2000/1301_最短路.obj
 	@echo ... 1001~2000/1301_最短路.i
 	@echo ... 1001~2000/1301_最短路.s
@@ -31964,6 +32585,9 @@ help:
 	@echo ... 1001~2000/1505_请问你今天要来点可爱多吗.obj
 	@echo ... 1001~2000/1505_请问你今天要来点可爱多吗.i
 	@echo ... 1001~2000/1505_请问你今天要来点可爱多吗.s
+	@echo ... 1001~2000/1506_向量的内积.obj
+	@echo ... 1001~2000/1506_向量的内积.i
+	@echo ... 1001~2000/1506_向量的内积.s
 	@echo ... 1001~2000/1507_排序.obj
 	@echo ... 1001~2000/1507_排序.i
 	@echo ... 1001~2000/1507_排序.s
@@ -32225,6 +32849,9 @@ help:
 	@echo ... 1001~2000/1686_多简单.obj
 	@echo ... 1001~2000/1686_多简单.i
 	@echo ... 1001~2000/1686_多简单.s
+	@echo ... 1001~2000/1781_float_a+b.obj
+	@echo ... 1001~2000/1781_float_a+b.i
+	@echo ... 1001~2000/1781_float_a+b.s
 	@echo ... 1~1000/100_零崎的朋友很多Ⅰ.obj
 	@echo ... 1~1000/100_零崎的朋友很多Ⅰ.i
 	@echo ... 1~1000/100_零崎的朋友很多Ⅰ.s
@@ -34094,6 +34721,12 @@ help:
 	@echo ... 2001~3000/2425_竞赛相邻分数消失.obj
 	@echo ... 2001~3000/2425_竞赛相邻分数消失.i
 	@echo ... 2001~3000/2425_竞赛相邻分数消失.s
+	@echo ... 2001~3000/2428_a+b_demo示例.obj
+	@echo ... 2001~3000/2428_a+b_demo示例.i
+	@echo ... 2001~3000/2428_a+b_demo示例.s
+	@echo ... 2001~3000/2431_十进制转三进制.obj
+	@echo ... 2001~3000/2431_十进制转三进制.i
+	@echo ... 2001~3000/2431_十进制转三进制.s
 	@echo ... 2001~3000/2435_前缀和.obj
 	@echo ... 2001~3000/2435_前缀和.i
 	@echo ... 2001~3000/2435_前缀和.s
@@ -34181,6 +34814,9 @@ help:
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.obj
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.i
 	@echo ... 2001~3000/2552_OBST最优二叉搜索树.s
+	@echo ... 2001~3000/2559_AlvinZH的小面包.obj
+	@echo ... 2001~3000/2559_AlvinZH的小面包.i
+	@echo ... 2001~3000/2559_AlvinZH的小面包.s
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).obj
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).i
 	@echo ... 2001~3000/2560_AlvinZH的小面包(博弈论+区间dp).s
@@ -34244,6 +34880,12 @@ help:
 	@echo ... 2001~3000/2759_k关键字排序.obj
 	@echo ... 2001~3000/2759_k关键字排序.i
 	@echo ... 2001~3000/2759_k关键字排序.s
+	@echo ... 2001~3000/2784_直角三角形.obj
+	@echo ... 2001~3000/2784_直角三角形.i
+	@echo ... 2001~3000/2784_直角三角形.s
+	@echo ... 2001~3000/2903_算算交流电.obj
+	@echo ... 2001~3000/2903_算算交流电.i
+	@echo ... 2001~3000/2903_算算交流电.s
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.obj
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.i
 	@echo ... 2001~3000/2916_手机靓号_数位dp_记忆化搜索.s
@@ -34904,6 +35546,9 @@ help:
 	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.obj
 	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.i
 	@echo ... 4001~5000/4387_合成OJ排行榜（青春版）.s
+	@echo ... 4001~5000/4388_合成单向链表.obj
+	@echo ... 4001~5000/4388_合成单向链表.i
+	@echo ... 4001~5000/4388_合成单向链表.s
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.obj
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.i
 	@echo ... 4001~5000/4389_旗鼓相当的对手_方法1.s
@@ -34976,6 +35621,9 @@ help:
 	@echo ... 4001~5000/4414_三角形面积·改.obj
 	@echo ... 4001~5000/4414_三角形面积·改.i
 	@echo ... 4001~5000/4414_三角形面积·改.s
+	@echo ... 4001~5000/4415_选择题.obj
+	@echo ... 4001~5000/4415_选择题.i
+	@echo ... 4001~5000/4415_选择题.s
 	@echo ... 4001~5000/4416_位_互_换.obj
 	@echo ... 4001~5000/4416_位_互_换.i
 	@echo ... 4001~5000/4416_位_互_换.s
