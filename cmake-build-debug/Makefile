@@ -1808,6 +1808,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1435_Zyy学姐的纸飞机.c.s
 .PHONY : 1001~2000/1435_Zyy学姐的纸飞机.c.s
 
+1001~2000/1441_芸茹的课堂测试_霍纳法则.obj: 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.obj
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.obj
+
+# target to build an object file
+1001~2000/1441_芸茹的课堂测试_霍纳法则.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1441_芸茹的课堂测试_霍纳法则.c.obj
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.obj
+
+1001~2000/1441_芸茹的课堂测试_霍纳法则.i: 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.i
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.i
+
+# target to preprocess a source file
+1001~2000/1441_芸茹的课堂测试_霍纳法则.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1441_芸茹的课堂测试_霍纳法则.c.i
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.i
+
+1001~2000/1441_芸茹的课堂测试_霍纳法则.s: 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.s
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.s
+
+# target to generate assembly for a file
+1001~2000/1441_芸茹的课堂测试_霍纳法则.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1441_芸茹的课堂测试_霍纳法则.c.s
+.PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.s
+
 1001~2000/1446_ModricWang's_Real_QuickSort_Query.obj: 1001~2000/1446_ModricWang's_Real_QuickSort_Query.c.obj
 .PHONY : 1001~2000/1446_ModricWang's_Real_QuickSort_Query.obj
 
@@ -1831,6 +1855,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1446_ModricWang's_Real_QuickSort_Query.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make "CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1446_ModricWang's_Real_QuickSort_Query.c.s"
 .PHONY : 1001~2000/1446_ModricWang's_Real_QuickSort_Query.c.s
+
+1001~2000/1447_Zyy学姐的巧克力.obj: 1001~2000/1447_Zyy学姐的巧克力.c.obj
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.obj
+
+# target to build an object file
+1001~2000/1447_Zyy学姐的巧克力.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1447_Zyy学姐的巧克力.c.obj
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.c.obj
+
+1001~2000/1447_Zyy学姐的巧克力.i: 1001~2000/1447_Zyy学姐的巧克力.c.i
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.i
+
+# target to preprocess a source file
+1001~2000/1447_Zyy学姐的巧克力.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1447_Zyy学姐的巧克力.c.i
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.c.i
+
+1001~2000/1447_Zyy学姐的巧克力.s: 1001~2000/1447_Zyy学姐的巧克力.c.s
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.s
+
+# target to generate assembly for a file
+1001~2000/1447_Zyy学姐的巧克力.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1447_Zyy学姐的巧克力.c.s
+.PHONY : 1001~2000/1447_Zyy学姐的巧克力.c.s
 
 1001~2000/1450_ab-a-b.obj: 1001~2000/1450_ab-a-b.c.obj
 .PHONY : 1001~2000/1450_ab-a-b.obj
@@ -2144,6 +2192,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1475_字符串比较.c.s
 .PHONY : 1001~2000/1475_字符串比较.c.s
 
+1001~2000/1477_小番茄的九九乘法表.obj: 1001~2000/1477_小番茄的九九乘法表.c.obj
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.obj
+
+# target to build an object file
+1001~2000/1477_小番茄的九九乘法表.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1477_小番茄的九九乘法表.c.obj
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.c.obj
+
+1001~2000/1477_小番茄的九九乘法表.i: 1001~2000/1477_小番茄的九九乘法表.c.i
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.i
+
+# target to preprocess a source file
+1001~2000/1477_小番茄的九九乘法表.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1477_小番茄的九九乘法表.c.i
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.c.i
+
+1001~2000/1477_小番茄的九九乘法表.s: 1001~2000/1477_小番茄的九九乘法表.c.s
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.s
+
+# target to generate assembly for a file
+1001~2000/1477_小番茄的九九乘法表.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1477_小番茄的九九乘法表.c.s
+.PHONY : 1001~2000/1477_小番茄的九九乘法表.c.s
+
 1001~2000/1478_Zyy学姐的生日礼物3.obj: 1001~2000/1478_Zyy学姐的生日礼物3.c.obj
 .PHONY : 1001~2000/1478_Zyy学姐的生日礼物3.obj
 
@@ -2311,6 +2383,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1489_绝命西二旗.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1489_绝命西二旗.c.s
 .PHONY : 1001~2000/1489_绝命西二旗.c.s
+
+1001~2000/1490_F7.obj: 1001~2000/1490_F7.c.obj
+.PHONY : 1001~2000/1490_F7.obj
+
+# target to build an object file
+1001~2000/1490_F7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1490_F7.c.obj
+.PHONY : 1001~2000/1490_F7.c.obj
+
+1001~2000/1490_F7.i: 1001~2000/1490_F7.c.i
+.PHONY : 1001~2000/1490_F7.i
+
+# target to preprocess a source file
+1001~2000/1490_F7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1490_F7.c.i
+.PHONY : 1001~2000/1490_F7.c.i
+
+1001~2000/1490_F7.s: 1001~2000/1490_F7.c.s
+.PHONY : 1001~2000/1490_F7.s
+
+# target to generate assembly for a file
+1001~2000/1490_F7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1490_F7.c.s
+.PHONY : 1001~2000/1490_F7.c.s
 
 1001~2000/1491_lx买东西.obj: 1001~2000/1491_lx买东西.c.obj
 .PHONY : 1001~2000/1491_lx买东西.obj
@@ -2744,6 +2840,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1513_HugeGun学姐的曲线.c.s
 .PHONY : 1001~2000/1513_HugeGun学姐的曲线.c.s
 
+1001~2000/1514_login膜xsy.obj: 1001~2000/1514_login膜xsy.c.obj
+.PHONY : 1001~2000/1514_login膜xsy.obj
+
+# target to build an object file
+1001~2000/1514_login膜xsy.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1514_login膜xsy.c.obj
+.PHONY : 1001~2000/1514_login膜xsy.c.obj
+
+1001~2000/1514_login膜xsy.i: 1001~2000/1514_login膜xsy.c.i
+.PHONY : 1001~2000/1514_login膜xsy.i
+
+# target to preprocess a source file
+1001~2000/1514_login膜xsy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1514_login膜xsy.c.i
+.PHONY : 1001~2000/1514_login膜xsy.c.i
+
+1001~2000/1514_login膜xsy.s: 1001~2000/1514_login膜xsy.c.s
+.PHONY : 1001~2000/1514_login膜xsy.s
+
+# target to generate assembly for a file
+1001~2000/1514_login膜xsy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1514_login膜xsy.c.s
+.PHONY : 1001~2000/1514_login膜xsy.c.s
+
 1001~2000/1515_Zyy学姐的生日礼物2.obj: 1001~2000/1515_Zyy学姐的生日礼物2.c.obj
 .PHONY : 1001~2000/1515_Zyy学姐的生日礼物2.obj
 
@@ -2767,6 +2887,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1515_Zyy学姐的生日礼物2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1515_Zyy学姐的生日礼物2.c.s
 .PHONY : 1001~2000/1515_Zyy学姐的生日礼物2.c.s
+
+1001~2000/1516_lx的bitAnd.obj: 1001~2000/1516_lx的bitAnd.c.obj
+.PHONY : 1001~2000/1516_lx的bitAnd.obj
+
+# target to build an object file
+1001~2000/1516_lx的bitAnd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1516_lx的bitAnd.c.obj
+.PHONY : 1001~2000/1516_lx的bitAnd.c.obj
+
+1001~2000/1516_lx的bitAnd.i: 1001~2000/1516_lx的bitAnd.c.i
+.PHONY : 1001~2000/1516_lx的bitAnd.i
+
+# target to preprocess a source file
+1001~2000/1516_lx的bitAnd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1516_lx的bitAnd.c.i
+.PHONY : 1001~2000/1516_lx的bitAnd.c.i
+
+1001~2000/1516_lx的bitAnd.s: 1001~2000/1516_lx的bitAnd.c.s
+.PHONY : 1001~2000/1516_lx的bitAnd.s
+
+# target to generate assembly for a file
+1001~2000/1516_lx的bitAnd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1516_lx的bitAnd.c.s
+.PHONY : 1001~2000/1516_lx的bitAnd.c.s
 
 1001~2000/1517_Max的代码生成器.obj: 1001~2000/1517_Max的代码生成器.c.obj
 .PHONY : 1001~2000/1517_Max的代码生成器.obj
@@ -2839,6 +2983,54 @@ BUAA_OJ_Project/fast:
 1001~2000/1520_类型转换.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1520_类型转换.c.s
 .PHONY : 1001~2000/1520_类型转换.c.s
+
+1001~2000/1528_HugeGun学姐做除法_好.obj: 1001~2000/1528_HugeGun学姐做除法_好.c.obj
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.obj
+
+# target to build an object file
+1001~2000/1528_HugeGun学姐做除法_好.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1528_HugeGun学姐做除法_好.c.obj
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.c.obj
+
+1001~2000/1528_HugeGun学姐做除法_好.i: 1001~2000/1528_HugeGun学姐做除法_好.c.i
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.i
+
+# target to preprocess a source file
+1001~2000/1528_HugeGun学姐做除法_好.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1528_HugeGun学姐做除法_好.c.i
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.c.i
+
+1001~2000/1528_HugeGun学姐做除法_好.s: 1001~2000/1528_HugeGun学姐做除法_好.c.s
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.s
+
+# target to generate assembly for a file
+1001~2000/1528_HugeGun学姐做除法_好.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1528_HugeGun学姐做除法_好.c.s
+.PHONY : 1001~2000/1528_HugeGun学姐做除法_好.c.s
+
+1001~2000/1533_Hello_World!_2.obj: 1001~2000/1533_Hello_World!_2.c.obj
+.PHONY : 1001~2000/1533_Hello_World!_2.obj
+
+# target to build an object file
+1001~2000/1533_Hello_World!_2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1533_Hello_World!_2.c.obj
+.PHONY : 1001~2000/1533_Hello_World!_2.c.obj
+
+1001~2000/1533_Hello_World!_2.i: 1001~2000/1533_Hello_World!_2.c.i
+.PHONY : 1001~2000/1533_Hello_World!_2.i
+
+# target to preprocess a source file
+1001~2000/1533_Hello_World!_2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1533_Hello_World!_2.c.i
+.PHONY : 1001~2000/1533_Hello_World!_2.c.i
+
+1001~2000/1533_Hello_World!_2.s: 1001~2000/1533_Hello_World!_2.c.s
+.PHONY : 1001~2000/1533_Hello_World!_2.s
+
+# target to generate assembly for a file
+1001~2000/1533_Hello_World!_2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1533_Hello_World!_2.c.s
+.PHONY : 1001~2000/1533_Hello_World!_2.c.s
 
 1001~2000/1539_蓝笔和黑笔.obj: 1001~2000/1539_蓝笔和黑笔.c.obj
 .PHONY : 1001~2000/1539_蓝笔和黑笔.obj
@@ -3224,6 +3416,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1558_Ausar的Switch.c.s
 .PHONY : 1001~2000/1558_Ausar的Switch.c.s
 
+1001~2000/1559_Ausar叫你看提示.obj: 1001~2000/1559_Ausar叫你看提示.c.obj
+.PHONY : 1001~2000/1559_Ausar叫你看提示.obj
+
+# target to build an object file
+1001~2000/1559_Ausar叫你看提示.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1559_Ausar叫你看提示.c.obj
+.PHONY : 1001~2000/1559_Ausar叫你看提示.c.obj
+
+1001~2000/1559_Ausar叫你看提示.i: 1001~2000/1559_Ausar叫你看提示.c.i
+.PHONY : 1001~2000/1559_Ausar叫你看提示.i
+
+# target to preprocess a source file
+1001~2000/1559_Ausar叫你看提示.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1559_Ausar叫你看提示.c.i
+.PHONY : 1001~2000/1559_Ausar叫你看提示.c.i
+
+1001~2000/1559_Ausar叫你看提示.s: 1001~2000/1559_Ausar叫你看提示.c.s
+.PHONY : 1001~2000/1559_Ausar叫你看提示.s
+
+# target to generate assembly for a file
+1001~2000/1559_Ausar叫你看提示.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1559_Ausar叫你看提示.c.s
+.PHONY : 1001~2000/1559_Ausar叫你看提示.c.s
+
 1001~2000/1560_lx的bitCount.obj: 1001~2000/1560_lx的bitCount.c.obj
 .PHONY : 1001~2000/1560_lx的bitCount.obj
 
@@ -3415,6 +3631,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1574_Zyy学姐的生日礼物4.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1574_Zyy学姐的生日礼物4.c.s
 .PHONY : 1001~2000/1574_Zyy学姐的生日礼物4.c.s
+
+1001~2000/1575_Mogg的落智游戏_Ⅰ.obj: 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.obj
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.obj
+
+# target to build an object file
+1001~2000/1575_Mogg的落智游戏_Ⅰ.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1575_Mogg的落智游戏_Ⅰ.c.obj
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.obj
+
+1001~2000/1575_Mogg的落智游戏_Ⅰ.i: 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.i
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.i
+
+# target to preprocess a source file
+1001~2000/1575_Mogg的落智游戏_Ⅰ.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1575_Mogg的落智游戏_Ⅰ.c.i
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.i
+
+1001~2000/1575_Mogg的落智游戏_Ⅰ.s: 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.s
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.s
+
+# target to generate assembly for a file
+1001~2000/1575_Mogg的落智游戏_Ⅰ.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1575_Mogg的落智游戏_Ⅰ.c.s
+.PHONY : 1001~2000/1575_Mogg的落智游戏_Ⅰ.c.s
 
 1001~2000/1576_士谔数.obj: 1001~2000/1576_士谔数.c.obj
 .PHONY : 1001~2000/1576_士谔数.obj
@@ -32483,9 +32723,15 @@ help:
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.obj
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.i
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.s
+	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.obj
+	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.i
+	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.s
 	@echo ... 1001~2000/1446_ModricWang's_Real_QuickSort_Query.obj
 	@echo ... 1001~2000/1446_ModricWang's_Real_QuickSort_Query.i
 	@echo ... 1001~2000/1446_ModricWang's_Real_QuickSort_Query.s
+	@echo ... 1001~2000/1447_Zyy学姐的巧克力.obj
+	@echo ... 1001~2000/1447_Zyy学姐的巧克力.i
+	@echo ... 1001~2000/1447_Zyy学姐的巧克力.s
 	@echo ... 1001~2000/1450_ab-a-b.obj
 	@echo ... 1001~2000/1450_ab-a-b.i
 	@echo ... 1001~2000/1450_ab-a-b.s
@@ -32525,6 +32771,9 @@ help:
 	@echo ... 1001~2000/1475_字符串比较.obj
 	@echo ... 1001~2000/1475_字符串比较.i
 	@echo ... 1001~2000/1475_字符串比较.s
+	@echo ... 1001~2000/1477_小番茄的九九乘法表.obj
+	@echo ... 1001~2000/1477_小番茄的九九乘法表.i
+	@echo ... 1001~2000/1477_小番茄的九九乘法表.s
 	@echo ... 1001~2000/1478_Zyy学姐的生日礼物3.obj
 	@echo ... 1001~2000/1478_Zyy学姐的生日礼物3.i
 	@echo ... 1001~2000/1478_Zyy学姐的生日礼物3.s
@@ -32546,6 +32795,9 @@ help:
 	@echo ... 1001~2000/1489_绝命西二旗.obj
 	@echo ... 1001~2000/1489_绝命西二旗.i
 	@echo ... 1001~2000/1489_绝命西二旗.s
+	@echo ... 1001~2000/1490_F7.obj
+	@echo ... 1001~2000/1490_F7.i
+	@echo ... 1001~2000/1490_F7.s
 	@echo ... 1001~2000/1491_lx买东西.obj
 	@echo ... 1001~2000/1491_lx买东西.i
 	@echo ... 1001~2000/1491_lx买东西.s
@@ -32600,9 +32852,15 @@ help:
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.obj
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.i
 	@echo ... 1001~2000/1513_HugeGun学姐的曲线.s
+	@echo ... 1001~2000/1514_login膜xsy.obj
+	@echo ... 1001~2000/1514_login膜xsy.i
+	@echo ... 1001~2000/1514_login膜xsy.s
 	@echo ... 1001~2000/1515_Zyy学姐的生日礼物2.obj
 	@echo ... 1001~2000/1515_Zyy学姐的生日礼物2.i
 	@echo ... 1001~2000/1515_Zyy学姐的生日礼物2.s
+	@echo ... 1001~2000/1516_lx的bitAnd.obj
+	@echo ... 1001~2000/1516_lx的bitAnd.i
+	@echo ... 1001~2000/1516_lx的bitAnd.s
 	@echo ... 1001~2000/1517_Max的代码生成器.obj
 	@echo ... 1001~2000/1517_Max的代码生成器.i
 	@echo ... 1001~2000/1517_Max的代码生成器.s
@@ -32612,6 +32870,12 @@ help:
 	@echo ... 1001~2000/1520_类型转换.obj
 	@echo ... 1001~2000/1520_类型转换.i
 	@echo ... 1001~2000/1520_类型转换.s
+	@echo ... 1001~2000/1528_HugeGun学姐做除法_好.obj
+	@echo ... 1001~2000/1528_HugeGun学姐做除法_好.i
+	@echo ... 1001~2000/1528_HugeGun学姐做除法_好.s
+	@echo ... 1001~2000/1533_Hello_World!_2.obj
+	@echo ... 1001~2000/1533_Hello_World!_2.i
+	@echo ... 1001~2000/1533_Hello_World!_2.s
 	@echo ... 1001~2000/1539_蓝笔和黑笔.obj
 	@echo ... 1001~2000/1539_蓝笔和黑笔.i
 	@echo ... 1001~2000/1539_蓝笔和黑笔.s
@@ -32660,6 +32924,9 @@ help:
 	@echo ... 1001~2000/1558_Ausar的Switch.obj
 	@echo ... 1001~2000/1558_Ausar的Switch.i
 	@echo ... 1001~2000/1558_Ausar的Switch.s
+	@echo ... 1001~2000/1559_Ausar叫你看提示.obj
+	@echo ... 1001~2000/1559_Ausar叫你看提示.i
+	@echo ... 1001~2000/1559_Ausar叫你看提示.s
 	@echo ... 1001~2000/1560_lx的bitCount.obj
 	@echo ... 1001~2000/1560_lx的bitCount.i
 	@echo ... 1001~2000/1560_lx的bitCount.s
@@ -32684,6 +32951,9 @@ help:
 	@echo ... 1001~2000/1574_Zyy学姐的生日礼物4.obj
 	@echo ... 1001~2000/1574_Zyy学姐的生日礼物4.i
 	@echo ... 1001~2000/1574_Zyy学姐的生日礼物4.s
+	@echo ... 1001~2000/1575_Mogg的落智游戏_Ⅰ.obj
+	@echo ... 1001~2000/1575_Mogg的落智游戏_Ⅰ.i
+	@echo ... 1001~2000/1575_Mogg的落智游戏_Ⅰ.s
 	@echo ... 1001~2000/1576_士谔数.obj
 	@echo ... 1001~2000/1576_士谔数.i
 	@echo ... 1001~2000/1576_士谔数.s

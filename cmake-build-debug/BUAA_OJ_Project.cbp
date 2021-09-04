@@ -324,7 +324,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1435 Zyy学姐的纸飞机.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1441 芸茹的课堂测试 霍纳法则.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1446 ModricWang&apos;s Real QuickSort Query.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1447 Zyy学姐的巧克力.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1450 ab-a-b.c">
@@ -366,6 +372,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1475 字符串比较.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1477 小番茄的九九乘法表.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1478 Zyy学姐的生日礼物3.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -385,6 +394,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1489 绝命西二旗.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1490 F7.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1491 lx买东西.c">
@@ -441,7 +453,13 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1513 HugeGun学姐的曲线.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1514 login膜xsy.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1515 Zyy学姐的生日礼物2.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1516 lx的bitAnd.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1517 Max的代码生成器.c">
@@ -451,6 +469,12 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1520 类型转换.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1528 HugeGun学姐做除法_好.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1533 Hello World! 2.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1539 蓝笔和黑笔.c">
@@ -501,6 +525,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1558 Ausar的Switch.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1559 Ausar叫你看提示.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1560 lx的bitCount.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -523,6 +550,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1574 Zyy学姐的生日礼物4.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1575 Mogg的落智游戏 Ⅰ.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1001~2000/1576 士谔数.c">
