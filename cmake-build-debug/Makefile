@@ -1808,6 +1808,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1435_Zyy学姐的纸飞机.c.s
 .PHONY : 1001~2000/1435_Zyy学姐的纸飞机.c.s
 
+1001~2000/1436_奥萨的倒带机.obj: 1001~2000/1436_奥萨的倒带机.c.obj
+.PHONY : 1001~2000/1436_奥萨的倒带机.obj
+
+# target to build an object file
+1001~2000/1436_奥萨的倒带机.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1436_奥萨的倒带机.c.obj
+.PHONY : 1001~2000/1436_奥萨的倒带机.c.obj
+
+1001~2000/1436_奥萨的倒带机.i: 1001~2000/1436_奥萨的倒带机.c.i
+.PHONY : 1001~2000/1436_奥萨的倒带机.i
+
+# target to preprocess a source file
+1001~2000/1436_奥萨的倒带机.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1436_奥萨的倒带机.c.i
+.PHONY : 1001~2000/1436_奥萨的倒带机.c.i
+
+1001~2000/1436_奥萨的倒带机.s: 1001~2000/1436_奥萨的倒带机.c.s
+.PHONY : 1001~2000/1436_奥萨的倒带机.s
+
+# target to generate assembly for a file
+1001~2000/1436_奥萨的倒带机.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1436_奥萨的倒带机.c.s
+.PHONY : 1001~2000/1436_奥萨的倒带机.c.s
+
 1001~2000/1441_芸茹的课堂测试_霍纳法则.obj: 1001~2000/1441_芸茹的课堂测试_霍纳法则.c.obj
 .PHONY : 1001~2000/1441_芸茹的课堂测试_霍纳法则.obj
 
@@ -2263,6 +2287,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1479_Zyy学姐的生日礼物1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1479_Zyy学姐的生日礼物1.c.s
 .PHONY : 1001~2000/1479_Zyy学姐的生日礼物1.c.s
+
+1001~2000/1481_Rating之战.obj: 1001~2000/1481_Rating之战.c.obj
+.PHONY : 1001~2000/1481_Rating之战.obj
+
+# target to build an object file
+1001~2000/1481_Rating之战.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1481_Rating之战.c.obj
+.PHONY : 1001~2000/1481_Rating之战.c.obj
+
+1001~2000/1481_Rating之战.i: 1001~2000/1481_Rating之战.c.i
+.PHONY : 1001~2000/1481_Rating之战.i
+
+# target to preprocess a source file
+1001~2000/1481_Rating之战.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1481_Rating之战.c.i
+.PHONY : 1001~2000/1481_Rating之战.c.i
+
+1001~2000/1481_Rating之战.s: 1001~2000/1481_Rating之战.c.s
+.PHONY : 1001~2000/1481_Rating之战.s
+
+# target to generate assembly for a file
+1001~2000/1481_Rating之战.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1481_Rating之战.c.s
+.PHONY : 1001~2000/1481_Rating之战.c.s
 
 1001~2000/1482_HugeGun学姐的数列.obj: 1001~2000/1482_HugeGun学姐的数列.c.obj
 .PHONY : 1001~2000/1482_HugeGun学姐的数列.obj
@@ -4735,6 +4783,30 @@ BUAA_OJ_Project/fast:
 1001~2000/1641_凯恩·血蹄--烽火戏诸侯.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1641_凯恩·血蹄--烽火戏诸侯.c.s
 .PHONY : 1001~2000/1641_凯恩·血蹄--烽火戏诸侯.c.s
+
+1001~2000/1646_HugeGun学姐的方程.obj: 1001~2000/1646_HugeGun学姐的方程.c.obj
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.obj
+
+# target to build an object file
+1001~2000/1646_HugeGun学姐的方程.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1646_HugeGun学姐的方程.c.obj
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.c.obj
+
+1001~2000/1646_HugeGun学姐的方程.i: 1001~2000/1646_HugeGun学姐的方程.c.i
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.i
+
+# target to preprocess a source file
+1001~2000/1646_HugeGun学姐的方程.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1646_HugeGun学姐的方程.c.i
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.c.i
+
+1001~2000/1646_HugeGun学姐的方程.s: 1001~2000/1646_HugeGun学姐的方程.c.s
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.s
+
+# target to generate assembly for a file
+1001~2000/1646_HugeGun学姐的方程.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1001~2000/1646_HugeGun学姐的方程.c.s
+.PHONY : 1001~2000/1646_HugeGun学姐的方程.c.s
 
 1001~2000/1647_生日蛋糕.obj: 1001~2000/1647_生日蛋糕.c.obj
 .PHONY : 1001~2000/1647_生日蛋糕.obj
@@ -32723,6 +32795,9 @@ help:
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.obj
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.i
 	@echo ... 1001~2000/1435_Zyy学姐的纸飞机.s
+	@echo ... 1001~2000/1436_奥萨的倒带机.obj
+	@echo ... 1001~2000/1436_奥萨的倒带机.i
+	@echo ... 1001~2000/1436_奥萨的倒带机.s
 	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.obj
 	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.i
 	@echo ... 1001~2000/1441_芸茹的课堂测试_霍纳法则.s
@@ -32780,6 +32855,9 @@ help:
 	@echo ... 1001~2000/1479_Zyy学姐的生日礼物1.obj
 	@echo ... 1001~2000/1479_Zyy学姐的生日礼物1.i
 	@echo ... 1001~2000/1479_Zyy学姐的生日礼物1.s
+	@echo ... 1001~2000/1481_Rating之战.obj
+	@echo ... 1001~2000/1481_Rating之战.i
+	@echo ... 1001~2000/1481_Rating之战.s
 	@echo ... 1001~2000/1482_HugeGun学姐的数列.obj
 	@echo ... 1001~2000/1482_HugeGun学姐的数列.i
 	@echo ... 1001~2000/1482_HugeGun学姐的数列.s
@@ -33089,6 +33167,9 @@ help:
 	@echo ... 1001~2000/1641_凯恩·血蹄--烽火戏诸侯.obj
 	@echo ... 1001~2000/1641_凯恩·血蹄--烽火戏诸侯.i
 	@echo ... 1001~2000/1641_凯恩·血蹄--烽火戏诸侯.s
+	@echo ... 1001~2000/1646_HugeGun学姐的方程.obj
+	@echo ... 1001~2000/1646_HugeGun学姐的方程.i
+	@echo ... 1001~2000/1646_HugeGun学姐的方程.s
 	@echo ... 1001~2000/1647_生日蛋糕.obj
 	@echo ... 1001~2000/1647_生日蛋糕.i
 	@echo ... 1001~2000/1647_生日蛋糕.s
