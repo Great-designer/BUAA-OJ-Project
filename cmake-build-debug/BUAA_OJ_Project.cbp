@@ -1887,6 +1887,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/646 ModricWang买内存.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/647 无影小姐.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/65 挑战神奇宝贝联盟.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -2023,6 +2026,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/711 DH的杀人游戏.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/712 ModricWang’s JOSEPHUS Problem II 打表.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/712 ModricWang’s JOSEPHUS Problem II.c">
@@ -3441,6 +3447,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4391 统计成绩（套娃版）.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4392 出人意料的送分 256进制基数排序.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4392 出人意料的送分.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
@@ -3532,6 +3541,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4425 蒙达鲁克硫斯伯古比奇巴勒城的名册.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4435 给线段排排序 双关键字转unsigned long long 256进制基数排序.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/4001~5000/4435 给线段排排序.c">
@@ -3781,6 +3793,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/250 简单题——I wanna be the 升级者Ⅰ.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/40 零崎的战争 静态kd树查询最短欧氏距离.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/nth_element/4328 ning的汉明距离 kd树.cpp">
@@ -4153,6 +4168,9 @@
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/vector/334 Coolest AZYfind.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/vector/355 最小生成树 非严格次小生成树 LCA.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/vector/381 不忍挂掉一大片find.cpp">

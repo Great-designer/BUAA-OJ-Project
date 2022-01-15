@@ -1,37 +1,34 @@
 #include <stdio.h>
-typedef unsigned long long ull;
-#define getchar getchar_unlocked
-#define putchar putchar_unlocked
-#define L1_CACHE 256
-ull a[114514], b[114514];
-int cnt0[L1_CACHE], cnt8[L1_CACHE], cnt16[L1_CACHE], cnt24[L1_CACHE], cnt32[L1_CACHE], cnt40[L1_CACHE], cnt48[L1_CACHE], cnt56[L1_CACHE];
-int n;
-ull rd()
-{
-    ull k = 0;
-    char c = getchar();
 
+unsigned long long a[114514], b[114514];
+int cnt0[256], cnt8[256], cnt16[256], cnt24[256], cnt32[256], cnt40[256], cnt48[256], cnt56[256];
+int n;
+
+unsigned long long rd()
+{
+    unsigned long long k = 0;
+    char c = getchar();
     while (c < '0' || c > '9')
         c = getchar();
-
     while (c >= '0' && c <= '9')
     {
         k = (k << 1) + (k << 3) + (c ^ 48);
         c = getchar();
     }
-
     return k;
 }
-void wr(ull x)
+
+void wr(unsigned long long x)
 {
     if (x > 9)
         wr(x / 10);
     putchar(x % 10 + '0');
 }
+
 void init_data()
 {
     // Radix sort : 256
-    for (ull register *to = a + n, *now = a; now < to; ++now)
+    for (unsigned long long register *to = a + n, *now = a; now < to; ++now)
     {
         *now = rd(), *now <<= 32, *now |= rd();
         ++cnt0[(*now) & 255];
@@ -44,6 +41,7 @@ void init_data()
         ++cnt56[((*now) >> 56ull) & 255ull];
     }
 }
+
 void sort()
 {
     for (int register i = 1; i < 256; ++i)
@@ -57,10 +55,8 @@ void sort()
         cnt48[i] += cnt48[i - 1];
         cnt56[i] += cnt56[i - 1];
     }
-
     register int rep = n >> 3, tim = rep;
-    register ull *now = a + n - 1;
-
+    register unsigned long long *now = a + n - 1;
     while (tim--)
     {
         b[--cnt0[now[0] & 255]] = now[0];
@@ -73,41 +69,32 @@ void sort()
         b[--cnt0[now[-7] & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 6:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 5:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 4:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 3:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 2:
         b[--cnt0[*now & 255]] = *now;
         --now;
-
     case 1:
         b[--cnt0[*now & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = b + n - 1;
-
     while (tim--)
     {
         a[--cnt8[now[0] >> 8 & 255]] = now[0];
@@ -120,41 +107,32 @@ void sort()
         a[--cnt8[now[-7] >> 8 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 6:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 5:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 4:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 3:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 2:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
-
     case 1:
         a[--cnt8[*now >> 8 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = a + n - 1;
-
     while (tim--)
     {
         b[--cnt16[now[0] >> 16 & 255]] = now[0];
@@ -167,41 +145,32 @@ void sort()
         b[--cnt16[now[-7] >> 16 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 6:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 5:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 4:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 3:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 2:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
-
     case 1:
         b[--cnt16[*now >> 16 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = b + n - 1;
-
     while (tim--)
     {
         a[--cnt24[now[0] >> 24 & 255]] = now[0];
@@ -214,41 +183,32 @@ void sort()
         a[--cnt24[now[-7] >> 24 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 6:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 5:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 4:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 3:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 2:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
-
     case 1:
         a[--cnt24[*now >> 24 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = a + n - 1;
-
     while (tim--)
     {
         b[--cnt32[now[0] >> 32 & 255]] = now[0];
@@ -261,41 +221,32 @@ void sort()
         b[--cnt32[now[-7] >> 32 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 6:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 5:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 4:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 3:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 2:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
-
     case 1:
         b[--cnt32[*now >> 32 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = b + n - 1;
-
     while (tim--)
     {
         a[--cnt40[now[0] >> 40 & 255]] = now[0];
@@ -308,41 +259,32 @@ void sort()
         a[--cnt40[now[-7] >> 40 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 6:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 5:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 4:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 3:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 2:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
-
     case 1:
         a[--cnt40[*now >> 40 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = a + n - 1;
-
     while (tim--)
     {
         b[--cnt48[now[0] >> 48 & 255]] = now[0];
@@ -355,41 +297,32 @@ void sort()
         b[--cnt48[now[-7] >> 48 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 6:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 5:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 4:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 3:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 2:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
-
     case 1:
         b[--cnt48[*now >> 48 & 255]] = *now;
         --now;
     }
-
     tim = rep;
     now = b + n - 1;
-
     while (tim--)
     {
         a[--cnt56[now[0] >> 56 & 255]] = now[0];
@@ -402,45 +335,38 @@ void sort()
         a[--cnt56[now[-7] >> 56 & 255]] = now[-7];
         now -= 8;
     }
-
     switch (n & 7)
     {
     case 7:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 6:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 5:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 4:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 3:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 2:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
-
     case 1:
         a[--cnt56[*now >> 56 & 255]] = *now;
         --now;
     }
-
 }
+
 int main()
 {
     n = rd();
     init_data();
     sort();
-    int blk = (n >> 3) << 3, rem = n & 7, i = 0;
+    int blk = (n >> 3) << 3, i = 0;
     for (; i < blk; i += 8)
     {
         wr(a[i] >> 32), putchar(' '), wr(a[i] & 0xFFFFFFFF), putchar('\n');
