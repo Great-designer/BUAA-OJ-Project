@@ -1378,6 +1378,7 @@ add_executable(BUAA_OJ_Project
         "others-cpp/2922 网络吞吐量 最短路 最大流.cpp"
         "others-cpp/2992 隔离 计算几何.cpp"
         "others-cpp/3013 大数 popcount 高精度进制转换.cpp"
+        "others-cpp/3014 奇怪的排序 非旋转Treap.cpp"
         "others-cpp/3362 Serein的扫雷游戏 bfs.cpp"
         "others-cpp/4165 DS = Data structure of Shawn's 线段树 除法分块.cpp"
         "others-cpp/4166 Find Good Reverse Tuple.cpp")

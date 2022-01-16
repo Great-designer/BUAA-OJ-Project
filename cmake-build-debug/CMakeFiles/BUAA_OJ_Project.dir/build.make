@@ -19035,10 +19035,24 @@ CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制�
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\程序\BUAA-OJ-Project\others-cpp\3013 大数 popcount 高精度进制转换.cpp" -o CMakeFiles\BUAA_OJ_Project.dir\others-cpp\3013_大数_popcount_高精度进制转换.cpp.s
 
+CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
+CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
+CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj: ../others-cpp/3014\ 奇怪的排序\ 非旋转Treap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1356) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\others-cpp\3014_奇怪的排序_非旋转Treap.cpp.obj -c "E:\程序\BUAA-OJ-Project\others-cpp\3014 奇怪的排序 非旋转Treap.cpp"
+
+CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\程序\BUAA-OJ-Project\others-cpp\3014 奇怪的排序 非旋转Treap.cpp" > CMakeFiles\BUAA_OJ_Project.dir\others-cpp\3014_奇怪的排序_非旋转Treap.cpp.i
+
+CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "E:\程序\BUAA-OJ-Project\others-cpp\3014 奇怪的排序 非旋转Treap.cpp" -o CMakeFiles\BUAA_OJ_Project.dir\others-cpp\3014_奇怪的排序_非旋转Treap.cpp.s
+
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj: ../others-cpp/3362\ Serein的扫雷游戏\ bfs.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1356) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1357) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\others-cpp\3362_Serein的扫雷游戏_bfs.cpp.obj -c "E:\程序\BUAA-OJ-Project\others-cpp\3362 Serein的扫雷游戏 bfs.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.i: cmake_force
@@ -19052,7 +19066,7 @@ CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.s: 
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj: ../others-cpp/4165\ DS\ $(EQUALS)\ Data\ structure\ of\ Shawn's\ 线段树\ 除法分块.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1357) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1358) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\BUAA_OJ_Project.dir\others-cpp\4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj" -c "E:\程序\BUAA-OJ-Project\others-cpp\4165 DS = Data structure of Shawn's 线段树 除法分块.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.i: cmake_force
@@ -19066,7 +19080,7 @@ CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Sh
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/flags.make
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj: CMakeFiles/BUAA_OJ_Project.dir/includes_CXX.rsp
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj: ../others-cpp/4166\ Find\ Good\ Reverse\ Tuple.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1358) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1359) "Building CXX object CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\BUAA_OJ_Project.dir\others-cpp\4166_Find_Good_Reverse_Tuple.cpp.obj -c "E:\程序\BUAA-OJ-Project\others-cpp\4166 Find Good Reverse Tuple.cpp"
 
 CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.i: cmake_force
@@ -20434,6 +20448,7 @@ BUAA_OJ_Project_OBJECTS = \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2922_网络吞吐量_最短路_最大流.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj" \
+"CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_=_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj" \
 "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj"
@@ -21796,6 +21811,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2919_跳方格_df
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2922_网络吞吐量_最短路_最大流.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj
+BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4165_DS_$(EQUALS)_Data_structure_of_Shawn's_线段树_除法分块.cpp.obj
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/others-cpp/4166_Find_Good_Reverse_Tuple.cpp.obj
@@ -21803,7 +21819,7 @@ BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/build.make
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/linklibs.rsp
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/objects1.rsp
 BUAA_OJ_Project.exe: CMakeFiles/BUAA_OJ_Project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1359) "Linking CXX executable BUAA_OJ_Project.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\程序\BUAA-OJ-Project\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1360) "Linking CXX executable BUAA_OJ_Project.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\BUAA_OJ_Project.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

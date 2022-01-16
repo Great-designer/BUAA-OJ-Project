@@ -3882,6 +3882,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/3013 大数 popcount 高精度进制转换.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/3014 奇怪的排序 非旋转Treap.cpp">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/others-cpp/3362 Serein的扫雷游戏 bfs.cpp">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>

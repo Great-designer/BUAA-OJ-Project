@@ -1258,6 +1258,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2922_网络吞吐量_最短路_最大流.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/2992_隔离_计算几何.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.obj"
+  "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/359_传纸条_最大费用最大流.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/others-cpp/393_捷径（Shortcut）sort.cpp.obj"

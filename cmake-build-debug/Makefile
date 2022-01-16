@@ -30272,6 +30272,30 @@ others-cpp/3013_大数_popcount_高精度进制转换.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3013_大数_popcount_高精度进制转换.cpp.s
 .PHONY : others-cpp/3013_大数_popcount_高精度进制转换.cpp.s
 
+others-cpp/3014_奇怪的排序_非旋转Treap.obj: others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.obj
+
+# target to build an object file
+others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.cpp.obj
+
+others-cpp/3014_奇怪的排序_非旋转Treap.i: others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.i
+
+# target to preprocess a source file
+others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.cpp.i
+
+others-cpp/3014_奇怪的排序_非旋转Treap.s: others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.s
+
+# target to generate assembly for a file
+others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s
+.PHONY : others-cpp/3014_奇怪的排序_非旋转Treap.cpp.s
+
 others-cpp/3362_Serein的扫雷游戏_bfs.obj: others-cpp/3362_Serein的扫雷游戏_bfs.cpp.obj
 .PHONY : others-cpp/3362_Serein的扫雷游戏_bfs.obj
 
@@ -36497,6 +36521,9 @@ help:
 	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.obj
 	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.i
 	@echo ... others-cpp/3013_大数_popcount_高精度进制转换.s
+	@echo ... others-cpp/3014_奇怪的排序_非旋转Treap.obj
+	@echo ... others-cpp/3014_奇怪的排序_非旋转Treap.i
+	@echo ... others-cpp/3014_奇怪的排序_非旋转Treap.s
 	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.obj
 	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.i
 	@echo ... others-cpp/3362_Serein的扫雷游戏_bfs.s
