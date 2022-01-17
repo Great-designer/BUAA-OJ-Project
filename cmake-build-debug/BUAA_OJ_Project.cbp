@@ -2340,6 +2340,9 @@
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/882 MergeMultiset.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>
+		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/883 RankingSystem Splay.c">
+			<Option target="BUAA_OJ_Project"/>
+		</Unit>
 		<Unit filename="E:/程序/BUAA-OJ-Project/1~1000/883 RankingSystem.c">
 			<Option target="BUAA_OJ_Project"/>
 		</Unit>

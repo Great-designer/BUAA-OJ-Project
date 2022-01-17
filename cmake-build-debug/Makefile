@@ -17912,6 +17912,30 @@ BUAA_OJ_Project/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.s
 .PHONY : 1~1000/883_RankingSystem.c.s
 
+1~1000/883_RankingSystem_Splay.obj: 1~1000/883_RankingSystem_Splay.c.obj
+.PHONY : 1~1000/883_RankingSystem_Splay.obj
+
+# target to build an object file
+1~1000/883_RankingSystem_Splay.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem_Splay.c.obj
+.PHONY : 1~1000/883_RankingSystem_Splay.c.obj
+
+1~1000/883_RankingSystem_Splay.i: 1~1000/883_RankingSystem_Splay.c.i
+.PHONY : 1~1000/883_RankingSystem_Splay.i
+
+# target to preprocess a source file
+1~1000/883_RankingSystem_Splay.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem_Splay.c.i
+.PHONY : 1~1000/883_RankingSystem_Splay.c.i
+
+1~1000/883_RankingSystem_Splay.s: 1~1000/883_RankingSystem_Splay.c.s
+.PHONY : 1~1000/883_RankingSystem_Splay.s
+
+# target to generate assembly for a file
+1~1000/883_RankingSystem_Splay.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem_Splay.c.s
+.PHONY : 1~1000/883_RankingSystem_Splay.c.s
+
 1~1000/886_你会写月份的英文吗.obj: 1~1000/886_你会写月份的英文吗.c.obj
 .PHONY : 1~1000/886_你会写月份的英文吗.obj
 
@@ -34976,6 +35000,9 @@ help:
 	@echo ... 1~1000/883_RankingSystem.obj
 	@echo ... 1~1000/883_RankingSystem.i
 	@echo ... 1~1000/883_RankingSystem.s
+	@echo ... 1~1000/883_RankingSystem_Splay.obj
+	@echo ... 1~1000/883_RankingSystem_Splay.i
+	@echo ... 1~1000/883_RankingSystem_Splay.s
 	@echo ... 1~1000/886_你会写月份的英文吗.obj
 	@echo ... 1~1000/886_你会写月份的英文吗.i
 	@echo ... 1~1000/886_你会写月份的英文吗.s

@@ -11,8 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34cf20a5-42b4-46c4-8ee3-41ded808c840" name="更改" comment="更改">
+    <list default="true" id="a8e93c5e-4876-4ad9-a328-80fdde3a2f0d" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1~1000/883 RankingSystem Splay.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/883 RankingSystem Splay.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
@@ -27,7 +28,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/others-cpp/3014 奇怪的排序 非旋转Treap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/others-cpp/3014 奇怪的排序 非旋转Treap.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +44,7 @@
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
   </component>
-  <component name="ProjectId" id="23lzlLKUQOd7vKGCpY9zASnA1Ui" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="23okfTRiLwEKF6tibPcBJwc4epk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,12 +61,12 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunManager">
-    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="BUAA_OJ_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BUAA_OJ_Project" TARGET_NAME="BUAA_OJ_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BUAA_OJ_Project" RUN_TARGET_NAME="BUAA_OJ_Project">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -81,13 +80,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="34cf20a5-42b4-46c4-8ee3-41ded808c840" name="更改" comment="" />
-      <created>1642323616644</created>
+      <changelist id="a8e93c5e-4876-4ad9-a328-80fdde3a2f0d" name="变更" comment="" />
+      <created>1642407936262</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642323616644</updated>
-      <workItem from="1642323620633" duration="1595000" />
-      <workItem from="1642325803874" duration="115000" />
+      <updated>1642407936262</updated>
+      <workItem from="1642407939481" duration="815000" />
     </task>
     <servers />
   </component>

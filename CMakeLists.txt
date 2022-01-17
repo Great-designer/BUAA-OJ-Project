@@ -766,6 +766,7 @@ add_executable(BUAA_OJ_Project
         "1~1000/881 JumbledCommunication.c"
         "1~1000/882 MergeMultiset.c"
         "1~1000/883 RankingSystem.c"
+        "1~1000/883 RankingSystem Splay.c"
         "1~1000/886 你会写月份的英文吗.c"
         "1~1000/887 单峰五元组.c"
         "1~1000/888 鸡兔同笼.c"

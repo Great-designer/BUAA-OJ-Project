@@ -750,6 +750,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "E:/程序/BUAA-OJ-Project/1~1000/881 JumbledCommunication.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj"
   "E:/程序/BUAA-OJ-Project/1~1000/882 MergeMultiset.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj"
   "E:/程序/BUAA-OJ-Project/1~1000/883 RankingSystem.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj"
+  "E:/程序/BUAA-OJ-Project/1~1000/883 RankingSystem Splay.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem_Splay.c.obj"
   "E:/程序/BUAA-OJ-Project/1~1000/886 你会写月份的英文吗.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj"
   "E:/程序/BUAA-OJ-Project/1~1000/887 单峰五元组.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj"
   "E:/程序/BUAA-OJ-Project/1~1000/888 鸡兔同笼.c" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj"

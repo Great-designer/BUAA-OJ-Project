@@ -743,6 +743,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/881_JumbledCommunication.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/882_MergeMultiset.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem.c.obj"
+  "CMakeFiles/BUAA_OJ_Project.dir/1~1000/883_RankingSystem_Splay.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/886_你会写月份的英文吗.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/887_单峰五元组.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/1~1000/888_鸡兔同笼.c.obj"
