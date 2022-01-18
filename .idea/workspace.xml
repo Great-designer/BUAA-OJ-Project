@@ -11,10 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e93c5e-4876-4ad9-a328-80fdde3a2f0d" name="变更" comment="">
+    <list default="true" id="9bc514a4-ab7a-4810-9bfd-970192f9f37b" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1~1000/883 RankingSystem Splay.c" beforeDir="false" afterPath="$PROJECT_DIR$/1~1000/883 RankingSystem Splay.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bound-bsearch/819 【2017集训选拔赛】Rectangle Recognition 稀疏线和稠密线分类处理.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/bound-bsearch/819 【2017集训选拔赛】Rectangle Recognition 稀疏线和稠密线分类处理.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BUAA_OJ_Project.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
@@ -44,7 +45,7 @@
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
   </component>
-  <component name="ProjectId" id="23okfTRiLwEKF6tibPcBJwc4epk" />
+  <component name="ProjectId" id="23rQOZPl9ObuOwKeoawKbsDN0SI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,12 +81,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="a8e93c5e-4876-4ad9-a328-80fdde3a2f0d" name="变更" comment="" />
-      <created>1642407936262</created>
+      <changelist id="9bc514a4-ab7a-4810-9bfd-970192f9f37b" name="变更" comment="" />
+      <created>1642489700679</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642407936262</updated>
-      <workItem from="1642407939481" duration="815000" />
+      <updated>1642489700679</updated>
+      <workItem from="1642489704748" duration="808000" />
     </task>
     <servers />
   </component>

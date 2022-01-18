@@ -1189,6 +1189,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/696_Mdd的成绩单bsearch.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj"
+  "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/1650_摸鱼助教MoggⅠ.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/226_简单的质数(简单)高度优化的埃氏筛法+上界二分查找.c.obj"
   "CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj"

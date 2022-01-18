@@ -1226,6 +1226,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "E:/程序/BUAA-OJ-Project/bound-bsearch/529 大家一起来排队.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/529_大家一起来排队.cpp.obj"
   "E:/程序/BUAA-OJ-Project/bound-bsearch/564 王助教的调色盘.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/564_王助教的调色盘.cpp.obj"
   "E:/程序/BUAA-OJ-Project/bound-bsearch/759 Gzh的射击游戏.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.obj"
+  "E:/程序/BUAA-OJ-Project/bound-bsearch/819 【2017集训选拔赛】Rectangle Recognition 稀疏线和稠密线分类处理.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj"
   "E:/程序/BUAA-OJ-Project/bound-bsearch/upper/2708 E3-计网的烦恼.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/2708_E3-计网的烦恼.cpp.obj"
   "E:/程序/BUAA-OJ-Project/bound-bsearch/upper/3832 斐波那契 高精度.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/3832_斐波那契_高精度.cpp.obj"
   "E:/程序/BUAA-OJ-Project/bound-bsearch/upper/4168 Longest Increasing Subsequence in a matrix - Easy LIS变种.cpp" "E:/程序/BUAA-OJ-Project/cmake-build-debug/CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/upper/4168_Longest_Increasing_Subsequence_in_a_matrix_-_Easy_LIS变种.cpp.obj"

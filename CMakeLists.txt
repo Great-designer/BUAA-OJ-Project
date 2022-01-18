@@ -1232,6 +1232,7 @@ add_executable(BUAA_OJ_Project
         "bound-bsearch/564 王助教的调色盘.cpp"
         "bound-bsearch/696 Mdd的成绩单bsearch.c"
         "bound-bsearch/759 Gzh的射击游戏.cpp"
+        "bound-bsearch/819 【2017集训选拔赛】Rectangle Recognition 稀疏线和稠密线分类处理.cpp"
         "bound-bsearch/2953 真二分查找bsearch.c"
         "bound-bsearch/2958 二分查找PLUSbsearch.c"
         "bound-bsearch/3333 monotonicity 最短满足和的连续子序列.cpp"

@@ -28616,6 +28616,30 @@ bound-bsearch/759_Gzh的射击游戏.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/759_Gzh的射击游戏.cpp.s
 .PHONY : bound-bsearch/759_Gzh的射击游戏.cpp.s
 
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.obj: bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.obj
+
+# target to build an object file
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.obj
+
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.i: bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.i
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.i
+
+# target to preprocess a source file
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.i
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.i
+
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.s: bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.s
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.s
+
+# target to generate assembly for a file
+bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\BUAA_OJ_Project.dir\build.make CMakeFiles/BUAA_OJ_Project.dir/bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.s
+.PHONY : bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.cpp.s
+
 bound-bsearch/upper/1650_摸鱼助教MoggⅠ.obj: bound-bsearch/upper/1650_摸鱼助教MoggⅠ.c.obj
 .PHONY : bound-bsearch/upper/1650_摸鱼助教MoggⅠ.obj
 
@@ -36338,6 +36362,9 @@ help:
 	@echo ... bound-bsearch/759_Gzh的射击游戏.obj
 	@echo ... bound-bsearch/759_Gzh的射击游戏.i
 	@echo ... bound-bsearch/759_Gzh的射击游戏.s
+	@echo ... bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.obj
+	@echo ... bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.i
+	@echo ... bound-bsearch/819_【2017集训选拔赛】Rectangle_Recognition_稀疏线和稠密线分类处理.s
 	@echo ... bound-bsearch/upper/1650_摸鱼助教MoggⅠ.obj
 	@echo ... bound-bsearch/upper/1650_摸鱼助教MoggⅠ.i
 	@echo ... bound-bsearch/upper/1650_摸鱼助教MoggⅠ.s
