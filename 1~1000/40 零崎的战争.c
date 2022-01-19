@@ -1,109 +1,91 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<math.h>
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+const double INF = 1e15;
+const double eps = 1e-8;
 
-struct node
+int n;
+double mind;
+struct point
 {
-	double x,y;
-	int cls;
-};
-
-struct node a[200005],tmp[200005];
-
-int compare(const void *p1,const void *p2)
+    double x, y;
+    char type;
+} points[200005], tmp[200005];
+int cmp(const void *p1, const void *p2)
 {
-	struct node *a=(struct node *)p1;
-	struct node *b=(struct node *)p2;
-	return a->x<b->x;
+    struct point *a = (struct point *)p1, *b = (struct point *)p2;
+    if (a->x < b->x)
+        return -1;
+    else if (a->x == b->x && a->y < b->y)
+        return -1;
+    else if (a->x == b->x && a->y > b->y)
+        return 1;
+    else if (a->x > b->x)
+        return 1;
+    else
+        return 0;
+}
+double get_dist(struct point a, struct point b)
+{
+    if (a.type == b.type)
+        return mind; // optimize when all the points are overlapped
+    double dx = a.x - b.x, dy = a.y - b.y;
+    return sqrt(dx * dx + dy * dy);
 }
 
-double distance(struct node a,struct node b)
+double dfs(int l, int r)
 {
-	if(a.cls==b.cls)
-	{
-		return 1e50;
-	} 
-	return sqrt((a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y));
-}
+    if (l == r)
+        return INF;
+    int mid = (l + r) >> 1;
+    double mid_x = points[mid].x;
+    double ans = fmin(dfs(l, mid), dfs(mid + 1, r));
 
-double closePair(int left,int right)
-{
-	if(left>=right)
-	{
-		return 1e50;
-	}
-	int mid=(left+right)>>1;
-	double cut=a[mid].x;
-	double dist=fmin(closePair(left,mid),closePair(mid+1,right));
-	int l=left,r=mid+1,cnt=0;
-	while(l<=mid&&r<=right)
-	{
-		if(a[l].y<=a[r].y)
-		{
-			tmp[cnt++]=a[l++];
-		}
-		else
-		{
-			tmp[cnt++]=a[r++];
-		}
-	}
-	while(l<=mid)
-	{
-		tmp[cnt++]=a[l++];
-	}
-	while(r<=right)
-	{
-		tmp[cnt++]=a[r++];
-	}
-	int i;
-	for(i=0;i<cnt;i++)
-	{
-		a[left+i]=tmp[i];
-	}
-	cnt=0;
-	for(i=left;i<=right;i++)
-	{
-		if(fabs(a[i].x-cut)<=dist)
-		{
-			tmp[cnt++]=a[i];
-		}
-	}
-	for(i=0;i<cnt;i++)
-	{
-		int j;
-		for(j=i+1;j<cnt;j++)
-		{
-			if(tmp[i].y-tmp[j].y>dist)
-			{
-				break;
-			}
-			dist=fmin(dist,distance(tmp[i],tmp[j]));
-		}
-	}
-	return dist;
+    int i = l, j = mid + 1, cnt = 0;
+    while (i <= mid && j <= r)
+        if (points[i].y < points[j].y)
+            tmp[cnt++] = points[i++];
+        else
+            tmp[cnt++] = points[j++];
+    while (i <= mid)
+        tmp[cnt++] = points[i++];
+    while (j <= r)
+        tmp[cnt++] = points[j++];
+    for (i = l; i <= r; i++)
+        points[i] = tmp[i - l];
+
+    cnt = 0;
+    for (i = l; i <= r; i++)
+        if (points[i].x >= mid_x - ans && points[i].x <= mid_x + ans)
+            tmp[cnt++] = points[i];
+    for (i = 0; i < cnt; i++)
+        for (j = i - 1; ~j && tmp[i].y - tmp[j].y + eps <= ans; j--)
+            ans = fmin(ans, get_dist(tmp[i], tmp[j]));
+    mind = fmin(mind, ans);
+    return ans;
 }
 
 int main()
 {
-	int T;
-	scanf("%d",&T);
-	while(T--)
-	{
-		int n;
-		scanf("%d",&n);
-		int i;
-		for(i=0;i<n;i++)
-		{
-			scanf("%lf%lf",&a[i].x,&a[i].y);
-			a[i].cls=0;
-		}
-		for(i=n;i<2*n;i++)
-		{
-			scanf("%lf%lf",&a[i].x,&a[i].y);
-			a[i].cls=1;
-		}
-		qsort(a,2*n,sizeof(struct node),compare);
-		printf("%.3f\n",closePair(0,2*n-1));
-	}
+    int T;
+    scanf("%d", &T);
+    while (T--)
+    {
+        scanf("%d", &n);
+        for (int i = 0; i < n; i++)
+        {
+            scanf("%lf %lf", &points[i].x, &points[i].y);
+            points[i].type = 0;
+        }
+        for (int i = n; i < n << 1; i++)
+        {
+            scanf("%lf %lf", &points[i].x, &points[i].y);
+            points[i].type = 1;
+        }
+        mind = get_dist(points[0], points[(n << 1) - 1]);
+        qsort(points, n << 1, sizeof(points[0]), cmp);
+        printf("%.3f\n", dfs(0, (n << 1) - 1));
+    }
+    return 0;
 }
-
