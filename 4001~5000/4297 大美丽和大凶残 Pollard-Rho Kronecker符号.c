@@ -2,17 +2,15 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <time.h>
-#define getchar getchar_unlocked
-#define putchar putchar_unlocked
-typedef long long lll;
 
 char eof_flag;
-char rd(lll *s)
+
+char rd(long long *s)
 {
     if (eof_flag)
         return 0;
 
-    lll k = 0, f = 1;
+    long long k = 0, f = 1;
     char c = getchar();
 
     while (c != '-' && (c < '0' || c > '9'))
@@ -43,9 +41,9 @@ char rd(lll *s)
 #define N 9
 #define M ((1 << 7) - 1)
 int test_prime[N + 7] = {0, 2, 3, 5, 7, 11, 13, 17, 19, 23};
-lll _abs(lll x) { return x < 0 ? -x : x; }
+long long _abs(long long x) { return x < 0 ? -x : x; }
 
-lll mod(lll a, lll p)
+long long mod(long long a, long long p)
 {
     if (p < 0)
         p = -p;
@@ -54,9 +52,9 @@ lll mod(lll a, lll p)
     return a % p;
 }
 
-lll quick_pow(lll x, lll p, lll mod)
+long long quick_pow(long long x, long long p, long long mod)
 {
-    lll ans = 1;
+    long long ans = 1;
     while (p)
     {
         if (p & 1)
@@ -67,12 +65,12 @@ lll quick_pow(lll x, lll p, lll mod)
     return ans;
 }
 
-bool miller_rabin(lll n, lll k)
+bool miller_rabin(long long n, long long k)
 {
-    lll nd = n - 1, m = nd;
+    long long nd = n - 1, m = nd;
     while (m)
     {
-        lll x = quick_pow(k, m, n);
+        long long x = quick_pow(k, m, n);
         if (x != 1 && x != nd)
             return false;
         if ((m & 1) == 1 || x == nd)
@@ -82,7 +80,7 @@ bool miller_rabin(lll n, lll k)
     return true;
 }
 
-bool is_prime(lll n)
+bool is_prime(long long n)
 {
     if (n < 2)
         return false;
@@ -96,9 +94,9 @@ bool is_prime(lll n)
     return true;
 }
 
-lll floyd(lll a, lll b, lll p) { return (a * a % p + b) % p; }
+long long floyd(long long a, long long b, long long p) { return (a * a % p + b) % p; }
 
-lll gcd(lll a, lll b)
+long long gcd(long long a, long long b)
 {
     if (a < 0)
         a = -a;
@@ -112,7 +110,7 @@ lll gcd(lll a, lll b)
     while (!((a & 1) || (b & 1)))
         a >>= 1, b >>= 1, r++;
 
-    lll ret = 0;
+    long long ret = 0;
     while (1)
     {
         while (!(a & 1))
@@ -137,12 +135,12 @@ lll gcd(lll a, lll b)
     return ret;
 }
 
-lll pollard_pho(lll n)
+long long pollard_pho(long long n)
 {
-    lll x = 0, c = rand() % (n - 1) + 1;
+    long long x = 0, c = rand() % (n - 1) + 1;
     for (register int i = 1;; i <<= 1)
     {
-        lll y = 1, z = x, ans;
+        long long y = 1, z = x, ans;
         for (register int j = 1; j <= i; j++)
         {
             x = floyd(x, c, n);
@@ -160,7 +158,7 @@ lll pollard_pho(lll n)
     }
 }
 
-void min_factor(lll n, lll *ans)
+void min_factor(long long n, long long *ans)
 {
     if (n < 2)
         return;
@@ -170,7 +168,7 @@ void min_factor(lll n, lll *ans)
             (*ans) = n;
         return;
     }
-    lll factor = 0;
+    long long factor = 0;
     do
         factor = pollard_pho(n);
     while (factor == n);
@@ -182,7 +180,7 @@ void min_factor(lll n, lll *ans)
     min_factor(factor, ans);
 }
 
-void factorization(lll *fac, lll x, int *sz)
+void factorization(long long *fac, long long x, int *sz)
 {
     (*sz) = 0;
     if (x < 0)
@@ -190,7 +188,7 @@ void factorization(lll *fac, lll x, int *sz)
     while (x > 1)
     {
         int y = 0;
-        lll factor = (lll)10000000000 * 10000000000;
+        long long factor = (long long)10000000000 * 10000000000;
         
         min_factor(x, &factor);
         while (x % factor == 0)
@@ -198,9 +196,9 @@ void factorization(lll *fac, lll x, int *sz)
     }
 }
 
-lll fix(lll r, lll p) { return r <= (p >> 1) ? r : r - p; }
+long long fix(long long r, long long p) { return r <= (p >> 1) ? r : r - p; }
 
-lll Legendre(lll a, lll p)
+long long Legendre(long long a, long long p)
 {
     if (p == -1)
         return a < 0 ? -1 : 1;
@@ -208,7 +206,7 @@ lll Legendre(lll a, lll p)
     {
         if (!(a & 1))
             return 0;
-        lll flag = mod(a, p);
+        long long flag = mod(a, p);
         if (flag == 1 || flag == 7)
             return 1;
         else
@@ -217,20 +215,20 @@ lll Legendre(lll a, lll p)
     return fix(quick_pow(mod(a, p), (p - 1) / 2, p), p);
 }
 
-lll fac_a[110], fac_b[110];
+long long fac_a[110], fac_b[110];
 int sz_a, sz_b;
 
-lll Kronecker(lll a, lll b)
+long long Kronecker(long long a, long long b)
 {
     factorization(fac_a, a, &sz_a), factorization(fac_b, b, &sz_b);
-    lll ret = 1, i = 0, j = 0;
+    long long ret = 1, i = 0, j = 0;
     for (i = 1; i <= sz_a; ++i)
         for (j = 1; j <= sz_b; ++j)
             ret *= Legendre(fac_a[i], fac_b[j]);
     return ret;
 }
 
-lll a, b, ans;
+long long a, b, ans;
 
 int main()
 {

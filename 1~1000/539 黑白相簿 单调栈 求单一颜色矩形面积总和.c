@@ -1,49 +1,51 @@
 #include <stdio.h>
 #include <string.h>
-#define maxn 1010
-typedef long long ll;
+
 int t;
 int n, m;
-int l[maxn], r[maxn]; //Ã¶¾Ù×óÓÒ±È×Ô¼ºĞ¡µÄ
-int s[maxn], top;     //µ¥µ÷Õ»
-int cur[maxn];
-char mp[maxn][maxn];
-//Ã¶¾Ù´Óa*bµÄ¾ØĞÎËùÓĞ×Ó¾ØĞÎµÄÃæ»ıºÍ
-ll get(int a, int b) { return 1ll * a * (a * 1ll + 1ll) / 2 * b + 1ll * b * (b * 1ll + 1ll) / 2 * a - 1ll * a * b; }
-ll get_rec_area_sum(char flag)
+int l[1010], r[1010]; //æšä¸¾å·¦å³æ¯”è‡ªå·±å°çš„
+int s[1010], top;     //å•è°ƒæ ˆ
+int cur[1010];
+char mp[1010][1010];
+//æšä¸¾ä»a*bçš„çŸ©å½¢æ‰€æœ‰å­çŸ©å½¢çš„é¢ç§¯å’Œ
+long long get(int a, int b)
 {
-    ll ret = 0;
-    memset(cur, 0, sizeof(cur));
-    for (int i = 1; i <= n; ++i)
-    {
-        memset(l, 0, sizeof(l));
-        memset(r, 0, sizeof(r));
-        memset(s, 0, sizeof(s));
-        top = 0;
-        for (int j = 1; j <= m; ++j)
-        {
-            cur[j] = mp[i][j] == flag ? cur[j] + 1 : 0; //´«Í³ÒÕÄÜ
-            while (top && cur[s[top]] > cur[j])
-                r[s[top--]] = j - 1;
-            l[j] = s[top] + 1; //µ¥µ÷Õ»¸ßÃ÷µÄÓÃ·¨,¾ÍÊÇÒ»ÌËÅÜÍê°ÑlºÍr¶¼¸ã¶¨
-            s[++top] = j;
-        }
-        while (top)
-            r[s[top--]] = m;
-        for (int j = 1; j <= m; ++j)
-            ret += cur[j] * 1ll * (cur[j] + 1) / 2 * get(j - l[j] + 1, r[j] - j + 1);
-    }
-    return ret;
+	return 1ll * a * (a * 1ll + 1ll) / 2 * b + 1ll * b * (b * 1ll + 1ll) / 2 * a - 1ll * a * b;
+}
+long long get_rec_area_sum(char flag)
+{
+	long long ret = 0;
+	memset(cur, 0, sizeof(cur));
+	for (int i = 1; i <= n; ++i)
+	{
+		memset(l, 0, sizeof(l));
+		memset(r, 0, sizeof(r));
+		memset(s, 0, sizeof(s));
+		top = 0;
+		for (int j = 1; j <= m; ++j)
+		{
+			cur[j] = mp[i][j] == flag ? cur[j] + 1 : 0; //ä¼ ç»Ÿè‰ºèƒ½
+			while (top && cur[s[top]] > cur[j])
+				r[s[top--]] = j - 1;
+			l[j] = s[top] + 1; //å•è°ƒæ ˆé«˜æ˜çš„ç”¨æ³•,å°±æ˜¯ä¸€è¶Ÿè·‘å®ŒæŠŠlå’Œréƒ½æå®š
+			s[++top] = j;
+		}
+		while (top)
+			r[s[top--]] = m;
+		for (int j = 1; j <= m; ++j)
+			ret += cur[j] * 1ll * (cur[j] + 1) / 2 * get(j - l[j] + 1, r[j] - j + 1);
+	}
+	return ret;
 }
 int main()
 {
-    scanf("%d", &t);
-    while (t--)
-    {
-        memset(mp, 0, sizeof(mp));
-        scanf("%d%d", &n, &m);
-        for (int i = 1; i <= n; ++i)
-            scanf("%s", mp[i] + 1);
-        printf("%lld\n", get_rec_area_sum('0') + get_rec_area_sum('1'));
-    }
+	scanf("%d", &t);
+	while (t--)
+	{
+		memset(mp, 0, sizeof(mp));
+		scanf("%d%d", &n, &m);
+		for (int i = 1; i <= n; ++i)
+			scanf("%s", mp[i] + 1);
+		printf("%lld\n", get_rec_area_sum('0') + get_rec_area_sum('1'));
+	}
 }
