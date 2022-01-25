@@ -1,37 +1,79 @@
-#include<stdio.h>
-
-int BCJ[200010];
-
-int getBCJ(int x) /*让数组指向右边一个黑暗国，并返回*/
+#include <stdio.h>
+#include <stdbool.h>
+#define getchar getchar_unlocked
+#define putchar putchar_unlocked
+#define maxn 200010
+void wr(int x)
 {
-	if(BCJ[x]!=0)
-	{
-		BCJ[x]=getBCJ(BCJ[x]);
-		return BCJ[x];
-	}
-	else
-	{
-		return x;/*如果有数则返回有数的值的函数（并赋值），为0则返回本身*/
-	}
+    if (x > 9)
+        wr(x / 10);
+    putchar(x % 10 + 48);
 }
-
+int rd()
+{
+    int k = 0;
+    char c = getchar();
+    while (c < '0' || c > '9')
+        c = getchar();
+    while (c >= '0' && c <= '9')
+    {
+        k = (k << 1) + (k << 3) + (c ^ 48);
+        c = getchar();
+    }
+    return k;
+}
+int n, m, ans;
+int l, r;
+int f[maxn];
+bool vis[maxn];
+void initf()
+{
+    for (int i = 1; i <= n; ++i)
+        f[i] = i;
+}
+int getf(int x)
+{
+    if (f[x] == x)
+        return x;
+    else
+        return f[x] = getf(f[x]);
+}
+bool check(int x, int y)
+{
+    int a = getf(x);
+    int b = getf(y);
+    if (a ^ b)
+        return false;
+    else
+        return true;
+}
+void merge(int x, int y)
+{
+    int a = getf(x);
+    int b = getf(y);
+    if (a == b)
+        return;
+    else
+        f[a] = b;
+}
 int main()
 {
-	int n,m;
-	scanf("%d %d",&n,&m);
-	int ans=n;
-	while(m--)
-	{
-		int l,r;
-		scanf("%d %d",&l,&r);
-		l=getBCJ(l);
-		while(l<=r) /*右移左端点，并减小答案值*/
-		{
-			BCJ[l]=l+1;
-			ans--;
-			l=getBCJ(l);
-		}
-		printf("%d\n",ans);
-	}
-	return 0;
+    n = rd(), m = rd(), ans = n;
+    initf();
+    while (m--)
+    {
+        l = rd(), r = rd();
+        if (l > r)
+            l ^= r, r ^= l, l ^= r;
+        int cur = l;
+        while (cur <= r)
+        {
+            if (vis[cur])
+                cur = getf(cur);
+            else
+                vis[cur] = 1, --ans;
+            merge(cur, r), ++cur;
+        }
+        wr(ans), putchar('\n');
+    }
 }
