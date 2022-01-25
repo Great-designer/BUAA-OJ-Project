@@ -1312,6 +1312,8 @@ add_executable(BUAA_OJ_Project
         "vector/390 难题-拓扑排序assign.cpp"
         "vector/704 ModricWang的文本排版insert.cpp"
         "vector/897 QZZ的世界观测copy.cpp"
+        "vector/4253 GCD Plus 高精度除法+取模.cpp"
+        "vector/4253 GCD Plus 压18位高精度减法+左移+右移.cpp"
         "string/171 成绩统计III.cpp"
         "string/175 成绩统计II.cpp"
         "string/321 microhhh的字符串综合训练1.cpp"
