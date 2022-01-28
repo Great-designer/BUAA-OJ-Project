@@ -9,13 +9,13 @@ struct AVLNode
 };
 
 struct AVLNode nodes[500050];
-int avl_size;//AVL节点个数
+int AVLsize;//AVL节点个数
 
 void newNode(long long val)
 {
-	++avl_size;
-	nodes[avl_size].value=val;
-	nodes[avl_size].size=1;
+	++AVLsize;
+	nodes[AVLsize].value=val;
+	nodes[AVLsize].size=1;
 }
 
 void update(int now)  //更新节点高度和子树规模
@@ -80,39 +80,23 @@ int rebalance(int now)  //根据平衡因子做重平衡调整。如果失衡了
 	return now;
 }
 
-int insert(int now,long long val)  //AVL树插入，性质同BST。本题默认是左子树小于自己,右子树大于等于自己
+int Insert(int now,long long val)  //AVL树插入，性质同BST。本题默认是左子树小于自己,右子树大于等于自己
 {
 	if(!now)
 	{
 		newNode(val);
-		now=avl_size;
+		now=AVLsize;
 	}
 	else if(val<nodes[now].value)
 	{
-		nodes[now].lchild=insert(nodes[now].lchild,val);
+		nodes[now].lchild=Insert(nodes[now].lchild,val);
 	}
 	else
 	{
-		nodes[now].rchild=insert(nodes[now].rchild,val);
+		nodes[now].rchild=Insert(nodes[now].rchild,val);
 	}
 	now=rebalance(now);
 	return now;
-}
-
-int find(int *now,int pre)//AVL查找元素,性质同BST
-{
-	int ret;
-	if(!nodes[*now].lchild)
-	{
-		ret=*now;
-		nodes[pre].lchild=nodes[*now].rchild;
-	}
-	else
-	{
-		ret=find(&(nodes[*now].lchild),*now);
-		*now=rebalance(*now);
-	}
-	return ret;
 }
 
 int Delete(int now,long long val)//AVL删除元素,性质同BST
@@ -126,9 +110,32 @@ int Delete(int now,long long val)//AVL删除元素,性质同BST
 		}
 		else
 		{
-			now=find(&rchild,rchild);
-			if(now!=rchild)
+			if(nodes[rchild].lchild==0)
 			{
+				now=rchild;
+				nodes[rchild].lchild=nodes[rchild].rchild;
+			}
+			else
+			{
+				int pre=rchild;
+				int *temp=&rchild;
+				int *stack[20];
+				int stacktop=0;
+				while(nodes[*temp].lchild!=0)
+				{
+					pre=*temp;
+					stack[stacktop]=temp;
+					stacktop++;
+					temp=&(nodes[*temp].lchild);
+				}
+				now=*temp;
+				nodes[pre].lchild=nodes[*temp].rchild;
+				while(stacktop!=0)
+				{
+					temp=stack[stacktop-1];
+					stacktop--;
+					*temp=rebalance(*temp);
+				}
 				nodes[now].rchild=rchild;
 			}
 			nodes[now].lchild=lchild;
@@ -145,11 +152,11 @@ int Delete(int now,long long val)//AVL删除元素,性质同BST
 	now=rebalance(now);
 }
 
-int avl_root;//当前根节点的下标
+int AVLroot;//当前根节点的下标
 
-int get_rank_by_num(long long val)//重复元素排名的话默认找最小的
+int getRankByNum(long long val)//重复元素排名的话默认找最小的
 {
-	int now=avl_root, rank = 1;
+	int now=AVLroot, rank = 1;
 	while(now)
 	{
 		if (val<=nodes[now].value)
@@ -165,9 +172,9 @@ int get_rank_by_num(long long val)//重复元素排名的话默认找最小的
 	return rank;
 }
 
-long long get_num_by_rank(int rank)
+long long getNumByRank(int rank)
 {
-	int now=avl_root;
+	int now=AVLroot;
 	while(now)
 	{
 		if(nodes[nodes[now].lchild].size+1==rank)//左子树+自身正好是rank,则命中，大了则往左子树找,削了就减掉这些往右子树找
@@ -189,28 +196,28 @@ long long get_num_by_rank(int rank)
 
 int main()
 {
-	avl_size=avl_root=0;
+	AVLsize=AVLroot=0;
 	int n;
 	long long v;
 	scanf("%lld%d",&v,&n);
 	long long sum=v;
-	avl_root=insert(avl_root,1145141919810ll);
-	avl_root=insert(avl_root,-1145141919810ll);
-	avl_root=insert(avl_root,v);
+	AVLroot=Insert(AVLroot,1145141919810ll);
+	AVLroot=Insert(AVLroot,-1145141919810ll);
+	AVLroot=Insert(AVLroot,v);
 	long long size=1;
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		int op;
 		scanf("%d",&op);
 		if(op==1)
 		{
-			long long add=get_num_by_rank(get_rank_by_num(-1145141919810ll+1));
+			long long add=getNumByRank(getRankByNum(-1145141919810ll+1));
 			long long after=(add<<1)<v?(add<<1):v;
 			sum-=add;
 			sum+=after;
-			avl_root=Delete(avl_root,add);
-			avl_root=insert(avl_root,after);
+			AVLroot=Delete(AVLroot,add);
+			AVLroot=Insert(AVLroot,after);
 			printf("Day %d: %lld\n",i,sum);
 		}
 		else if(op==2)
@@ -220,27 +227,27 @@ int main()
 				printf("Day %d: Such beautiful flowers, what a pity!\n",i);
 				continue;
 			}
-			long long drink=get_num_by_rank(get_rank_by_num(1145141919810ll)-1);
+			long long drink=getNumByRank(getRankByNum(1145141919810ll)-1);
 			sum--;
 			if(drink)
 			{
-				avl_root=Delete(avl_root,drink);
+				AVLroot=Delete(AVLroot,drink);
 				--size;
 			}
 			if(drink>1||size==0)
 			{
-				avl_root=insert(avl_root,drink-1);
+				AVLroot=Insert(AVLroot,drink-1);
 				++size;
 			}
 			printf("Day %d: %lld\n",i,sum);
 		}
 		else
 		{
-			avl_root=insert(avl_root,v);
+			AVLroot=Insert(AVLroot,v);
 			++size;
-			while(get_num_by_rank(get_rank_by_num(-1145141919810ll+1))==0)
+			while(getNumByRank(getRankByNum(-1145141919810ll+1))==0)
 			{
-				avl_root=Delete(avl_root,0);
+				AVLroot=Delete(AVLroot,0);
 				--size;
 			}
 			sum += v;
