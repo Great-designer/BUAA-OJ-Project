@@ -1,7 +1,27 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include<limits.h> 
+#include<limits.h>
+
+struct mstNode
+{
+	int rank;
+	int w;
+	int next;
+};
+
+struct mstNode msTree[2*310];
+int mstNum;
+
+int lalala[310];
+
+void addEdge(int u,int v,int w)
+{
+	msTree[mstNum].rank=v;
+	msTree[mstNum].w=w;
+	msTree[mstNum].next=lalala[u];
+	lalala[u]=mstNum++;
+}
 
 struct edge
 {
@@ -16,38 +36,28 @@ int compare(const void*p1,const void*p2)
 {
 	struct edge *a=(struct edge*)p1;
 	struct edge *b=(struct edge*)p2;
-	return a->w>b->w?1:-1;
+	if(a->w>b->w)
+	{
+		return 1;
+	}
+	else if(a->w<b->w)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
-struct mstNode
-{
-	int rank;
-	int w;
-	int next;
-};
-
-struct mstNode msTree[2*310];
-
-struct Node
-{
-	int rank;
-	int max;
-};
-
 int f[310];
-int n,m;
-int p,q;
-int cnt;
-int mstNum;
-long long res;
-int lalala[310];
-char occur[310];
-int maxWeight[310][310];
+
+int n;
 
 void initFather()
 {
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		f[i]=i;
 	}
@@ -58,38 +68,10 @@ int getFather(int x)
 	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
 
-void write(long long x)
-{
-	if(x>9)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
-}
-
-int read()
-{
-	int k=0;
-	char c=getchar();
-	while(c<'0'||c>'9')
-	{
-		c=getchar();
-	}
-	while(c>='0'&&c<='9')
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
-}
-
-void addEdge(int u,int v,int w)
-{
-	msTree[mstNum].rank=v;
-	msTree[mstNum].w=w;
-	msTree[mstNum].next=lalala[u];
-	lalala[u]=mstNum++;
-}
+int m;
+int p,q;
+int cnt;
+long long res;
 
 void kruskal()
 {
@@ -97,7 +79,7 @@ void kruskal()
 	res=0;
 	mstNum=0;
 	int i;
-	for(i=0;i<m;++i)
+	for(i=0; i<m; ++i)
 	{
 		p=getFather(edges[i].u);
 		q=getFather(edges[i].v);
@@ -116,6 +98,15 @@ void kruskal()
 		}
 	}
 }
+
+char occur[310];
+int maxWeight[310][310];
+
+struct Node
+{
+	int rank;
+	int max;
+};
 
 struct Node que[10010];
 int front;
@@ -137,7 +128,7 @@ void bfs(int start)
 		struct Node head=que[front];
 		front++;
 		int i;
-		for(i=lalala[head.rank];i>=0;i=msTree[i].next)
+		for(i=lalala[head.rank]; i>=0; i=msTree[i].next)
 		{
 			adj.rank=msTree[i].rank;
 			adj.max=msTree[i].w;
@@ -161,11 +152,11 @@ long long getSecMST()
 	long long secondSum=LLONG_MAX;
 	long long temp;
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		bfs(i);
 	}
-	for(i=0;i<m;++i)
+	for(i=0; i<m; ++i)
 	{
 		if(!edges[i].flag)
 		{
@@ -183,7 +174,7 @@ char isExistMST()
 {
 	int cnt=0;
 	int i;
-	for(i=1;i<=n;++i)
+	for(i=1; i<=n; ++i)
 	{
 		if(f[i]==i)
 		{
@@ -195,18 +186,16 @@ char isExistMST()
 
 int main()
 {
-	int t=read();
+	int t;
+	scanf("%d",&t);
 	while(t--)
 	{
-		n=read();
-		m=read();
+		scanf("%d%d",&n,&m);
 		initFather();
 		int i;
-		for(i=0;i<m;++i)
+		for(i=0; i<m; ++i)
 		{
-			edges[i].u=read();
-			edges[i].v=read();
-			edges[i].w=read();
+			scanf("%d%d%d",&edges[i].u,&edges[i].v,&edges[i].w);
 			edges[i].flag=0;
 		}
 		qsort(edges,m,sizeof(struct edge),compare);
@@ -224,8 +213,7 @@ int main()
 		}
 		else
 		{
-			write(res);
-			putchar('\n');
+			printf("%lld\n",res);
 		}
 	}
 }

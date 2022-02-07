@@ -14,7 +14,18 @@ int compare(const void *p1,const void *p2)
 {
 	struct edge *a=(struct edge*)p1;
 	struct edge *b=(struct edge*)p2;
-	return a->w>b->w?1:-1;
+	if(a->w>b->w)
+	{
+		return 1;
+	}
+	else if(a->w<b->w)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 struct edge edges[100010];
@@ -34,14 +45,9 @@ struct Node
 	int max;
 };
 
+int n;
 int f[310];
-int n,m;
-int p,q;
-int cnt;
-int mstNum;
-long long res;
 int lalala[310];
-
 char occur[310];
 int maxWeight[310][310];
 
@@ -59,30 +65,7 @@ int getFather(int x)
 	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
 
-void write(long long x)
-{
-	if(x>9)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
-}
-
-int read()
-{
-	int k=0;
-	char c=getchar();
-	while(c<'0'||c>'9')
-	{
-		c=getchar();
-	}
-	while(c>='0'&&c<='9')
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
-}
+int mstNum;
 
 void addEdge(int u,int v,int w)
 {
@@ -91,6 +74,11 @@ void addEdge(int u,int v,int w)
 	msTree[mstNum].next=lalala[u];
 	lalala[u]=mstNum++;
 }
+
+int m;
+int p,q;
+int cnt;
+long long res;
 
 void kruskal()
 {
@@ -190,15 +178,12 @@ int main()
 		int i;
 		for(i=0; i<m; ++i)
 		{
-			edges[i].u=read();
-			edges[i].v=read();
-			edges[i].w=read();
+			scanf("%d%d%d",&edges[i].u,&edges[i].v,&edges[i].w);
 			edges[i].flag=0;
 		}
 		qsort(edges,m,sizeof(struct edge),compare);
 		memset(lalala,-1,sizeof(lalala));
 		kruskal();
-		write(getSecMST());
-		putchar('\n');
+		printf("%lld\n",getSecMST());
 	}
 }

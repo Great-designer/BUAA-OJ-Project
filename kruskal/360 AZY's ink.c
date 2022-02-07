@@ -19,16 +19,24 @@ int compare(const void*p1,const void*p2)
 {
 	struct edge *a=(struct edge*)p1;
 	struct edge *b=(struct edge*)p2;
-	return a->w>b->w;
+	if(a->w>b->w)
+	{
+		return 1;
+	}
+	else if(a->w<b->w)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 struct edge edges[10010];
 
 int f[110];
-int n,m;
-int p,q;
-int cnt;
-double res;
+int n;
 
 void initFather()
 {
@@ -43,6 +51,11 @@ int getFather(int x)
 {
 	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
+
+int m;
+int p,q;
+int cnt;
+double res;
 
 void kruskal()
 {

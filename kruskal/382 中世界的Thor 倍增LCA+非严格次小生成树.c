@@ -17,30 +17,6 @@ int find(int x)
 	return (x == fa[x])? x :(fa[x] = find(fa[x]));
 }
 
-void write(long long x)
-{
-	if (x < 0)putchar('-'), x = -x;
-	if (x > 9)write(x / 10);
-	putchar(x % 10 + 48);
-}
-
-long long read()
-{
-	int k = 0, f = 1;
-	char c = getchar();
-	while (c < '0' || c>'9')
-	{
-		if (c == '-')f = -1;
-		c = getchar();
-	}
-	while (c >= '0' && c <= '9')
-	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
-	}
-	return k * f;
-}
-
 //Kruskal的边
 struct node
 {
@@ -161,11 +137,7 @@ int main()
 			fa[k] = k;
 		for(int k = 1; k <= m; k++)
 		{
-			int a, b, c;
-			a = read(), b = read(), c = read();
-			link[linktop].a=a;
-			link[linktop].b=b;
-			link[linktop].c=c;
+			scanf("%d%d%d",&link[linktop].a,&link[linktop].b,&link[linktop].c);
 			linktop++;
 		}
 		qsort(link,linktop,sizeof(struct node),compare);
@@ -180,6 +152,6 @@ int main()
 				answ2 =answ2<(answ1 - maxn + c)?answ2:(answ1 - maxn + c);
 			}
 		}
-		write(answ2), putchar('\n');
+		printf("%lld\n",answ2);
 	}
 }

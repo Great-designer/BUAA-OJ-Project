@@ -19,7 +19,18 @@ int compare(const void*p1,const void*p2)
 {
 	struct edge *a=(struct edge*)p1;
 	struct edge *b=(struct edge*)p2;
-	return a->w>b->w;
+	if(a->w>b->w)
+	{
+		return 1;
+	}
+	else if(a->w<b->w)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 struct edge edges[250010];
@@ -70,7 +81,6 @@ void kruskal()
 	}
 }
 
-int T;
 int main()
 {
 	while(~scanf("%d%d",&n,&k))
@@ -103,5 +113,3 @@ int main()
 		}
 	}
 }
-
-

@@ -27,7 +27,7 @@ int u,v,w;
 void initFather()
 {
 	int i;
-	for(i=1;i<=n+m+1;++i)
+	for(i=1; i<=n+m+1; ++i)
 	{
 		f[i]=i;
 	}
@@ -38,37 +38,12 @@ int getFather(int x)
 	return f[x]==x?x:(f[x]=getFather(f[x]));
 }
 
-void write(long long x)
-{
-	if(x>9)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
-}
-
-int read()
-{
-	int k=0;
-	char c=getchar();
-	while(c<'0'||c>'9')
-	{
-		c=getchar();
-	}
-	while(c>='0'&&c<='9')
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
-}
-
 void kruskal()
 {
 	cnt1=0;
 	res=0;
 	int i;
-	for(i=0;i<cnt;++i)
+	for(i=0; i<cnt; ++i)
 	{
 		p=getFather(edges[i].u);
 		q=getFather(edges[i].v);
@@ -98,7 +73,7 @@ void addEdge(int u,int v,int w)
 void addOrigin()
 {
 	int i;
-	for(i=2;i<=n+m+1;++i)
+	for(i=2; i<=n+m+1; ++i)
 	{
 		edges[cnt].u=1;
 		edges[cnt].v=i;
@@ -109,32 +84,24 @@ void addOrigin()
 	}
 }
 
-int t;
-
 int main()
 {
-	t=read();
+	int t;
+	scanf("%d",&t);
 	while(t--)
 	{
-		n=read();
-		m=read();
-		r=read();
+		scanf("%d%d%d",&n,&m,&r);
 		initFather();
 		cnt=0;
 		int i;
-		for(i=0;i<r;++i)
+		for(i=0; i<r; ++i)
 		{
-			u=read();
-			v=read();
-			w=read();
+			scanf("%d%d%d",&u,&v,&w);
 			addEdge(u,v,w);
 		}
 		addOrigin();
 		qsort(edges,cnt,sizeof(struct edge),compare);
 		kruskal();
-		write(res);
-		putchar('\n');
+		printf("%lld\n",res);
 	}
 }
-
-

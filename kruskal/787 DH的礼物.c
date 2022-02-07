@@ -1,31 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<limits.h>
-
-void write(unsigned long long x)
-{
-	if(x>9)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
-}
-
-unsigned long long read()
-{
-	int k=0;
-	char c=getchar();
-	while(c<'0'||c>'9')
-	{
-		c=getchar();
-	}
-	while(c>='0'&&c<='9')
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
-}
+#include<stdlib.h>
 
 struct edge
 {
@@ -79,8 +55,8 @@ void init()
 
 void initFather()
 {
-	int i; 
-	for(i=1;i<=n;++i)
+	int i;
+	for(i=1; i<=n; ++i)
 	{
 		f[i]=i;
 	}
@@ -94,13 +70,13 @@ int getFather(int x)
 void kruskal(unsigned long long maxg)
 {
 	int i;
-	for(i=1;i<=cnt;++i)
+	for(i=1; i<=cnt; ++i)
 	{
 		tmp[i]=mst[i],tmp[i].occur=0;
 	}
 	unsigned long long maxs=0,tot=0;
 	initFather();
-	for(i=1;i<=cnt;++i)
+	for(i=1; i<=cnt; ++i)
 	{
 		int a=getFather(mst[i].u);
 		int b=getFather(mst[i].v);
@@ -115,7 +91,7 @@ void kruskal(unsigned long long maxg)
 		{
 			int num = 0;
 			int j;
-			for(j=1;j<=cnt;++j)
+			for(j=1; j<=cnt; ++j)
 			{
 				if(tmp[i].occur)
 				{
@@ -132,7 +108,7 @@ void kruskal(unsigned long long maxg)
 void solve()
 {
 	unsigned long long i;
-	for(i=1;i<=m;++i)
+	for(i=1; i<=m; ++i)
 	{
 		if(edges[i].g+edges[i].s>ans)
 		{
@@ -140,7 +116,7 @@ void solve()
 		}
 		unsigned long long pos=cnt+1;
 		unsigned long long j;
-		for(j=1;j<=cnt;++j)
+		for(j=1; j<=cnt; ++j)
 		{
 			if(mst[j].s>edges[i].s)
 			{
@@ -155,7 +131,7 @@ void solve()
 		else
 		{
 			++cnt;
-			for(j=cnt;j>=pos+1;--j)
+			for(j=cnt; j>=pos+1; --j)
 			{
 				mst[j]=mst[j-1];
 			}
@@ -170,15 +146,11 @@ int main()
 	while(~scanf("%llu%llu",&n,&m))
 	{
 		init();
-		G=read();
-		S=read();
+		scanf("%llu%llu",&G,&S);
 		unsigned long long i;
-		for(i=1;i<=m;++i)
+		for(i=1; i<=m; ++i)
 		{
-			edges[i].u=read();
-			edges[i].v=read();
-			edges[i].g=read();
-			edges[i].s=read();
+			scanf("%llu%llu%llu%llu",&edges[i].u,&edges[i].v,&edges[i].g,&edges[i].s);
 			edges[i].g*=G;
 			edges[i].s*=S;
 		}
@@ -190,8 +162,7 @@ int main()
 		}
 		else
 		{
-			write(ans);
-			putchar('\n');
+			printf("%llu\n",ans);
 		}
 	}
 }

@@ -11,16 +11,24 @@ int compare(const void*p1,const void*p2)
 {
 	struct edge *a=(struct edge*)p1;
 	struct edge *b=(struct edge*)p2;
-	return a->w>b->w;
+	if(a->w>b->w)
+	{
+		return 1;
+	}
+	else if(a->w<b->w)
+	{
+		return -1;
+	}
+	else
+	{
+		return 0;
+	}
 }
 
 struct edge edges[600100];
 
 int f[10100];
-int n,m;
-int p,q;
-int cnt;
-long long res;
+int n;
 
 void initFather()
 {
@@ -33,37 +41,18 @@ void initFather()
 
 int getFather(int x)
 {
-	return f[x]==x?x:(f[x]=getFather(f[x]));
+	return (f[x]==x)?x:(f[x]=getFather(f[x]));
 }
 
-void write(long long x)
-{
-	if(x>9)
-	{
-		write(x/10);
-	}
-	putchar(x%10+48);
-}
-
-int read()
-{
-	int k=0;
-	char c=getchar();
-	while(c<'0'||c>'9')
-	{
-		c=getchar();
-	}
-	while(c>='0'&&c<='9')
-	{
-		k=(k<<1)+(k<<3)+c-48;
-		c=getchar();
-	}
-	return k;
-}
+int m;
+int p,q;
+int cnt;
+long long res;
 
 void kruskal()
 {
-	cnt=0,res=0;
+	cnt=0;
+	res=0;
 	int i;
 	for(i=0;i<m;++i)
 	{
@@ -90,13 +79,10 @@ int main()
 		int i;
 		for(i=0;i<m;++i)
 		{
-			edges[i].u=read();
-			edges[i].v=read();
-			edges[i].w=read();
+			scanf("%d%d%d",&edges[i].u,&edges[i].v,&edges[i].w);
 		}
 		qsort(edges,m,sizeof(struct edge),compare);
 		kruskal();
-		write(res);
-		putchar('\n');
+		printf("%lld\n",res);
 	}
 }
