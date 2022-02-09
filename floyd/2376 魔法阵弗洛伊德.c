@@ -4,11 +4,6 @@
 int n,m;
 int d[510][510];
 
-int min(int x,int y)
-{
-	return x>y?y:x;
-}
-
 void floyd()/*有负边，无负环，神奇的抄板子算法，返回数组中任两点最短距离*/
 {
 	int k,i,j;
@@ -18,7 +13,7 @@ void floyd()/*有负边，无负环，神奇的抄板子算法，返回数组中
 		{
 			for(j=1; j<=n; ++j)
 			{
-				d[i][j]=min(d[i][j],d[i][k]+d[k][j]);
+				d[i][j]=d[i][j]<(d[i][k]+d[k][j])?d[i][j]:(d[i][k]+d[k][j]);
 			}
 		}
 	}

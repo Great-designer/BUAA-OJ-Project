@@ -1,37 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 
-int n, m, tmpw = 0, tmpn;
-int w[505], v[505], b[505], c[505], f[505][5 * 505], d[505];
+int tmpw;
 char mapp[505][505];
-
-void write(int x)
-{
-	if (x < 0)
-	{
-		putchar('-');
-		x = -x;
-	}
-	if (x > 9)write(x / 10);
-	putchar(x % 10 + 48);
-}
-
-int read()
-{
-	int k = 0, f = 1;
-	char c = getchar();
-	while (c < '0' || c>'9')
-	{
-		if (c == '-')f = -1;
-		c = getchar();
-	}
-	while (c >= '0' && c <= '9')
-	{
-		k = (k << 1) + (k << 3) + c - 48;
-		c = getchar();
-	}
-	return k * f;
-}
+int w[505],v[505],b[505],c[505],f[505][5*505],d[505];
 
 void init()
 {
@@ -44,6 +16,8 @@ void init()
 	memset(d, 0, sizeof(d));
 	memset(f, 0, sizeof(f));
 }
+
+int n;
 //图论判环
 void floyd()
 {
@@ -53,6 +27,8 @@ void floyd()
 				if (mapp[k][i] == 1 && mapp[i][j] == 1)
 					mapp[k][j] = 1;
 }
+
+int tmpn;
 
 void merge()  //合点
 {
@@ -85,44 +61,62 @@ void merge()  //合点
 		}
 }
 //树形DP
-int  dfs(int x, int k)
+int dfs(int x, int k)
 {
-	if (f[x][k] > 0)    return(f[x][k]);
-	if (x == 0 || k <= 0)    return(0);
+	if(f[x][k] > 0)
+	{
+		return f[x][k];
+	}
+	if(x == 0 || k <= 0)
+	{
+		return 0;
+	}
 	//不取x
 	f[b[x]][k] = dfs(b[x], k);
 	f[x][k] = f[b[x]][k];
 	int y = k - w[x];
-	for (int i = 0; i <= y; i++)
+	int i;
+	for(i = 0; i <= y; i++)
 	{
 		f[c[x]][y - i] = dfs(c[x], y - i);
 		f[b[x]][i] = dfs(b[x], i);
 		f[x][k]=f[x][k]>(v[x] + f[c[x]][y - i] + f[b[x]][i])?f[x][k]:(v[x] + f[c[x]][y - i] + f[b[x]][i]);
 	}
-	return(f[x][k]);
+	return f[x][k];
 }
+
+int m;
 
 int main()
 {
+	tmpw=0;
 	while (scanf("%d%d",&n,&m) != EOF)
 	{
 		init();
-		for (int i = 1; i <= n; i++)
-			w[i] = read();
-		for (int i = 1; i <= n; i++)
-			v[i] = read();
-		for (int i = 1; i <= n; i++)
+		int i;
+		for(i = 1; i <= n; i++)
 		{
-			d[i] = read();
+			scanf("%d",&w[i]);
+		}
+		for(i = 1; i <= n; i++)
+		{
+			scanf("%d",&v[i]);
+		}
+		for(i = 1; i <= n; i++)
+		{
+			scanf("%d",&d[i]);
 			mapp[d[i]][i] = 1;
 		}
 		floyd();
 		merge();
-		//多叉转二叉
-		for (int i = 1; i <= tmpn; i++)
+		for(i = 1; i <= tmpn; i++)//多叉转二叉
+		{
 			if (w[i] > 0)
-				b[i] = c[d[i]], c[d[i]] = i;
-
-		write(dfs(c[0], m)), putchar('\n');
+			{
+				b[i] = c[d[i]];
+				c[d[i]] = i;
+			}
+		}
+		printf("%d\n",dfs(c[0],m));
 	}
 }
