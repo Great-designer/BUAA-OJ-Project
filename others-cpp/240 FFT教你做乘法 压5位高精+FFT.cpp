@@ -244,7 +244,7 @@ struct BigNumber
 	BigNumber operator*(const BigNumber &p) const
 	{
 		if ((this->len == 1 && this->a[0] == 0) || (p.len == 1 && p.a[0] == 0))
-			return BigNumber((__int128_t)0);
+			return BigNumber("0");
 		BigNumber ret;
 		ret.f = !(f ^ p.f);
 		ret.len = len + p.len + 5;
