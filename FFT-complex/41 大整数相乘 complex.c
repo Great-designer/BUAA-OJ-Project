@@ -5,23 +5,23 @@
 
 #define Pi acos(-1.0)
 
-complex double x1[200000],x2[200000];
+double complex x1[200000],x2[200000];
 
 char a[200000/2],b[200000/2];
 int sum[200000];
 
-void BRC(complex double *y,int len)
+void BRC(double complex *y,int len)
 {
-	int i,j,k;
+	int i,j;
 	for(i=1,j=len/2; i<len-1; i++)
 	{
 		if(i<j)
 		{
-			complex double temp=y[i];
+			double complex temp=y[i];
 			y[i]=y[j];
 			y[j]=temp;
 		}
-		k=len/2;
+		int k=len/2;
 		while(j>=k)
 		{
 			j-=k;
@@ -34,21 +34,22 @@ void BRC(complex double *y,int len)
 	}
 }
 
-void FFT(complex double *y,int len,double on)
+void FFT(double complex *y,int len,double on)
 {
-	int i,j,k,h;
-	complex double u,t;
 	BRC(y,len);
+	int h;
 	for(h=2; h<=len; h<<=1)
 	{
-		complex double wn=cos(2*Pi/h)+sin(on*2*Pi/h)*I;
+		double complex wn=cexp(on*2*Pi/h*I);
+		int j;
 		for(j=0; j<len; j+=h)
 		{
-			complex double w=1;
+			double complex w=1;
+			int k;
 			for(k=j; k<j+h/2; k++)
 			{
-				u=y[k];
-				t=w*y[k+h/2];
+				double complex u=y[k];
+				double complex t=w*y[k+h/2];
 				y[k]=u+t;
 				y[k+h/2]=u-t;
                 w=w*wn;
@@ -57,6 +58,7 @@ void FFT(complex double *y,int len,double on)
 	}
 	if(on==-1)
 	{
+		int i;
 		for(i=0; i<len; i++)
 		{
 			y[i]/=len;

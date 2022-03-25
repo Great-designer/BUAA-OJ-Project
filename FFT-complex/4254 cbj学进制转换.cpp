@@ -1,225 +1,162 @@
 #include<stdio.h>
 #include<string.h>
 #include<math.h>
+#include<complex>
 
-struct fastIO
-{
-	static const int BUFF_SZ = 1 << 18;
-	char inbuf[BUFF_SZ], outbuf[BUFF_SZ];
-	fastIO()
-	{
-		setvbuf(stdin, inbuf, _IOFBF, BUFF_SZ);
-		setvbuf(stdout, outbuf, _IOFBF, BUFF_SZ);
-	}
-} IO;
+using namespace std;
+
+const double PI = acos(-1.0);
+
 // FFT Solver : use for multiple case
-namespace FFT_Solver
+
+bool initialized;
+int L, brev[(1 << 7) | 3]; // Butterfly operation
+complex<double> w[(1 << 7) | 3], v[(1 << 7) | 3];
+complex<double> com_a[(1 << 7) | 3], com_b[(1 << 7) | 3];
+
+void init(int _L)
 {
-	struct complex
+	L = _L, initialized = 1;
+	int i;
+	for (i = 0; i < (1 << L); ++i)
 	{
-		double a, b; // a : real number b : imaginary number
-		double len() const
-		{
-			return a * a + b * b;
-		}
-		complex operator+(const complex &o) const
-		{
-			return {a + o.a, b + o.b};
-		}
-		complex operator-(const complex &o) const
-		{
-			return {a - o.a, b - o.b};
-		}
-		complex operator-() const
-		{
-			return {-a, -b};
-		}
-		complex operator*(const double &o) const
-		{
-			return {a * o, b * o};
-		}
-		complex operator*(const complex &o) const
-		{
-			return {a * o.a - b * o.b, b * o.a + a * o.b};
-		}
-		complex operator/(const double &o) const
-		{
-			return {a / o, b / o};
-		}
-		complex operator!() const
-		{
-			return {a, -b};    // conjugate
-		}
-		complex operator/(const complex &o) const
-		{
-			return ((*this) * (!o)) / o.len();
-		}
-	};
-	const int N = (1 << 7) | 3;
-	const double PI = acos(-1.0);
-	bool initialized;
-	int L, brev[N]; // Butterfly operation
-	complex w[N], v[N];
-	complex com_a[N], com_b[N];
-	void init(int _L)
+		brev[i] = (brev[i >> 1] >> 1) | ((i & 1) << (L - 1));
+	}
+	for (i = 0; i < (1 << L); ++i)
 	{
-		L = _L, initialized = 1;
-		for (int i = 0; i < (1 << L); ++i)
-			brev[i] = (brev[i >> 1] >> 1) | ((i & 1) << (L - 1));
-		for (int i = 0; i < (1 << L); ++i)
+		w[i] = {cos(i * PI * 2 / (1 << L)), sin(i * PI * 2 / (1 << L))};
+		v[i] = {cos(i * PI * 2 / (1 << L)), -sin(i * PI * 2 / (1 << L))};
+	}
+}
+
+struct initializer
+{
+	// length is adjustable
+	initializer()
+	{
+		init(7);
+	}
+} fft_init;
+
+void fft(complex<double> a[], int lgn, int flag)
+{
+	int n = 1 << lgn;
+	int i;
+	for (i = 0; i < n; ++i)
+	{
+		int rv = brev[i] >> (L - lgn);
+		if (rv < i)
 		{
-			w[i] = {cos(i * PI * 2 / (1 << L)), sin(i * PI * 2 / (1 << L))};
-			v[i] = {cos(i * PI * 2 / (1 << L)), -sin(i * PI * 2 / (1 << L))};
+			complex<double> tmp = a[rv];
+			a[rv] = a[i], a[i] = tmp;
 		}
 	}
-
-	struct initializer
+	int fa = L;
+	complex<double> *q = (flag == 1) ? w : v;
+	int t;
+	for (t = 1; t < n; t <<= 1)
 	{
-		// length is adjustable
-		initializer()
+		--fa;
+		for (i = 0; i < n; i += t << 1)
 		{
-			init(7);
-		}
-	} fft_init;
-
-	void fft(complex a[], int lgn, int flag)
-	{
-		int n = 1 << lgn;
-		for (int i = 0; i < n; ++i)
-		{
-			int rv = brev[i] >> (L - lgn);
-			if (rv < i)
+			complex<double> *p = a + i;
+			int j;
+			for (j = 0; j < t; ++j)
 			{
-				complex tmp = a[rv];
-				a[rv] = a[i], a[i] = tmp;
+				complex<double> x = p[j + t] * q[j << fa];
+				p[j + t] = p[j] - x, p[j] = p[j] + x;
 			}
 		}
-
-		int fa = L;
-		complex *q = (flag == 1) ? w : v;
-
-		for (int t = 1; t < n; t <<= 1)
-		{
-			--fa;
-
-			for (int i = 0; i < n; i += t << 1)
-			{
-				complex *p = a + i;
-
-				for (int j = 0; j < t; ++j)
-				{
-					complex x = p[j + t] * q[j << fa];
-					p[j + t] = p[j] - x, p[j] = p[j] + x;
-				}
-			}
-		}
-
-		if (flag == -1)
-			for (int i = 0; i < n; ++i)
-				a[i] = {a[i].a / n, a[i].b / n};
 	}
-
-	void fft_two_seq(complex a[], complex b[], int lgn, int flag)
+	if (flag == -1)
 	{
-		int n = 1 << lgn;
-
-		for (int i = 0; i < n; ++i)
-			a[i].b = b[i].a;
-
-		fft(a, lgn, flag);
-
-		b[0] = !a[0];
-
-		for (int i = 1; i < n; ++i)
-			b[i] = !a[n - i];
-
-		for (int i = 0; i < n; ++i)
+		for (i = 0; i < n; ++i)
 		{
-			complex x = a[i], y = b[i];
-			a[i] = {(x.a + y.a) / 2.0, (x.b + y.b) / 2.0};
-			b[i] = (x - y) / (complex)
-			{
-				0, 2
-			};
+			a[i]/=n;
 		}
-	}
+	}	
+}
 
-	// a[0...n] * b[0...m] (assume that res is all zero)
-	void mul_mod(int a[], int n, int b[], int m, int res[], int mod, int *res_len)
+void fft_two_seq(complex<double> a[], complex<double> b[], int lgn, int flag)
+{
+	int n = 1 << lgn;
+	int i;
+	for (i = 0; i < n; ++i)
 	{
-		// multiple case
-		memset(res, 0, sizeof(res[0]) * (*res_len));
-
-		// brute force
-		if (n < 100 / (m + 1) || n < 3 || m < 3)
-			for (int i = 0; i <= n; ++i)
-				for (int j = 0; j <= m; ++j)
-				{
-					// res[i + j] += a[i] * b[j];
-					long long x = 1ll * res[i + j] + (1ll * a[i] * b[j]);
-					res[i + j] = 0;
-					int offset = 0;
-
-					while (x >= mod)
-						res[i + j + offset] += (x % mod), x /= mod, ++offset;
-
-					res[i + j + offset] += x;
-					// res[i + j + 1] = x / mod, res[i + j] = x % mod;
-				}
-		// FFT
-		else
+		a[i].imag(real(b[i]));
+	}
+	fft(a, lgn, flag);
+	b[0]=conj(a[0]);
+	for (i = 1; i < n; ++i)
+	{
+		b[i]=conj(a[n-i]);
+	}
+	for (i = 0; i < n; ++i)
+	{
+		complex<double> x = a[i], y = b[i];
+		a[i]=(x+y)/2.0;
+		b[i]=(x-y)/(complex<double>)
 		{
-			int lgk = 0, k = 1, len = n + m;
+			0,2
+		};
+	}
+}
 
-			while ((1 << lgk) <= len)
-				++lgk, k <<= 1;
-
-			for (int i = 0; i <= n; ++i)
-				com_a[i].a = a[i], com_a[i].b = 0.0;
-
-			for (int i = 0; i <= m; ++i)
-				com_b[i].a = b[i], com_b[i].b = 0.0;
-
-			// multiple_case
-			memset(com_a + (n + 1), 0, sizeof(com_a[0]) * (k - n - 1));
-			memset(com_b + (m + 1), 0, sizeof(com_b[0]) * (k - m - 1));
-
-			fft_two_seq(com_a, com_b, lgk, 1);
-
-			for (int i = 0; i < k; ++i)
-				com_a[i] = com_a[i] * com_b[i];
-
-			fft(com_a, lgk, -1);
-
-			for (int i = 0; i <= n + m; ++i)
+// a[0...n] * b[0...m] (assume that res is all zero)
+void mul_mod(int a[], int n, int b[], int m, int res[], int mod, int *res_len)
+{
+	// multiple case
+	memset(res, 0, sizeof(res[0]) * (*res_len));
+	// brute force
+	if (n < 100 / (m + 1) || n < 3 || m < 3)
+		for (int i = 0; i <= n; ++i)
+			for (int j = 0; j <= m; ++j)
 			{
-				long long x = 1ll * res[i] + (long long)(com_a[i].a + 0.5);
-				res[i] = 0;
+				long long x = 1ll * res[i + j] + (1ll * a[i] * b[j]);
+				res[i + j] = 0;
 				int offset = 0;
-
 				while (x >= mod)
-					res[i + offset] += (x % mod), x /= mod, ++offset;
-
-				res[i + offset] += x;
-				// res[i] = (long long)(com_a[i].a + 0.5);
+					res[i + j + offset] += (x % mod), x /= mod, ++offset;
+				res[i + j + offset] += x;
 			}
+	// FFT
+	else
+	{
+		int lgk = 0, k = 1, len = n + m;
+		while ((1 << lgk) <= len)
+			++lgk, k <<= 1;
+		for (int i = 0; i <= n; ++i)
+			com_a[i].real(a[i]), com_a[i].imag(0.0);
+		for (int i = 0; i <= m; ++i)
+			com_b[i].real(b[i]), com_b[i].imag(0.0);
+		// multiple_case
+		memset(com_a + (n + 1), 0, sizeof(com_a[0]) * (k - n - 1));
+		memset(com_b + (m + 1), 0, sizeof(com_b[0]) * (k - m - 1));
+		fft_two_seq(com_a, com_b, lgk, 1);
+		for (int i = 0; i < k; ++i)
+			com_a[i] = com_a[i] * com_b[i];
+		fft(com_a, lgk, -1);
+		for (int i = 0; i <= n + m; ++i)
+		{
+			long long x = 1ll * res[i] + (long long)(real(com_a[i]) + 0.5);
+			res[i] = 0;
+			int offset = 0;
+			while (x >= mod)
+				res[i + offset] += (x % mod), x /= mod, ++offset;
+			res[i + offset] += x;
 		}
-
-		// adjust by mod
-		(*res_len) = n + m + 1;
-
-		while (res[(*res_len)])
-			++(*res_len);
-
-		while (res[(*res_len) - 1] >= mod)
-			res[(*res_len)] = res[(*res_len) - 1] / mod, res[(*res_len) - 1] %= mod, ++(*res_len);
-
-		while ((*res_len) > 1 && (!res[(*res_len) - 1]))
-			--(*res_len);
-		// corner case : 0
-		if ((*res_len) == 0)
-			res[(*res_len)++] = 0;
 	}
+	// adjust by mod
+	(*res_len) = n + m + 1;
+	while (res[(*res_len)])
+		++(*res_len);
+	while (res[(*res_len) - 1] >= mod)
+		res[(*res_len)] = res[(*res_len) - 1] / mod, res[(*res_len) - 1] %= mod, ++(*res_len);
+	while ((*res_len) > 1 && (!res[(*res_len) - 1]))
+		--(*res_len);
+	// corner case : 0
+	if ((*res_len) == 0)
+		res[(*res_len)++] = 0;
 }
 
 int char_to_num[256], num_to_char[256];
@@ -230,14 +167,13 @@ struct sheet_initializer
 	{
 		for (int i = 0; i < 10; i++)
 			char_to_num['0' + i] = i, num_to_char[i] = '0' + i;
-
 		for (int i = 10; i < 36; i++)
 			char_to_num['A' - 10 + i] = i, num_to_char[i] = 'A' - 10 + i;
-
 		for (int i = 36; i < 62; i++)
 			char_to_num['a' - 36 + i] = i, num_to_char[i] = 'a' - 36 + i;
 	}
 } char_init;
+
 // compress 2 digits
 struct poly_with_mod
 {
@@ -297,8 +233,6 @@ struct poly_with_mod
 		}
 		if (i == 0)
 			a[k++] = char_to_num[(int)s[i]];
-		// for (int i = len - 1; ~i; --i)
-		// a[len - 1 - i] = char_to_num[(int)s[i]], assert(a[len - 1 - i] < mod);
 		while (len > 1 && (!a[len - 1]))
 			--len;
 	}
@@ -323,7 +257,7 @@ struct poly_with_mod
 		poly_with_mod ret;
 		ret.len = len + o.len + 5, ret.mod = mod, ret.real_mod = real_mod;
 		ret.a = new int[ret.len];
-		FFT_Solver::mul_mod(a, len - 1, o.a, o.len - 1, ret.a, ret.mod, &ret.len);
+		mul_mod(a, len - 1, o.a, o.len - 1, ret.a, ret.mod, &ret.len);
 		return ret;
 	}
 	void print() const
@@ -334,15 +268,11 @@ struct poly_with_mod
 			putchar(num_to_char[a[len - 1]]);
 		for (int i = len - 2; i >= 0; --i)
 			putchar(num_to_char[a[i] / real_mod]), putchar(num_to_char[a[i] % real_mod]);
-		// for (int i = len - 1; ~i; --i)
-		// putchar(num_to_char[a[i]]);
-		// putchar('\n');
 	}
 };
 
 poly_with_mod trans(int in_radix, int out_radix, const poly_with_mod& p)
 {
-
 	int n = p.len, in_radix_sqr = in_radix * in_radix;
 	int K = 1, k = 0;
 	while (K < n)
