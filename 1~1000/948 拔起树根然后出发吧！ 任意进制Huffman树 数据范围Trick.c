@@ -64,10 +64,9 @@ int loop[maxn + 10], leaf_node[maxn + 10];
 int bucket[maxv + 10], idx[maxv + 10];
 ll a[(maxn << 1) + 10], s[(maxn << 1) + 10], sz;
 ll q[(maxn << 1) + 10];
-void clear_for_each_case() { memset(s, 0, sizeof(s)), memset(q, 0, sizeof(q)), sz = 0; }
 void pre_process()
 {
-    mx_leaf_node = 0;
+    mx_leaf_node = 0, sz = 0;
     for (int i = 2; i <= n; ++i)
     {
         loop[i] = (n - 1) / (i - 1), leaf_node[i] = n;
@@ -144,7 +143,6 @@ int main()
     T = rd();
     while (T--)
     {
-        clear_for_each_case();
         n = rd();
         pre_process();
         input_and_sort();
