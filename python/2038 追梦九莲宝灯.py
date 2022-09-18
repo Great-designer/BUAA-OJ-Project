@@ -1,24 +1,12 @@
+lis = ['m', 'p', 's', 'z']
+
+
 def dream(card):
-    a = 'm'
-    if len(card[a]) >= 14 and card[a].count('1') >= 3 and card[a].count('2') >= 1 and card[a].count(
-            '3') >= 1 and card[a].count('4') >= 1 and card[a].count('5') >= 1 and card[a].count('6') >= 1 and \
-            card[a].count('7') >= 1 and card[a].count('8') >= 1 and card[a].count('9') >= 3:
-        return True
-    a = 'p'
-    if len(card[a]) >= 14 and card[a].count('1') >= 3 and card[a].count('2') >= 1 and card[a].count(
-            '3') >= 1 and card[a].count('4') >= 1 and card[a].count('5') >= 1 and card[a].count('6') >= 1 and \
-            card[a].count('7') >= 1 and card[a].count('8') >= 1 and card[a].count('9') >= 3:
-        return True
-    a = 's'
-    if len(card[a]) >= 14 and card[a].count('1') >= 3 and card[a].count('2') >= 1 and card[a].count(
-            '3') >= 1 and card[a].count('4') >= 1 and card[a].count('5') >= 1 and card[a].count('6') >= 1 and \
-            card[a].count('7') >= 1 and card[a].count('8') >= 1 and card[a].count('9') >= 3:
-        return True
-    a = 'z'
-    if len(card[a]) >= 14 and card[a].count('1') >= 3 and card[a].count('2') >= 1 and card[a].count(
-            '3') >= 1 and card[a].count('4') >= 1 and card[a].count('5') >= 1 and card[a].count('6') >= 1 and \
-            card[a].count('7') >= 1 and card[a].count('8') >= 1 and card[a].count('9') >= 3:
-        return True
+    for a in lis:
+        if len(card[a]) >= 14 and card[a].count('1') >= 3 and card[a].count('2') >= 1 and card[a].count(
+                '3') >= 1 and card[a].count('4') >= 1 and card[a].count('5') >= 1 and card[a].count('6') >= 1 and \
+                card[a].count('7') >= 1 and card[a].count('8') >= 1 and card[a].count('9') >= 3:
+            return True
     return False
 
 
