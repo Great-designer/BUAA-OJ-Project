@@ -10,7 +10,7 @@ BUAAOJ通关代码图鉴。
 
 特别说明：图鉴并非学校的官方项目，仅为学生自发行为，没有老师参与。关于OJ的一切情况以官方运营为准。
 
-OJ4th地址：https://accoding.cn
+OJ4th地址：https://accoding.buaa.edu.cn
 
 友情链接：https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA
 
